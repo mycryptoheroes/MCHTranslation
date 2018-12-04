@@ -1,0 +1,142 @@
+{
+  "label": "English",
+  "common": {
+    "meta": {
+      "title": "My Crypto Heroes",
+      "description": "My Crypto Heroes (MCH) is a workerplacement RPG. You will gather and train historical heroes in the actual world while obtaining a number of extensions, in order to conquer the Crypto World."
+    },
+    "footer": {
+      "company": "Operating Company",
+      "terms": "Terms of Service"
+    },
+    "errorMessage": "Please try reload"
+  },
+  "pages": {
+    "home": "Home",
+    "inventory": "Inventory",
+    "team": "Team",
+    "battles": "Battle",
+    "quest": "Quest",
+    "market": "Market",
+    "help": "Help",
+    "terms": "Terms of Service",
+    "referral": "Referral",
+    "notifications": "Notifications",
+    "messages": "Messages",
+    "heroesDictionary": "Heroes Dictionary",
+    "editedArts": "Edited Arts",
+    "about": "About MCH",
+    "howToPlay": "How To Play",
+    "faq": "FAQ",
+    "company": "Company"
+  },
+  "top": {
+    "gameStart": "Play Game",
+    "leadMessage": "All the time and passion you invest into the game will turn into real assets here.",
+    "signIn": "If you play {type} with your {message}, you can't use same account. Are you sure to log in?",
+    "signInWarning": "* To play all contents of My Crypto Heroes you need a wallet app. Please check the FAQ for details."
+  },
+  "others": {
+    "other": "Others"
+  },
+  "team": {
+    "button": "This is my team !!"
+  },
+  "referral": {
+    "description": "Share your link and you will receive GUM!\nThe reward will be 20% of ETH people who use your link spent. This works only when your referred users use ETH in MCH."
+  },
+  "heroId": {
+    "artEdit": "Art Edit",
+    "deposit": "Transfer to Crypto World",
+    "withdraw": "Transfer to Ethereum Network",
+    "withdrawWarning": "It will cost 40 GUM for transferring it to Ethereum network. Is it ok?",
+    "edit": {
+      "warning": {
+        "title": "Art edit rules and notes on beta battle",
+        "list": [
+          "You can do Art-edit as much as you want for a hero, but you need to pay 40 GUM (Game Users Money) from the second time.",
+          "You can set back to the default art. However skills and growth tendency of parameters will be remained.",
+          "Images exactly the same as those registered in Art-edit in the past can not be used in Art-edit.",
+          "Do not use pictures that infringe copyright or images that are against public order and morality.",
+          "Attention on using Art-edit is stated in Article 11 of the following terms of service.",
+          "We guarantee that you own copyright of art that you registered with Art-edit.",
+          "We will use the registered art only for MCH game and promotional use.",
+          "Images uploaded with Art-edit are managed decentralizedly using IPFS which is a distributed file system.",
+          "For edited images, only the display in MCH is changed. On external services such as opensea, the initial image is displayed even after editing."
+        ],
+        "cost": "You need to pay 40 GUM (Game Users Money) from the second time. Is it OK?"
+      }
+    }
+  },
+  "battle": {
+    "loading": {
+      "lead": "Loading ...",
+      "body": "If it takes more than 30 sec, please reload the page."
+    },
+    "info": {
+      "inRankingTerm": "Beta Battle Ranked Match has started!\nWe will decide the ranking based on the result of the battle which ended by UTC Oct.21 sun 6:00.\nPlease check the link below for details.",
+      "rankHow": "Defeat the team with this mark and rank up!",
+      "inAggregatingTerm": "Beta Battle Ranked Match has finished.\nThe ranking is being confirmed with the result of the battle which had ended at UTC Oct.21 sun 6:00.\nThe ranking will be announced at UTC Oct.22 mon 6:00.",
+      "afterAggregatingTerm": "Beta Battle Ranked Match has finished.\nPlease check the link below for the ranking result of UTC Oct.22 mon 6:00.",
+      "newRule": "One minute interval between each battle will be introduced from 1 hour before the end of ranked match. For details."
+    }
+  },
+  "userId": {
+    "reportButton": "Report User",
+    "mail": {
+      "subject": "{userName} {userAddress}",
+      "body": "User Name: {userName}\nLoomAdress: {userAddress}\n\nTo report this user's problem, just send us an email.\nIf you want to supplement the report, please describe the contents below.\n—————————————————\nSupplement:\n\n\n\n\n\n—————————————————"
+    }
+  },
+  "node": {
+    "warning": "Up to 100 quests can be played per day."
+  },
+  "faq": {
+    "medium": "For more detail(Medium)"
+  },
+  "account": {
+    "connect": {
+      "wallet": "Connect to Wallet",
+      "google": "Connect to Google"
+    }
+  },
+  "market": {
+    "shop": {
+      "current": "Current:",
+      "dailybonus": "Daily Bonus",
+      "wallet": "You need to install Ethereum Wallet to buy GUM"
+    },
+    "lab": {
+      "1": "Buy Crypto Energy",
+      "2": "Sell Rep. Extension",
+      "3": "Select other Hero",
+      "4": "Select Hero",
+      "5": "Crypto Energy at",
+      "6": "GUM",
+      "7": "Select Extension",
+      "8": "Selling at {totalGum} GUM",
+      "9": "Extension at",
+      "10": "GUM",
+      "11": "Confirm buying",
+      "12": "Confirm Selling"
+    }
+  },
+  "quest": {
+    "closeWarning": {
+      "text": "You have an unfinished quest. Do you want to continue where you left off?",
+      "buttons": {
+        "close": "Forget quest",
+        "restart": "Continue quest"
+      }
+    },
+    "acquired": "Acquired"
+  },
+  "walletModal": {
+    "1": "Access the official METAMASK site from the link below and install METAMASK on your browser.",
+    "2": "After the installation is complete, create a wallet and access MCH!",
+    "3": "For more details on how to use METAMASK"
+  },
+  "shop": {
+    "doubleUpCampaign": "Double Up Campaign now!"
+  }
+}
