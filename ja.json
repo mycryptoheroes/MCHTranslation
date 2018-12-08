@@ -13,9 +13,11 @@
   },
   "pages": {
     "home": "ホーム",
+    "account": "アカウント",
     "inventory": "インベントリ",
     "team": "チーム",
     "battles": "バトル",
+    "duel": "デュエル",
     "quest": "クエスト",
     "market": "マーケット",
     "help": "ヘルプ",
@@ -48,6 +50,10 @@
   },
   "heroId": {
     "artEdit": "アートエディット",
+    "approve": {
+      "description": "ゲームで使用できるようCrypto Worldに転送する必要があります",
+      "button": "転送準備"
+    },
     "deposit": "Crypto Worldへ転送",
     "withdraw": "Ethereum Networkへ転送",
     "withdrawWarning": "Ethereum Networkへの転送には 40 GUM必要です。よろしいですか？",
@@ -141,5 +147,10 @@
   },
   "shop": {
     "doubleUpCampaign": "ダブルアップキャンペーン中！"
+  },
+  "duel": {
+    "trial": "トライアル戦",
+    "cost": "デュエルは一回あたり5スタミナを消費します",
+    "acquired": "獲得済み"
   }
 }
