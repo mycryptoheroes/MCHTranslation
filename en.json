@@ -151,6 +151,8 @@
   "duel": {
     "trial": "Trial",
     "cost": "Duel consumes 5 stamina each time",
-    "acquired": "Acquired"
+    "acquired": "Acquired",
+    "win": "win and",
+    "lose": "losses"
   }
 }
