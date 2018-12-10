@@ -52,6 +52,7 @@
     "artEdit": "Art Edit",
     "approve": {
       "description": "To use your heroes, transfer to Crypto World. Before that, you need transfer preparation.",
+      "extensiondescription": "To use your extensions, transfer to Crypto World. Before that, you need transfer preparation",
       "button": "Transfer Preparation"
     },
     "deposit": "Transfer to Crypto World",

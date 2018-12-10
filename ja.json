@@ -52,6 +52,7 @@
     "artEdit": "アートエディット",
     "approve": {
       "description": "ゲームで使用できるようCrypto Worldに転送する必要があります",
+      "extensiondescription": "ゲームで使用できるようCrypto Worldに転送する必要があります",
       "button": "転送準備"
     },
     "deposit": "Crypto Worldへ転送",
