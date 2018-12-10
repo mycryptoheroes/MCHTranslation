@@ -45,6 +45,7 @@
     "button": "准备完成！"
   },
   "referral": {
+    "under": "There was something wrong of displaying amount of referral GUM. We are trying to fix this problem now.",
     "description": "分享你的专属链接给朋友并获得GUM吧！\n每当你介绍的朋友使用ETH购买物品，你可以获得百分之20的提成（注意：获得提成条件为被邀请玩家在本游戏中使用ETH）",
     "shareText": "#MyCryptoHeroes That is the world where all the time and passion you invest into the game will turn into real assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬"
   },
