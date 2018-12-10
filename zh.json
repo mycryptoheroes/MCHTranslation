@@ -1,5 +1,5 @@
 {
-  "label": "中文",
+  "label": "中文 (Supported by community)",
   "common": {
     "meta": {
       "title": "我的秘密英雄（My Crypto Heroes）",
@@ -13,9 +13,11 @@
   },
   "pages": {
     "home": "主页",
+    "account": "Account",
     "inventory": "物品栏",
     "team": "队伍",
     "battles": "战斗",
+    "duel": "Duel",
     "quest": "任务",
     "market": "市场",
     "help": "帮助",
@@ -43,10 +45,16 @@
     "button": "准备完成！"
   },
   "referral": {
-    "description": "分享你的专属链接给朋友并获得GUM吧！\n每当你介绍的朋友使用ETH购买物品，你可以获得百分之20的提成（注意：获得提成条件为被邀请玩家在本游戏中使用ETH）"
+    "description": "分享你的专属链接给朋友并获得GUM吧！\n每当你介绍的朋友使用ETH购买物品，你可以获得百分之20的提成（注意：获得提成条件为被邀请玩家在本游戏中使用ETH）",
+    "shareText": "#MyCryptoHeroes That is the world where all the time and passion you invest into the game will turn into real assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬"
   },
   "heroId": {
     "artEdit": "编辑",
+    "approve": {
+      "description": "To use your heroes, transfer to Crypto World. Before that, you need transfer preparation.",
+      "extensiondescription": "To use your extensions, transfer to Crypto World. Before that, you need transfer preparation",
+      "button": "Transfer Preparation"
+    },
     "deposit": "转移到秘密世界Crypto world中",
     "withdraw": "转移到ETH网络中",
     "withdrawWarning": "将ETH转移到ETH网络需要消耗40GUM，确定要进行吗？",
@@ -118,7 +126,9 @@
       "9": "将Extension",
       "10": "GUM",
       "11": "确认购买",
-      "12": "确认出售"
+      "12": "确认出售",
+      "13": "Select all",
+      "14": "Unselect"
     }
   },
   "quest": {
@@ -137,6 +147,16 @@
     "3": "如何使用METAMASK，更多信息请点击"
   },
   "shop": {
-    "doubleUpCampaign": "双倍活动正在进行中！"
+    "doubleUpCampaign": "双倍活动正在进行中！",
+    "heroes": {
+      "confirm": "Buy {heroName} for {price} GUM"
+    }
+  },
+  "duel": {
+    "trial": "Trial",
+    "cost": "Duel consumes 5 stamina each time",
+    "acquired": "Acquired",
+    "win": "win and",
+    "lose": "losses"
   }
 }

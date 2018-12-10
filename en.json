@@ -13,9 +13,11 @@
   },
   "pages": {
     "home": "Home",
+    "account": "Account",
     "inventory": "Inventory",
     "team": "Team",
     "battles": "Battle",
+    "duel": "Duel",
     "quest": "Quest",
     "market": "Market",
     "help": "Help",
@@ -43,10 +45,16 @@
     "button": "This is my team !!"
   },
   "referral": {
-    "description": "Share your link and you will receive GUM!\nThe reward will be 20% of ETH people who use your link spent. This works only when your referred users use ETH in MCH."
+    "description": "Share your link and you will receive GUM!\nThe reward will be 20% of ETH people who use your link spent. This works only when your referred users use ETH in MCH.",
+    "shareText": "#MyCryptoHeroes That is the world where all the time and passion you invest into the game will turn into real assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬"
   },
   "heroId": {
     "artEdit": "Art Edit",
+    "approve": {
+      "description": "To use your heroes, transfer to Crypto World. Before that, you need transfer preparation.",
+      "extensiondescription": "To use your extensions, transfer to Crypto World. Before that, you need transfer preparation",
+      "button": "Transfer Preparation"
+    },
     "deposit": "Transfer to Crypto World",
     "withdraw": "Transfer to Ethereum Network",
     "withdrawWarning": "It will cost 40 GUM for transferring it to Ethereum network. Is it ok?",
@@ -118,7 +126,9 @@
       "9": "Extension at",
       "10": "GUM",
       "11": "Confirm buying",
-      "12": "Confirm Selling"
+      "12": "Confirm Selling",
+      "13": "Sellect all",
+      "14": "Unselect"
     }
   },
   "quest": {
@@ -137,6 +147,16 @@
     "3": "For more details on how to use METAMASK"
   },
   "shop": {
-    "doubleUpCampaign": "Double Up Campaign now!"
+    "doubleUpCampaign": "Double Up Campaign now!",
+    "heroes": {
+      "confirm": "Buy {heroName} for {price} GUM"
+    }
+  },
+  "duel": {
+    "trial": "Trial",
+    "cost": "Duel consumes 5 stamina each time",
+    "acquired": "Acquired",
+    "win": "win and",
+    "lose": "losses"
   }
 }
