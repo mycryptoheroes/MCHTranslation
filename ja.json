@@ -49,7 +49,7 @@
     "description": "リンクをシェアしてGUMをもらおう！\n招待したご友人がMCHでETHでGUMやヒーローを購入するたびに、ご友人が消費したETHの20%相当のGUMを報酬として獲得することができます。",
     "shareText": "ゲームにかけた時間もお金も情熱も、あなたの資産になる世界 #MyCryptoHeores 日本発の本格的ブロックチェーンRPG！仮想通貨なしウォレットなしでプレイできます"
   },
-  "heroId": {
+  "assetId": {
     "artEdit": "アートエディット",
     "approve": {
       "description": "ゲームで使用できるようCrypto Worldに転送する必要があります",
