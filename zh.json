@@ -2,152 +2,152 @@
   "label": "中文 (Supported by community)",
   "common": {
     "meta": {
-      "title": "My Crypto Heroes",
-      "description": "My Crypto Heroes (MCH) is a workerplacement RPG. You will gather and train historical heroes in the actual world while obtaining a number of extensions, in order to conquer the Crypto World."
+      "title": "我的秘密英雄（My Crypto Heroes）",
+      "description": "我的秘密英雄My Crypto Heroes是一款角色扮演养成类游戏，在游戏中，你将召集历史上的英雄豪杰组成自己的队伍，并尝试征服这个世界"
     },
     "footer": {
-      "company": "Operating Company",
-      "terms": "Terms of Service"
+      "company": "运营公司",
+      "terms": "服务条款"
     },
-    "errorMessage": "Please try reload"
+    "errorMessage": "请尝试刷新"
   },
   "pages": {
-    "home": "Home",
+    "home": "主页",
     "account": "Account",
-    "inventory": "Inventory",
-    "team": "Team",
-    "battles": "Battle",
+    "inventory": "物品栏",
+    "team": "队伍",
+    "battles": "战斗",
     "duel": "Duel",
-    "quest": "Quest",
-    "market": "Market",
-    "help": "Help",
-    "terms": "Terms of Service",
-    "referral": "Referral",
-    "notifications": "Notifications",
-    "messages": "Messages",
-    "heroesDictionary": "Heroes Dictionary",
-    "editedArts": "Edited Arts",
-    "about": "About MCH",
-    "howToPlay": "How To Play",
-    "faq": "FAQ",
-    "company": "Company"
+    "quest": "任务",
+    "market": "市场",
+    "help": "帮助",
+    "terms": "服务条款",
+    "referral": "委托",
+    "notifications": "通知",
+    "messages": "信息",
+    "heroesDictionary": "英雄词典",
+    "editedArts": "编辑",
+    "about": "关于本游戏",
+    "howToPlay": "游戏教程",
+    "faq": "常见问题",
+    "company": "公司"
   },
   "top": {
-    "gameStart": "Play Game",
-    "leadMessage": "All the time and passion you invest into the game will turn into real assets here.",
-    "signIn": "If you play {type} with your {message}, you can't use same account. Are you sure to log in?",
-    "signInWarning": "* To play all contents of My Crypto Heroes you need a wallet app. Please check the FAQ for details."
+    "gameStart": "游戏开始",
+    "leadMessage": "你为此游戏付出的所有的时间、热情，都会成为你真正的财富",
+    "signIn": "如果你尝试通过 {message}使用 {type}, 你将无法使用相同的账号。你确定要登录吗？",
+    "signInWarning": "如果你想游玩本游戏中所有内容，你需要下载一个相关的钱包app。具体信息请查看常见问题栏"
   },
   "others": {
-    "other": "Others"
+    "other": "其他"
   },
   "team": {
-    "button": "This is my team !!"
+    "button": "准备完成！"
   },
   "referral": {
-    "description": "Share your link and you will receive GUM!\nThe reward will be 20% of ETH people who use your link spent. This works only when your referred users use ETH in MCH.",
+    "description": "分享你的专属链接给朋友并获得GUM吧！\n每当你介绍的朋友使用ETH购买物品，你可以获得百分之20的提成（注意：获得提成条件为被邀请玩家在本游戏中使用ETH）",
     "shareText": "#MyCryptoHeroes That is the world where all the time and passion you invest into the game will turn into real assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬"
   },
   "heroId": {
-    "artEdit": "Art Edit",
+    "artEdit": "编辑",
     "approve": {
       "description": "To use your heroes, transfer to Crypto World. Before that, you need transfer preparation.",
       "extensiondescription": "To use your extensions, transfer to Crypto World. Before that, you need transfer preparation",
       "button": "Transfer Preparation"
     },
-    "deposit": "Transfer to Crypto World",
-    "withdraw": "Transfer to Ethereum Network",
-    "withdrawWarning": "It will cost 40 GUM for transferring it to Ethereum network. Is it ok?",
+    "deposit": "转移到秘密世界Crypto world中",
+    "withdraw": "转移到ETH网络中",
+    "withdrawWarning": "将ETH转移到ETH网络需要消耗40GUM，确定要进行吗？",
     "edit": {
       "warning": {
-        "title": "Art edit rules and notes on beta battle",
+        "title": "编辑的教学与注意事项",
         "list": [
-          "You can do Art-edit as much as you want for a hero, but you need to pay 40 GUM (Game Users Money) from the second time.",
-          "You can set back to the default art. However skills and growth tendency of parameters will be remained.",
-          "Images exactly the same as those registered in Art-edit in the past can not be used in Art-edit.",
-          "Do not use pictures that infringe copyright or images that are against public order and morality.",
-          "Attention on using Art-edit is stated in Article 11 of the following terms of service.",
-          "We guarantee that you own copyright of art that you registered with Art-edit.",
-          "We will use the registered art only for MCH game and promotional use.",
-          "Images uploaded with Art-edit are managed decentralizedly using IPFS which is a distributed file system.",
-          "For edited images, only the display in MCH is changed. On external services such as opensea, the initial image is displayed even after editing."
+          "第一次编辑英雄是免费的，但从第二次开始进行编辑则需要花费40GUM",
+          "您可以将编辑回复到初始状态，英雄的点数数值等不会发生变化",
+          "无法提交与过去曾经注册并提交的过的编辑内容完全一致的内容（这也包含其他玩家所编辑的内容）",
+          "请不要使用侵犯版权或肖像权的内容",
+          "编辑的注意事项包含如下11条服务条款",
+          "我们会保证您对您编辑的内容的所有权",
+          "我们仅会在本游戏与本游戏的相关内容中使用您提交的内容",
+          "我们将会使用分布式文件系统IPFS管理您上传的内容",
+          "您编辑的图片内容仅在本游戏的中保存，在其他的一些外部服务中（比如opensea等）您编辑的内容不会被保存"
         ],
-        "cost": "You need to pay 40 GUM (Game Users Money) from the second time. Is it OK?"
+        "cost": "从第二次开始，每次编辑需要花费40GUM，确定要进行吗？"
       }
     }
   },
   "battle": {
     "loading": {
-      "lead": "Loading ...",
-      "body": "If it takes more than 30 sec, please reload the page."
+      "lead": "加载中。。。",
+      "body": "如果加载时间超过了30秒，请尝试刷新界面"
     },
     "info": {
-      "inRankingTerm": "Beta Battle Ranked Match has started!\nWe will decide the ranking based on the result of the battle which ended by UTC Oct.21 sun 6:00.\nPlease check the link below for details.",
-      "rankHow": "Defeat the team with this mark and rank up!",
-      "inAggregatingTerm": "Beta Battle Ranked Match has finished.\nThe ranking is being confirmed with the result of the battle which had ended at UTC Oct.21 sun 6:00.\nThe ranking will be announced at UTC Oct.22 mon 6:00.",
-      "afterAggregatingTerm": "Beta Battle Ranked Match has finished.\nPlease check the link below for the ranking result of UTC Oct.22 mon 6:00.",
-      "newRule": "One minute interval between each battle will be introduced from 1 hour before the end of ranked match. For details."
+      "inRankingTerm": "β排位赛开始了！\n我们将会在北京时间10月21日14:00统计比赛结果，并进行排位\n请通过以下链接查看相关信息",
+      "rankHow": "打败这支队伍并获得更靠前的排位吧！",
+      "inAggregatingTerm": "β排位赛已经结束\n我们将会在北京时间10月21日14:00统计比赛结果\n比赛结果将在北京时间10月22日14:00公布",
+      "afterAggregatingTerm": "β排位赛已经结束\n请在北京时间10月22日14:00之后通过以下链接查看排位赛结果",
+      "newRule": "在排位赛结束的前的一小时中每局比赛间将会有1分钟的冷却时间。查看详细信息"
     }
   },
   "userId": {
-    "reportButton": "Report User",
+    "reportButton": "举报玩家",
     "mail": {
       "subject": "{userName} {userAddress}",
-      "body": "User Name: {userName}\nLoomAdress: {userAddress}\n\nTo report this user's problem, just send us an email.\nIf you want to supplement the report, please describe the contents below.\n—————————————————\nSupplement:\n\n\n\n\n\n—————————————————"
+      "body": "用户名: {userName}\nLoomAdress: {userAddress}\n\n确认举报这名用户请发送本信息\n如果你想要补充举报理由，请在下面进行描述\n—————————————————\n补充信息：\n\n\n\n\n\n—————————————————"
     }
   },
   "node": {
-    "warning": "Up to 100 quests can be played per day."
+    "warning": "每日只能进行100次任务"
   },
   "faq": {
-    "medium": "For more detail(Medium)"
+    "medium": "更多问题"
   },
   "account": {
     "connect": {
-      "wallet": "Connect to Wallet",
-      "google": "Connect to Google"
+      "wallet": "连接到钱包",
+      "google": "连接到谷歌"
     }
   },
   "market": {
     "shop": {
-      "current": "Current:",
-      "dailybonus": "Daily Bonus",
-      "wallet": "You need to install Ethereum Wallet to buy GUM"
+      "current": "当前：",
+      "dailybonus": "每日奖励",
+      "wallet": "你需要安装ETH钱包（Ethereum Wallet）来购买GUM"
     },
     "lab": {
-      "1": "Buy Crypto Energy",
-      "2": "Sell Rep. Extension",
-      "3": "Select other Hero",
-      "4": "Select Hero",
-      "5": "Crypto Energy at",
+      "1": "购买Crypto能量",
+      "2": "出售Rep. Extension",
+      "3": "选择其他英雄",
+      "4": "选择英雄",
+      "5": "将Crypto能量",
       "6": "GUM",
-      "7": "Select Extension",
-      "8": "Selling at {totalGum} GUM",
-      "9": "Extension at",
+      "7": "选择Extension",
+      "8": "出售 {totalGum} GUM",
+      "9": "将Extension",
       "10": "GUM",
-      "11": "Confirm buying",
-      "12": "Confirm Selling",
-      "13": "Sellect all",
+      "11": "确认购买",
+      "12": "确认出售",
+      "13": "Select all",
       "14": "Unselect"
     }
   },
   "quest": {
     "closeWarning": {
-      "text": "You have an unfinished quest. Do you want to continue where you left off?",
+      "text": "你有一个未完成的任务！要从上次退出的地方继续吗？",
       "buttons": {
-        "close": "Forget quest",
-        "restart": "Continue quest"
+        "close": "关闭正在进行的任务",
+        "restart": "继续任务"
       }
     },
-    "acquired": "Acquired"
+    "acquired": "已获得"
   },
   "walletModal": {
-    "1": "Access the official METAMASK site from the link below and install METAMASK on your browser.",
-    "2": "After the installation is complete, create a wallet and access MCH!",
-    "3": "For more details on how to use METAMASK"
+    "1": "通过以下连接访问METAMASK官方网站并在你的浏览器中安装METAMASK吧！",
+    "2": "完成安装后，创建一个钱包并进行游戏！",
+    "3": "如何使用METAMASK，更多信息请点击"
   },
   "shop": {
-    "doubleUpCampaign": "Double Up Campaign now!",
+    "doubleUpCampaign": "双倍活动正在进行中！",
     "heroes": {
       "confirm": "Buy {heroName} for {price} GUM"
     }
