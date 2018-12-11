@@ -52,9 +52,11 @@
   "assetId": {
     "artEdit": "编辑",
     "approve": {
-      "description": "To use your heroes, transfer to Crypto World. Before that, you need transfer preparation.",
-      "extensiondescription": "To use your extensions, transfer to Crypto World. Before that, you need transfer preparation",
-      "button": "Transfer Preparation"
+      "description": "To use your heroes, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
+      "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
+      "button": "Transfer Preparation",
+      "heroonce": "This only needs to be done once for your heroes!",
+      "extensiononce": "This only needs to be done once for your extensions!"
     },
     "deposit": "转移到秘密世界Crypto world中",
     "withdraw": "转移到ETH网络中",
