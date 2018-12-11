@@ -77,7 +77,8 @@
           "For edited images, only the display in MCH is changed. On external services such as opensea, the initial image is displayed even after editing."
         ],
         "cost": "You need to pay 40 GUM (Game Users Money) from the second time. Is it OK?"
-      }
+      },
+      "nickname": "Set nick name"
     }
   },
   "battle": {
