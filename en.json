@@ -117,6 +117,7 @@
     "shop": {
       "current": "Current:",
       "dailybonus": "Daily Bonus",
+      "comment": "It takes 2 mins to recieve GUM after buying GUM.",
       "wallet": "You need to install Ethereum Wallet to buy GUM"
     },
     "trade": {
