@@ -125,7 +125,10 @@
       "endPrice": "End Price",
       "rule1": "10 % of the price will be added to the price as a commission fee.",
       "rule2": "Price dropping rate will be calculated automatically. It will be set to decrease by 1/5 of gap between Start Price and End Price. So in 5 days, the price will reach to End Price.",
-      "rule3": "Note; The item (heroes or extensions) must be unequipped to sell. Likewise, heroes/extensions can’t be withdrawn while its exhibited within 5 days or unless you cancel it ."
+      "rule3": "Note; The item (heroes or extensions) must be unequipped to sell. Likewise, heroes/extensions can’t be withdrawn while its exhibited within 5 days or unless you cancel it .",
+      "buy1": "Confirm buying",
+      "buy2": "with",
+      "buy3": "GUM"
     },
     "lab": {
       "1": "Buy Crypto Energy",
