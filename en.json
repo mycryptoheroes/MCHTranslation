@@ -160,7 +160,8 @@
   "walletModal": {
     "1": "Access the official METAMASK site from the link below and install METAMASK on your browser.",
     "2": "After the installation is complete, create a wallet and access MCH!",
-    "3": "For more details on how to use METAMASK"
+    "3": "For more details on how to use METAMASK",
+    "4": "Click Play Game and Normal Play with Wallet"
   },
   "shop": {
     "doubleUpCampaign": "Double Up Campaign now!",

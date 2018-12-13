@@ -161,7 +161,8 @@
   "walletModal": {
     "1": "下部リンクよりMETAMASK公式サイトにアクセスし、METAMASKをブラウザにインストールしてください。",
     "2": "METAMASKインストール後、ウォレットを作成しMCHにアクセス！",
-    "3": "METAMASKの詳しい使い方はこちらから"
+    "3": "METAMASKの詳しい使い方はこちらから",
+    "4": "ゲームを始めるをクリックし、Normal Play with Walletを選択！"
   },
   "shop": {
     "doubleUpCampaign": "ダブルアップキャンペーン中！",
