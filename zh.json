@@ -82,7 +82,7 @@
       "nickname": "Set nick name",
       "nicknameConfirm1": "Are you sure to set nick name as",
       "nicknameConfirm2": "",
-      "warning": "You can never change nick name, and there is no the same nick name in MCH Crypto World."
+      "warning": "*You can never change nick name, and there is no the same nick name in MCH Crypto World."
     }
   },
   "battle": {
