@@ -181,5 +181,14 @@
     "acquired": "Acquired",
     "win": "win and",
     "lose": "losses"
+  },
+  "messageTypes": {
+    "0": "{0}",
+    "1": "GUM back campaign! You received {0} GUM.",
+    "2": "Referral campaign! You received {0} GUM.",
+    "3": "Purchased {0} GUM for {1} ETH. You received {0} GUM.",
+    "4": "Daily Bonus! You received {0} GUM.",
+    "5": "Success selling {2} to {3} for {1} GUM. Received {0} GUM.",
+    "6": "Success selling {2} to {3} for {1} GUM. Received {0} GUM."
   }
 }
