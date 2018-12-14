@@ -79,7 +79,10 @@
         ],
         "cost": "从第二次开始，每次编辑需要花费40GUM，确定要进行吗？"
       },
-      "nickname": "Set nick name"
+      "nickname": "Set nick name",
+      "nicknameConfirm1": "Are you sure to set nick name as",
+      "nicknameConfirm2": "",
+      "warning": "You can never change nick name, and there is no the same nick name in MCH Crypto World."
     }
   },
   "battle": {
