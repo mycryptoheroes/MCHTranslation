@@ -83,7 +83,7 @@
       "nickname": "二つ名をつける",
       "nicknameConfirm1": "ニックネームは",
       "nicknameConfirm2": "でよいですか",
-      "warning": "※「二つ名」は変更できず、MCH上で一切の重複を認めず、唯一の名前となります。"
+      "nicknamewarning": "※「二つ名」は変更できず、MCH上で一切の重複を認めず、唯一の名前となります。"
     }
   },
   "battle": {
