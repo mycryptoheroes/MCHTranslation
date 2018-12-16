@@ -79,10 +79,10 @@
         ],
         "cost": "You need to pay 40 GUM (Game Users Money) from the second time. Is it OK?"
       },
-      "nickname": "Set nick name",
-      "nicknameConfirm1": "Are you sure to set nick name as",
+      "nickname": "Set Nickname",
+      "nicknameConfirm1": "Are you sure to set Nickname as",
       "nicknameConfirm2": "",
-      "nicknamewarning": "*You can never change nick name, and there is no the same nick name in MCH Crypto World."
+      "nicknamewarning": "*You can never change Nickname, and there is no the same Nickname in MCH Crypto World."
     }
   },
   "battle": {
