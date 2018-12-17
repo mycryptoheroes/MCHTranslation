@@ -192,6 +192,11 @@
     "3": "Purchased {0} GUM for {1} ETH. You received {0} GUM.",
     "4": "Daily Bonus! You received {0} GUM.",
     "5": "Success selling {2} to {3} for {1} GUM. Received {0} GUM.",
-    "6": "Success selling {2} to {3} for {1} GUM. Received {0} GUM."
+    "6": "Success selling {2} to {3} for {1} GUM. Received {0} GUM.",
+    "7": "The trade period of {0} has ended. It was returned to the inventory.",
+    "8": "The trade period of {0} has ended. It was returned to the inventory.",
+    "9": "You received Daily Bonus {0} GUM.",
+    "10": "Lucky you! XD You received Daily Bonus {100} GUM!",
+    "11": "Awesome!!!! X)))) You received Daily Bonus {0} GUM!!"
   }
 }
