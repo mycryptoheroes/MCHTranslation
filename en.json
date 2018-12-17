@@ -174,7 +174,7 @@
     "6": "Open browserapp and copy and paste the below URL, then you can access to MCH!"
   },
   "shop": {
-    "doubleUpCampaign": "Might get more? 3 of 1 lucky guy get 100GUM! 100 of 1 super lucky guy get 1000GUM!!",
+    "doubleUpCampaign": "33% chance to get 100GUM! 1% to 1000GUM",
     "heroes": {
       "confirm": "Buy {heroName} for {price} GUM"
     }

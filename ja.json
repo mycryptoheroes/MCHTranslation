@@ -175,7 +175,7 @@
     "6": "ブラウザアプリで下記リンクをコピー＆ペーストしてMCHにアクセス！"
   },
   "shop": {
-    "doubleUpCampaign": "ワンチャンあり!? 3人に1人100GUM! 100人に1人1000GUM!!",
+    "doubleUpCampaign": "3人に1人100GUM! 100人に1人1000GUM!!",
     "heroes": {
       "confirm": "{heroName} を {price} GUMで購入します"
     }
