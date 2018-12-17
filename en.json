@@ -125,7 +125,11 @@
       "current": "Current:",
       "dailybonus": "Daily Bonus",
       "comment": "It takes 2 mins to recieve GUM after buying GUM.",
-      "wallet": "You need to install Ethereum Wallet to buy GUM"
+      "wallet": "You need to install Ethereum Wallet to buy GUM",
+      "airdrop": {
+        "comment": "It takes several minitues to receive assets, according to Ethereum network traffic.",
+        "wallet": "You need to install Ethereum Wallet to airdrop"
+      }
     },
     "trade": {
       "startPrice": "Start Price",

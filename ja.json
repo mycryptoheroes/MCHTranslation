@@ -126,7 +126,11 @@
       "current": "所持GUM数:",
       "dailybonus": "デイリー ボーナス",
       "comment": "着金まで2分ほど時間がかかります。",
-      "wallet": "GUMの購入にはETH対応のウォレットが必要です"
+      "wallet": "GUMの購入にはETH対応のウォレットが必要です",
+      "airdrop": {
+        "comment": "受け取りまでイーサリアムネットワークの混雑状況により数分から数十分かかる場合がございます。",
+        "wallet": "Airdropを行うにはETH対応のウォレットが必要です"
+      }
     },
     "trade": {
       "startPrice": "開始価格",

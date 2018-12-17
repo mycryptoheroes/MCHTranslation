@@ -125,7 +125,11 @@
       "current": "当前：",
       "dailybonus": "每日奖励",
       "comment": "It takes 2 mins to recieve GUM after buying GUM.",
-      "wallet": "你需要安装ETH钱包（Ethereum Wallet）来购买GUM"
+      "wallet": "你需要安装ETH钱包（Ethereum Wallet）来购买GUM",
+      "airdrop": {
+        "comment": "It takes several minitues to receive assets, according to Ethereum network traffic.",
+        "wallet": "You need to install Ethereum Wallet to airdrop"
+      }
     },
     "trade": {
       "startPrice": "Start Price",
