@@ -174,7 +174,7 @@
     "6": "Open browserapp and copy and paste the below URL, then you can access to MCH!"
   },
   "shop": {
-    "doubleUpCampaign": "双倍活动正在进行中！",
+    "doubleUpCampaign": "Might get more?",
     "heroes": {
       "confirm": "Buy {heroName} for {price} GUM"
     }
