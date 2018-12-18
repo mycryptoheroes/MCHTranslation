@@ -109,7 +109,7 @@
     }
   },
   "node": {
-    "warning": "Up to 100 quests can be played per day."
+    "warning": "Up to {challengeLimit} quests can be played per day."
   },
   "faq": {
     "medium": "For more detail(Medium)"

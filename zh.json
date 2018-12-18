@@ -109,7 +109,7 @@
     }
   },
   "node": {
-    "warning": "每日只能进行100次任务"
+    "warning": "每日只能进行{challengeLimit}次任务"
   },
   "faq": {
     "medium": "更多问题"
