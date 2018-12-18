@@ -191,6 +191,9 @@
     "win": "勝",
     "lose": "敗"
   },
+  "heroesDictionary": {
+    "issued": "発行数:"
+  },
   "messageTypes": {
     "0": "{1}",
     "1": "GUMバックキャンペーン！ {0} GUMを受け取りました。",

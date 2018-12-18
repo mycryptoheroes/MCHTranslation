@@ -190,6 +190,9 @@
     "win": "win and",
     "lose": "losses"
   },
+  "heroesDictionary": {
+    "issued": "issued:"
+  },
   "messageTypes": {
     "0": "{0}",
     "1": "GUM back campaign! You received {0} GUM.",
