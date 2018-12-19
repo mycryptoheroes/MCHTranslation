@@ -186,11 +186,12 @@
     }
   },
   "duel": {
-    "trial": "トライアル戦",
+    "trial": "ランキング戦 #2",
     "cost": "一回あたり {needStamina} スタミナを消費します",
     "acquired": "獲得済み",
     "win": "勝",
-    "lose": "敗"
+    "lose": "敗",
+    "warning": "ランキング戦のプレイは1日最大{challengeLimit}回まで実行可能です。"
   },
   "heroesDictionary": {
     "issued": "発行数:"
