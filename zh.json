@@ -185,11 +185,12 @@
     }
   },
   "duel": {
-    "trial": "Trial",
+    "trial": "Ranked Match #2",
     "cost": "Duel consumes {needStamina} stamina each time",
     "acquired": "Acquired",
     "win": "win and",
-    "lose": "losses"
+    "lose": "losses",
+    "warning": "Up to {challengeLimit} battles can be played per day."
   },
   "heroesDictionary": {
     "issued": "issued:"
