@@ -175,7 +175,8 @@
     "3": "如何使用METAMASK，更多信息请点击",
     "4": "Click Play Game and Normal Play with Wallet",
     "5": "Download Mobile browser application with wallet function",
-    "6": "Open browserapp and copy and paste the below URL, then you can access to MCH!"
+    "6": "Open browserapp and copy and paste the below URL, then you can access to MCH!",
+    "7": "You can connet your wallet(metamask) in account page."
   },
   "shop": {
     "doubleUpCampaign": "33% chance to get 100GUM! 1% to 1000GUM",
@@ -206,5 +207,25 @@
     "9": "You received Daily Bonus {0} GUM.",
     "10": "Lucky you! XD You received Daily Bonus {100} GUM!",
     "11": "Awesome!!!! X)))) You received Daily Bonus {0} GUM!!"
+  },
+  "tutorial": {
+    "ranking": {
+      "title": "To enjoy MCH more!",
+      "1": "You might not get the reward of Ranking Match #2",
+      "2": "You must connect your ETH wallet to get the reward"
+    },
+    "wallet": {
+      "1": "What 'connect to Wallet' means?",
+      "2": "'connet to Wallet' is a function that connects your current Google account to ETH address",
+      "3": "You must use your laptop to 'connect to Wallet'",
+      "4": "Install METAMASK to your laptop and join Ranking Match #2!"
+    },
+    "merit": {
+      "1": "If you connet to Wallet successfully, you can",
+      "2": "Airdrop and get new Heroes",
+      "3": "Get Daily Bonus(GUM)",
+      "4": "Buy GUM",
+      "5": ""
+    }
   }
 }
