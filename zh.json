@@ -215,17 +215,17 @@
       "2": "You must connect your ETH wallet to get the reward"
     },
     "wallet": {
+      "merit": {
+        "1": "If you connet to Wallet successfully, you can",
+        "2": "Airdrop and get new Heroes",
+        "3": "Get Daily Bonus(GUM)",
+        "4": "Buy GUM",
+        "5": ""
+      },
       "1": "What 'connect to Wallet' means?",
       "2": "'connet to Wallet' is a function that connects your current Google account to ETH address",
       "3": "You must use your laptop to 'connect to Wallet'",
       "4": "Install METAMASK to your laptop and join Ranking Match #2!"
-    },
-    "merit": {
-      "1": "If you connet to Wallet successfully, you can",
-      "2": "Airdrop and get new Heroes",
-      "3": "Get Daily Bonus(GUM)",
-      "4": "Buy GUM",
-      "5": ""
     }
   }
 }
