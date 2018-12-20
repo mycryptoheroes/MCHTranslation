@@ -14,7 +14,8 @@
   },
   "pages": {
     "home": "主页",
-    "account": "Account",
+    "account": "Account Setting",
+    "profile": "Profile",
     "inventory": "物品栏",
     "team": "队伍",
     "battles": "战斗",

@@ -14,7 +14,8 @@
   },
   "pages": {
     "home": "ホーム",
-    "account": "アカウント",
+    "account": "アカウント設定",
+    "profile": "プロフィール",
     "inventory": "インベントリ",
     "team": "チーム",
     "battles": "バトル",
