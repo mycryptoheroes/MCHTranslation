@@ -231,5 +231,13 @@
       "3": "You must use your laptop to 'connect to Wallet'",
       "4": "Install METAMASK to your laptop and join Ranking Match #2!"
     }
+  },
+  "trophy": {
+    "1": "Ranked Match #2",
+    "2": "Ranked Match #2",
+    "3": "Ranked Match #2",
+    "4": "Ranked Match #2",
+    "5": "Ranked Match #2",
+    "6": "Ranked Match #2"
   }
 }
