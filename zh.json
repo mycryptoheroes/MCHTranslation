@@ -1,5 +1,5 @@
 {
-  "label": "中文 (Supported by community)",
+  "label": "中文 (由社区提供)",
   "alias": "CN",
   "common": {
     "meta": {
@@ -14,8 +14,8 @@
   },
   "pages": {
     "home": "主页",
-    "account": "Account Setting",
-    "profile": "Profile",
+    "account": "账户设置",
+    "profile": "个人信息",
     "inventory": "物品栏",
     "team": "队伍",
     "battles": "战斗",
@@ -32,10 +32,10 @@
     "about": "关于本游戏",
     "howToPlay": "游戏教程",
     "faq": "常见问题",
-    "medium": "Official Medium",
-    "twitter": "Official Twitter",
+    "medium": "官方网站",
+    "twitter": "官方推特",
     "twitterUrl": "https://twitter.com/mycryptoheroes_",
-    "discord": "Official Community",
+    "discord": "官方社区",
     "company": "公司"
   },
   "top": {
@@ -51,18 +51,18 @@
     "button": "准备完成！"
   },
   "referral": {
-    "under": "There was something wrong of displaying amount of referral GUM. We are trying to fix this problem now.",
+    "under": "显示介绍所得GUM出现问题，我们正在尝试解决中。。。",
     "description": "分享你的专属链接给朋友并获得GUM吧！\n每当你介绍的朋友使用ETH购买物品，你可以获得百分之20的提成（注意：获得提成条件为被邀请玩家在本游戏中使用ETH）",
-    "shareText": "#MyCryptoHeroes That is the world where all the time and passion you invest into the game will turn into real assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬"
+    "shareText": "#MyCryptoHeroes 在这里，你付出的所有的时间、热情，都会成为你真正的财富，你无需虚拟通货或者钱包即可加入日本“blockchain RPG”，并在此享受乐趣！‬"
   },
   "assetId": {
     "artEdit": "编辑",
     "approve": {
-      "description": "To use your heroes, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
-      "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
-      "button": "Transfer Preparation",
-      "heroonce": "This only needs to be done once for your heroes!",
-      "extensiononce": "This only needs to be done once for your extensions!"
+      "description": "使用你的英雄需要进行以下两步 第一步，准备转移 第二步，转移到Crypto世界中",
+      "extensiondescription": "使用你的extension你需要完成以下两步 第一步，准备转移 第二步，转移到Crypto世界中",
+      "button": "准备转移",
+      "heroonce": "使用英雄的准备操作，即本操作仅需进行一次！",
+      "extensiononce": "使用extension的准备操作，即本操作仅需进行一次！"
     },
     "deposit": "转移到秘密世界Crypto world中",
     "withdraw": "转移到ETH网络中",
@@ -83,10 +83,10 @@
         ],
         "cost": "从第二次开始，每次编辑需要花费40GUM，确定要进行吗？"
       },
-      "nickname": "Set Nickname",
-      "nicknameConfirm1": "Are you sure to set Nickname as",
+      "nickname": "设置昵称",
+      "nicknameConfirm1": "是否确定要设置昵称为",
       "nicknameConfirm2": "",
-      "nicknamewarning": "*You can never change Nickname, and there is no the same Nickname in MCH Crypto World."
+      "nicknamewarning": "*你将无法变更你的昵称，并且你设置的昵称不能与其他玩家重复"
     }
   },
   "battle": {
@@ -125,21 +125,21 @@
     "shop": {
       "current": "当前：",
       "dailybonus": "每日奖励",
-      "comment": "It takes 2 mins to recieve GUM after buying GUM.",
+      "comment": "成功购买GUM后，所购入的GUM会在两分钟后到账",
       "wallet": "你需要安装ETH钱包（Ethereum Wallet）来购买GUM",
       "airdrop": {
-        "comment": "It takes several minitues to receive assets, according to Ethereum network traffic.",
-        "wallet": "You need to install Ethereum Wallet to airdrop"
+        "comment": "根据以太网的连接情况，可能需要数分钟才能收到物品",
+        "wallet": "你需要安装Ethereum Wallet来使用空投"
       }
     },
     "trade": {
-      "startPrice": "Start Price",
-      "endPrice": "End Price",
-      "rule1": "10 % of the price will be added to the price as a commission fee.",
-      "rule2": "Price dropping rate will be calculated automatically. It will be set to decrease by 1/5 of gap between Start Price and End Price. So in 5 days, the price will reach to End Price.",
-      "rule3": "Note; The item (heroes or extensions) must be unequipped to sell. Likewise, heroes/extensions can’t be withdrawn while its exhibited within 5 days or unless you cancel it .",
-      "buy1": "Confirm buying",
-      "buy2": "with",
+      "startPrice": "开始价格",
+      "endPrice": "结束价格",
+      "rule1": "实际价格将比标记金额高出百分之10作为手续费",
+      "rule2": "降价幅度将会被自动计算，每次降价的量为所标记开始价格和结束价格差的1/5，即在五次降价后物品的价格会等于结束价格",
+      "rule3": "注意：英雄以及Extension需要解除装备状态后才能出售，同样你也无法装备正在出售的英雄或者extension，除非你取消出售",
+      "buy1": "确认购买",
+      "buy2": "通过",
       "buy3": "GUM"
     },
     "lab": {
@@ -155,10 +155,10 @@
       "10": "GUM",
       "11": "确认购买",
       "12": "确认出售",
-      "13": "Select all",
-      "14": "Unselect"
+      "13": "全选",
+      "14": "取消所有"
     },
-    "opensea": "(third-party site)"
+    "opensea": "(第三方网站)"
   },
   "quest": {
     "closeWarning": {
@@ -174,70 +174,70 @@
     "1": "通过以下连接访问METAMASK官方网站并在你的浏览器中安装METAMASK吧！",
     "2": "完成安装后，创建一个钱包并进行游戏！",
     "3": "如何使用METAMASK，更多信息请点击",
-    "4": "Click Play Game and Normal Play with Wallet",
-    "5": "Download Mobile browser application with wallet function",
-    "6": "Open browserapp and copy and paste the below URL, then you can access to MCH!",
-    "7": "You can connet your wallet(METAMASK) in account page."
+    "4": "点开始游戏，通过钱包开始游戏",
+    "5": "下载带有钱包功能的浏览器软件",
+    "6": "打开浏览器并粘贴以下URL，即可进入MCH的世界！",
+    "7": "你可以在账号界面关联你的钱包(METAMASK)"
   },
   "shop": {
-    "doubleUpCampaign": "33% chance to get 100GUM! 1% to 1000GUM",
+    "doubleUpCampaign": "有百分之33的概率获得100GUM，百分之1的概率获得1000GUM！",
     "heroes": {
-      "confirm": "Buy {heroName} for {price} GUM"
+      "confirm": "购买 {heroName} 通过 {price} GUM"
     }
   },
   "duel": {
-    "trial": "Ranked Match #2",
-    "cost": "Duel consumes {needStamina} stamina each time",
-    "acquired": "Acquired",
-    "win": "win and",
-    "lose": "losses",
-    "warning": "Up to {challengeLimit} battles can be played per day.",
-    "twitter": "Come on! Let's fight with my Heroes team!"
+    "trial": "排位比赛 #2",
+    "cost": "决斗每次会消耗 {needStamina} 点体力",
+    "acquired": "已获得",
+    "win": "获胜并",
+    "lose": "失败",
+    "warning": "每天最多可以进行 {challengeLimit} 次战斗",
+    "twitter": "让我们和我们的英雄们一起战斗吧！"
   },
   "heroesDictionary": {
-    "issued": "issued:"
+    "issued": "印刷："
   },
   "messageTypes": {
     "0": "{0}",
-    "1": "GUM back campaign! You received {0} GUM.",
-    "2": "Referral campaign! You received {0} GUM.",
-    "3": "Purchased {0} GUM for {1} ETH. You received {0} GUM.",
-    "4": "Daily Bonus! You received {0} GUM.",
-    "5": "Success selling {2} to {3} for {1} GUM. Received {0} GUM.",
-    "6": "Success selling {2} to {3} for {1} GUM. Received {0} GUM.",
-    "7": "The trade period of {0} has ended. It was returned to the inventory.",
-    "8": "The trade period of {0} has ended. It was returned to the inventory.",
-    "9": "You received Daily Bonus {0} GUM.",
-    "10": "Lucky you! XD You received Daily Bonus {0} GUM!",
-    "11": "Awesome!!!! X)))) You received Daily Bonus {0} GUM!!"
+    "1": "返还GUM活动！你获得了 {0} GUM",
+    "2": "介绍活动！你获得了 {0} GUM",
+    "3": "购买 {0} GUM 通过 {1} ETH，你收到了 {0} GUM",
+    "4": "每日奖励！你获得了 {0} GUM",
+    "5": "成功以 {1} GUM 的价格出售 {2} 给 {3} ，你获得了 {0} GUM",
+    "6": "成功以 {1} GUM 的价格出售 {2} 给 {3} ，你获得了 {0} GUM",
+    "7": " {0} 的交易期间已经结束，将返回至物品栏",
+    "8": " {0} 的交易期间已经结束，将返回至物品栏",
+    "9": "你获得了每日奖励 {0} GUM.",
+    "10": "恭喜你！！你幸运地获得了每日奖励 {0} GUM！",
+    "11": "太棒了！！！你难以置信地获得了每日奖励 {0} GUM！！"
   },
   "tutorial": {
     "ranking": {
-      "title": "To enjoy MCH more!",
-      "1": "You might not get the reward of Ranking Match #2",
-      "2": "You must connect your ETH wallet to get the reward",
-      "3": "You must finish 'connect to Wallet' to receive the reward of Ranking Match #2"
+      "title": "为了更好地游玩MCH",
+      "1": "你可能无法获得排名赛的奖励 #2",
+      "2": "你需要连接到你的ETH钱包来获得奖励",
+      "3": "你需要连接到钱包来获得排名赛的奖励 #2"
     },
     "wallet": {
       "merit": {
-        "1": "If you connet to Wallet successfully, you can",
-        "2": "Airdrop and get new Heroes",
-        "3": "Get Daily Bonus(GUM)",
-        "4": "Buy GUM",
+        "1": "如果你成功连接到钱包，你将可以：",
+        "2": "获取空投和新的英雄",
+        "3": "获得每日奖励(GUM)",
+        "4": "购买GUM",
         "5": ""
       },
-      "1": "What 'connect to Wallet' means?",
-      "2": "'connet to Wallet' is a function that connects your current Google account to ETH address",
-      "3": "You must use your laptop to 'connect to Wallet'",
-      "4": "Install METAMASK to your laptop and join Ranking Match #2!"
+      "1": "'连接到钱包'是什么意思？",
+      "2": "'连接到钱包'是可以将你的谷歌账号连接至你的ETH地址的一个功能",
+      "3": "你需要使用PC来进行'连接到钱包'的操作",
+      "4": "在你的电脑上安装METAMASK来加入排位赛吧！ #2"
     }
   },
   "trophy": {
-    "1": "Ranked Match: 1st",
-    "2": "Ranked Match: 2nd",
-    "3": "Ranked Match: 3rd",
-    "4": "Ranked Match: 4-10th",
-    "5": "Ranked Match: 11-30th",
-    "6": "Ranked Match: 31-100th"
+    "1": "排位赛： 第一名",
+    "2": "排位赛： 第二名",
+    "3": "排位赛： 第三名",
+    "4": "排位赛： 前十名",
+    "5": "排位赛： 前三十名",
+    "6": "排位赛： 前一百名"
   }
 }
