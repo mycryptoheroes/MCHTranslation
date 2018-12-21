@@ -214,7 +214,8 @@
     "ranking": {
       "title": "To enjoy MCH more!",
       "1": "You might not get the reward of Ranking Match #2",
-      "2": "You must connect your ETH wallet to get the reward"
+      "2": "You must connect your ETH wallet to get the reward",
+      "3": "You must finish 'connect to Wallet' to receive the reward of Ranking Match #2"
     },
     "wallet": {
       "merit": {
