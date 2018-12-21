@@ -192,7 +192,8 @@
     "acquired": "獲得済み",
     "win": "勝",
     "lose": "敗",
-    "warning": "ランキング戦のプレイは1日最大{challengeLimit}回まで実行可能です。"
+    "warning": "ランキング戦のプレイは1日最大{challengeLimit}回まで実行可能です。",
+    "twitter": "オレのヒーローチームとマイクリでDuel！"
   },
   "heroesDictionary": {
     "issued": "発行数:"

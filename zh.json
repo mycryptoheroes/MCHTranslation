@@ -191,7 +191,8 @@
     "acquired": "Acquired",
     "win": "win and",
     "lose": "losses",
-    "warning": "Up to {challengeLimit} battles can be played per day."
+    "warning": "Up to {challengeLimit} battles can be played per day.",
+    "twitter": "Come on! Let's fight with my Heroes team!"
   },
   "heroesDictionary": {
     "issued": "issued:"
