@@ -233,11 +233,11 @@
     }
   },
   "trophy": {
-    "1": "Ranked Match #2",
-    "2": "Ranked Match #2",
-    "3": "Ranked Match #2",
-    "4": "Ranked Match #2",
-    "5": "Ranked Match #2",
-    "6": "Ranked Match #2"
+    "1": "Ranked Match: 1st",
+    "2": "Ranked Match: 2nd",
+    "3": "Ranked Match: 3rd",
+    "4": "Ranked Match: 4-10th",
+    "5": "Ranked Match: 11-30th",
+    "6": "Ranked Match: 31-100th"
   }
 }
