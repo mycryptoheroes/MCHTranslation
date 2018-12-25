@@ -210,8 +210,8 @@
     "9": "你获得了每日奖励 {0} GUM.",
     "10": "恭喜你！！你幸运地获得了每日奖励 {0} GUM！",
     "11": "太棒了！！！你难以置信地获得了每日奖励 {0} GUM！！",
-    "12": "<1> like <0>!  You received 1GUM.",
-    "13": "Purchased ＜0＞GUM for ＜1＞ EMONT.  You received ＜0＞GUM."
+    "12": "{1} like {0}!  You received 1GUM.",
+    "13": "Purchased {0} GUM for {1} EMONT.  You received {0} GUM."
   },
   "tutorial": {
     "ranking": {
