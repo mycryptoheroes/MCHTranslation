@@ -211,7 +211,15 @@
     "10": "恭喜你！！你幸运地获得了每日奖励 {0} GUM！",
     "11": "太棒了！！！你难以置信地获得了每日奖励 {0} GUM！！",
     "12": "{1} like {0}!  You received 1GUM.",
-    "13": "Purchased {0} GUM for {1} EMONT.  You received {0} GUM."
+    "13": "Purchased {0} GUM for {1} EMONT.  You received {0} GUM.",
+    "14": "Congrats for winning!! Weekly Cup 1st place prize. You received {0}.",
+    "15": "Awesome!! Weekly Cup 2nd place prize. You received {0}.",
+    "16": "You did it! Weekly Cup 3rd place prize. You received {0}.",
+    "17": "Weekly Cup prize. You received {0}.",
+    "18": "Success trading <1>. You received \"GOOD! Art\" royalty {0} GUM.",
+    "19": "Success trading <1>. You received \"COOL!! Art\" royalty {0} GUM.",
+    "20": "You did it! You received trophy \"GOOD! Art\" on {0}.",
+    "21": "Congrats! You received trophy \"COOL!! Art\" on {0}."
   },
   "tutorial": {
     "ranking": {
