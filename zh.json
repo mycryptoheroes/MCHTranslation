@@ -242,6 +242,13 @@
       "4": "在你的电脑上安装METAMASK来加入排位赛吧！ #2"
     }
   },
+  "howtoplay": {
+    "wallet" : {
+      "connect": {
+        "title": "Wallet連携"
+      }
+    }
+  },
   "trophy": {
     "1": "排位赛： 第一名",
     "2": "排位赛： 第二名",

@@ -236,10 +236,17 @@
         "4": "Buy GUM",
         "5": ""
       },
-      "1": "What 'connect to Wallet' means?",
+      "1": "What is 'connect to Wallet' ?",
       "2": "'connet to Wallet' is a function that connects your current Google account to ETH address",
       "3": "You must use your laptop to 'connect to Wallet'",
       "4": "Install METAMASK to your laptop and join Ranking Match #2!"
+    }
+  },
+  "howtoplay": {
+    "wallet" : {
+      "connect": {
+        "title": "Wallet連携"
+      }
     }
   },
   "trophy": {
