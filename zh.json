@@ -29,6 +29,7 @@
     "messages": "信息",
     "heroesDictionary": "英雄词典",
     "editedArts": "编辑",
+    "transferStatus": "Transfer Status",
     "about": "关于本游戏",
     "howToPlay": "游戏教程",
     "faq": "常见问题",
@@ -217,10 +218,11 @@
     "15": "Awesome!! Weekly Cup 2nd place prize. You received {0}.",
     "16": "You did it! Weekly Cup 3rd place prize. You received {0}.",
     "17": "Weekly Cup prize. You received {0}.",
-    "18": "Success trading <1>. You received \"GOOD! Art\" royalty {0} GUM.",
-    "19": "Success trading <1>. You received \"COOL!! Art\" royalty {0} GUM.",
+    "18": "Success trading {1}. You received \"GOOD! Art\" royalty {0} GUM.",
+    "19": "Success trading {1}. You received \"COOL!! Art\" royalty {0} GUM.",
     "20": "You did it! You received trophy \"GOOD! Art\" on {0}.",
-    "21": "Congrats! You received trophy \"COOL!! Art\" on {0}."
+    "21": "Congrats! You received trophy \"COOL!! Art\" on {0}.",
+    "22": "Congrats! The amount of {1} ETH you had used to purchase {0} GUM was refunded."
   },
   "tutorial": {
     "ranking": {
