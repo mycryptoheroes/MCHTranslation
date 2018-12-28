@@ -250,7 +250,7 @@
       "connect": {
         "title": "Connet to Wallet",
         "how": "How to 'Connect to Wallet'",
-        "preparation": "Requirent",
+        "preparation": "【Requirent】",
         "requirement": "Laptop and specific browser Google Chrome, Firefox, Opera",
         "sentence": {
           "1": "Use METAMASK",
@@ -261,7 +261,9 @@
           "6": "Re-Access to My Crypto Heroes",
           "7": "Log in with your current Googl account.",
           "8": "Click the Account Setting in submenu",
-          "9": "Click 'Connet to Wallet'"
+          "9": "Click 'Connet to Wallet'",
+          "10": "お使いのスマートフォンでも、Wallet機能付きブラウザアプリをダウンロードしていただきimport作業をすることで、デイリーボーナスやGUM購入が可能性になります。",
+          "11": "詳細はこちら(外部サイト)"
         }
       }
     }

@@ -251,7 +251,7 @@
       "connect": {
         "title": "Wallet連携",
         "how": "Wallet連携のやり方",
-        "preparation": "環境",
+        "preparation": "【必要環境】",
         "requirement": "パソコンと特定のブラウザ(Google Chrome, Firefox, Opera)が必要です。",
         "sentence": {
           "1": "METAMASKというツールを使用します。",
@@ -262,7 +262,9 @@
           "6": "My Crypto Heroesに再アクセス",
           "7": "現在お使いのGoogleアカウントでログイン",
           "8": "サブメニューにあるアカウント設定を押下",
-          "9": "Wallet連携を押下"
+          "9": "Wallet連携を押下",
+          "10": "お使いのスマートフォンでも、Wallet機能付きブラウザアプリをダウンロードしていただきimport作業をすることで、デイリーボーナスやGUM購入が可能性になります。",
+          "11": "詳細はこちら(外部サイト)"
         }
       }
     }
