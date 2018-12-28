@@ -254,7 +254,7 @@
         "preparation": "【必要環境】",
         "requirement": "パソコンと特定のブラウザ(Google Chrome, Firefox, Opera)が必要です。",
         "sentence": {
-          "1": "METAMASKというツールを使用します。",
+          "1": "以下の作業はすべてパソコンで特定のブラウザを用いて行います。また、METAMASKというツールを使用します。",
           "2": "こちらをクリックし、「GET CHROME EXTENSION」を押下",
           "3": "Chromeに追加を押下",
           "4": "ブラウザの右上に追加されたMETAMASKのアイコンを押下",
