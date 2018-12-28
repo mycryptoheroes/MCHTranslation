@@ -247,18 +247,18 @@
     "wallet" : {
       "connect": {
         "title": "Wallet連携",
-        "preparation": "準備",
-        "requirement": "パソコンと特定のブラウザ(Google Chrome, Firefox, Opera)が必要です。",
+        "preparation": "Requirent",
+        "requirement": "Laptop and specific browser Google Chrome, Firefox, Opera",
         "sentence": {
-          "1": "METAMASKというツールを使用します。",
-          "2": "こちらをクリックし、「GET CHROME EXTENSION」を押下",
-          "3": "Chromeに追加を押下",
-          "4": "ブラウザの右上に追加されたMETAMASKのアイコンを押下",
-          "5": "METAMASKの指示に従って設定。※表示される12個のフレーズは必ず保存してください。紛失されると二度と復旧できなくなります。また、誰にも共有しないでください。",
-          "6": "My Crypto Heroesにアクセス",
-          "7": "現在お使いのGoogleアカウントでログイン",
-          "8": "サブメニューにあるアカウント設定を押下",
-          "9": "Wallet連携を押下"
+          "1": "Use METAMASK",
+          "2": "Click below、and press'GET CHROME EXTENSION'",
+          "3": "Click 'Add to Chrome'",
+          "4": "Click the METAMASk icon at the upper right of the browser",
+          "5": "Set METAMASK ※You must save the 12 phrases displayed in METAMASK! You can't restore it when you lose them. And also never share them.",
+          "6": "Access to My Crypto Heroes",
+          "7": "Log in with your current Googl account.",
+          "8": "Click the Account Setting in submenu",
+          "9": "Click 'Connet to Wallet'"
         }
       }
     }
