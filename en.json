@@ -269,6 +269,10 @@
       "browser": {
         "1": "You may use browser without METAMASK or METAMASK is signed out.",
         "2": "Please use browser with METAMASK(such as Chrome), or sign in to METAMASK."
+      },
+      "mobile": {
+        "1": "Use Ethereum from mobile",
+        "2": "You can buy GUM and get Daily Bonus if you use Ethereum."
       }
     }
   },
