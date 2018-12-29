@@ -265,6 +265,10 @@
           "10": "お使いのスマートフォンでも、Wallet機能付きブラウザアプリをダウンロードしていただきimport作業をすることで、デイリーボーナスやGUM購入が可能性になります。",
           "11": "詳細はこちら(外部サイト)"
         }
+      },
+      "browser": {
+        "1": "You may use browser without METAMASK or METAMASK is signed out.",
+        "2": "Please use browser with METAMASK(such as Chrome), or sign in to METAMASK."
       }
     }
   },
