@@ -43,7 +43,8 @@
     "gameStart": "ゲームを始める",
     "leadMessage": "ゲームにかけた 時間も お金も 情熱も、\nあなたの資産となる世界",
     "signIn": "{message}で{type}中の場合、その内容は引き継げません。よろしいですか？",
-    "signInWarning": "※My Crypto Heroesを存分に楽しむためにはウォレットアプリが必要です。詳細はFAQをご覧ください。"
+    "signInWarning": "※My Crypto Heroesを存分に楽しむためにはウォレットアプリが必要です。詳細はFAQをご覧ください。",
+    "article": "【公式公認】マイクリ｜初心者が始めるブロックチェーンゲームの遊び方(by dApps market)"
   },
   "others": {
     "other": "その他"
