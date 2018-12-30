@@ -67,7 +67,10 @@
     },
     "deposit": "Transfer to Crypto World",
     "withdraw": "Transfer to Ethereum Network",
-    "withdrawWarning": "It will cost 40 GUM for transferring it to Ethereum network. Is it ok?",
+    "withdrawWarning": {
+      "1": "It will cost 40 GUM for transferring it to Ethereum network.",
+      "2": "Usually, it takes about 10 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic. Is it ok?"
+    },
     "edit": {
       "warning": {
         "title": "Art edit rules and notes on beta battle",

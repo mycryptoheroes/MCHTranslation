@@ -69,7 +69,10 @@
     },
     "deposit": "Crypto Worldへ転送",
     "withdraw": "Ethereum Networkへ転送",
-    "withdrawWarning": "Ethereum Networkへの転送には 40 GUM必要です。よろしいですか？",
+    "withdrawWarning": {
+      "1": "Ethereum Networkへの転送には 40 GUM必要です。",
+      "2": "また、通常転送には10分程度かかりますが、Ethereumの混雑状況により数時間かかる場合がございます。よろしいですか？"
+    },
     "edit": {
       "warning": {
         "title": "アートエディットルールと注意点",
