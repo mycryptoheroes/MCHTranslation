@@ -226,6 +226,9 @@
     "22": "Congrats! The amount of {1} ETH you had used to purchase {0} GUM was refunded."
   },
   "tutorial": {
+    "index": {
+      "title": "Welcome to My Crypto Heroes!!"
+    },
     "ranking": {
       "title": "为了更好地游玩MCH",
       "1": "你可能无法获得排名赛的奖励 #2",
