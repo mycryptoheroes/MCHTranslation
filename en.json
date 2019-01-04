@@ -117,7 +117,8 @@
     "warning": "Up to {challengeLimit} quests can be played per day."
   },
   "faq": {
-    "medium": "For more detail(Medium)"
+    "medium": "For more detail(Medium)",
+    "mail": "Email us"
   },
   "account": {
     "connect": {

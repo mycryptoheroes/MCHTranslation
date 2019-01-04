@@ -121,7 +121,8 @@
     "warning": "クエストのプレイは1日最大{challengeLimit}回まで実行可能です。"
   },
   "faq": {
-    "medium": "FAQで解決できない場合はこちら"
+    "medium": "FAQで解決できない場合はこちら",
+    "mail": "メールでのお問い合わせ"
   },
   "account": {
     "connect": {
