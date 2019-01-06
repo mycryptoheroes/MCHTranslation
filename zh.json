@@ -68,8 +68,9 @@
     "deposit": "转移到秘密世界Crypto world中",
     "withdraw": "转移到ETH网络中",
     "withdrawWarning": {
-      "1": "将ETH转移到ETH网络需要消耗40GUM",
-      "2": "Usually, it takes about 10 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic. 确定要进行吗？"
+      "1": "将ETH转移到ETH网络需要消耗 {gum} GUM",
+      "2": "Limited to 10 times per day ({count} / 10)",
+      "3": "Usually, it takes about 10 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic. 确定要进行吗？"
     },
     "edit": {
       "warning": {
