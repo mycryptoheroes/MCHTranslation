@@ -317,5 +317,8 @@
     "36": "Baby Dragon: 777位",
     "41": "GOOD! Art",
     "42": "COOL!! Art"
+  },
+  "errors": {
+    "4011": "■アカウント停止中■<br><br>お客様におかれましては、利用規約第14条に基づく違反が認められた為にアカウント強制停止の措置を取らせていただきました。<br>違反の詳細につきましては利用規約のご確認をお願い致します。<br><a href=\"https://www.mycryptoheroes.net/documents/terms_ja.pdf\">利用規約 (PDF)</a><br>皆様に快適にMy Crypto heroesをご利用頂くための措置となります。<br>何卒、ご理解のほど宜しくお願い致します。<br><br>double jump.tokyo株式会社<br><br>なお、本件に関する異議申し立てにつきましては下記のメールアドレスまでご連絡ください。<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
   }
 }
