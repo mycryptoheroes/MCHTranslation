@@ -43,7 +43,8 @@
     "gameStart": "Play Game",
     "leadMessage": "Your time and passion will become assets.",
     "signIn": "If you play {type} with your {message}, you can't use same account. Are you sure to log in?",
-    "signInWarning": "* To play all contents of My Crypto Heroes you need a wallet app. Please check the FAQ for details."
+    "signInWarning": "* To play all contents of My Crypto Heroes you need a wallet app. Please check the FAQ for details.",
+    "stop": "【Announcement】New user registraion is stopped now to take measures against malicious BOT."
   },
   "others": {
     "other": "Others"
