@@ -52,8 +52,8 @@
     "button": "准备完成！"
   },
   "referral": {
-    "under": "显示介绍所得GUM出现问题，我们正在尝试解决中。。。",
     "description": "分享你的专属链接给朋友并获得GUM吧！\n每当你介绍的朋友使用ETH购买物品，你可以获得百分之20的提成（注意：获得提成条件为被邀请玩家在本游戏中使用ETH）",
+    "warning": "* Wallet linkage is necessary to obtain GUM using referral",
     "shareText": "#MyCryptoHeroes 在这里，你付出的所有的时间、热情，都会成为你真正的财富，你无需虚拟通货或者钱包即可加入日本“blockchain RPG”，并在此享受乐趣！‬",
     "afterShareText": "Invitation code: {inviteCode}"
   },

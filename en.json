@@ -52,8 +52,8 @@
     "button": "This is my team !!"
   },
   "referral": {
-    "under": "There was something wrong of displaying amount of referral GUM. We are trying to fix this problem now.",
     "description": "Share your link and you will receive GUM!\nThe reward will be 20% of ETH people who use your link spent. This works only when your referred users use ETH in MCH.",
+    "warning": "* Wallet linkage is necessary to obtain GUM using referral",
     "shareText": "#MyCryptoHeroes, Your time and passion will become assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬",
     "afterShareText": "Invitation code: {inviteCode}"
   },
