@@ -53,7 +53,7 @@
   },
   "referral": {
     "description": "Share your link and you will receive GUM!\nThe reward will be 20% of ETH people who use your link spent. This works only when your referred users use ETH in MCH.",
-    "warning": "* Wallet linkage is necessary to obtain GUM using referral",
+    "warning": "* \"Sign in\" by \"Normal Play with Wallet\" is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" \"Referral URL\" is not displayed.",
     "shareText": "#MyCryptoHeroes, Your time and passion will become assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬",
     "afterShareText": "Invitation code: {inviteCode}"
   },
