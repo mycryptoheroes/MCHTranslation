@@ -139,7 +139,8 @@
         "comment": "It takes several minitues to receive assets, according to Ethereum network traffic.",
         "wallet": "You need to install Ethereum Wallet to airdrop"
       },
-      "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!"
+      "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
+      "dailyActionTerm": "Reset when 24 hours passes from the latest daily bonus."
     },
     "trade": {
       "startPrice": "Start Price",
