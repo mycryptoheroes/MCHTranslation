@@ -44,7 +44,8 @@
     "leadMessage": "你为此游戏付出的所有的时间、热情，都会成为你真正的财富",
     "signIn": "如果你尝试通过 {message}使用 {type}, 你将无法使用相同的账号。你确定要登录吗？",
     "signInWarning": "如果你想游玩本游戏中所有内容，你需要下载一个相关的钱包app。具体信息请查看常见问题栏",
-    "stop": "【Announcement】New user registraion is stopped now to take measures against malicious BOT."
+    "stop": "【Announcement】New user registraion is stopped now to take measures against malicious BOT.",
+    "mycryapp": "MCH App has been released!"
   },
   "others": {
     "other": "其他"
