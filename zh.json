@@ -141,7 +141,7 @@
         "wallet": "你需要安装Ethereum Wallet来使用空投"
       },
       "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
-      "dailyActionTerm": "Reset when 24 hours passes from the latest daily bonus."
+      "dailyActionTerm": "Reset in 24 hours"
     },
     "trade": {
       "startPrice": "开始价格",

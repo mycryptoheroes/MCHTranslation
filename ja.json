@@ -145,7 +145,7 @@
         "wallet": "Airdropを行うにはETH対応のウォレットが必要です"
       },
       "gumgumup": "GUMGUMUPキャンペーン中! 20%増量&34人に1人即全額バック!",
-      "dailyActionTerm": "前回のデイリーボーナス獲得から約24時間後にリセット"
+      "dailyActionTerm": "24時間でリセット"
     },
     "trade": {
       "startPrice": "開始価格",
