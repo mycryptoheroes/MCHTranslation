@@ -204,7 +204,8 @@
     "win": "win and",
     "lose": "losses",
     "warning": "Up to {challengeLimit} battles can be played per day.",
-    "twitter": "Come on! Let's fight with my Heroes team!"
+    "twitter": "Come on! Let's fight with my Heroes team!",
+    "rules": "Check Rules (Official Medium)"
   },
   "heroesDictionary": {
     "issued": "issued:"

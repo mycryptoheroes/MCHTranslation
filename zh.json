@@ -204,7 +204,8 @@
     "win": "获胜并",
     "lose": "失败",
     "warning": "每天最多可以进行 {challengeLimit} 次战斗",
-    "twitter": "让我们和我们的英雄们一起战斗吧！"
+    "twitter": "让我们和我们的英雄们一起战斗吧！",
+    "rules": "Check Rules (Official Medium)"
   },
   "heroesDictionary": {
     "issued": "印刷："

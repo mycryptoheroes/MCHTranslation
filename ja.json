@@ -209,7 +209,8 @@
     "win": "勝",
     "lose": "敗",
     "warning": "ランキング戦のプレイは1日最大{challengeLimit}回まで実行可能です。",
-    "twitter": "オレのヒーローチームとマイクリでDuel！"
+    "twitter": "オレのヒーローチームとマイクリでDuel！",
+    "rules": "大会ルールを確認 (公式Medium)"
   },
   "heroesDictionary": {
     "issued": "発行数:"
