@@ -212,6 +212,9 @@
     "twitter": "オレのヒーローチームとマイクリでDuel！",
     "rules": "大会ルールを確認 (公式Medium)"
   },
+  "raid": {
+    "warning": "Crypto Energyを消費するため、消費量によってはヒーローのレベルがダウンすることがあります。ご注意ください。"
+  },
   "heroesDictionary": {
     "issued": "発行数:"
   },

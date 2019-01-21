@@ -207,6 +207,9 @@
     "twitter": "让我们和我们的英雄们一起战斗吧！",
     "rules": "Check Rules (Official Medium)"
   },
+  "raid": {
+    "warning": "Note that Hero's level might be decreased according to the amount of CE you choose."
+  },
   "heroesDictionary": {
     "issued": "印刷："
   },
