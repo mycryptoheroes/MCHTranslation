@@ -213,7 +213,10 @@
     "rules": "大会ルールを確認 (公式Medium)"
   },
   "raid": {
-    "warning": "Crypto Energyを消費するため、消費量によってはヒーローのレベルがダウンすることがあります。ご注意ください。"
+    "warning": [
+      "Crypto Energyを消費するため、消費量によってはヒーローのレベルがダウンすることがあります。ご注意ください。",
+      "累計与ダメージ（Added Damage）1500ごとに宝箱を1個獲得できます。"
+    ]
   },
   "heroesDictionary": {
     "issued": "発行数:"
