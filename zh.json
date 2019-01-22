@@ -242,7 +242,11 @@
     "19": "Success trading {1}. You received \"COOL!! Art\" royalty {0} GUM.",
     "20": "You did it! You received trophy \"GOOD! Art\" on {0}.",
     "21": "Congrats! You received trophy \"COOL!! Art\" on {0}.",
-    "22": "Congrats! The amount of {1} ETH you had used to purchase {0} GUM was refunded."
+    "22": "Congrats! The amount of {1} ETH you had used to purchase {0} GUM was refunded.",
+    "23": "Congrats for winning!! Raid: Singularity 1st place prize. You received {0}.",
+    "24": "Awesome!! Raid: Singularity  2nd place prize. You received {0}.",
+    "25": "You did it! Raid: Singularity 3rd place prize. You received {0}.",
+    "26": "Raid: Singularity Last Attack prize. You received {0}."
   },
   "tutorial": {
     "index": {
