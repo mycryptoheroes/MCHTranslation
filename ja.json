@@ -74,7 +74,8 @@
     },
     "deposit": "Crypto Worldへ転送",
     "withdraw": "Ethereum Networkへ転送",
-    "lock": "Ethereum Networkへの転送ができません。チームやデュエル用チームで装備されていないか確認してください。",
+    "heroLock": "このヒーローは使用中です。チームやデュエル用チームから外してください。",
+    "extensionLock": "このエクステンションは使用中です。チームやデュエル用チームから外してください。",
     "withdrawWarning": {
       "1": "Ethereum Networkへの転送には1回 {gum} GUM必要です。",
       "2": "1日最大10回まで実行可能です。({count} / 10)",

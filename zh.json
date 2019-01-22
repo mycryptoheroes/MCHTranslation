@@ -70,7 +70,8 @@
     },
     "deposit": "转移到秘密世界Crypto world中",
     "withdraw": "转移到ETH网络中",
-    "lock": "You can't execute Transfer. Remove this from your team and duel team.",
+    "heroLock": "Using this hero now. Remove this from your team and duel team.",
+    "extensionLock": "Using this extension now. Remove this from your team and duel team.",
     "withdrawWarning": {
       "1": "将ETH转移到ETH网络需要消耗 {gum} GUM",
       "2": "Limited to 10 times per day ({count} / 10)",

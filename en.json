@@ -70,7 +70,8 @@
     },
     "deposit": "Transfer to Crypto World",
     "withdraw": "Transfer to Ethereum Network",
-    "lock": "You can't execute Transfer. Remove this from your team and duel team.",
+    "heroLock": "Using this hero now. Remove this from your team and duel team.",
+    "extensionLock": "Using this extension now. Remove this from your team and duel team.",
     "withdrawWarning": {
       "1": "It will cost {gum} GUM for transferring it to Ethereum network.",
       "2": "Limited to 10 times per day ({count} / 10)",
