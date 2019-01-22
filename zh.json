@@ -70,6 +70,7 @@
     },
     "deposit": "转移到秘密世界Crypto world中",
     "withdraw": "转移到ETH网络中",
+    "lock": "You can't execute Transfer. Remove this from your team and duel team.",
     "withdrawWarning": {
       "1": "将ETH转移到ETH网络需要消耗 {gum} GUM",
       "2": "Limited to 10 times per day ({count} / 10)",
@@ -322,7 +323,11 @@
     "35": "Baby Dragon: 111th",
     "36": "Baby Dragon: 777th",
     "41": "GOOD! Art",
-    "42": "COOL!! Art"
+    "42": "COOL!! Art",
+    "51": "Deep Yoshka: 1st",
+    "52": "Deep Yoshka: 2nd",
+    "53": "Deep Yoshka: 3rd",
+    "54": "Deep Yoshka: Last Attack"
   },
   "twitter": {
     "hero": "My Crypto Heroes",

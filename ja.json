@@ -74,6 +74,7 @@
     },
     "deposit": "Crypto Worldへ転送",
     "withdraw": "Ethereum Networkへ転送",
+    "lock": "Ethereum Networkへの転送ができません。チームやデュエル用チームで装備されていないか確認してください。",
     "withdrawWarning": {
       "1": "Ethereum Networkへの転送には1回 {gum} GUM必要です。",
       "2": "1日最大10回まで実行可能です。({count} / 10)",
@@ -327,7 +328,11 @@
     "35": "Baby Dragon: 111位",
     "36": "Baby Dragon: 777位",
     "41": "GOOD! Art",
-    "42": "COOL!! Art"
+    "42": "COOL!! Art",
+    "51": "ディープ・ヨシュカ: 1位",
+    "52": "ディープ・ヨシュカ: 2位",
+    "53": "ディープ・ヨシュカ: 3位",
+    "54": "ディープ・ヨシュカ: Last Attack"
   },
   "twitter": {
     "hero": "My Crypto Heroes(マイクリ)",
