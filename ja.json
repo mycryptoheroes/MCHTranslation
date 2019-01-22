@@ -218,7 +218,8 @@
     "warning": [
       "Crypto Energyを消費するため、消費量によってはヒーローのレベルがダウンすることがあります。ご注意ください。",
       "累計与ダメージ（Added Damage）1500ごとに宝箱を1個獲得できます。"
-    ]
+    ],
+    "reflectInInventory": "獲得数が多い場合、インベントリへの反映に時間がかかる場合があります"
   },
   "heroesDictionary": {
     "issued": "発行数:"
