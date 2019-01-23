@@ -133,7 +133,9 @@
   "account": {
     "connect": {
       "wallet": "Wallet連携",
-      "google": "Google連携"
+      "google": "Google連携",
+      "connect": "連携する",
+      "connected": "連携済み"
     }
   },
   "market": {

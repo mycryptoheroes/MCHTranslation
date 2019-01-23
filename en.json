@@ -129,7 +129,9 @@
   "account": {
     "connect": {
       "wallet": "Connect to Wallet",
-      "google": "Connect to Google"
+      "google": "Connect to Google",
+      "connect": "Connect",
+      "connected": "Connected"
     }
   },
   "market": {

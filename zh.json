@@ -129,7 +129,9 @@
   "account": {
     "connect": {
       "wallet": "连接到钱包",
-      "google": "连接到谷歌"
+      "google": "连接到谷歌",
+      "connect": "Connect",
+      "connected": "Connected"
     }
   },
   "market": {
