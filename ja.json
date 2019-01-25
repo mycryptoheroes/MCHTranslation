@@ -48,7 +48,12 @@
     "article2": "仮想通貨の知識ゼロで始めるMy Crypto Heroes",
     "article3": "Tips:序盤の効率的な進め方",
     "stop": "【お知らせ】現在、悪質なBOT対策のため、新規登録を一時停止しております。",
-    "mycryapp": "専用アプリ「マイクリApp」リリース"
+    "mycryapp": "専用アプリ「マイクリApp」リリース",
+    "welcome": {
+      "name": "はじめに、Crypto Worldでのあなたの名前を決めよう！",
+      "notice": "後から変更できます",
+      "inviteCode": "Invite Code をお持ちの方はこちらに入力してください"
+    }
   },
   "others": {
     "other": "その他"
