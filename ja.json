@@ -192,7 +192,11 @@
         "restart": "再開"
       }
     },
-    "acquired": "獲得済み"
+    "acquired": "獲得済み",
+    "rules": {
+      "hero": "使用可能なHero",
+      "extension": "使用可能なExtension"
+    }
   },
   "walletModal": {
     "1": "下部リンクよりMETAMASK公式サイトにアクセスし、METAMASKをブラウザにインストールしてください。",

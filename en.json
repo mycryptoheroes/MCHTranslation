@@ -188,7 +188,11 @@
         "restart": "Continue quest"
       }
     },
-    "acquired": "Acquired"
+    "acquired": "Acquired",
+    "rules": {
+      "hero": "Available Heroes",
+      "extension": "Available Extensions"
+    }
   },
   "walletModal": {
     "1": "Access the official METAMASK site from the link below and install METAMASK on your browser.",

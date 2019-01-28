@@ -188,7 +188,11 @@
         "restart": "继续任务"
       }
     },
-    "acquired": "已获得"
+    "acquired": "已获得",
+    "rules": {
+      "hero": "Available Heroes",
+      "extension": "Available Extensions"
+    }
   },
   "walletModal": {
     "1": "通过以下连接访问METAMASK官方网站并在你的浏览器中安装METAMASK吧！",
