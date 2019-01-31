@@ -65,7 +65,7 @@
     "description": "リンクをシェアしてGUMをもらおう！\n招待したご友人がMCHでETHでGUMを購入するたびに、ご友人が消費したETHの20%相当のGUMを報酬として獲得することができます。",
     "warning": "※ リファラルを行うには「Walletによるサインイン（Normal Play）」が必要です。「Googleアカウントによるサインイン（Trial Play）」でプレイされている場合「招待コード (Invitation Code)」「リファラルURL (Referral URL)」は表示されません。",
     "shareText": "ゲームにかけた時間もお金も情熱も、あなたの資産となる世界 #MyCryptoHeores 日本発の本格的ブロックチェーンRPG！仮想通貨なしウォレットなしでプレイできます。",
-    "afterShareText": "招待コード: {inviteCode} 入力で強力装備の特典Get！"
+    "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーロー「諭吉」もらえる！"
   },
   "assetId": {
     "artEdit": "アートエディット",
