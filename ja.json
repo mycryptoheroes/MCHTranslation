@@ -62,7 +62,7 @@
     "button": "対戦相手を募集！"
   },
   "referral": {
-    "description": "リンクをシェアしてGUMをもらおう！\n招待したユーザーがGUM購入で使用したETHの20%相当のGUMを報酬として獲得することができます。",
+    "description": "リンクをシェアしてGUMをもらおう！\n招待したユーザーがGUM購入で使用したETHの20%相当のGUMを報酬として獲得できます。",
     "warning": "※ リファラルを行うには「Walletによるサインイン（Normal Play）」が必要です。「Googleアカウントによるサインイン（Trial Play）」でプレイされている場合「招待コード (Invitation Code)」「リファラルURL (Referral URL)」は表示されません。",
     "shareText": "ゲームにかけた時間もお金も情熱も、あなたの資産となる世界 #MyCryptoHeores 日本発の本格的ブロックチェーンRPG！仮想通貨なしウォレットなしでプレイできます。",
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーロー「諭吉」もらえる！"
