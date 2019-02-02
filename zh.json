@@ -22,6 +22,7 @@
     "duel": "Duel",
     "quest": "任务",
     "market": "市场",
+    "prime": "MCH Prime",
     "help": "帮助",
     "terms": "服务条款",
     "referral": "委托",
@@ -56,7 +57,11 @@
     "other": "其他"
   },
   "team": {
-    "button": "准备完成！"
+    "button": "准备完成！",
+    "prime": {
+      "extend": "Extend MCH Prime",
+      "delete": "Delete Teams (from 4 to 6)"
+    }
   },
   "referral": {
     "description": "分享链接获得GUM！\n 邀请的用户可以获得相当于购买GUM时使用的ETH的20%的GUM作为收益。\n(注意:只在用ETH买GUM的时候(不包括在其他地方使用ETH的时候))",
@@ -150,7 +155,23 @@
         "wallet": "你需要安装Ethereum Wallet来使用空投"
       },
       "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
-      "dailyActionTerm": "Reset in 24 hours"
+      "dailyActionTerm": "Reset in 24 hours",
+      "prime": {
+        "about": {
+          "title": "About MCH Prime",
+          "lead": "MCH Prime you will receive following benefits for 30 days.",
+          "list": [
+            "Expanding the number of teams from 3 to 6",
+            "Can challenge Limited Node for Prime Users",
+            "Daily Bonus"
+          ]
+        },
+        "leftDays": {
+          "before": "",
+          "after": "days left",
+          "warning": "You can purchase that right again from 5 days before the end"
+        }
+      }
     },
     "trade": {
       "startPrice": "开始价格",

@@ -22,6 +22,7 @@
     "duel": "Duel",
     "quest": "Quest",
     "market": "Market",
+    "prime": "MCH Prime",
     "help": "Help",
     "terms": "Terms of Service",
     "referral": "Referral",
@@ -56,7 +57,11 @@
     "other": "Others"
   },
   "team": {
-    "button": "This is my team !!"
+    "button": "This is my team !!",
+    "prime": {
+      "extend": "Extend MCH Prime",
+      "delete": "Delete Teams (from 4 to 6)"
+    }
   },
   "referral": {
     "description": "share your promo code and get 20% of the paid ETH in GUM!",
@@ -150,7 +155,23 @@
         "wallet": "You need to install Ethereum Wallet to airdrop"
       },
       "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
-      "dailyActionTerm": "Reset in 24 hours"
+      "dailyActionTerm": "Reset in 24 hours",
+      "prime": {
+        "about": {
+          "title": "About MCH Prime",
+          "lead": "MCH Prime you will receive following benefits for 30 days.",
+          "list": [
+            "Expanding the number of teams from 3 to 6",
+            "Can challenge Limited Node for Prime Users",
+            "Daily Bonus"
+          ]
+        },
+        "leftDays": {
+          "before": "",
+          "after": "days left",
+          "warning": "You can purchase that right again from 5 days before the end"
+        }
+      }
     },
     "trade": {
       "startPrice": "Start Price",
