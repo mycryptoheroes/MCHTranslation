@@ -62,7 +62,7 @@
   "team": {
     "button": "対戦相手を募集！",
     "prime": {
-      "extend": "MCH Prime を延長する",
+      "extend": "MCHプライムを延長する",
       "delete": "チーム4〜6を削除する"
     }
   },
@@ -141,6 +141,14 @@
     "mail": "メールでのお問い合わせ/不正行為の通報"
   },
   "account": {
+    "prime": {
+      "extend": "延長する",
+      "leftDays": {
+        "before": "あと",
+        "after": "日"
+      },
+      "join": "購入する"
+    },
     "connect": {
       "wallet": "Wallet連携",
       "google": "Google連携",

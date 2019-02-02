@@ -137,6 +137,14 @@
     "mail": "Inquiry by e-mail / report of misbehavior"
   },
   "account": {
+    "prime": {
+      "extend": "Extend",
+      "leftDays": {
+        "before": "",
+        "after": "days left"
+      },
+      "join": "Buy"
+    },
     "connect": {
       "wallet": "连接到钱包",
       "google": "连接到谷歌",
