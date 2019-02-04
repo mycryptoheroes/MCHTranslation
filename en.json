@@ -103,10 +103,13 @@
         ],
         "cost": "You need to pay 40 GUM (Game Users Money) from the second time. Is it OK?"
       },
-      "nickname": "Set Nickname",
-      "nicknameConfirm1": "Are you sure to set Nickname as",
-      "nicknameConfirm2": "",
-      "nicknamewarning": "*You can never change Nickname, and there is no the same Nickname in MCH Crypto World."
+      "nickname": {
+        "title": "Set Nickname",
+        "confirm1": "Are you sure to set Nickname as",
+        "confirm2": "",
+        "warning1": "*You can set Nickname only once you get the extension.",
+        "warning2": "It costs 100 GUM, if this extension has been already set Nickname"
+      }
     }
   },
   "battle": {

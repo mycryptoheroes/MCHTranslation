@@ -103,10 +103,13 @@
         ],
         "cost": "从第二次开始，每次编辑需要花费40GUM，确定要进行吗？"
       },
-      "nickname": "设置昵称",
-      "nicknameConfirm1": "是否确定要设置昵称为",
-      "nicknameConfirm2": "",
-      "nicknamewarning": "*你将无法变更你的昵称，并且你设置的昵称不能与其他玩家重复"
+      "nickname": {
+        "title": "设置昵称",
+        "confirm1": "是否确定要设置昵称为",
+        "confirm2": "",
+        "warning1": "*You can set Nickname only once you get the extension.",
+        "warning2": "It costs 100 GUM, if this extension has been already set Nickname"
+      }
     }
   },
   "battle": {
