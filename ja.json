@@ -182,7 +182,8 @@
           "before": "あと",
           "after": "日",
           "warning": "終了5日前から再度追加購入可能となります"
-        }
+        },
+        "limited": "期間限定（〜 {limitedTime}）"
       }
     },
     "trade": {

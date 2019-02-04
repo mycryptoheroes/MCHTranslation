@@ -178,7 +178,8 @@
           "before": "",
           "after": "days left",
           "warning": "You can purchase that right again from 5 days before the end"
-        }
+        },
+        "limited": "For a limited time (Until {limitedTime})"
       }
     },
     "trade": {
