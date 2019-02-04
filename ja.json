@@ -186,7 +186,8 @@
           "after": "日",
           "warning": "終了5日前から再度追加購入可能となります"
         },
-        "limited": "期間限定（〜 {limitedTime}）"
+        "limited": "期間限定（〜 {limitedTime}）",
+        "notes": "ETHでPrime加入の場合、トランザクションが成功してから5~10分後に反映されます。"
       }
     },
     "trade": {
