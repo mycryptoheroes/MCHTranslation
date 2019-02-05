@@ -186,10 +186,10 @@
         },
         "limited": "For a limited time (Until {limitedTime})",
         "notes": "If you buy with ETH, your status is reflected in 5-10 mins after successing the transaction.",
+      },
         "novice": {
-          "1": "Novice Hero is in game hero.",
-          "2": "Unable to sell and transfer to Ethereum Network."
-        }
+        "1": "Novice Hero is in game hero.",
+        "2": "Unable to sell and transfer to Ethereum Network."
       }
     },
     "trade": {
