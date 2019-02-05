@@ -85,7 +85,9 @@
     "withdrawWarning": {
       "1": "It will cost {gum} GUM for transferring it to Ethereum network.",
       "2": "Limited to 10 times per day ({count} / 10)",
-      "3": "Usually, it takes about 10 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic. Is it ok?"
+      "3": "Extension has to be more than Lv.2 and set Nickname to transfer",
+      "4": "Hero has to be more than Lv.2 and art-edited to transfer",
+      "5": "Usually, it takes about 10 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic. Is it ok?"
     },
     "edit": {
       "warning": {
