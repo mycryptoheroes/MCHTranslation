@@ -265,7 +265,12 @@
     "lose": "敗",
     "warning": "ランキング戦のプレイは1日最大{challengeLimit}回まで実行可能です。",
     "twitter": "オレのヒーローチームとマイクリでDuel！",
-    "rules": "大会ルールを確認 (公式Medium)"
+    "rules": "大会ルールを確認 (公式Medium)",
+    "join": {
+      "pledge": "宣誓",
+      "pledgeContent": "Weekly Cup 参加にあたり「利用規約」「大会ルール」を理解、遵守し、正々堂々とプレイすることを誓います。",
+      "warning": "※違反行為が発覚した場合、アカウント停止、トロフィーおよびWinners Pointを剥奪いたします。"
+    }
   },
   "raid": {
     "warning": [
