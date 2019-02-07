@@ -280,8 +280,10 @@
     ],
     "reflectInInventory": "獲得数が多い場合、インベントリへの反映に時間がかかる場合があります"
   },
-  "heroesDictionary": {
-    "issued": "発行数:"
+  "dictisonary": {
+    "issued": "発行数:",
+    "heroDictionary": "ヒーロー図鑑",
+    "extensionDictionary": "エクステンション図鑑"
   },
   "messageTypes": {
     "0": "{1}",
