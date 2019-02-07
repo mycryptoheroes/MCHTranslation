@@ -282,8 +282,8 @@
   },
   "dictisonary": {
     "issued": "発行数:",
-    "heroDictionary": "ヒーロー図鑑",
-    "extensionDictionary": "エクステンション図鑑"
+    "heroesDictionary": "ヒーロー図鑑",
+    "extensionsDictionary": "エクステンション図鑑"
   },
   "messageTypes": {
     "0": "{1}",

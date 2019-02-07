@@ -277,8 +277,8 @@
   },
   "dictionary": {
     "issued": "issued:",
-    "heroDictionary": "Hero Dictionary",
-    "extensionDictionary": "Extension Dictionary"
+    "heroesDictionary": "Hero Dictionary",
+    "extensionsDictionary": "Extension Dictionary"
   },
   "messageTypes": {
     "0": "{0}",
