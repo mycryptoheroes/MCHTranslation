@@ -276,9 +276,10 @@
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory"
   },
   "dictionary": {
-    "issued": "印刷：",
     "heroDictionary": "Hero Dictionary",
-    "extensionDictionary": "Extension Dictionary"
+    "extensionDictionary": "Extension Dictionary",
+    "issued": "印刷",
+    "supply": "Supply Limit"
   },
   "messageTypes": {
     "0": "{0}",
