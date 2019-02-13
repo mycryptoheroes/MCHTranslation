@@ -23,6 +23,7 @@
     "quest": "Quest",
     "market": "Market",
     "prime": "MCH Prime",
+    "land": "Land",
     "help": "Help",
     "terms": "Terms of Service",
     "referral": "Referral",
@@ -194,6 +195,30 @@
       "novice": {
         "1": "Novice Hero is in game hero.",
         "2": "Unable to sell and transfer to Ethereum Network."
+      },
+      "land": {
+        "presale": {
+          "title": "Pre-sale for Land",
+          "body": {
+            "lead": "Pre-sale will be a \"bulk sale\" premised on bulk purchase of the country, mainly for business operators and large-lot investors (imagine like “buy one building” for apartment sales, for example)",
+            "list": [
+              "Price: 500ETH/Land",
+              "Number of Lands to be sold: 4 countries (in 9)",
+              "Period: 2/13 Wednesday 7:00~2/18 6:00 UTC( winners will be chosen on 2/19)",
+              "We will do KYC(Know Your Client. Confirm your identification), and once you agree to purchase the land, we will make the agreement with each holder. "
+            ],
+            "warning": {
+              "1": {
+                "p": "* For details please see below.",
+                "a": "https://medium.com/mycryptoheroes/announcement-pre-sale-for-land-ba2553a37422"
+              },
+              "2": {
+                "p": "* Please apply from the link below.",
+                "a": "https://docs.google.com/forms/d/1MCVNSJNFbqxuTLiCXC5GkR2NFFTxTPC2L8Gr4FSnat0"
+              }
+            }
+          }
+        }
       }
     },
     "trade": {
