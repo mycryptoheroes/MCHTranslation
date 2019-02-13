@@ -213,14 +213,12 @@
               "購入確定したお客様には、個別に契約書の締結をさせていただき、ETH入金確認後にランド（全ランドセクタ）の所有権の付与をさせていただきます。"
             ],
             "warning": {
-              "1": {
-                "p": "※その他、詳細は以下をご確認ください。",
-                "a": "https://medium.com/mycryptoheroes/landpresale-ja-153a5dea3107"
-              },
-              "2": {
-                "p": "※お申し込みは以下のリンクからお願いいたします。",
-                "a": "https://docs.google.com/forms/d/1MCVNSJNFbqxuTLiCXC5GkR2NFFTxTPC2L8Gr4FSnat0"
-              }
+              "p": "※その他、詳細は以下をご確認ください。",
+              "a": "https://medium.com/mycryptoheroes/landpresale-ja-153a5dea3107"
+            },
+            "button": {
+              "text": "お申込み",
+              "url": "https://docs.google.com/forms/d/1MCVNSJNFbqxuTLiCXC5GkR2NFFTxTPC2L8Gr4FSnat0"
             }
           }
         }

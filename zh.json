@@ -208,14 +208,12 @@
               "We will do KYC(Know Your Client. Confirm your identification), and once you agree to purchase the land, we will make the agreement with each holder. "
             ],
             "warning": {
-              "1": {
-                "p": "* For details please see below.",
-                "a": "https://medium.com/mycryptoheroes/announcement-pre-sale-for-land-ba2553a37422"
-              },
-              "2": {
-                "p": "* Please apply from the link below.",
-                "a": "https://docs.google.com/forms/d/1MCVNSJNFbqxuTLiCXC5GkR2NFFTxTPC2L8Gr4FSnat0"
-              }
+              "p": "* For details please see below.",
+              "a": "https://medium.com/mycryptoheroes/announcement-pre-sale-for-land-ba2553a37422"
+            },
+            "button": {
+              "text": "Application",
+              "url": "https://docs.google.com/forms/d/1MCVNSJNFbqxuTLiCXC5GkR2NFFTxTPC2L8Gr4FSnat0"
             }
           }
         }
