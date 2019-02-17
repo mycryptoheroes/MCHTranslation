@@ -67,8 +67,7 @@
   },
   "referral": {
     "description": "share your promo code and get 20% of the paid ETH in GUM!",
-    "gift1": "Your friends who use your promo code can get NOVICE Hero 'Yukichi Fukuzawa'",
-    "gift2": "You can get a special gift NOVICE Hero 'David', when your frineds who use your promo code purchase GUM at more than 0.1 ETH",
+    "gift": "Your friends who use your promo code can get NOVICE Hero 'Yukichi Fukuzawa'\nYou can get a special gift NOVICE Hero 'David', when your frineds who use your promo code purchase GUM at more than 0.1 ETH",
     "warning": "* \"Sign in\" by \"Normal Play with Wallet\" is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" \"Referral URL\" is not displayed.",
     "shareText": "#MyCryptoHeroes, Your time and passion will become assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
