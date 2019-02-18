@@ -278,6 +278,9 @@
     "doubleUpCampaign": "33% chance to get 100GUM! 1% to 1000GUM",
     "heroes": {
       "confirm": "Buy {heroName} for {price} GUM"
+    },
+    "land": {
+      "confirm": "You purchase \"Land: {landName} - {landRarity}\" for {price} GUM. Is it OK?"
     }
   },
   "duel": {
