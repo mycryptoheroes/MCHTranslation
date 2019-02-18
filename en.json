@@ -201,6 +201,7 @@
         "presale": {
           "title": "Pre-sale for Land",
           "body": {
+            "finished": "Land Pre-sale application acceptance period has ended.",
             "lead": "Pre-sale will be a \"bulk sale\" premised on bulk purchase of the country, mainly for business operators and large-lot investors (imagine like “buy one building” for apartment sales, for example)",
             "list": [
               "Price: 500ETH/Land",
