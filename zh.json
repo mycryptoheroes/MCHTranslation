@@ -359,15 +359,14 @@
       "3": "クエストで経験値(クリプトエナジー)を獲得できます。また、エネミーがアイテム(エクステンション)をドロップすることがあります。"
     },
     "quest": {
-      "title": "クエスト",
-      "1": "お好きなnodeを選択してください。",
-      "2": "nodeによってエネミーの種類や、ドロップするエクステンションが変わります。",
-      "3": "クエストにいくたびにヒーローはスタミナを消費します。(Lv.1では5スタミナずつ)",
-      "4": "スタミナは時間経過とともに回復します。"
+      "title": "Quest",
+      "1": "Lets try quest first!, Choose one of nodes",
+      "2": "Choose Lv of node, and your team. \nEach hero has Hero stamina, that is shown on the right side of red star.\nAnd the figure next to the blue start shows the consumption of Hero Stamina for the node.\nHero Stamina will be regenerated as time passing.",
+      "3": "The cube (inside of red rectangle) shows the amount of Crypto Energy(CE) you acquired through the node.\nLevel of heroes and original extensions will go up as you get certain amount of CE.\nThere is a either Original or Replica extension inside of the chest box(inside of blue rectangle)\nThere are bronze, silver and gold chests.\nNote that you won’t receive CE and chests if you can’t win all three battles."
     },
     "team": {
-      "title": "Team編成",
-      "1": "自分が持つヒーロー・エクステンションを組み合わせ、自分だけのチームを編成することができます。",
+      "title": "Team",
+      "1": "You can organize your team in this tab. When you press team 1,",
       "2": "スキル「休む」はマイクリ独自の機能、'アートエディット'によって変化します。",
       "3": "アートエディットはインベントリのヒーロー詳細画面から実行できます。",
       "4": "アートエディット詳細",
@@ -377,7 +376,7 @@
       "title": "",
       "1": "",
       "2": "",
-      "3": ""
+      "3": "" 
     },
     "ranking": {
       "title": "为了更好地游玩MCH",
