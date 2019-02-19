@@ -220,7 +220,14 @@
           }
         },
         "crowdsale": {
-          "title": "Crowd-sale for Land"
+          "title": "Crowd-sale for Land",
+          "pledge": {
+            "content": "I have already checked \"Terms of service\" and \"Land Crowd-sale\"",
+            "medium": {
+              "title": "[announcement] Land Crowd-sale (Official Medium)",
+              "url": "https://medium.com/mycryptoheroes/announcement-land-crowd-sale-f5daf5f08efa"
+            }
+          }
         }
       }
     },

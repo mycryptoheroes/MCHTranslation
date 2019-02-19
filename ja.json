@@ -225,7 +225,14 @@
           }
         },
         "crowdsale": {
-          "title": "ランドクラウドセール"
+          "title": "ランドクラウドセール",
+          "pledge": {
+            "content": "ランドセクタの購入にあたり「利用規約」「ランドクラウドセール」の内容を理解しました。",
+            "medium": {
+              "title": "[announcement] ランドクラウドセール (公式Medium)",
+              "url": "https://medium.com/mycryptoheroes/land-cloud-sale-ja-592a68302f63"
+            }
+          }
         }
       }
     },
