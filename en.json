@@ -234,10 +234,12 @@
     "trade": {
       "startPrice": "Start Price",
       "endPrice": "End Price",
+      "rule0": "Seller's fee: 0%, Buyer's fee: 10%",
       "rule1": "10% of the price will be added to the price automatically as a commission fee.",
       "rule2": "The rate of the price dropping is calculated automatically. It is set to decrease by 20% of the gap between the 'Starting Price' and 'Ending Price' a day. So in 5 days, the price will drop to the 'Ending Price'.",
       "rule3": "Note: The item (heroes and/or extensions) must be unequipped to sell. Likewise, heroes and/or extensions can't be withdrawn while it has been listed for sale (within 5 days) or you decide to cancel the listing.",
       "rule4": "It is possible to exhibit up to 100 times a day.",
+      "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
       "buy1": "Confirm buying",
       "buy2": "with",
       "buy3": "GUM"

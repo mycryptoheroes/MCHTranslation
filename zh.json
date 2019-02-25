@@ -234,10 +234,12 @@
     "trade": {
       "startPrice": "开始价格",
       "endPrice": "结束价格",
+      "rule0": "Seller's fee: 0%, Buyer's fee: 10%",
       "rule1": "实际价格将比标记金额高出百分之10作为手续费",
       "rule2": "降价幅度将会被自动计算，每次降价的量为所标记开始价格和结束价格差的1/5，即在五次降价后物品的价格会等于结束价格",
       "rule3": "注意：英雄以及Extension需要解除装备状态后才能出售，同样你也无法装备正在出售的英雄或者extension，除非你取消出售",
       "rule4": "It is possible to exhibit up to 100 times a day.",
+      "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
       "buy1": "确认购买",
       "buy2": "通过",
       "buy3": "GUM"
@@ -376,7 +378,7 @@
       "title": "",
       "1": "",
       "2": "",
-      "3": "" 
+      "3": ""
     },
     "ranking": {
       "title": "为了更好地游玩MCH",
