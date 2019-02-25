@@ -162,8 +162,8 @@
   },
   "land": {
     "join": {
-      "1": "Belong to Land",
-      "2": "Once you belong you can not leave until the next transferable period"
+      "1": "Land you belong to",
+      "2": "Once you choose it  you can not leave until the next preparatory period"
     }
   },
   "market": {
