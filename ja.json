@@ -65,7 +65,10 @@
     "button": "対戦相手を募集！",
     "prime": {
       "extend": "MCHプライムを延長する",
-      "delete": "チーム4〜6を削除する"
+      "delete": "チーム4〜6を解散する",
+      "deleteModal": {
+        "text": "チーム4〜6を解散します"
+      }
     }
   },
   "referral": {

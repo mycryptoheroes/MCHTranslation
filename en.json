@@ -62,7 +62,10 @@
     "button": "This is my team !!",
     "prime": {
       "extend": "Extend MCH Prime",
-      "delete": "Delete Teams (from 4 to 6)"
+      "delete": "Remove Teams (from 4 to 6)",
+      "deleteModal": {
+        "text": "Remove team 4 to 6"
+      }
     }
   },
   "referral": {
