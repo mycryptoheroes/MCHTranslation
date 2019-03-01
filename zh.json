@@ -165,6 +165,10 @@
     "join": {
       "1": "Land you belong to",
       "2": "Once you choose it  you can not leave until the next preparatory period"
+    },
+    "leave": {
+      "1": "Withdraw from the land belonging",
+      "2": "Once withdrawing from this land, you can not belong to the land until the next preparation period"
     }
   },
   "market": {
