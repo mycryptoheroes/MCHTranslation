@@ -81,7 +81,6 @@
       "description": "To use your heroes, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
       "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
       "button": "Transfer Preparation",
-      "heroonce": "This only needs to be done once for your heroes!",
       "extensiononce": "This only needs to be done once for your extensions!"
     },
     "deposit": "Transfer to Crypto World",

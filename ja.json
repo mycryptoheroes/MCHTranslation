@@ -84,9 +84,7 @@
       "description": "ゲームで使用するには二段階の手順が必要です。①転送準備　②Crypto Worldへ転送",
       "extensiondescription": "ゲームで使用するには二段階の手順が必要です。①転送準備　②Crypto Worldへ転送",
       "button": "転送準備",
-      "heroonce": "こちらの手続きはヒーローに関して初回のみ必要です。",
       "extensiononce": "こちらの手続きはエクステンションに関して初回のみ必要です。"
-
     },
     "deposit": "Crypto Worldへ転送",
     "withdraw": "Ethereum Networkへ転送",
