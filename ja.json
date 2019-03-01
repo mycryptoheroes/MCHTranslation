@@ -83,8 +83,7 @@
     "approve": {
       "description": "ゲームで使用するには二段階の手順が必要です。①転送準備　②Crypto Worldへ転送",
       "extensiondescription": "ゲームで使用するには二段階の手順が必要です。①転送準備　②Crypto Worldへ転送",
-      "button": "転送準備",
-      "extensiononce": "こちらの手続きはエクステンションに関して初回のみ必要です。"
+      "button": "転送準備"
     },
     "deposit": "Crypto Worldへ転送",
     "withdraw": "Ethereum Networkへ転送",
