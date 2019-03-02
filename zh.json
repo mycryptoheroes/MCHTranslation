@@ -335,6 +335,9 @@
     ],
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory"
   },
+  "lordRewards": {
+    "balance": "引出可能ETH："
+  },
   "dictionary": {
     "heroDictionary": "Hero Dictionary",
     "extensionDictionary": "Extension Dictionary",
