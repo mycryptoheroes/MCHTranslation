@@ -171,6 +171,12 @@
       "2": "Once withdrawing from this land, you can not belong to the land until the next preparation period"
     }
   },
+  "landBattle": {
+    "pledge": {
+      "title": "Pledge for fair play",
+      "body": "I will play fair, comferming to the terms of use and Land-battle rules."
+    }
+  },
   "market": {
     "shop": {
       "current": "Current:",
