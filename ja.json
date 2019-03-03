@@ -341,7 +341,7 @@
     "reflectInInventory": "獲得数が多い場合、インベントリへの反映に時間がかかる場合があります"
   },
   "lordRewards": {
-    "balance": "引出可能ETH："
+    "balance": "引出可能数："
   },
   "dictionary": {
     "heroDictionary": "ヒーロー図鑑",
