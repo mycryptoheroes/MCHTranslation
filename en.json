@@ -164,12 +164,19 @@
   },
   "land": {
     "join": {
+      "buttonen": "Join",
+      "buttonja": "",
       "1": "Land you belong to",
       "2": "Once you choose it  you can not leave until the next preparatory period"
     },
+    "transfer": {
+      "buttonen": "Transfer To",
+      "buttonja": ""
+    },
     "leave": {
-      "1": "Withdraw from the land belonging",
-      "2": "Once withdrawing from this land, you can not belong to the land until the next preparation period"
+      "button": "Become Independent",
+      "1": "Leave the land and become Independent",
+      "2": "Once you leave this land and become Independent, you can not belong to any lands until the next preparation period"
     }
   },
   "landBattle": {
