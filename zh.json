@@ -177,7 +177,8 @@
       "button": "Become Independent",
       "1": "Leave the land and become Independent",
       "2": "Once you leave this land and become Independent, you can not belong to any lands until the next preparation period"
-    }
+    },
+    "dedicate": "Dedicate"
   },
   "landBattle": {
     "pledge": {
