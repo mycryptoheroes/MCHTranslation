@@ -347,7 +347,8 @@
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory"
   },
   "lordRewards": {
-    "balance": "Withdrawable："
+    "balance": "Withdrawable：",
+    "notice": "Currently displaying max 50 land sectors. Working on displaying more."
   },
   "dictionary": {
     "heroDictionary": "Hero Dictionary",

@@ -352,7 +352,8 @@
     "reflectInInventory": "獲得数が多い場合、インベントリへの反映に時間がかかる場合があります"
   },
   "lordRewards": {
-    "balance": "引出可能数："
+    "balance": "引出可能数：",
+    "notice": "現在最大50個までランドセクターを表示しております。51個以上の表示は現在準備中です。"
   },
   "dictionary": {
     "heroDictionary": "ヒーロー図鑑",
