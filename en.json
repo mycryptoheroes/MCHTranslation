@@ -190,6 +190,13 @@
       ]
     }
   },
+  "cryptid": {
+    "ce": {
+      "warinings": [
+        "Note that Hero's level might be decreased according to the amount of CE you choose."
+      ]
+    }
+  },
   "market": {
     "shop": {
       "current": "Current:",

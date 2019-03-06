@@ -193,6 +193,13 @@
       ]
     }
   },
+  "cryptid": {
+    "ce": {
+      "warinings": [
+        "Crypto Energyを消費するため、消費量によってはレベルがダウンすることがあります。ご注意ください。"
+      ]
+    }
+  },
   "market": {
     "shop": {
       "current": "所持GUM数:",
