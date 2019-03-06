@@ -195,6 +195,11 @@
       "warinings": [
         "Note that Hero's level might be decreased according to the amount of CE you choose."
       ]
+    },
+    "originalExt": {
+      "warnings": [
+        "The dedicated extensions are lost ownership and can not be used again. Is it OK?"
+      ]
     }
   },
   "market": {
