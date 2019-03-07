@@ -366,6 +366,7 @@
   },
   "lordRewards": {
     "balance": "引出可能数：",
+    "selectedBalance": "選択合計：",
     "notice": "現在最大50個までランドセクターを表示しております。51個以上の表示は現在準備中です。"
   },
   "dictionary": {
