@@ -239,6 +239,10 @@
         "1": "Novice Hero is in game hero.",
         "2": "Unable to sell and transfer to Ethereum Network."
       },
+      "replica": {
+        "1": "7 days after purchase (168 hours) Lv will be 1. Please be careful.",
+        "2": "In addition, please read details before purchase."
+      },
       "land": {
         "presale": {
           "title": "Pre-sale for Land",
