@@ -312,6 +312,10 @@
         "restart": "Continue quest"
       }
     },
+    "knightBattleHeroWarning": {
+      "text": "At least one of your heroes or extensions is used in Knight Battles and won't gain CE. Note: You do not receive CE for original extensions and heroes that are used in your Knight Battle team. (except Novice heroes)",
+      "hideWarning": "Do not show this warning for future quests"
+    },
     "acquired": "Acquired",
     "rules": {
       "hero": "Available Heroes",
