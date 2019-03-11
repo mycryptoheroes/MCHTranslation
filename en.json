@@ -312,6 +312,10 @@
         "restart": "Continue quest"
       }
     },
+    "knightBattleHeroWarning": {
+      "text": "At least one of your heroes is used in Knight Battles. You do not receive CE for Heroes that are a member of your Knight Battle team. (except uncommon Heroes)",
+      "hideWarning": "Do not show this warning for future quests"
+    },
     "acquired": "Acquired",
     "rules": {
       "hero": "Available Heroes",
