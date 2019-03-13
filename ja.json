@@ -195,9 +195,10 @@
   },
   "cryptid": {
     "ce": {
-      "warinings": [
-        "Crypto Energyを消費するため、消費量によってはレベルがダウンすることがあります。ご注意ください。"
-      ]
+      "warnings": {
+        "hero": "Crypto Energyを消費するため、消費量によってはレベルがダウンすることがあります。ご注意ください。",
+        "extension": "Crypto Energyを消費するため、消費量によってはレベルがダウンすることがあります。ご注意ください。"
+      }
     },
     "originalExt": {
       "warnings": [
