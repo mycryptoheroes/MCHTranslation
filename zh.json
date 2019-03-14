@@ -185,7 +185,9 @@
       "grouping": "Grouping",
       "preparation": "Preparation",
       "groupingStatus": "Available after Grouping",
-      "viewGroup": "Scout Opponents"
+      "viewGroup": "Scout Opponents",
+      "battle": "Battle",
+      "results": "Results"
     },
     "pledge": {
       "title": "Pledge for fair play",

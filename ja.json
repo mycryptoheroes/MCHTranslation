@@ -188,7 +188,9 @@
       "grouping": "グループ分け",
       "preparation": "チーム準備",
       "groupingStatus": "グループ決定後可能になります",
-      "viewGroup": "対戦相手を確認する"
+      "viewGroup": "対戦相手を確認する",
+      "battle": "バトル",
+      "results": "結果表示"
     },
     "pledge": {
       "title": "宣誓",
