@@ -248,7 +248,9 @@
       "replica": {
         "1": "7 days after purchase (168 hours) Lv will be 1. Please be careful.",
         "2": "In addition, please read details before purchase.",
-        "3": "The pickup will be automatically updated every day at UTC 0:00."
+        "3": "The pickup will be automatically updated every day at UTC 0:00.",
+        "4": "Consume",
+        "5": " GUM and purchase this replica hero?"
       },
       "land": {
         "presale": {
