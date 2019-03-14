@@ -181,6 +181,12 @@
     "dedicate": "Dedicate"
   },
   "landBattle": {
+    "phases": {
+      "grouping": "Grouping",
+      "preparation": "Preparation",
+      "groupingStatus": "Available after Grouping",
+      "viewGroup": "Scout Opponents"
+    },
     "pledge": {
       "title": "Pledge for fair play",
       "body": "I will play fair, comferming to the terms of use and Land-battle rules.",

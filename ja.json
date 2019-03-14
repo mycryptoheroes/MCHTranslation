@@ -184,6 +184,12 @@
     "dedicate": "奉納する"
   },
   "landBattle": {
+    "phases": {
+      "grouping": "グループ分け",
+      "preparation": "チーム準備",
+      "groupingStatus": "グループ決定後可能になります",
+      "viewGroup": "対戦相手を確認する"
+    },
     "pledge": {
       "title": "宣誓",
       "body": "ランドバトル参加にあたり「利用規約」「大会ルール」を理解、遵守し、正々堂々とプレイすることを誓います。",
