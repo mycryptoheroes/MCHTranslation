@@ -67,6 +67,9 @@
       "deleteModal": {
         "text": "Remove team 4 to 6"
       }
+    },
+    "reset": {
+      "warning": "This action will reset this team to its initial state. Is it OK?"
     }
   },
   "referral": {

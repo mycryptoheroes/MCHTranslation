@@ -67,6 +67,9 @@
       "deleteModal": {
         "text": "Remove team 4 to 6"
       }
+    },
+    "reset": {
+      "warning": "This action will reset this team to its initial state. Is it OK?"
     }
   },
   "referral": {
@@ -203,7 +206,7 @@
       "warnings": {
         "hero": "Note: Your hero's level might decrease according to the amount of CE you choose to dedicate.",
         "extension": "Note: Your extension's level might decrease according to the amount of CE you choose to dedicate."
-      } 
+      }
     },
     "originalExt": {
       "warnings": [
