@@ -192,6 +192,9 @@
       "battle": "Battle",
       "results": "Results"
     },
+    "descriptions": {
+      "g5": "This battle decides the 5 Knights (G5) who will represent each Land in Flag Battle. Only the Knight Class participates in this battle. G5 Knights will be decided by the Achievement Points ranking at the end of this Battle."
+    },
     "pledge": {
       "title": "Pledge for fair play",
       "body": "I will play fair, comferming to the terms of use and Land-battle rules.",
