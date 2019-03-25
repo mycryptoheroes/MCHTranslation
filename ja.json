@@ -169,11 +169,27 @@
     }
   },
   "land": {
+    "title": "ランド",
+    "other": "他のランド",
+    "setting": "ランド設定(キングのみ)",
+    "kings": "キング",
+    "noKings": "キングがいません",
+    "Maestros": "マエストロ",
+    "noMaestros": "マエストロが任命されていません",
+    "knight": "ナイト",
+    "lordsCount": "ロード数",
+    "citizensCount": "所属シティズン数",
+    "profit": "ランド収益",
+    "distribution": "配分率",
+    "forward": "繰り越し",
+    "community": "コミュニティ",
     "join": {
       "buttonen": "",
       "buttonja": "に所属する",
       "1": "ランドへの所属",
-      "2": "一度このランドに所属すると、次の準備期間まで所属ランドの変更はできません"
+      "2": "一度このランドに所属すると、次の準備期間まで所属ランドの変更はできません",
+      "current": "所属ランド",
+      "noland": "ランド無所属"
     },
     "transfer": {
       "buttonen": "",
@@ -184,9 +200,21 @@
       "1": "所属中ランドからの脱退し無所属になる",
       "2": "一度このランドから脱退し無所属になると、次の準備期間までランドへの所属はできません"
     },
+    "lord": {
+      "list": "ロード一覧",
+      "count": "ロード数"
+    },
+    "citizen": {
+      "list": "シティズン一覧",
+      "count": "シティズン数"
+    },
     "dedicate": "奉納する"
   },
   "landBattle": {
+    "title": "ランドバトル",
+    "currentPeriod": "現在のターム",
+    "entryStatus": "エントリー状況",
+    "entryCount": "エントリー数",
     "phases": {
       "grouping": "グループ分け",
       "preparation": "チーム準備",
@@ -208,6 +236,7 @@
     }
   },
   "cryptid": {
+    "title": "クリプタイド",
     "ce": {
       "warnings": {
         "hero": "Crypto Energyを消費するため、消費量によってはレベルがダウンすることがあります。ご注意ください。",
@@ -218,7 +247,16 @@
       "warnings": [
         "奉納したエクステンションは所有権が失われ二度と使用できなくなります。よろしいですか？"
       ]
-    }
+    },
+    "EMAEffects": {
+      "title": "EMA効果",
+      "points": "EMAポイント",
+      "phy": "PHYダメージ",
+      "int": "INTダメージ",
+      "recovery": "回復量"
+    },
+    "nieRanking": "NIEランキング",
+    "dedicate": "奉納"
   },
   "market": {
     "shop": {
