@@ -413,7 +413,8 @@
       "pledge": "Pledge for fair play",
       "pledgeContent": "I will play fair, comforming to the terms of use and Weekly Cup rules.",
       "warning": "* Your account will be banned and your trophies and Winners Point will be deprivationd if you violate terms of use or Weekly Cup rules."
-    }
+    },
+    "title": "Weekly Cup"
   },
   "raid": {
     "warning": [
