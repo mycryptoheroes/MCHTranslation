@@ -172,7 +172,7 @@
     "kings": "Kings",
     "noKings": "No Kings",
     "Maestros": "Maestros",
-    "noMaestros": "Maestros is not assinged",
+    "noMaestros": "Not assinged",
     "knight": "Knight",
     "lordsCount": "Lords Count",
     "citizensCount": "Citizens Count",
@@ -245,7 +245,7 @@
         "The dedicated extensions are lost ownership and can not be used again. Is it OK?"
       ]
     },
-    "EMAEffects": {
+    "emaEffects": {
       "title": "EMA Effects",
       "points": "EMA Points",
       "phy": "PHY Damage",

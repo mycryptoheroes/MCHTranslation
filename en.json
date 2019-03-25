@@ -172,7 +172,7 @@
     "kings": "Kings",
     "noKings": "No Kings",
     "Maestros": "Maestros",
-    "noMaestros": "Maestros is not assinged",
+    "noMaestros": "Not assinged",
     "knight": "Knight",
     "lordsCount": "Lords Count",
     "citizensCount": "Citizens Count",
@@ -249,7 +249,7 @@
         "Note: You will lose ownership of the original extensions you dedicate. You will not be able to use them anymore. Is this okay?"
       ]
     },
-    "EMAEffects": {
+    "emaEffects": {
       "title": "EMA Effects",
       "points": "EMA Points",
       "phy": "PHY Damage",
