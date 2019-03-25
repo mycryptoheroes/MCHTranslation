@@ -213,6 +213,7 @@
     "currentPeriod": "Current Period",
     "entryStatus": "Entry status",
     "entryCount": "Entry Count",
+    "entry": "Entry",
     "phases": {
       "grouping": "Grouping",
       "preparation": "Preparation",
