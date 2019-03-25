@@ -238,7 +238,11 @@
     },
     "achievementPoints": "功績ポイントランキング"
   },
+  "knightBattle": {
+    "title": "ナイトバトル"
+  },
   "flagBattle": {
+    "title": "フラッグ戦",
     "target": "フラッグ戦ターゲット"
   },
   "cryptid": {

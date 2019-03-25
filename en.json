@@ -235,7 +235,11 @@
     },
     "achievementPoints": "Achievement Points Ranking"
   },
+  "knightBattle": {
+    "title": "Knight Battle"
+  },
   "flagBattle": {
+    "title": "Flag Battle",
     "target": "Current Target of Flag Battle"
   },
   "cryptid": {
