@@ -238,8 +238,19 @@
     },
     "achievementPoints": "功績ポイントランキング"
   },
+  "knightBattle": {
+    "title": "ナイトバトル",
+    "preparation": "準備期間"
+  },
   "flagBattle": {
+    "title": "フラッグ戦",
     "target": "フラッグ戦ターゲット"
+  },
+  "class": {
+    "knight": "ナイト",
+    "knightCommander": "ナイトコマンダー",
+    "commander": "コマンダー",
+    "lieutenant": "ルテナント"
   },
   "cryptid": {
     "title": "クリプタイド",
