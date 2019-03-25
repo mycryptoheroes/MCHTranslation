@@ -233,7 +233,8 @@
     "achievementPoints": "Achievement Points Ranking"
   },
   "knightBattle": {
-    "title": "Knight Battle"
+    "title": "Knight Battle",
+    "preparation": "Preparation"
   },
   "flagBattle": {
     "title": "Flag Battle",

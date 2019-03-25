@@ -239,7 +239,8 @@
     "achievementPoints": "功績ポイントランキング"
   },
   "knightBattle": {
-    "title": "ナイトバトル"
+    "title": "ナイトバトル",
+    "preparation": "準備期間"
   },
   "flagBattle": {
     "title": "フラッグ戦",
