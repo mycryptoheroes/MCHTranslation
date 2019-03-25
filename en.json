@@ -243,6 +243,12 @@
     "title": "Flag Battle",
     "target": "Current Target of Flag Battle"
   },
+  "class": {
+    "knight": "Knight",
+    "knightCommander": "Knight Commander",
+    "commander": "Commander",
+    "lieutenant": "Lieutenant"
+  },
   "cryptid": {
     "title": "Cryptid",
     "ce": {

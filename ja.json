@@ -246,6 +246,12 @@
     "title": "フラッグ戦",
     "target": "フラッグ戦ターゲット"
   },
+  "class": {
+    "knight": "ナイト",
+    "knightCommander": "ナイトコマンダー",
+    "commander": "コマンダー",
+    "lieutenant": "ルテナント"
+  },
   "cryptid": {
     "title": "クリプタイド",
     "ce": {
