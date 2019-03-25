@@ -168,6 +168,7 @@
   "land": {
     "title": "Land",
     "other": "Other Lands",
+    "noland": "Not Belonged",
     "setting": "Land Setting (King Only)",
     "kings": "Kings",
     "noKings": "No Kings",
