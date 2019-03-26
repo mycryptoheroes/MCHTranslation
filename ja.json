@@ -10,7 +10,8 @@
       "company": "運営会社",
       "terms": "利用規約"
     },
-    "errorMessage": "ブラウザの再読込をお試しください"
+    "errorMessage": "ブラウザの再読込をお試しください",
+    "condition": "発動条件"
   },
   "pages": {
     "home": "ホーム",

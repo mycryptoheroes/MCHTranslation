@@ -10,7 +10,8 @@
       "company": "运营公司",
       "terms": "服务条款"
     },
-    "errorMessage": "请尝试刷新"
+    "errorMessage": "请尝试刷新",
+    "condition": "Condition"
   },
   "pages": {
     "home": "主页",

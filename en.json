@@ -10,7 +10,8 @@
       "company": "Operating Company",
       "terms": "Terms of Service"
     },
-    "errorMessage": "Please try reload"
+    "errorMessage": "Please try reload",
+    "condition": "Condition"
   },
   "pages": {
     "home": "Home",
