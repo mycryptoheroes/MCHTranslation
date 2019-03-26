@@ -315,7 +315,7 @@
         "3": "The pickup will be automatically updated every day at UTC 0:00.",
         "4": "Consume",
         "5": " GUM and purchase this replica hero?",
-        "refresh": "Would you consume 200 GUM and refresh the replica hero pickup?"
+        "refresh": "Would you consume 100 GUM and refresh the replica hero pickup?"
       },
       "land": {
         "presale": {
@@ -362,7 +362,12 @@
       "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
       "buy1": "Confirm buying",
       "buy2": "with",
-      "buy3": "GUM"
+      "buy3": "GUM",
+      "sort": {
+        "last": "Recently Listed",
+        "lowest": "Lowest Price",
+        "highest": "Highest Price"
+      }
     },
     "lab": {
       "1": "Buy Crypto Energy",
