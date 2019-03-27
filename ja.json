@@ -245,7 +245,15 @@
   },
   "flagBattle": {
     "title": "フラッグ戦",
-    "target": "フラッグ戦ターゲット"
+    "target": "フラッグ戦ターゲット",
+    "phases": {
+      "grouping": "対戦スケジュール抽選",
+      "preparation": "チーム準備",
+      "groupingStatus": "対戦スケジュール決定後可能になります",
+      "viewGroup": "対戦ランドを確認する",
+      "battle": "バトル",
+      "results": "結果表示"
+    }
   },
   "class": {
     "knight": "ナイト",
