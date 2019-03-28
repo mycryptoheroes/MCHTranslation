@@ -211,6 +211,7 @@
   },
   "landBattle": {
     "title": "Land Battle",
+    "detail": "Land Battle consists of 'Knight Battle(1-5)', 'Knight Battle-G5' and 'Flag Battle'.\nKnights can get a part of land profit, and G5 can join flag battle(fight with G5 of other lands) as representatives.",
     "currentPeriod": "Current Period",
     "entryStatus": "Entry status",
     "entryCount": "Entry Count",
@@ -257,6 +258,7 @@
   },
   "cryptid": {
     "title": "Cryptid",
+    "detail": "Cryptid is a like guardian angel for each Land.\nYour Team can get stronger with your dedication of NIE and EMA",
     "ce": {
       "warinings": [
         "Note that Hero's level might be decreased according to the amount of CE you choose."
@@ -609,5 +611,6 @@
   },
   "errors": {
     "4011": "[This account is being banned]<br><br>we decided to lock your account due to violation of section 14 of terms and policies. Please read terms and services  to check which  rule  you are against.<br><a href=\"https://www.mycryptoheroes.net/documents/terms_en.pdf\">Terms of service (PDF)</a><br>We did it to make  everyone can play My Crypto Heroes comfortably,thank you for your understanding.<br><br>double jump.tokyo inc<br><br>If you have any objections, please send email to address down below,<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
-  }
+  },
+  "detail": "Check more detail"
 }
