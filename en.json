@@ -10,7 +10,8 @@
       "company": "Operating Company",
       "terms": "Terms of Service"
     },
-    "errorMessage": "Please try reload"
+    "errorMessage": "Please try reload",
+    "condition": "Condition"
   },
   "pages": {
     "home": "Home",
@@ -241,7 +242,15 @@
   },
   "flagBattle": {
     "title": "Flag Battle",
-    "target": "Current Target of Flag Battle"
+    "target": "Current Target of Flag Battle",
+    "phases": {
+      "grouping": "Match Schedule Lottery",
+      "preparation": "Preparation",
+      "groupingStatus": "Available after Match Schedule Lottery",
+      "viewGroup": "Scout Opponents",
+      "battle": "Battle",
+      "results": "Results"
+    }
   },
   "class": {
     "knight": "Knight",

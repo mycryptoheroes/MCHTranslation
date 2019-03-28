@@ -10,7 +10,8 @@
       "company": "运营公司",
       "terms": "服务条款"
     },
-    "errorMessage": "请尝试刷新"
+    "errorMessage": "请尝试刷新",
+    "condition": "Condition"
   },
   "pages": {
     "home": "主页",
@@ -238,7 +239,15 @@
   },
   "flagBattle": {
     "title": "Flag Battle",
-    "target": "Current Target of Flag Battle"
+    "target": "Current Target of Flag Battle",
+    "phases": {
+      "grouping": "Match Schedule Lottery",
+      "preparation": "Preparation",
+      "groupingStatus": "Available after Match Schedule Lottery",
+      "viewGroup": "Scout Opponents",
+      "battle": "Battle",
+      "results": "Results"
+    }
   },
   "class": {
     "knight": "Knight",
