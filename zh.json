@@ -211,7 +211,7 @@
   },
   "landBattle": {
     "title": "Land Battle",
-    "detail": "Land Battle consists of 'Knight Battle(1-5)', 'Knight Battle-G5' and 'Flag Battle'.\nKnights can get a part of land profit, and G5 can join flag battle(fight with G5 of other lands) as representatives",
+    "detail": "Land Battle consists of 'Knight Battle(1-5)', 'Knight Battle-G5' and 'Flag Battle'.\nKnights can get a part of land profit, and G5 can join flag battle(fight with G5 of other lands) as representatives.",
     "currentPeriod": "Current Period",
     "entryStatus": "Entry status",
     "entryCount": "Entry Count",
