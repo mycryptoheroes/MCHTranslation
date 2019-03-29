@@ -188,7 +188,13 @@
       "1": "Land you belong to",
       "2": "Once you choose it  you can not leave until the next preparatory period",
       "current": "Joined Land",
-      "noland": "Not Joined"
+      "noland": "Not Joined",
+      "title": "Join Land",
+      "detail": {
+        "already": "You can change your land only once during the preparation period of every land battle season.\nYou can not belong to any lands until the next preparation period, even if you leave your land and become Independent.",
+        "new": "When you belong to land, your hero can get stronger owing to Cryptid and you can entry land battle.\nYou can only change once every season.",
+        "community": "Sometimes, King and Maestros run campains or supports users\nLet's check community before deciding your land."
+      }
     },
     "transfer": {
       "buttonen": "Transfer To",
