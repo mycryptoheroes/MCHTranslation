@@ -236,10 +236,7 @@
     "pledge": {
       "title": "Pledge for fair play",
       "body": "I will play fair, comferming to the terms of use and Land-battle rules.",
-      "warnings": [
-        "In the Land Battle you need to organize a dedicated team.",
-        "Note that CE of heroes (except Novice heroes) and extensions you add into the team for Knight battle will not be accumulated."
-      ]
+      "warnings": "In the Land Battle you need to organize a dedicated team."
     },
     "achievementPoints": "Achievement Points Ranking"
   },
@@ -411,10 +408,6 @@
         "close": "Forget quest",
         "restart": "Continue quest"
       }
-    },
-    "knightBattleHeroWarning": {
-      "text": "At least one of your heroes or extensions is used in Knight Battles and won't gain CE. Note: You do not receive CE for original extensions and heroes that are used in your Knight Battle team. (except Novice heroes)",
-      "hideWarning": "Do not show this warning for future quests"
     },
     "acquired": "Acquired",
     "rules": {
