@@ -186,7 +186,7 @@
       "buttonen": "Join",
       "buttonja": "",
       "1": "Land you belong to",
-      "2": "Once you choose it  you can not leave until the next preparatory period",
+      "2": "Once you choose it you can not leave until the next preparatory period",
       "current": "Joined Land",
       "noland": "Not Joined",
       "title": "Join Land",
@@ -203,7 +203,8 @@
     "leave": {
       "button": "Become Independent",
       "1": "Leave the land and become Independent",
-      "2": "Once you leave this land and become Independent, you can not belong to any lands until the next preparation period"
+      "2": "Once you leave this land and become Independent, you can not belong to any lands until the next preparation period",
+      "3": "You can not join any lands till next season. Are you sure to leave?",
     },
     "lord": {
       "list": "Lord List",
