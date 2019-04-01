@@ -168,7 +168,6 @@
   },
   "land": {
     "title": "Land",
-    "other": "Other Lands",
     "noland": "Not Belonged",
     "setting": "Land Setting (King Only)",
     "kings": "Kings",
@@ -207,7 +206,8 @@
       "3": "You can not join any lands till next season. Are you sure to leave?"
     },
     "other": {
-      "button": "Transfer to Other Land"
+      "button": "Transfer to Other Land",
+      "title": "Other Lands"
     },
     "lord": {
       "list": "Lord List",
