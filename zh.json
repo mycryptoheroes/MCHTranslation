@@ -277,7 +277,8 @@
       "points": "EMA Points",
       "phy": "PHY Damage",
       "int": "INT Damage",
-      "recovery": "Recovery"
+      "recovery": "Recovery",
+      "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each night battle / flag battle / quest / raid battle (in principle, weekly cup has no effect)"
     },
     "nieRanking": "NIE Ranking",
     "dedicate": "dedicate"
