@@ -206,6 +206,9 @@
       "2": "Once you leave this land and become Independent, you can not belong to any lands until the next preparation period",
       "3": "You can not join any lands till next season. Are you sure to leave?"
     },
+    "other": {
+      "button": "Transfer to Other Land"
+    },
     "lord": {
       "list": "Lord List",
       "count": "Lord Count"
