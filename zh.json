@@ -168,7 +168,6 @@
   },
   "land": {
     "title": "Land",
-    "other": "Other Lands",
     "noland": "Not Belonged",
     "setting": "Land Setting (King Only)",
     "kings": "Kings",
@@ -188,7 +187,13 @@
       "1": "Land you belong to",
       "2": "Once you choose it  you can not leave until the next preparatory period",
       "current": "Joined Land",
-      "noland": "Not Joined"
+      "noland": "Not Joined",
+      "title": "Join Land",
+      "detail": {
+        "already": "You can change your land only once during the preparation period of every land battle season.\nYou can not belong to any lands until the next preparation period, even if you leave your land and become Independent.",
+        "new": "When you belong to land, your hero can get stronger owing to Cryptid and you can entry land battle.\nYou can only change once every season.",
+        "community": "Sometimes, King and Maestros run campains or supports users\nLet's check community before deciding your land."
+      }
     },
     "transfer": {
       "buttonen": "Transfer To",
@@ -197,7 +202,12 @@
     "leave": {
       "button": "Become Independent",
       "1": "Leave the land and become Independent",
-      "2": "Once you leave this land and become Independent, you can not belong to any lands until the next preparation period"
+      "2": "Once you leave this land and become Independent, you can not belong to any lands until the next preparation period",
+      "3": "You can not join any lands till next season. Are you sure to leave?"
+    },
+    "other": {
+      "button": "Transfer to Other Land",
+      "title": "Other Lands"
     },
     "lord": {
       "list": "Lord List",
@@ -211,6 +221,7 @@
   },
   "landBattle": {
     "title": "Land Battle",
+    "detail": "Land Battle consists of 'Knight Battle(1-5)', 'Knight Battle-G5' and 'Flag Battle'.\nKnights can get a part of land profit, and G5 can join flag battle(fight with G5 of other lands) as representatives.",
     "currentPeriod": "Current Period",
     "entryStatus": "Entry status",
     "entryCount": "Entry Count",
@@ -226,10 +237,7 @@
     "pledge": {
       "title": "Pledge for fair play",
       "body": "I will play fair, comferming to the terms of use and Land-battle rules.",
-      "warnings": [
-        "In the Land Battle you need to organize a dedicated team.",
-        "Note that CE of heroes (except Novice heroes) and extensions you add into the team for Knight battle will not be accumulated."
-      ]
+      "warnings": "In the Land Battle you need to organize a dedicated team."
     },
     "achievementPoints": "Achievement Points Ranking"
   },
@@ -257,6 +265,7 @@
   },
   "cryptid": {
     "title": "Cryptid",
+    "detail": "Cryptid is a like guardian angel for each Land.\nYour Team can get stronger with your dedication of NIE and EMA",
     "ce": {
       "warinings": [
         "Note that Hero's level might be decreased according to the amount of CE you choose."
@@ -272,7 +281,8 @@
       "points": "EMA Points",
       "phy": "PHY Damage",
       "int": "INT Damage",
-      "recovery": "Recovery"
+      "recovery": "Recovery",
+      "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each night battle / flag battle / quest / raid battle (in principle, weekly cup has no effect)"
     },
     "nieRanking": "NIE Ranking",
     "dedicate": "dedicate"
@@ -609,5 +619,6 @@
   },
   "errors": {
     "4011": "[This account is being banned]<br><br>we decided to lock your account due to violation of section 14 of terms and policies. Please read terms and services  to check which  rule  you are against.<br><a href=\"https://www.mycryptoheroes.net/documents/terms_en.pdf\">Terms of service (PDF)</a><br>We did it to make  everyone can play My Crypto Heroes comfortably,thank you for your understanding.<br><br>double jump.tokyo inc<br><br>If you have any objections, please send email to address down below,<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
-  }
+  },
+  "detail": "Check more detail"
 }
