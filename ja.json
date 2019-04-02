@@ -223,7 +223,18 @@
       "list": "シティズン一覧",
       "count": "シティズン数"
     },
-    "dedicate": "奉納する"
+    "dedicate": "奉納する",
+    "freeAgent": {
+      "declare": "{gum} GUMでFA宣言する",
+      "cancelDeclared": "FA宣言を取り消す",
+      "receive": "{gum} GUMでランドに迎える",
+      "notDeclared": "FA宣言していません",
+      "confirm": {
+        "declare": "{gum} GUMでFA宣言しますか？",
+        "cancelDeclared": "FA宣言を取り消しますか？",
+        "receive": "{gum} GUMを支払い、このユーザーをランドに迎えますか？"
+      }
+    }
   },
   "landBattle": {
     "title": "ランドバトル",

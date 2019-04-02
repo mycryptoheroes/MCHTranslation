@@ -217,7 +217,18 @@
       "list": "Citizen List",
       "count": "Citizen Count"
     },
-    "dedicate": "Dedicate"
+    "dedicate": "Dedicate",
+    "freeAgent": {
+      "declare": "Declare Free Agent for {gum} GUM",
+      "cancelDeclared": "Cancel the Declaration",
+      "receive": "Receive for {gum} GUM",
+      "notDeclared": "Not Declared.",
+      "confirm": {
+        "declare": "Do you declare Free Agent for {gum} GUM?",
+        "cancelDeclared": "Do you want to cancel the Free Agent declaration?",
+        "receive": "Would you like to pay {gum} GUM and welcome this user to Land?"
+      }
+    }
   },
   "landBattle": {
     "title": "Land Battle",
