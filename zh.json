@@ -241,9 +241,9 @@
     "title": "Flag Battle",
     "target": "Current Target of Flag Battle",
     "phases": {
-      "grouping": "Match Schedule Lottery",
+      "grouping": "Match Schedule Creation",
       "preparation": "Preparation",
-      "groupingStatus": "Available after Match Schedule Lottery",
+      "groupingStatus": "Available after Match Schedule Creation",
       "viewGroup": "Scout Opponents",
       "battle": "Battle",
       "results": "Results"
