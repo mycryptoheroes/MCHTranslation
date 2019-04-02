@@ -179,8 +179,9 @@
     "knights": "Knights",
     "lordsCount": "Lords Count",
     "citizensCount": "Citizens Count",
+    "seeAllKnights": "See All Knights",
     "profit": "Land Profit",
-    "distribution": "Distribution Ratio",
+    "distribution": "Profit Distribution",
     "forward": "Carry Forward",
     "community": "Community",
     "join": {
