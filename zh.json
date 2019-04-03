@@ -222,15 +222,16 @@
     },
     "dedicate": "Dedicate",
     "freeAgent": {
-      "declare": "Declare Free Agent for {gum} GUM",
-      "cancelDeclared": "Cancel the Declaration",
-      "receive": "Receive for {gum} GUM",
+      "declare": "Become Free Agent ({gum} GUM)",
+      "cancelDeclared": "Cancel Declaration",
+      "hasDeclared": "Declared to be a Free Agent for {gum} GUM",
+      "receive": "Hire Free Agent for {gum} GUM",
       "notDeclared": "Not Declared.",
-      "notKnight": "Can't declare that you are not a knight",
+      "notKnight": "Can't declare Free Agent - Knights only",
       "confirm": {
-        "declare": "Do you declare Free Agent for {gum} GUM?",
-        "cancelDeclared": "Do you want to cancel the Free Agent declaration?",
-        "receive": "Would you like to pay {gum} GUM and welcome this user to Land?"
+        "declare": "Are you sure to become a Free Agent at a price of {gum} GUM?",
+        "cancelDeclared": "Are you sure to cancel the Free Agent declaration?",
+        "receive": "Are you sure to hire this Free Agent to your Land for {gum} GUM?"
       }
     }
   },

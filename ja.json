@@ -230,6 +230,7 @@
     "freeAgent": {
       "declare": "{gum} GUMでFA宣言する",
       "cancelDeclared": "FA宣言を取り消す",
+      "hasDeclared": "{gum} GUMでFA宣言済み",
       "receive": "{gum} GUMでランドに迎える",
       "notDeclared": "FA宣言していません",
       "notKnight": "ナイトのみFA宣言可能です",
