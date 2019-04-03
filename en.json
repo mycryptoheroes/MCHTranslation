@@ -186,6 +186,8 @@
     "community": "Community",
     "flagBattleHistory": "Flag Battle History",
     "freeAgentKnights": "Free Agent Knights",
+    "detail1": "If you have a landsector, you can become a lord of the land. And you can dedicate to Cryptid of the land and quest its land node. Also you can withdraw landlord reward.",
+    "detail2": "When you send your landsector for its first time, you need to set name and art edit.",
     "join": {
       "buttonen": "Join",
       "buttonja": "",
