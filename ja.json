@@ -187,6 +187,8 @@
     "distribution": "配分率",
     "forward": "繰り越し",
     "community": "コミュニティ",
+    "flagBattleHistory": "フラッグ戦の歴史",
+    "freeAgentKnights": "FA宣言中のナイト",
     "join": {
       "buttonen": "",
       "buttonja": "に所属する",
