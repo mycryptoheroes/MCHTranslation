@@ -223,6 +223,7 @@
       "cancelDeclared": "Cancel the Declaration",
       "receive": "Receive for {gum} GUM",
       "notDeclared": "Not Declared.",
+      "notKnight": "Can't declare that you are not a knight",
       "confirm": {
         "declare": "Do you declare Free Agent for {gum} GUM?",
         "cancelDeclared": "Do you want to cancel the Free Agent declaration?",

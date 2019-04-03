@@ -229,6 +229,7 @@
       "cancelDeclared": "FA宣言を取り消す",
       "receive": "{gum} GUMでランドに迎える",
       "notDeclared": "FA宣言していません",
+      "notKnight": "ナイトのみFA宣言可能です",
       "confirm": {
         "declare": "{gum} GUMでFA宣言しますか？",
         "cancelDeclared": "FA宣言を取り消しますか？",
