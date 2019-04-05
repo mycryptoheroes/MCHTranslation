@@ -75,7 +75,7 @@
   },
   "referral": {
     "description": "分享链接获得GUM！\n 邀请的用户可以获得相当于购买GUM时使用的ETH的10%的GUM作为收益。\n(注意:只在用ETH买GUM的时候(不包括在其他地方使用ETH的时候))",
-    "gift": "Promo code Gift\nYour friends who use your promo code can get NOVICE Hero 'Yukichi Fukuzawa'",
+    "gift": "Promo code Gift\nYour friends who use your promo code can get NOVICE Hero 'Yukichi Fukuzawa'.",
     "warning": "* \"Sign in\" by \"Normal Play with Wallet\" is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" \"Referral URL\" is not displayed.",
     "shareText": "#MyCryptoHeroes 在这里，你付出的所有的时间、热情，都会成为你真正的财富，你无需虚拟通货或者钱包即可加入日本“blockchain RPG”，并在此享受乐趣！‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
