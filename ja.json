@@ -508,6 +508,7 @@
   },
   "announcement": {
     "link": "詳細を見る",
+    "unread": "未読",
     "important": "重要"
   },
   "messageTypes": {

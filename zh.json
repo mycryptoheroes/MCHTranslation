@@ -491,6 +491,7 @@
   },
   "announcement": {
     "link": "View Detail",
+    "unread": "Unread",
     "important": "Notice!"
   },
   "messageTypes": {
