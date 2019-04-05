@@ -33,6 +33,7 @@
     "referral": "Referral",
     "notifications": "Notifications",
     "messages": "Messages",
+    "announcement": "Announcement",
     "lordRewards": "Lord Rewards",
     "dictionary": "MCH Dictionary",
     "editedArts": "Art Showcase",
@@ -498,6 +499,9 @@
     "extensionDictionary": "Extension Dictionary",
     "issued": "issued",
     "supply": "Supply Limit"
+  },
+  "announcement": {
+    "link": "View Detail"
   },
   "messageTypes": {
     "0": "{0}",

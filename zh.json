@@ -33,6 +33,7 @@
     "referral": "委托",
     "notifications": "通知",
     "messages": "信息",
+    "announcement": "Announcement",
     "lordRewards": "Lord Rewards",
     "dictionary": "MCH词典",
     "editedArts": "编辑",
@@ -486,6 +487,9 @@
     "extensionDictionary": "Extension Dictionary",
     "issued": "印刷",
     "supply": "Supply Limit"
+  },
+  "announcement": {
+    "link": "View Detail"
   },
   "messageTypes": {
     "0": "{0}",
