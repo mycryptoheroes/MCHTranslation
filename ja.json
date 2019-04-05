@@ -30,6 +30,7 @@
     "referral": "リファラル",
     "notifications": "お知らせ",
     "messages": "メッセージ",
+    "announcement": "運営からのお知らせ",
     "lordRewards": "ロード報酬",
     "dictionary": "マイクリ図鑑",
     "editedArts": "みんなのアートエディット",
@@ -500,6 +501,9 @@
     "extensionDictionary": "エクステンション図鑑",
     "issued": "発行数",
     "supply": "最大発行数"
+  },
+  "announcement": {
+    "link": "詳細を見る"
   },
   "messageTypes": {
     "0": "{1}",
