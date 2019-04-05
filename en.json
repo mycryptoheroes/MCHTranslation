@@ -65,6 +65,11 @@
   "others": {
     "other": "Others"
   },
+  "about": {
+    "press": "Press",
+    "ecosystem": "Ecosystem Partner",
+    "media": "Media Partner"
+  },
   "team": {
     "button": "This is my team !!",
     "prime": {

@@ -68,6 +68,11 @@
   "others": {
     "other": "その他"
   },
+  "about": {
+    "press": "メディア掲載",
+    "ecosystem": "エコシステムパートナー",
+    "media": "メディアパートナー"
+  },
   "team": {
     "button": "対戦相手を募集！",
     "prime": {
