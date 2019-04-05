@@ -502,7 +502,8 @@
     "supply": "Supply Limit"
   },
   "announcement": {
-    "link": "View Detail"
+    "link": "View Detail",
+    "important": "Notice!"
   },
   "messageTypes": {
     "0": "{0}",

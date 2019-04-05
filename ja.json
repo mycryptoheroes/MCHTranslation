@@ -507,7 +507,8 @@
     "supply": "最大発行数"
   },
   "announcement": {
-    "link": "詳細を見る"
+    "link": "詳細を見る",
+    "important": "重要"
   },
   "messageTypes": {
     "0": "{1}",
