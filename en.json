@@ -485,7 +485,9 @@
   },
   "lordRewards": {
     "balance": "Withdrawable:",
+    "withdrawAll": "Withdraw All Rewards",
     "selectedBalance": "Selected:",
+    "withdraw": "Withdraw",
     "notice": "Currently displaying max 50 land sectors. Working on displaying more."
   },
   "dictionary": {

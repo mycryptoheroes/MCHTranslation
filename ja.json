@@ -490,7 +490,9 @@
   },
   "lordRewards": {
     "balance": "引出可能数：",
+    "withdrawAll": "全てのロード報酬を引き出す",
     "selectedBalance": "選択合計：",
+    "withdraw": "引き出す",
     "notice": "現在最大50個までランドセクターを表示しております。51個以上の表示は現在準備中です。"
   },
   "dictionary": {
