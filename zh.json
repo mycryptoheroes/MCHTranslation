@@ -60,7 +60,8 @@
       "name": "What's your name in Crypto World?",
       "notice": "You can change it later.",
       "inviteCode": "Input your Invite Code (if you have)"
-    }
+    },
+    "guide": "Learn how to play My Crypto Heroes"
   },
   "others": {
     "other": "其他"

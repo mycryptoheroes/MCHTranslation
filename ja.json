@@ -63,7 +63,8 @@
       "name": "はじめに、Crypto Worldでのあなたの名前を決めよう！",
       "notice": "後から変更できます",
       "inviteCode": "Invite Code をお持ちの方はこちらに入力してください"
-    }
+    },
+    "guide": "マイクリの遊び方"
   },
   "others": {
     "other": "その他"
