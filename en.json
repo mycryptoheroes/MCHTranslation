@@ -542,8 +542,7 @@
     "nothingToSee": "Nothing to see here",
     "password": "Password",
     "copiedText": "copied to Clipboard!",
-    "copiedTextFailed": "copied to Clipboard!",
-
+    "copiedTextFailed": "copied to Clipboard!"
   },
   "raid": {
     "warning": [
