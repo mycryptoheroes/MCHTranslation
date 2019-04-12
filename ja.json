@@ -497,6 +497,7 @@
     "title": "ウィークリーカップ"
   },
   "arena": {
+    "title": "アリーナ",
     "createNewArena": "新しいアリーナを作成する",
     "arenaTitle": "アリーナ名",
     "titlePlaceholder": "第1回マイクリカップ",
@@ -510,8 +511,8 @@
     "joinedArena": "参加中のアリーナ",
     "searchArena": "アリーナを探す",
     "enterArenaCode": "パスワードを入力してください",
-    "createArena": "アリーナを主催する",
-    "myHistory": "アリーナヒストリー",
+    "createArena": "主催する",
+    "myHistory": "参加履歴",
     "finishedArenas": "終了したアリーナ",
     "yourArenas": "あなたのアリーナ履歴",
     "participatedArenas": "参加したアリーナ",

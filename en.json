@@ -492,6 +492,7 @@
     "title": "Weekly Cup"
   },
   "arena": {
+    "title": "Arena",
     "createNewArena": "Create New Arena",
     "arenaTitle": "Arena Title",
     "titlePlaceholder": "No Einstein, no heal.",
