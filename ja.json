@@ -497,12 +497,12 @@
     "title": "ウィークリーカップ"
   },
   "arena": {
-    "createNewArena": "Create New Arena",
-    "arenaTitle": "Arena Title",
-    "titlePlaceholder": "No Einstein, no heal.",
-    "setStartTime": "Set Start Time",
-    "create": "Create",
-    "created": "Arena created!",
+    "createNewArena": "新しいアリーナを作成する",
+    "arenaTitle": "アリーナ名",
+    "titlePlaceholder": "第1回マイクリカップ",
+    "setStartTime": "開始時刻を設定する",
+    "create": "作成する",
+    "created": "アリーナを作成しました！",
     "description": "ユーザ主催のアリーナで他のユーザとデュエル！パスワードをお持ちでしたら、入力してください",
     "hostedBy": "主催者:",
     "cancelled": "中止",
