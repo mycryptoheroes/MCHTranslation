@@ -540,7 +540,8 @@
     "inviteOthers": "Invite others to fight in your Arena",
     "yourPassword": "Your secret Password:",
     "shareTwitter": "Share On Twitter",
-    "twitterText": "Join my Arena in MyCryptoHeroes! Use this code to join:",
+    "twitterText1": "starting in",
+    "twitterText2": "Use this code to join:",
     "arenaFound": "Arena found!",
     "arenaNotFound": "Arena not found.",
     "successfullyLeft": "Successfully left Arena.",
@@ -549,7 +550,7 @@
     "nothingToSee": "Nothing to see here",
     "password": "Password",
     "copiedText": "copied to Clipboard!",
-    "copiedTextFailed": "copied to Clipboard!"
+    "copiedTextFailed": "copied to Clipboard!",
   },
   "raid": {
     "warning": [
