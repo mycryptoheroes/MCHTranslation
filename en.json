@@ -98,6 +98,12 @@
       "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
       "button": "Transfer Preparation"
     },
+    "lab": "level up with GUM",
+    "sell": "Trande with GUM",
+    "buy": "Buy",
+    "stop": "Stop trading",
+    "params": "Parameters",
+    "trade": "Trade",
     "deposit": "Transfer to Crypto World",
     "withdraw": "Transfer to Ethereum Network",
     "heroLock": "Using this hero now. Remove this from your team and duel team.",

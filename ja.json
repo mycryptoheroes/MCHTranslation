@@ -101,6 +101,12 @@
       "extensiondescription": "ゲームで使用するには二段階の手順が必要です。①転送準備　②Crypto Worldへ転送",
       "button": "転送準備"
     },
+    "lab": "GUMで強化する",
+    "sell": "出品する",
+    "buy": "購入する",
+    "stop": "出品を中止する",
+    "param": "ステータス情報",
+    "trade": "トレード情報",
     "deposit": "Crypto Worldへ転送",
     "withdraw": "Ethereum Networkへ転送",
     "heroLock": "このヒーローは使用中です。チームやデュエル用チームから外してください。",

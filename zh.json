@@ -98,6 +98,12 @@
       "extensiondescription": "使用你的extension你需要完成以下两步 第一步，准备转移 第二步，转移到Crypto世界中",
       "button": "准备转移"
     },
+    "lab": "level up with GUM",
+    "sell": "Trande with GUM",
+    "buy": "Buy",
+    "stop": "Stop trading",
+    "params": "Parameters",
+    "trade": "Trade",
     "deposit": "转移到秘密世界Crypto world中",
     "withdraw": "转移到ETH网络中",
     "heroLock": "Using this hero now. Remove this from your team and duel team.",
