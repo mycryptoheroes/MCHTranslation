@@ -492,6 +492,12 @@
     "title": "Weekly Cup"
   },
   "arena": {
+    "createNewArena": "Create New Arena",
+    "arenaTitle": "Arena Title",
+    "titlePlaceholder": "No Einstein, no heal.",
+    "setStartTime": "Set Start Time",
+    "create": "Create",
+    "created": "Arena created!",
     "description": "Fight other players in exclusive tournaments. Got a code? Enter it below to join.",
     "hostedBy": "Hosted By",
     "cancelled": "Cancelled",
@@ -505,7 +511,7 @@
     "yourArenas": "Your Arenas",
     "participatedArenas": "Participated Arenas",
     "hostedArenas": "Hosted Arenas",
-    "noHostedArenas": "No hosted Arena games found.",
+    "noHostedArenas": "No Arena games found.",
     "confirmJoin": "Would you like to join this Arena? You can only join one Arena at a time.",
     "tooLate": "Sorry, you're too late. 'This arena has already started or has been canceled.",
     "join": "Join",
@@ -536,7 +542,8 @@
     "nothingToSee": "Nothing to see here",
     "password": "Password",
     "copiedText": "copied to Clipboard!",
-    "copiedTextFailed": "copied to Clipboard!"
+    "copiedTextFailed": "copied to Clipboard!",
+
   },
   "raid": {
     "warning": [
