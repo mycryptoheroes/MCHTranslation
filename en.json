@@ -533,7 +533,7 @@
     "successfullyLeft": "Successfully left Arena.",
     "successfullyJoined": "Arena joined!",
     "successfullyCanceled": "Arena successfully canceled!",
-    "nothingToSee": "Nothing to see here", // <- user gets this error when trying to join an Arena he's not allowed to join
+    "nothingToSee": "Nothing to see here",
     "password": "Password",
     "copiedText": "copied to Clipboard!",
     "copiedTextFailed": "copied to Clipboard!"
