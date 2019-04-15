@@ -42,6 +42,7 @@
     "about": "关于本游戏",
     "howToPlay": "游戏教程",
     "faq": "常见问题",
+    "experimental": "Experimental",
     "medium": "官方网站",
     "twitter": "官方推特",
     "twitterUrl": "https://twitter.com/mycryptoheroes_",
@@ -505,6 +506,18 @@
     "link": "View Detail",
     "unread": "Unread",
     "important": "Notice!"
+  },
+  "experimental": {
+    "warning": [
+      "The features on this page are experimental",
+      "May be deleted without notice"
+    ],
+    "publicInformation": {
+      "warning": [
+        "User information is written to Ethereum by pressing the above button",
+        "Transaction fee is unnecessary"
+      ]
+    }
   },
   "messageTypes": {
     "0": "{0}",
