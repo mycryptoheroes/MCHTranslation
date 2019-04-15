@@ -42,6 +42,7 @@
     "about": "MCHとは?",
     "howToPlay": "ゲームの遊び方",
     "faq": "FAQ",
+    "experimental": "実験機能",
     "medium": "公式Medium",
     "twitter": "公式Twitter",
     "twitterUrl": "https://twitter.com/mycryptoheroes",
@@ -582,6 +583,18 @@
     "link": "詳細を見る",
     "unread": "未読",
     "important": "重要"
+  },
+  "experimental": {
+    "warning": [
+      "このページの機能は実験段階のものです",
+      "予告なく削除することがあります"
+    ],
+    "publicInformation": {
+      "warning": [
+        "上記ボタン押下でユーザー情報がEthereumに書き込まれます",
+        "Gas代は不要です"
+      ]
+    }
   },
   "messageTypes": {
     "0": "{1}",

@@ -42,6 +42,7 @@
     "about": "About MCH",
     "howToPlay": "How To Play",
     "faq": "FAQ",
+    "experimental": "Experimental",
     "medium": "Official Medium",
     "twitter": "Official Twitter",
     "twitterUrl": "https://twitter.com/mycryptoheroes_",
@@ -577,6 +578,18 @@
     "link": "View Detail",
     "unread": "Unread",
     "important": "Notice!"
+  },
+  "experimental": {
+    "warning": [
+      "The features on this page are experimental",
+      "May be deleted without notice"
+    ],
+    "publicInformation": {
+      "warning": [
+        "User information is written to Ethereum by pressing the above button",
+        "Transaction fee is unnecessary"
+      ]
+    }
   },
   "messageTypes": {
     "0": "{0}",
