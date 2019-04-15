@@ -88,9 +88,9 @@
     }
   },
   "referral": {
-    "description": "リンクをシェアしてGUMをもらおう！\nご友人をMCHに招待し、そのご友人がMCHでETHでGUMを購入するたびに、ご友人が使用したETHの10%相当のGUMを報酬として獲得し、10%相当のGUMが所属ランドのラボ（無所属の場合はZentral）に寄贈されます。",
+    "description": "コードをシェアしてGUMをもらおう！\nご友人がコードを使ってマイクリを始めると、そのご友人がMCHでETHでGUMを購入するたびに、ご友人が使用したETHの10%相当のGUMを報酬として獲得し、10%相当のGUMが所属ランドのラボ（無所属の場合はZentral）に寄贈されます。",
     "gift": "招待コード特典\n招待コードを入力して登録したお友達にNOVICEヒーロー「福沢諭吉」をプレゼント！",
-    "warning": "※ リファラルを行うには「Walletによるサインイン（Normal Play）」が必要です。「Googleアカウントによるサインイン（Trial Play）」でプレイされている場合「招待コード (Invitation Code)」「リファラルURL (Referral URL)」は表示されません。",
+    "warning": "※ リファラルを行うには「Walletによるサインイン（Normal Play）」が必要です。「Googleアカウントによるサインイン（Trial Play）」でプレイされている場合「招待コード (Invitation Code)」は表示されません。",
     "shareText": "ゲームにかけた時間もお金も情熱も、あなたの資産となる世界 #MyCryptoHeores 日本発の本格的ブロックチェーンRPG！仮想通貨なしウォレットなしでプレイできます。",
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーロー「諭吉」もらえる！"
   },
