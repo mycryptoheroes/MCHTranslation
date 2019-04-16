@@ -626,6 +626,11 @@
     "26": "raid:シンギュラリティのラストアタック褒賞。 {0} を受け取りました。",
     "27": "招待コード特典。 {0} を受け取りました。"
   },
+  "reportTypes": {
+    "1": "おめでとうございます！ {userName} さんが {assetName} をドロップしました！ ({at})",
+    "2": "{userName} が {heroName} をトレードに出品しました！ ({at})",
+    "3": "{userName} が {extensionName} をトレードに出品しました！ ({at})"
+  },
   "tutorial": {
     "welcome": {
       "title": "マイクリにようこそ!!",
