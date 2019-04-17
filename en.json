@@ -622,7 +622,7 @@
     "27": "Invitation code reward. You received {0}."
   },
   "reportTypes": {
-    "1": "congratulations! {userName} dropped {assetName}! ({at})",
+    "1": "congratulations! {userName} dropped {extensionName}! ({at})",
     "2": "{userName} has posted {heroName} for trading! ({at})",
     "3": "{userName} has posted {extensionName} for trading! ({at})"
   },
