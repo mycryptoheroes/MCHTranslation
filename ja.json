@@ -190,7 +190,8 @@
   "land": {
     "title": "ランド",
     "noland": "無所属",
-    "setting": "ランド設定(キングのみ)",
+    "setting": "ランド設定（キングのみ）",
+    "settingG5": "フラッグ戦の対戦順 (キング／G5のみ)",
     "kings": "キング",
     "noKings": "キングがいません",
     "Maestros": "マエストロ",
@@ -591,6 +592,7 @@
     ],
     "publicInformation": {
       "warning": [
+        "Publishするには、アカウント設定画面でETH Addressを公開していることが必要です",
         "上記ボタン押下でユーザー情報がEthereumに書き込まれます",
         "Gas代は不要です"
       ]

@@ -188,6 +188,7 @@
     "title": "Land",
     "noland": "Not Belonged",
     "setting": "Land Setting (King Only)",
+    "settingG5": "Battle Order Of Knights In Flag Battle (King/G5 Only)",
     "kings": "Kings",
     "noKings": "No Kings",
     "Maestros": "Maestros",
@@ -512,6 +513,7 @@
     ],
     "publicInformation": {
       "warning": [
+        "To publish, you need to publish ETH Address on the account settings page",
         "User information is written to Ethereum by pressing the above button",
         "Transaction fee is unnecessary"
       ]
