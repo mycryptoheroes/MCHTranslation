@@ -512,6 +512,7 @@
     ],
     "publicInformation": {
       "warning": [
+        "To publish, you need to publish ETH Address on the account settings page",
         "User information is written to Ethereum by pressing the above button",
         "Transaction fee is unnecessary"
       ]

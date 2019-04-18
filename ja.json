@@ -591,6 +591,7 @@
     ],
     "publicInformation": {
       "warning": [
+        "Publishするには、アカウント設定画面でETH Addressを公開していることが必要です",
         "上記ボタン押下でユーザー情報がEthereumに書き込まれます",
         "Gas代は不要です"
       ]
