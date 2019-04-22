@@ -412,6 +412,8 @@
       "rule3": "注意：英雄以及Extension需要解除装备状态后才能出售，同样你也无法装备正在出售的英雄或者extension，除非你取消出售",
       "rule4": "It is possible to exhibit up to 100 times a day.",
       "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
+      "rule6": "You can't sell these assets for first 24 hours since you get them. - Heroes you bought in Shop, Extensions you got from chests or duel reward.",
+      "rule7": "You can see your asset in trading list after 1 mins since you sell your asset.",
       "buy1": "确认购买",
       "buy2": "通过",
       "buy3": "GUM"

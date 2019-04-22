@@ -423,6 +423,8 @@
       "rule3": "Note: The item (heroes and/or extensions) must be unequipped to sell. Likewise, heroes and/or extensions can't be withdrawn while it has been listed for sale (within 5 days) or you decide to cancel the listing.",
       "rule4": "It is possible to exhibit up to 100 times a day.",
       "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
+      "rule6": "You can't sell these assets for first 24 hours since you get them. - Heroes you bought in Shop, Extensions you got from chests or duel reward.",
+      "rule7": "You can see your asset in trading list after 1 mins since you sell your asset.",
       "buy1": "Confirm buying",
       "buy2": "with",
       "buy3": "GUM",
