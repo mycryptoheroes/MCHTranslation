@@ -110,11 +110,14 @@
     "heroLock": "Using this hero now. Remove this from your team and duel team.",
     "extensionLock": "Using this extension now. Remove this from your team and duel team.",
     "withdrawWarning": {
+      "description": "You can use your assets in Ethereum when you transfer your assets to Ethereum Network.",
       "1": "将ETH转移到ETH网络需要消耗 {gum} GUM",
       "2": "Limited to 10 times per day ({count} / 10)",
       "3": "Extension has to be more than Lv.2 and set Nickname to transfer",
       "4": "Hero has to be more than Lv.2 and art-edited to transfer",
-      "5": "Usually, it takes about 10 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic. Is it ok?"
+      "5": "It takes about 20 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic. Is it ok?",
+      "6": "You can't transfer your extensions you got from chests or duel reward for first 24 hours.",
+      "7": "You can't transfer your heroes you bought in Shop for first 24 hours"
     },
     "edit": {
       "warning": {
