@@ -119,6 +119,7 @@
       "6": "You can't transfer your extensions you got from chests or duel reward for first 24 hours.",
       "7": "You can't transfer your heroes you bought in Shop for first 24 hours"
     },
+    "countdown": "You can trasfer after",
     "edit": {
       "warning": {
         "title": "编辑的教学与注意事项",
@@ -420,7 +421,13 @@
       "rule7": "You can see your asset in trading list after 1 mins since you sell your asset.",
       "buy1": "确认购买",
       "buy2": "通过",
-      "buy3": "GUM"
+      "buy3": "GUM",
+      "sort": {
+        "last": "Recently Listed",
+        "lowest": "Lowest Price",
+        "highest": "Highest Price"
+      },
+      "countdown": "You can sell after"
     },
     "lab": {
       "1": "购买Crypto能量",

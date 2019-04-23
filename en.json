@@ -119,6 +119,7 @@
       "6": "You can't transfer your extensions you got from chests or duel reward for first 24 hours.",
       "7": "You can't transfer your heroes you bought in Shop for first 24 hours"
     },
+    "countdown": "You can transfer after",
     "edit": {
       "warning": {
         "title": "Art edit rules and notes",
@@ -436,7 +437,8 @@
         "last": "Recently Listed",
         "lowest": "Lowest Price",
         "highest": "Highest Price"
-      }
+      },
+      "countdown": "You can sell after"
     },
     "lab": {
       "1": "Buy Crypto Energy",
