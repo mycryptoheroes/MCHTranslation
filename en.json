@@ -368,7 +368,7 @@
         "leftDays": {
           "before": "",
           "after": "days left",
-          "warning": "You can purchase that right again from 5 days before the end"
+          "warning": "You can purchase that right again from {updatableRemainingDays} days before the end"
         },
         "limited": "For a limited time (Until {limitedTime})",
         "notes": "If you buy with ETH, your status is reflected in 5-10 mins after successing the transaction."
