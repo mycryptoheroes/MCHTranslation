@@ -143,6 +143,15 @@
         "warning1": "*You can set Nickname only once you get the extension.",
         "warning2": "It costs 100 GUM, if this extension has been already set Nickname"
       }
+    },
+    "refreshParam": {
+      "title": "Change parameter growth trend",
+      "param": "Parameter",
+      "trend": "Parameter growth trend",
+      "confirm1": "Are you sure to consume 5000CE and change parameter growth trend?",
+      "confirm2": "Once you execute this, you can never get back previous parameter growth trend",
+      "again": "Try Again",
+      "button": "Consume 5000CE and change parameter growth trend"
     }
   },
   "battle": {
