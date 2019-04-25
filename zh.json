@@ -332,7 +332,7 @@
       "phy": "PHY Damage",
       "int": "INT Damage",
       "recovery": "Recovery",
-      "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each night battle / flag battle / quest / raid battle (in principle, weekly cup has no effect)"
+      "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each night battle / flag battle / quest / raid battle (in principle,Official Duel Cup has no effect)"
     },
     "nieRanking": "NIE Ranking",
     "dedicate": "dedicate"
@@ -498,10 +498,10 @@
     "rules": "Check Rules (Official Medium)",
     "join": {
       "pledge": "Pledge for fair play",
-      "pledgeContent": "I will play fair, comforming to the terms of use and Weekly Cup rules.",
-      "warning": "* Your account will be banned and your trophies and Winners Point will be deprivationd if you violate terms of use or Weekly Cup rules."
+      "pledgeContent": "I will play fair, comforming to the terms of use and Official Duel Cup rules.",
+      "warning": "* Your account will be banned and your trophies and Winners Point will be deprivationd if you violate terms of use or Official Duel Cup rules."
     },
-    "title": "Weekly Cup"
+    "title": "Official Duel Cup"
   },
   "raid": {
     "warning": [
@@ -556,10 +556,10 @@
     "11": "太棒了！！！你难以置信地获得了每日奖励 {0} GUM！！",
     "12": "{1} like {0}!  You received 1GUM.",
     "13": "Purchased {0} GUM for {1} EMONT.  You received {0} GUM.",
-    "14": "Congrats for winning!! Weekly Cup 1st place prize. You received {0}.",
-    "15": "Awesome!! Weekly Cup 2nd place prize. You received {0}.",
-    "16": "You did it! Weekly Cup 3rd place prize. You received {0}.",
-    "17": "Weekly Cup prize. You received {0}.",
+    "14": "Congrats for winning!! Official Duel Cup 1st place prize. You received {0}.",
+    "15": "Awesome!! Official Duel Cup 2nd place prize. You received {0}.",
+    "16": "You did it! Official Duel Cup 3rd place prize. You received {0}.",
+    "17": "Official Duel Cup prize. You received {0}.",
     "18": "Success trading {1}. You received \"GOOD! Art\" royalty {0} GUM.",
     "19": "Success trading {1}. You received \"COOL!! Art\" royalty {0} GUM.",
     "20": "You did it! You received trophy \"GOOD! Art\" on {0}.",
