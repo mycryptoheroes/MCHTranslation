@@ -599,7 +599,8 @@
     "buy5": "に装着します。",
     "artDetail": "アート詳細",
     "notPublished": "ETHアドレスの公開を設定してください",
-    "cancelSelling": "このアートの出品を取り消す"
+    "cancelSelling": "このアートの出品を取り消す",
+    "confirmCancelSelling": "このアートの出品を取り消してよいですか？"
   },
   "lordRewards": {
     "balance": "引出可能数：",

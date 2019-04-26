@@ -525,7 +525,8 @@
     "buy5": ".",
     "artDetail": "Art Detail",
     "notPublished": "Please publish your ETH address",
-    "cancelSelling": "Cancel Selling This Art"
+    "cancelSelling": "Cancel Selling This Art",
+    "confirmCancelSelling": "Are you sure to cancel selling this art?"
   },
   "lordRewards": {
     "balance": "Withdrawable：",
