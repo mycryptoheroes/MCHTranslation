@@ -512,7 +512,7 @@
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory"
   },
   "artGallery": {
-    "title": "Art Gallery",
+    "title": "Art Gallery(Beta)",
     "make": "Art",
     "register": "Sell Art",
     "detail": "Detail",
