@@ -597,7 +597,8 @@
     "buy3": "",
     "buy4": "で購入する",
     "buy5": "に装着します。",
-    "artDetail": "アート詳細"
+    "artDetail": "アート詳細",
+    "notPublished": "ETHアドレスの公開を設定してください"
   },
   "lordRewards": {
     "balance": "引出可能数：",

@@ -523,7 +523,8 @@
     "buy3": "Buy with",
     "buy4": "",
     "buy5": ".",
-    "artDetail": "Art Detail"
+    "artDetail": "Art Detail",
+    "notPublished": "Please publish your ETH address"
   },
   "lordRewards": {
     "balance": "Withdrawable：",
