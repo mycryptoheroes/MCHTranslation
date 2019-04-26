@@ -593,7 +593,8 @@
     "buy4": "",
     "buy5": ".",
     "artDetail": "Art Detail",
-    "notPublished": "Please publish your ETH address"
+    "notPublished": "Please publish your ETH address",
+    "cancelSelling": "Cancel Selling This Art"
   },
   "lordRewards": {
     "balance": "Withdrawable:",

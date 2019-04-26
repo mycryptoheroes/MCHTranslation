@@ -598,7 +598,8 @@
     "buy4": "で購入する",
     "buy5": "に装着します。",
     "artDetail": "アート詳細",
-    "notPublished": "ETHアドレスの公開を設定してください"
+    "notPublished": "ETHアドレスの公開を設定してください",
+    "cancelSelling": "このアートの出品を取り消す"
   },
   "lordRewards": {
     "balance": "引出可能数：",
