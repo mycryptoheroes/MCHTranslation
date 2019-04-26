@@ -599,6 +599,7 @@
     "buy5": "に装着します。",
     "artDetail": "アート詳細",
     "notPublished": "ETHアドレスの公開を設定してください",
+    "cancelSellingTitle": "出品取消",
     "cancelSelling": "このアートの出品を取り消す",
     "confirmCancelSelling": "このアートの出品を取り消してよいですか？"
   },
