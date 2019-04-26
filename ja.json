@@ -585,6 +585,12 @@
     ],
     "reflectInInventory": "獲得数が多い場合、インベントリへの反映に時間がかかる場合があります"
   },
+  "artGallery": {
+    "title": "アートギャラリー",
+    "make": "アート作品",
+    "register": "アート出品",
+    "beforePurchase": "購入確認へ"
+  },
   "lordRewards": {
     "balance": "引出可能数：",
     "withdrawAll": "全てのロード報酬を引き出す",

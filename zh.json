@@ -511,6 +511,12 @@
     ],
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory"
   },
+  "artGallery": {
+    "title": "アートギャラリー",
+    "make": "アート作品",
+    "register": "アート出品",
+    "beforePurchase": "購入確認へ"
+  },
   "lordRewards": {
     "balance": "Withdrawable：",
     "withdrawAll": "Withdraw All Rewards",
