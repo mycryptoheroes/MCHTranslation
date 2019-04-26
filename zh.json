@@ -512,10 +512,17 @@
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory"
   },
   "artGallery": {
-    "title": "アートギャラリー",
-    "make": "アート作品",
-    "register": "アート出品",
-    "beforePurchase": "購入確認へ"
+    "title": "Art Gallery",
+    "make": "Art",
+    "register": "Sell Art",
+    "detail": "Detail",
+    "selectHero": "Select Hero to set this Art",
+    "confirm": "Confim",
+    "buy1": "Buy this art for",
+    "buy2": "and set it to",
+    "buy3": "Buy with",
+    "buy4": "",
+    "buy5": "."
   },
   "lordRewards": {
     "balance": "Withdrawable：",

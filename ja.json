@@ -589,7 +589,14 @@
     "title": "アートギャラリー",
     "make": "アート作品",
     "register": "アート出品",
-    "beforePurchase": "購入確認へ"
+    "detail": "詳細を確認する",
+    "selectHero": "アートをつけるヒーローを選択",
+    "confirm": "購入確認",
+    "buy1": "このアートを",
+    "buy2": "で購入して、",
+    "buy3": "",
+    "buy4": "で購入する",
+    "buy5": "につける。"
   },
   "lordRewards": {
     "balance": "引出可能数：",
