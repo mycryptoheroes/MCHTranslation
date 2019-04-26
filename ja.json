@@ -578,6 +578,7 @@
     "copiedTextFailed": "コピーしました"
   },
   "raid": {
+    "title": "レイド",
     "warning": [
       "Crypto Energyを消費するため、消費量によってはヒーローのレベルがダウンすることがあります。ご注意ください。",
       "累計与ダメージ（Added Damage）1500ごとに宝箱を1個獲得できます。"

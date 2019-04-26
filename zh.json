@@ -504,6 +504,7 @@
     "title": "Duel Cup"
   },
   "raid": {
+    "title": "Raid",
     "warning": [
       "Note that Hero's level might be decreased according to the amount of CE you choose.",
       "You will get 1 treasure box every time the amount of damage reaches to multiples of 1500."
