@@ -667,8 +667,12 @@
   },
   "reportTypes": {
     "1": "おめでとうございます！ {userName} さんが {extensionName} をドロップしました！ ({at})",
-    "2": "{userName} が {heroName} をトレードに出品しました！ ({at})",
-    "3": "{userName} が {extensionName} をトレードに出品しました！ ({at})"
+    "2": "{userName} さんが {heroName} をトレードに出品しました！ ({at})",
+    "3": "{userName} さんが {extensionName} をトレードに出品しました！ ({at})",
+    "4": "{landType} 所属の {userName} さんがFA宣言しました！",
+    "5": "{userName} さんのFAが {gum} で成立！ {landType} に移籍しました。",
+    "6": "おめでとうございます！レイドボス討伐に成功しました！",
+    "7": "レイドボスの残りHPが {hp} になりました！みんなで討伐しましょう！"
   },
   "tutorial": {
     "welcome": {
