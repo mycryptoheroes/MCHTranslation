@@ -116,7 +116,7 @@
       "3": "Extension has to be more than Lv.2 and set Nickname to transfer",
       "4": "Hero has to be more than Lv.2 and art-edited to transfer",
       "5": "It takes about 20 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic.",
-      "6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get or use them last time."
+      "6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get or use them in battle last time."
     },
     "countdown": "You can transfer after",
     "edit": {
@@ -437,7 +437,7 @@
       "rule3": "Note: The item (heroes and/or extensions) must be unequipped to sell. Likewise, heroes and/or extensions can't be withdrawn while it has been listed for sale (within 5 days) or you decide to cancel the listing.",
       "rule4": "It is possible to exhibit up to 100 times a day.",
       "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
-      "rule6": "You can't sell your assets(Hero / Extension) which have not passed 24 hours since you get or use them last time.",
+      "rule6": "You can't sell your assets(Hero / Extension) which have not passed 24 hours since you get or use them in battle last time.",
       "rule7": "You can see your asset in trading list after 1 mins since you sell your asset.",
       "buy1": "Confirm buying",
       "buy2": "with",
