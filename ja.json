@@ -261,7 +261,7 @@
       "count": "シティズン数"
     },
     "dedicate": "奉納する",
-    "FApool": {
+    "freeAgentPool": {
       "headline": "Dedicate to Free Agent GUM Pool",
       "1": "Support your Land with GUM to hire Knights.",
       "2": "The dedicated GUM can be used by the King to purchase Knights from other Lands for Land Battle."
