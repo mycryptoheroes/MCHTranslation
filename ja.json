@@ -262,9 +262,9 @@
     },
     "dedicate": "奉納する",
     "freeAgentPool": {
-      "headline": "Dedicate to Free Agent GUM Pool",
-      "1": "Support your Land with GUM to hire Knights.",
-      "2": "The dedicated GUM can be used by the King to purchase Knights from other Lands for Land Battle."
+      "headline": "FA基金に寄付する",
+      "1": "強いナイトを獲得するためにGUMで支援しよう。",
+      "2": "FA基金に寄付されたGUMは他のランドでFA宣言中のナイトを獲得するために使用されます。"
     },
     "freeAgent": {
       "declare": "{gum} GUMでFA宣言する",
