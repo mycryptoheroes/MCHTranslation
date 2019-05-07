@@ -665,6 +665,7 @@
     "26": "Raid: Singularity Last Attack prize. You received {0}.",
     "27": "Invitation code reward. You received {0}.",
     "28": "Your art is purchased by {3} at {1} GUM. You received {0} GUM.",
+    "29": "Your art sold in Art Gallery was expired.",
     "30": "Raid: Singularity prize. You received {0}."
   },
   "reportTypes": {
