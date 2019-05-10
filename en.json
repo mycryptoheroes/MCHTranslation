@@ -487,8 +487,8 @@
     }
   },
   "walletModal": {
-    "1": "Access the official METAMASK site from the link below and install METAMASK on your browser.",
-    "2": "After the installation is complete, create a wallet and access MCH!",
+    "1": "Install browser extension to access blockchain game.",
+    "2": "Backup key and start MCH!",
     "3": "For more details on how to use METAMASK",
     "5": "Download Mobile browser application with wallet function",
     "7": "You can connet your wallet(METAMASK) in account page.",

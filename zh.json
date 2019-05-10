@@ -476,8 +476,8 @@
     }
   },
   "walletModal": {
-    "1": "通过以下连接访问METAMASK官方网站并在你的浏览器中安装METAMASK吧！",
-    "2": "完成安装后，创建一个钱包并进行游戏！",
+    "1": "Install browser extension to access blockchain game.",
+    "2": "Backup key and start MCH!",
     "3": "如何使用METAMASK，更多信息请点击",
     "5": "下载带有钱包功能的浏览器软件",
     "7": "你可以在账号界面关联你的钱包(METAMASK)",
@@ -652,7 +652,7 @@
       "1": "'连接到钱包'是什么意思？",
       "2": "'connet to Wallet' is a function that allows your current Google account to use Ethereum",
       "3": "You must use your laptop and Google Chrome to 'connect to Wallet'",
-      "4": "在你的电脑上安装METAMASK来加入排位赛吧！ #2"
+      "4": "Install wallet extension to your laptop and join Ranking Match #2!"
     },
     "land": {
       "1": "This page describes detail of each land.",
