@@ -383,10 +383,10 @@
             "Automatic Update is purchased with GUM ({primePriceWithGum} GUM). If there is not enough GUM at Automatic Update, Automatic Update is disabled.",
             "When you turn on automatically renewed, that will be executed when the remaining period is less than 72 hours (on 6:00 UTC)"
           ],
-          "turnedOn": "Turn on automatic update",
-          "purchase": "Purchase MCH Prime from {primePriceWithGum} GUM. Are you sure?",
-          "submit": "Purchase"
-        }
+          "turnedOn": "Turn on automatic update"
+        },
+        "purchase": "Purchase MCH Prime from {primePrice}. Are you sure?",
+        "submit": "Purchase"
       },
         "novice": {
         "1": "Novice Hero is in game hero.",

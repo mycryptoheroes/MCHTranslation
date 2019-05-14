@@ -397,10 +397,10 @@
             "自動更新はGUMでの購入（{primePriceWithGum} GUM）となります。自動更新時にGUMが不足していた場合は自動更新が無効になります。",
             "自動更新は、プライムの残り期間が72時間以下になった後、日本時間15:00に行われます。"
           ],
-          "turnedOn": "自動更新をONにする",
-          "purchase": "{primePriceWithGum} GUMでMCHプライムを購入します。よろしいですか？",
-          "submit": "購入する"
-        }
+          "turnedOn": "自動更新をONにする"
+        },
+        "purchase": "{primePrice}でMCHプライムを購入します。よろしいですか？",
+        "submit": "購入する"
       },
       "novice": {
         "1": "Noviceヒーローはゲーム内専用のヒーローです。",
