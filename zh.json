@@ -373,7 +373,7 @@
           "before": "",
           "after": "days left",
           "warning": "You can purchase that right again from {updatableRemainingDays} days before the end",
-          "subscriptionState": "Subscription is turned on {isSubscribing}",
+          "subscriptionState": "Subscription is currently {isSubscribing}",
           "toAccount": "Subscription Setting"
         },
         "limited": "For a limited time (Until {limitedTime})",
