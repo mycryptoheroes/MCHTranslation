@@ -188,7 +188,8 @@
         "before": "",
         "after": "days left"
       },
-      "join": "Buy"
+      "join": "Buy",
+      "subscription": "Subscription"
     },
     "connect": {
       "wallet": "连接到钱包",

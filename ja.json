@@ -191,7 +191,8 @@
         "before": "あと",
         "after": "日"
       },
-      "join": "購入する"
+      "join": "購入する",
+      "subscription": "自動更新"
     },
     "connect": {
       "wallet": "Wallet連携",
