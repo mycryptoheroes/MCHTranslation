@@ -11,7 +11,8 @@
       "terms": "利用規約"
     },
     "errorMessage": "ブラウザの再読込をお試しください",
-    "condition": "発動条件"
+    "condition": "発動条件",
+    "cancel": "キャンセル"
   },
   "pages": {
     "home": "ホーム",
@@ -388,7 +389,18 @@
           "warning": "終了 {updatableRemainingDays} 日前から再度追加購入可能となります"
         },
         "limited": "期間限定（〜 {limitedTime}）",
-        "notes": "ETHでPrime加入の場合、トランザクションが成功してから5~10分後に反映されます。"
+        "notes": "ETHでPrime加入の場合、トランザクションが成功してから5~10分後に反映されます。",
+        "subscription": {
+          "about": "MCHプライムの自動更新について",
+          "discription": [
+            "自動更新設定のON/OFFは任意のタイミングで可能です。（現在プライムユーザーのかたは自動更新OFFの設定となります）",
+            "自動更新はGUMでの購入（{primePriceWithGum} GUM）となります。自動更新時にGUMが不足していた場合は自動更新が無効になります。",
+            "自動更新は、プライムの残り期間が72時間以下になった後、日本時間15:00に行われます。"
+          ],
+          "turnedOn": "自動更新をONにする",
+          "purchase": "{primePriceWithGum} GUMでMCHプライムを購入します。よろしいですか？",
+          "submit": "購入する"
+        }
       },
       "novice": {
         "1": "Noviceヒーローはゲーム内専用のヒーローです。",

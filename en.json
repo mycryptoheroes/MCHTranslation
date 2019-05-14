@@ -11,7 +11,8 @@
       "terms": "Terms of Service"
     },
     "errorMessage": "Please try reload",
-    "condition": "Condition"
+    "condition": "Condition",
+    "cancel": "Cancel"
   },
   "pages": {
     "home": "Home",
@@ -385,7 +386,18 @@
           "warning": "You can purchase that right again from {updatableRemainingDays} days before the end"
         },
         "limited": "For a limited time (Until {limitedTime})",
-        "notes": "If you buy with ETH, your status is reflected in 5-10 mins after successing the transaction."
+        "notes": "If you buy with ETH, your status is reflected in 5-10 mins after successing the transaction.",
+        "subscription": {
+          "about": "Subscription of MCH Prime",
+          "discription": [
+            "The Automatic Update setting can be turned ON/OFF at any time. (Prime users start with the Automatic Update OFF setting.)",
+            "Automatic Update is purchased with GUM ({primePriceWithGum} GUM). If there is not enough GUM at Automatic Update, Automatic Update is disabled.",
+            "When you turn on automatically renewed, that will be executed when the remaining period is less than 72 hours (on 6:00 UTC)"
+          ],
+          "turnedOn": "Turn on automatic update",
+          "purchase": "Purchase MCH Prime from {primePriceWithGum} GUM. Are you sure?",
+          "submit": "Purchase"
+        }
       },
       "novice": {
         "1": "Novice Hero is in game hero.",
