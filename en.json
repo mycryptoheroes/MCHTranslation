@@ -397,7 +397,7 @@
           "turnedOn": "Turn on automatic update"
         },
         "purchase": "Purchase MCH Prime from {primePrice}. Are you sure?",
-        "submit": "Purchase"
+        "submit": "Buy with {primePrice}"
       },
       "novice": {
         "1": "Novice Hero is in game hero.",
