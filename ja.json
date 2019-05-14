@@ -386,7 +386,9 @@
         "leftDays": {
           "before": "あと",
           "after": "日",
-          "warning": "終了 {updatableRemainingDays} 日前から再度追加購入可能となります"
+          "warning": "終了 {updatableRemainingDays} 日前から再度追加購入可能となります",
+          "subscriptionState": "自動更新は {isSubscribing} になっています",
+          "toAccount": "自動更新設定へ"
         },
         "limited": "期間限定（〜 {limitedTime}）",
         "notes": "ETHでPrime加入の場合、トランザクションが成功してから5~10分後に反映されます。",
