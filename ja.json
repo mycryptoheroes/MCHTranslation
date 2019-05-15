@@ -811,10 +811,17 @@
     "36": "Baby Dragon: 777位",
     "41": "GOOD! Art",
     "42": "COOL!! Art",
+    "43": "AWESOME!!! Art",
     "51": "ディープ・ヨシュカ: 1位",
     "52": "ディープ・ヨシュカ: 2位",
     "53": "ディープ・ヨシュカ: 3位",
-    "54": "ディープ・ヨシュカ: Last Attack"
+    "54": "ディープ・ヨシュカ: Last Attack",
+    "61": "Dragon Egg: 1位",
+    "62": "Dragon Egg: 2位",
+    "63": "Dragon Egg: 3位",
+    "64": "Dragon Egg: 4-10位",
+    "65": "Dragon Egg: 111位",
+    "66": "Dragon Egg: 777位"
   },
   "twitter": {
     "hero": "My Crypto Heroes(マイクリ)",

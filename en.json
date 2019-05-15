@@ -806,10 +806,17 @@
     "36": "Baby Dragon: 777th",
     "41": "GOOD! Art",
     "42": "COOL!! Art",
+    "43": "AWESOME!!! Art",
     "51": "Deep Yoshka: 1st",
     "52": "Deep Yoshka: 2nd",
     "53": "Deep Yoshka: 3rd",
-    "54": "Deep Yoshka: Last Attack"
+    "54": "Deep Yoshka: Last Attack",
+    "61": "Dragon Egg: 1st",
+    "62": "Dragon Egg: 2nd",
+    "63": "Dragon Egg: 3rd",
+    "64": "Dragon Egg: 4-10th",
+    "65": "Dragon Egg: 111th",
+    "66": "Dragon Egg: 777th"
   },
   "twitter": {
     "hero": "My Crypto Heroes",
