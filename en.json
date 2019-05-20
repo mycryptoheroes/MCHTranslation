@@ -395,7 +395,7 @@
           "discription": [
             "The Automatic Update setting can be turned ON/OFF at any time. (Prime users start with the Automatic Update OFF setting.)",
             "Automatic Update is purchased with GUM ({primePriceWithGum} GUM). If there is not enough GUM at Automatic Update, Automatic Update is disabled.",
-            "When you turn on automatically renewed, that will be executed when the remaining period is less than 72 hours (on 6:00 UTC)"
+            "After the remaining period of prime time is 72 hours or less, it will be automatically renewed."
           ],
           "turnedOn": "Turn on automatic update"
         },
