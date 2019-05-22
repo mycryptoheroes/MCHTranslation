@@ -593,32 +593,38 @@
     "copiedText": "コピーする",
     "copiedTextFailed": "コピーしました",
     "arenaView": {
-      "noDescription": "No description",
-      "dragAndDrop": "Drag and drop the move icon to change the order or switch teams. If a team exceeds 5 players, player 6 will be moved to the other team.",
+      "noDescription": "説明はありません。",
+      "dragAndDrop": "順番やチームを入れ替えるためにドラッグ＆ドロップをしてください。チーム参加者が５名を超えた場合、６番目のプレイヤーは相手チームに移動されます。",
+      "movedToIce": "Moved player 6 to Team Ice",
+      "movedToFire": "Moved player 6 to Team Fire",
+      "cannotBeEmpty": "Teams cannot be empty",
+      "savedOrder": "Saved Order",
+      "errorOrder": "Could not change order."
     },
     "createArenaModal": {
       "createNewArena": "新しいアリーナを作成する",
       "title": "アリーナ名",
-      "arenaType": "Arena Type",
+      "arenaType": "アリーナタイプ",
       "titlePlaceholder": "第1回マイクリカップ",
-      "description": "Arena Description",
+      "description": "アリーナ説明",
+      "descriptionPlaceholder": "ブルードラゴンルール",
       "setStartTime": "開始時刻を設定する",
       "league": {
-        "league": "League",
-        "leagueArena": "League Arena",
-        "text1": "Every player fights against every other player once.",
-        "text2": "Each win gets 3 points, draw 1 point, and loss 0 points.",
-        "text3": "The player with the most points at the end of the tournament wins.",
-        "text4": "A maximum of 12 players can join the arena."
+        "league": "リーグ",
+        "leagueArena": "リーグアリーナ",
+        "text1": "全てのプレイヤーは他の全プレイヤーと一度に対戦します。",
+        "text2": "勝利時には３ポイント、引き分け時には１ポイント、敗戦時には０ポイント獲得できます。",
+        "text3": "一番多くのポイントを持っているプレイヤーが優勝です。",
+        "text4": "最大１２名まで参加可能です。"
       },
       "team": {
-        "team": "Team",
-        "teamArena": "Team Arena",
-        "text1": "There are two teams with an ordered list of 5 players each.",
-        "text2": "Each respective first players start with the first battle. ",
-        "text3": "The winner will continue to battle the next player from the opponent team. (similar to Land Flag Battle)",
-        "text4": "A maximum of 10 players can join the arena.",
-        "text5": "Each player can change the order of players."
+        "team": "チーム",
+        "teamArena": "チームアリーナ",
+        "text1": "最大５名のプレイーヤーから成るチーム同士が戦います。",
+        "text2": "お互いの先鋒が戦いあいます。",
+        "text3": "勝者は２番目の敵チームプレイヤーと戦います。(ランドのフラグバトルと同様です)",
+        "text4": "最大１０名まで参加できます。",
+        "text5": "全てのプレイヤーが自チームのプレイヤーの順番を変えることができます。"
       }
     }
   },

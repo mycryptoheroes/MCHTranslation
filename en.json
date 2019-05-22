@@ -537,7 +537,6 @@
   "arena": {
     "title": "Arena",
     "arenaTitle": "Arena Title",
-    "titlePlaceholder": "No Einstein, no heal.",
     "create": "Create",
     "created": "Arena created!",
     "description": "Fight other players in exclusive tournaments. Got a code? Enter it below to join.",
@@ -591,7 +590,12 @@
     "copiedTextFailed": "copied to Clipboard!",
     "arenaView": {
       "noDescription": "No description",
-      "dragAndDrop": "Drag and drop the move icon to change the order or switch teams. If a team exceeds 5 players, player 6 will be moved to the other team."
+      "dragAndDrop": "Drag and drop the move icon to change the order or switch teams. If a team exceeds 5 players, player 6 will be moved to the other team.",
+      "movedToIce": "Moved player 6 to Team Ice",
+      "movedToFire": "Moved player 6 to Team Fire",
+      "cannotBeEmpty": "Teams cannot be empty",
+      "savedOrder": "Saved Order",
+      "errorOrder": "Could not change order."
     },
     "createArenaModal": {
       "createNewArena": "Create New Arena",
@@ -599,6 +603,7 @@
       "title": "Arena Title",
       "titlePlaceholder": "Shinjuku Smash",
       "description": "Arena Description",
+      "descriptionPlaceholder": "No Einstein, no heal",
       "noDescription": "No description",
       "setStartTime": "Set Start Time",
       "league": {
@@ -612,7 +617,7 @@
       "team": {
         "team": "Team",
         "teamArena": "Team Arena",
-        "text1": "There are two teams with an ordered list of 5 players each.",
+        "text1": "There are two teams with an ordered list of max. 5 players each.",
         "text2": "Each respective first players start with the first battle. ",
         "text3": "The winner will continue to battle the next player from the opponent team. (similar to Land Flag Battle)",
         "text4": "A maximum of 10 players can join the arena.",
