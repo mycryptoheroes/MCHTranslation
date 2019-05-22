@@ -536,10 +536,8 @@
   },
   "arena": {
     "title": "Arena",
-    "createNewArena": "Create New Arena",
     "arenaTitle": "Arena Title",
     "titlePlaceholder": "No Einstein, no heal.",
-    "setStartTime": "Set Start Time",
     "create": "Create",
     "created": "Arena created!",
     "description": "Fight other players in exclusive tournaments. Got a code? Enter it below to join.",
@@ -590,7 +588,37 @@
     "nothingToSee": "Nothing to see here",
     "password": "Password",
     "copiedText": "copied to Clipboard!",
-    "copiedTextFailed": "copied to Clipboard!"
+    "copiedTextFailed": "copied to Clipboard!",
+    "arenaView": {
+      "noDescription": "No description",
+      "dragAndDrop": "Drag and drop the move icon to change the order or switch teams. If a team exceeds 5 players, player 6 will be moved to the other team."
+    },
+    "createArenaModal": {
+      "createNewArena": "Create New Arena",
+      "arenaType": "Arena Type",
+      "title": "Arena Title",
+      "titlePlaceholder": "Shinjuku Smash",
+      "description": "Arena Description",
+      "noDescription": "No description",
+      "setStartTime": "Set Start Time",
+      "league": {
+        "league": "League",
+        "leagueArena": "League Arena",
+        "text1": "Every player fights against every other player once.",
+        "text2": "Each win gets 3 points, draw 1 point, and loss 0 points.",
+        "text3": "The player with the most points at the end of the tournament wins.",
+        "text4": "A maximum of 12 players can join the arena."
+      },
+      "team": {
+        "team": "Team",
+        "teamArena": "Team Arena",
+        "text1": "There are two teams with an ordered list of 5 players each.",
+        "text2": "Each respective first players start with the first battle. ",
+        "text3": "The winner will continue to battle the next player from the opponent team. (similar to Land Flag Battle)",
+        "text4": "A maximum of 10 players can join the arena.",
+        "text5": "Each player can change the order of players."
+      }
+    }
   },
   "raid": {
     "title": "Raid",
