@@ -541,6 +541,7 @@
   },
   "arena": {
     "title": "アリーナ",
+    "arenaTitle": "アリーナ名",
     "create": "作成する",
     "created": "アリーナを作成しました！",
     "description": "ユーザ主催のアリーナで他のユーザとバトル！パスワードをお持ちでしたら、入力してください",
@@ -595,16 +596,16 @@
     "arenaView": {
       "noDescription": "説明はありません。",
       "dragAndDrop": "順番やチームを入れ替えるためにドラッグ＆ドロップをしてください。チーム参加者が５名を超えた場合、６番目のプレイヤーは相手チームに移動されます。",
-      "movedToIce": "Moved player 6 to Team Ice",
-      "movedToFire": "Moved player 6 to Team Fire",
-      "cannotBeEmpty": "Teams cannot be empty",
-      "savedOrder": "Saved Order",
-      "errorOrder": "Could not change order."
+      "movedToIce": "氷チームへプレイヤー６を移動させます。",
+      "movedToFire": "炎チームへプレイヤー６を移動させます。",
+      "cannotBeEmpty": "チームを空にする事は出来ません",
+      "savedOrder": "順番を保存します",
+      "errorOrder": "順番を変更できません"
     },
     "createArenaModal": {
       "createNewArena": "新しいアリーナを作成する",
-      "title": "アリーナ名",
       "arenaType": "アリーナタイプ",
+      "title": "アリーナ名",
       "titlePlaceholder": "第1回マイクリカップ",
       "description": "アリーナ説明",
       "descriptionPlaceholder": "ブルードラゴンルール",
