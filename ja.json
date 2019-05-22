@@ -541,10 +541,6 @@
   },
   "arena": {
     "title": "アリーナ",
-    "createNewArena": "新しいアリーナを作成する",
-    "arenaTitle": "アリーナ名",
-    "titlePlaceholder": "第1回マイクリカップ",
-    "setStartTime": "開始時刻を設定する",
     "create": "作成する",
     "created": "アリーナを作成しました！",
     "description": "ユーザ主催のアリーナで他のユーザとバトル！パスワードをお持ちでしたら、入力してください",
@@ -595,7 +591,36 @@
     "nothingToSee": "閲覧権限がありません",
     "password": "パスワード",
     "copiedText": "コピーする",
-    "copiedTextFailed": "コピーしました"
+    "copiedTextFailed": "コピーしました",
+    "arenaView": {
+      "noDescription": "No description",
+      "dragAndDrop": "Drag and drop the move icon to change the order or switch teams. If a team exceeds 5 players, player 6 will be moved to the other team.",
+    },
+    "createArenaModal": {
+      "createNewArena": "新しいアリーナを作成する",
+      "title": "アリーナ名",
+      "arenaType": "Arena Type",
+      "titlePlaceholder": "第1回マイクリカップ",
+      "description": "Arena Description",
+      "setStartTime": "開始時刻を設定する",
+      "league": {
+        "league": "League",
+        "leagueArena": "League Arena",
+        "text1": "Every player fights against every other player once.",
+        "text2": "Each win gets 3 points, draw 1 point, and loss 0 points.",
+        "text3": "The player with the most points at the end of the tournament wins.",
+        "text4": "A maximum of 12 players can join the arena."
+      },
+      "team": {
+        "team": "Team",
+        "teamArena": "Team Arena",
+        "text1": "There are two teams with an ordered list of 5 players each.",
+        "text2": "Each respective first players start with the first battle. ",
+        "text3": "The winner will continue to battle the next player from the opponent team. (similar to Land Flag Battle)",
+        "text4": "A maximum of 10 players can join the arena.",
+        "text5": "Each player can change the order of players."
+      }
+    }
   },
   "raid": {
     "title": "レイド",
