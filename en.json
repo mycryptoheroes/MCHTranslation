@@ -12,7 +12,8 @@
     },
     "errorMessage": "Please try reload",
     "condition": "Condition",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "close": "Close"
   },
   "pages": {
     "home": "Home",
@@ -48,7 +49,8 @@
     "twitter": "Official Twitter",
     "twitterUrl": "https://twitter.com/mycryptoheroes_",
     "discord": "Official Community",
-    "company": "Company"
+    "company": "Company",
+    "art": "Art"
   },
   "top": {
     "gameStart": "Play Game",
@@ -650,6 +652,24 @@
     "cancelSellingTitle": "Cancel Selling",
     "cancelSelling": "Cancel Selling This Art",
     "confirmCancelSelling": "Are you sure to cancel selling this art?"
+  },
+  "art": {
+    "myArts": "My Arts",
+    "viewAll": "View All",
+    "more": "More",
+    "alreadySet": "Already Set",
+    "onTrading": "On Trading",
+    "addArt": "Add Art",
+    "sell": "Sell",
+    "setToHero": {
+      "title": "Set to Hero",
+      "warning": {
+        "overStockSkills": "The stock of skills is up to three. Choose a skill to destroy.",
+        "confirm": "This art is set for {heroName} .",
+        "fee": "It is necessary to put {fee} GUM on this art to this hero."
+      },
+      "heroDetail": "Hero Detail"
+    }
   },
   "lordRewards": {
     "balance": "Withdrawable:",

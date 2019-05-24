@@ -12,7 +12,8 @@
     },
     "errorMessage": "ブラウザの再読込をお試しください",
     "condition": "発動条件",
-    "cancel": "キャンセル"
+    "cancel": "キャンセル",
+    "close": "閉じる"
   },
   "pages": {
     "home": "ホーム",
@@ -48,7 +49,8 @@
     "twitter": "公式Twitter",
     "twitterUrl": "https://twitter.com/mycryptoheroes",
     "discord": "公式コミュニティ",
-    "company": "運営会社"
+    "company": "運営会社",
+    "art": "アート"
   },
   "top": {
     "gameStart": "ゲームを始める",
@@ -655,6 +657,24 @@
     "cancelSellingTitle": "出品取消",
     "cancelSelling": "このアートの出品を取り消す",
     "confirmCancelSelling": "このアートの出品を取り消してよいですか？"
+  },
+  "art": {
+    "myArts": "マイアート",
+    "viewAll": "すべて見る",
+    "more": "もっと見る",
+    "alreadySet": "セット済み",
+    "onTrading": "出品中",
+    "addArt": "アートの追加",
+    "sell": "出品",
+    "setToHero": {
+      "title": "ヒーローへセット",
+      "warning": {
+        "overStockSkills": "ストック可能なスキルは最大3つまでです。破棄するスキルを選択してください。",
+        "confirm": "このアートを {heroName} へセットします。",
+        "fee": "このヒーローへセットするには {fee} GUMが必要です。"
+      },
+      "heroDetail": "ヒーロー詳細へ"
+    }
   },
   "lordRewards": {
     "balance": "引出可能数：",
