@@ -97,6 +97,8 @@
   },
   "assetId": {
     "artEdit": "Art Edit",
+    "changeArt": "Change Art",
+    "changeSkill": "Change Active Skill",
     "approve": {
       "description": "To use your heroes, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
       "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
