@@ -669,7 +669,9 @@
         "fee": "It is necessary to put {fee} GUM on this art to this hero."
       },
       "heroDetail": "Hero Detail"
-    }
+    },
+    "ranking": "Weekly Ranking",
+    "recent": "Recent Arts"
   },
   "lordRewards": {
     "balance": "Withdrawable：",

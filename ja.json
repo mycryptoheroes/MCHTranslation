@@ -680,7 +680,9 @@
         "fee": "このヒーローへセットするには {fee} GUMが必要です。"
       },
       "heroDetail": "ヒーロー詳細へ"
-    }
+    },
+    "ranking": "ウィークリーランキング",
+    "recent": "最近のアート"
   },
   "lordRewards": {
     "balance": "引出可能数：",
