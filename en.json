@@ -310,6 +310,10 @@
     "battleGameList": {
       "viewBattle": "View Battle",
       "viewResult": "View Result"
+    },
+    "heroRarityCost": {
+      "title": "Hero Rarity Cost",
+      "description": "\"Hero Realty Cost\" has been set for the rarealities \"Novice\", \"common\", \"Uncomon\", \"Rare\", \"Epic\" and \"Legendary\" of heroes. For this land battle, the team needs to be organized so that the sum of the team's hero costs falls within the specified value."
     }
   },
   "knightBattle": {
