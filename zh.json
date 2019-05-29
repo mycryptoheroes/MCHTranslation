@@ -90,18 +90,22 @@
       "title": "The MCH Ecosystem",
       "jobs": [
         {
+          "slug": "farmer",
           "title": "Farmer",
           "body": "Farmers go on quests to level up heroes and find rare items. Sell your loot on the market to earn GUM, the currency of MCH."
         },
         {
+          "slug": "warrior",
           "title": "Warrior",
           "body": "Warriors fight in PvP battles for rare items and fame. Prove your skill in regular tournaments, Land vs. Land battles, and custom arenas."
         },
         {
+          "slug": "creator",
           "title": "Creator",
           "body": "Are you one of the creative kind? Sell your self-made hero skins on the art market for GUM. Or get creative in your own tournament modes."
         },
         {
+          "slug": "trader",
           "title": "Trader",
           "body": "Traders use the in-game market to earn GUM. They buy the supply of farmers and equip warriors before they send their heroes into battle."
         }
