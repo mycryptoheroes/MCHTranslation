@@ -615,10 +615,10 @@
     },
     "title": "デュエルカップ",
     "overheat": {
-      "title": "Overheated Heroes",
-      "subtitle": "(-50% base stats)",
-      "explanation": "We enable the new mechanic Overheated Heroes during the last 4 hours of the tournament. Criteria for a hero to overheat: Hero is played in more than 50% of battles AND is among the top 3 most winning heroes of that segment. Overheated heroes have their base stats cut in half.",
-      "reveal": "Revealed on"
+      "title": "オーバーヒートヒーロー",
+      "subtitle": "(基礎パラメータが 50% ダウン)",
+      "explanation": "トーナメントの最後の5時間で、オーバーヒートヒーローが有効になります。バトルで使用されたヒーローの使用率上位50%中の勝率上位3体のヒーローが「オーバーヒート」状態になり、基礎パラメータが50%ダウンします。",
+      "reveal": "適用日時: "
     }
   },
   "arena": {

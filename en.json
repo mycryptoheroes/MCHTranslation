@@ -613,7 +613,7 @@
     "overheat": {
       "title": "Overheated Heroes",
       "subtitle": "(-50% base stats)",
-      "explanation": "We enable the new mechanic Overheated Heroes during the last 4 hours of the tournament. Criteria for a hero to overheat: Hero is played in more than 50% of battles AND is among the top 3 most winning heroes of that segment. Overheated heroes have their base stats cut in half.",
+      "explanation": "We enable the new mechanic Overheated Heroes during the last 5 hours of the tournament. Criteria for a hero to overheat: Hero is played in more than 50% of battles AND is among the top 3 most winning heroes of that segment. Overheated heroes have their base stats cut in half.",
       "reveal": "Revealed on"
     }
   },
