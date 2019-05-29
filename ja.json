@@ -733,6 +733,7 @@
     "confirmCancelSelling": "このアートの出品を取り消してよいですか？"
   },
   "art": {
+    "detail": "アート詳細",
     "myArts": "マイアート",
     "viewAll": "すべて見る",
     "more": "もっと見る",

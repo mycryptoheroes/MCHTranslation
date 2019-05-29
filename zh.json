@@ -723,6 +723,7 @@
     "confirmCancelSelling": "Are you sure to cancel selling this art?"
   },
   "art": {
+    "detail": "Art Detail",
     "myArts": "My Arts",
     "viewAll": "View All",
     "more": "More",
