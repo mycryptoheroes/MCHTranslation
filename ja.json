@@ -613,7 +613,13 @@
       "pledgeContent": "オフィシャルデュエルカップ参加にあたり「利用規約」「大会ルール」を理解、遵守し、正々堂々とプレイすることを誓います。",
       "warning": "※違反行為が発覚した場合、アカウント停止、トロフィーおよびWinners Pointを剥奪いたします。"
     },
-    "title": "デュエルカップ"
+    "title": "デュエルカップ",
+    "overheat": {
+      "title": "Overheated Heroes",
+      "subtitle": "(-50% base stats)",
+      "explanation": "We enable the new mechanic Overheated Heroes during the last 4 hours of the tournament. Criteria for a hero to overheat: Hero is played in more than 50% of battles AND is among the top 3 most winning heroes of that segment. Overheated heroes have their base stats cut in half.",
+      "reveal": "Revealed on"
+    }
   },
   "arena": {
     "title": "アリーナ",
