@@ -67,6 +67,71 @@
     },
     "guide": "Learn how to play My Crypto Heroes"
   },
+  "lp": {
+    "intro": {
+      "title": [
+        "What is",
+        "My Crypto Heroes?"
+      ],
+      "body": "My Crypto Heroes is an RPG battle game that is built on the Ethereum blockchain. Play with historical inspired heroes, go on quests to find rare items, and battle against other players for rewards and fame."
+    },
+    "features": {
+      "gameplay": "Gameplay",
+      "pve": {
+        "title": "PvE Mode",
+        "body": "Send your heroes into dungeons to collect EXP and find rare items, called Original Extensions (ERC-721 token). EXP can be used to level up your assets."
+      },
+      "pvp": {
+        "title": "PvP Mode",
+        "body": "Fight other players in competitive tournaments, tailored to different player strengths. Top players earn Original Extensions (ERC-721) and eternal fame."
+      }
+    },
+    "ecosystem": {
+      "title": "The MCH Ecosystem",
+      "jobs": [
+        {
+          "title": "Farmer",
+          "body": "Farmers go on quests to level up heroes and find rare items. Sell your loot on the market to earn GUM, the currency of MCH."
+        },
+        {
+          "title": "Warrior",
+          "body": "Warriors fight in PvP battles for rare items and fame. Prove your skill in regular tournaments, Land vs. Land battles, and custom arenas."
+        },
+        {
+          "title": "Creator",
+          "body": "Are you one of the creative kind? Sell your self-made hero skins on the art market for GUM. Or get creative in your own tournament modes."
+        },
+        {
+          "title": "Trader",
+          "body": "Traders use the in-game market to earn GUM. They buy the supply of farmers and equip warriors before they send their heroes into battle."
+        }
+      ]
+    },
+    "economy": {
+      "title": "Acquire and Grow Digital Assets",
+      "hero": {
+        "title": "Heroes",
+        "body": "Each hero with the rarity Uncommon or higher is an ERC-721 token. This means that you own the token and can sell it on 3rd party platforms like OpenSea."
+      },
+      "items": {
+        "title": "Items",
+        "body": "Each unique item, called Original Extensions, is an ERC-721 token too. You will find them through fighting in quests or competing in tournaments."
+      }
+    },
+    "gettingStarted": {
+      "title": "Getting Started",
+      "vendor": {
+        "dapper": {
+          "title": "For Most Players: Dapper Extension",
+          "body": "Easy to use wallet, great design, and simple onboarding. Recommended for users who don't want to deal with private keys and Gas fees."
+        },
+        "metamask": {
+          "title": "For Advanced Players: MetaMask Extension",
+          "body": "Most used wallet for Ethereum dapps. Lots of features and flexibility. Recommended for users that are familiar with dapps."
+        }
+      }
+    }
+  },
   "others": {
     "other": "其他"
   },
