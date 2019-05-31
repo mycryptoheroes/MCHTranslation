@@ -529,6 +529,7 @@
       "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
       "rule6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get※1 or use※2 them in battle last time.\n※1 get: Purchase, Quest, Reward, Trade, Transfer to Crypto World\n※2 use in battle: Official Duel Cup, Arena, Land Battle, Raid",
       "rule7": "You can see your asset in trading list after 1 mins since you sell your asset.",
+      "rule8": "If a copied art is reported by its original creator, we will stop listing the copied art. In the case of repetitive infringement, we will carry out strict measures (such as suspending accounts, reverting art sale transactions, and so on).",
       "buy1": "确认购买",
       "buy2": "通过",
       "buy3": "GUM",
