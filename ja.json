@@ -457,7 +457,7 @@
             "ノービスヒーロー「ダビデ」（〜2019/6/3, まだダビデをお持ちでない方のみ）"
           ],
           "dailybonus1": "- 約24時間に1回利用可能",
-          "dailybonus2": "- 50GUM(3人に1人100GUM! 100人に1人1000GUM!!)",
+          "dailybonus2": "- 50GUM(3人に1人100GUM! 100人に1人5,000GUM!!)",
           "dailybonus3": "※ デイリーボーナスの獲得には別途少額のETH(ガス代)が必要です。"
         },
         "leftDays": {
@@ -592,7 +592,7 @@
     "9": "スマホでDapps！メタマスクからその他ウォレットへのインポート方法(by dApps market)"
   },
   "shop": {
-    "doubleUpCampaign": "3人に1人100GUM! 100人に1人1000GUM!!",
+    "doubleUpCampaign": "3人に1人100GUM! 100人に1人5,000GUM!!",
     "heroes": {
       "confirm": "{heroName} を {price} GUMで購入します"
     },

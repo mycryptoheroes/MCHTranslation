@@ -448,7 +448,7 @@
             "Novice Hero \"David\" (- June 3, 2019/ only for users who have not had one yet)"
           ],
           "dailybonus1": "- Reset in 24 hours",
-          "dailybonus2": "- 50GUM(100GUM for 1/3, 1000GUM for 1/100!)",
+          "dailybonus2": "- 50GUM(100GUM for 1/3, 5,000GUM for 1/100!)",
           "dailybonus3": "※ Small amount of ETH is required as a gas fee."
         },
         "leftDays": {
@@ -581,7 +581,7 @@
     "8": "Import account from METAMASK"
   },
   "shop": {
-    "doubleUpCampaign": "有百分之33的概率获得100GUM，百分之1的概率获得1000GUM！",
+    "doubleUpCampaign": "有百分之33的概率获得100GUM，百分之1的概率获得5,000GUM！",
     "heroes": {
       "confirm": "购买 {heroName} 通过 {price} GUM"
     },
