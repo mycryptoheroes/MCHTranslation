@@ -490,7 +490,7 @@
         "3": "The pickup will be automatically updated every day at UTC 0:00.",
         "4": "Consume",
         "5": " GUM and purchase this replica hero?",
-        "refresh": "Would you consume 200 GUM and refresh the replica hero pickup?"
+        "refresh": "Would you consume {gum} GUM and refresh the replica hero pickup?"
       },
       "land": {
         "presale": {
