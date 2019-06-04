@@ -739,8 +739,8 @@
     "reportModal": {
       "text": "To prove that you are the owner of the stolen art, please choose your original art below.",
       "warning": [
-        "By submitting the copyright claim, the copied art will be unlisted.",
-        "If a copied art is reported by its original creator, we will stop listing the copied art. In the case of repetitive infringement, we will carry out strict measures (such as suspending accounts, reverting art sale transactions, and so on)."
+        "If a copied art is reported by its original creator, we will stop listing the copied art.",
+        "In the case of repetitive infringement, we will carry out strict measures (such as suspending accounts, reverting art sale transactions, and so on)."
       ],
       "agree": "I agree with the above notes",
       "submit": "Submit"
@@ -830,7 +830,7 @@
     "28": "Your art is purchased by {3} at {1} GUM. You received {0} GUM.",
     "29": "Your art sold in Art Gallery was expired.",
     "30": "Raid: Singularity prize. You received {0}.",
-    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art."
+    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@doublejump.tokyo)."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
