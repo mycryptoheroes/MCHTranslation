@@ -738,7 +738,15 @@
     "notPublished": "ETHアドレスの公開を設定してください",
     "cancelSellingTitle": "出品取消",
     "cancelSelling": "このアートの出品を取り消す",
-    "confirmCancelSelling": "このアートの出品を取り消してよいですか？"
+    "confirmCancelSelling": "このアートの出品を取り消してよいですか？",
+    "reportButton": "著作権を主張する",
+    "reportModal": {
+      "text": "主張の根拠となるあなたのアートを選択してください。",
+      "warning": [
+        "著作権の主張を実行することにより、この出品は強制的に取り下げ状態になります"
+      ],
+      "submit": "決定"
+    }
   },
   "art": {
     "detail": "アート詳細",

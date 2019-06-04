@@ -728,7 +728,15 @@
     "notPublished": "Please publish your ETH address",
     "cancelSellingTitle": "Cancel Selling",
     "cancelSelling": "Cancel Selling This Art",
-    "confirmCancelSelling": "Are you sure to cancel selling this art?"
+    "confirmCancelSelling": "Are you sure to cancel selling this art?",
+    "reportButton": "Report copied art",
+    "reportModal": {
+      "text": "Choose your art on which to base your claim.",
+      "warning": [
+        "By executing the copyright claim, this listing will be forcibly withdrawn"
+      ],
+      "submit": "Submit"
+    }
   },
   "art": {
     "detail": "Art Detail",
