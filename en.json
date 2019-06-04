@@ -735,11 +735,11 @@
     "cancelSellingTitle": "Cancel Selling",
     "cancelSelling": "Cancel Selling This Art",
     "confirmCancelSelling": "Are you sure to cancel selling this art?",
-    "reportButton": "Report copied art",
+    "reportButton": "Report stolen art",
     "reportModal": {
-      "text": "Choose your art on which to base your claim.",
+      "text": "To prove that you are the owner of the stolen art, please choose your original art below.",
       "warning": [
-        "By executing the copyright claim, this listing will be forcibly withdrawn"
+        "By submitting the copyright claim, the copied art will be unlisted."
       ],
       "submit": "Submit"
     }
