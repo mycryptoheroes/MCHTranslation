@@ -742,7 +742,7 @@
         "If a copied art is reported by its original creator, we will stop listing the copied art.",
         "In the case of repetitive infringement, we will carry out strict measures (such as suspending accounts, reverting art sale transactions, and so on)."
       ],
-      "agree": "I agree with the above notes",
+      "agree": "I agree to the following notes",
       "submit": "Submit"
     }
   },
