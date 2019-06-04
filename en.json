@@ -827,7 +827,8 @@
     "27": "Invitation code reward. You received {0}.",
     "28": "Your art is purchased by {3} at {1} GUM. You received {0} GUM.",
     "29": "Your art sold in Art Gallery was expired.",
-    "30": "Raid: Singularity prize. You received {0}."
+    "30": "Raid: Singularity prize. You received {0}.",
+    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
