@@ -555,7 +555,25 @@
       "11": "确认购买",
       "12": "确认出售",
       "13": "全选",
-      "14": "取消所有"
+      "14": "取消所有",
+      "15": "Absorb Extension Crypto Energy",
+      "16": "(Lab Rate independent)",
+      "absorb": {
+        "firstStep": "1. Select Extension to Level Up",
+        "secondStep": "2. Select Extensions to Absorb",
+        "currentCE": "Current CE",
+        "absorbedCE": "Absorbed CE",
+        "totalCE": "Total CE",
+        "level": "Level",
+        "absorb": "Absorb",
+        "select": "Select Extension to Lvl up",
+        "confirmHeadline": "Confirm Absorb",
+        "disclaimerOne": "Your selected extensions will be absorbed by",
+        "disclaimerTwo": "Are you sure to continue?",
+        "burnedHeadline": "These extensions will be burned:",
+        "extension": "Extension",
+        "cryptid": "Cryptid"
+      }
     },
     "opensea": "(第三方网站)"
   },

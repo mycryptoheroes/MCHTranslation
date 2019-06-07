@@ -562,7 +562,25 @@
       "11": "Confirm buying",
       "12": "Confirm Selling",
       "13": "Select all",
-      "14": "Unselect"
+      "14": "Unselect",
+      "15": "Absorb Extension Crypto Energy",
+      "16": "(Lab Rate independent)",
+      "absorb": {
+        "firstStep": "1. Select Extension to Level Up",
+        "secondStep": "2. Select Extensions to Absorb",
+        "currentCE": "Current CE",
+        "absorbedCE": "Absorbed CE",
+        "totalCE": "Total CE",
+        "level": "Level",
+        "absorb": "Absorb",
+        "select": "Select Extension to Lvl up",
+        "confirmHeadline": "Confirm Absorb",
+        "disclaimerOne": "Your selected extensions will be absorbed by",
+        "disclaimerTwo": "Are you sure to continue?",
+        "burnedHeadline": "These extensions will be burned:",
+        "extension": "Extension",
+        "cryptid": "Cryptid"
+      }
     },
     "opensea": "(third-party site)"
   },

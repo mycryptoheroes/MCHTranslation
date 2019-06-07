@@ -565,7 +565,25 @@
       "11": "",
       "12": "",
       "13": "すべて選択",
-      "14": "選択を解除"
+      "14": "選択を解除",
+      "15": "エクステンションからCEを移行します。",
+      "16": "(ラボレートとは無関係です)",
+      "absorb": {
+        "firstStep": "1. レベルを上げたいエクステンションを選択",
+        "secondStep": "2. CEを移行するエクステンションを選択",
+        "currentCE": "現在のCE量",
+        "absorbedCE": "追加CE量",
+        "totalCE": "合計CE量",
+        "level": "レベル",
+        "absorb": "移行する",
+        "select": "レベルを上げたいエクステンションを選択してください",
+        "confirmHeadline": "CEの移行",
+        "disclaimerOne": "次のエクステンションにCEは移行されます：",
+        "disclaimerTwo": "本当によろしいですか?",
+        "burnedHeadline": "以下のエクステンションはなくなります(バーンされます):",
+        "extension": "Extension",
+        "cryptid": "クリプタイド"
+      }
     },
     "opensea": "(外部サイト)"
   },
