@@ -578,8 +578,8 @@
         "absorb": "移行する",
         "select": "レベルを上げたいエクステンションを選択してください",
         "confirmHeadline": "CEの移行",
-        "disclaimer": "Your selected extensions will be absorbed. Are you sure to continue?",
-        "burnedHeadline": "以下のエクステンションはなくなります(バーンされます):",
+        "disclaimer": "CEは移行されます。本当に続けますか？",
+        "burnedHeadline": "※以下のエクステンションは消失されます:",
         "extension": "Extension",
         "cryptid": "クリプタイド",
         "noExt": "オリジナルエクステンションがありません"
