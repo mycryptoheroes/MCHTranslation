@@ -572,7 +572,8 @@
         "disclaimerTwo": "Are you sure to continue?",
         "burnedHeadline": "These extensions will be burned:",
         "extension": "Extension",
-        "cryptid": "Cryptid"
+        "cryptid": "Cryptid",
+        "noExt": "No Original Extensions in Inventory"
       }
     },
     "opensea": "(第三方网站)"

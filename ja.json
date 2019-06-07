@@ -582,7 +582,8 @@
         "disclaimerTwo": "本当によろしいですか?",
         "burnedHeadline": "以下のエクステンションはなくなります(バーンされます):",
         "extension": "Extension",
-        "cryptid": "クリプタイド"
+        "cryptid": "クリプタイド",
+        "noExt": "オリジナルエクステンションがありません"
       }
     },
     "opensea": "(外部サイト)"
