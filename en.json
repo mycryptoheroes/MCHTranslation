@@ -451,12 +451,10 @@
           "list": [
             "Expanding the number of teams from 3 to 6",
             "Can challenge Limited Node for Prime Users",
-            "Daily Bonus",
-            "50% OFF all replica heroes(by June 10th)",
-            "Super discount of replica hero lineup refresh. Normal 200GUM → 50GUM(by June 10th)"
+            "Daily Bonus"
           ],
           "dailybonus1": "- Reset in 24 hours",
-          "dailybonus2": "- 50GUM(100GUM for 1/3, 1,000GUM for 1/100, by June 10th)",
+          "dailybonus2": "- 50GUM(100GUM for 1/3, 1,000GUM for 1/100)",
           "dailybonus3": "※ Small amount of ETH is required as a gas fee."
         },
         "leftDays": {
