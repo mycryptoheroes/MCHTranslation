@@ -442,9 +442,11 @@
           "title": "About MCH Prime",
           "lead": "MCH Prime you will receive following benefits for 30 days.",
           "list": [
+            "Limited-time special offer: You can get Novice Hero 'Sun Shangxiang'",
+            "Double the exp(CE) from quest node",
+            "Daily Bonus",
             "Expanding the number of teams from 3 to 6",
-            "Can challenge Limited Node for Prime Users",
-            "Daily Bonus"
+            "Limited Node only for Prime Users"
           ],
           "dailybonus1": "- Reset in 24 hours",
           "dailybonus2": "- 50GUM(100GUM for 1/3, 1,000GUM for 1/100)",
