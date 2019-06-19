@@ -998,7 +998,8 @@
       "7": "One of Replica Hero present of Rep A (equivalent to Epic) by logging in for 7 days in a row!",
       "8": "Acquired",
       "9": "You will get Replica Hero RepA in {day} Days!",
-      "10": "Congratulations! You got  Replica Hero ({rarity})!"
+      "10": "Congratulations! You got  Replica Hero ({rarity})!",
+      "11": "{day} days left to get!!"
     }
   }
 }
