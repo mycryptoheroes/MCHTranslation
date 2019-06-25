@@ -596,6 +596,16 @@
     "rules": {
       "hero": "Available Heroes",
       "extension": "Available Extensions"
+    },
+    "continue": {
+      "title": "Continue",
+      "text": "Would you like to continue?",
+      "remainCount": "{count} times left",
+      "help": {
+        "title": "Abount Continue",
+        "body": "While subscribing to MCH Prime, you can continue up to five times a day even if you die at the node. The number of times of continuous news is returned to {count} times every day at 0:00(UTC) regardless of the number of times of use of the previous day."
+      },
+      "giveUp": "Give Up"
     }
   },
   "walletModal": {

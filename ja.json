@@ -599,6 +599,16 @@
     "rules": {
       "hero": "使用可能なHero",
       "extension": "使用可能なExtension"
+    },
+    "continue": {
+      "title": "コンティニュー",
+      "text": "コンティニューしますか？",
+      "remainCount": "残り {count} 回",
+      "help": {
+        "title": "コンティニューについて",
+        "body": "MCHプライムに加入している間は、ノードで全滅しても毎日 {count} 回までコンティニューができます。コンティニューの回数は毎日9時（日本時間）になると、前日のコンティニューの使用回数に関わらず {count} 回に戻ります。"
+      },
+      "giveUp": "ギブアップ"
     }
   },
   "walletModal": {
