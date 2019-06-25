@@ -598,7 +598,7 @@
     "departure": {
       "recovery": "回復",
       "modal": {
-        "text": "{gum} GUMを使って、スタミナを {stamina} まで回復させますか？",
+        "text": "{gum} GUMを使って、全員のスタミナを {stamina} まで回復させますか？",
         "submit": "回復する"
       },
       "go": "Go"

@@ -586,10 +586,10 @@
       }
     },
     "departure": {
-      "recovery": "Recovery",
+      "recovery": "Recharge",
       "modal": {
-        "text": "Pay {gum} GUM to recover stamina to {stamina}.",
-        "submit": "Recovery"
+        "text": "Pay {gum} GUM to recharge each hero's stamina to {stamina}.",
+        "submit": "Recharge"
       },
       "go": "Go"
     },
@@ -599,12 +599,12 @@
       "extension": "Available Extensions"
     },
     "continue": {
-      "title": "Continue",
-      "text": "Would you like to continue?",
+      "title": "Revive",
+      "text": "Would you like to Revive?",
       "remainCount": "{count} times left",
       "help": {
-        "title": "Abount Continue",
-        "body": "While subscribing to MCH Prime, you can continue up to five times a day even if you die at the node. The number of times of continuous news is returned to {count} times every day at 0:00(UTC) regardless of the number of times of use of the previous day."
+        "title": "About Revive",
+        "body": "As part of your MCH Prime subscription, you can revive your party for up to {count} times per day for free. Your Revive count gets reset back to {count} every day at 0:00(UTC). Unused Revives will not carry over to the next day."
       },
       "giveUp": "Give Up"
     }
