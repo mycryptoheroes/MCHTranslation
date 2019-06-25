@@ -595,6 +595,14 @@
         "restart": "再開"
       }
     },
+    "departure": {
+      "recovery": "回復",
+      "modal": {
+        "text": "{gum} GUMを使って、スタミナを {stamina} まで回復させますか？",
+        "submit": "回復する"
+      },
+      "go": "Go"
+    },
     "acquired": "獲得済み",
     "rules": {
       "hero": "使用可能なHero",

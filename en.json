@@ -592,6 +592,14 @@
         "restart": "Continue quest"
       }
     },
+    "departure": {
+      "recovery": "Recovery",
+      "modal": {
+        "text": "Pay {gum} GUM to recover stamina to {stamina}.",
+        "submit": "Recovery"
+      },
+      "go": "Go"
+    },
     "acquired": "Acquired",
     "rules": {
       "hero": "Available Heroes",

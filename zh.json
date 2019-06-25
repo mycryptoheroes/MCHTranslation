@@ -585,6 +585,14 @@
         "restart": "继续任务"
       }
     },
+    "departure": {
+      "recovery": "Recovery",
+      "modal": {
+        "text": "Pay {gum} GUM to recover stamina to {stamina}.",
+        "submit": "Recovery"
+      },
+      "go": "Go"
+    },
     "acquired": "已获得",
     "rules": {
       "hero": "Available Heroes",
