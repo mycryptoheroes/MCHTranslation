@@ -609,7 +609,8 @@
     },
     "continue": {
       "title": "Revive",
-      "text": "Would you like to Revive?",
+      "text": "As part of your MCH Prime subscription, you can revive your party for up to {count} times per day for free.",
+      "textPrime": "Would you like to Revive?",
       "remainCount": "{count} times left",
       "help": {
         "title": "About Revive",
