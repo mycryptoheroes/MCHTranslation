@@ -350,7 +350,9 @@
         "cancelDeclared": "Are you sure to cancel the Free Agent declaration?",
         "receive": "Are you sure to hire this Free Agent to your Land for {gum} GUM?"
       }
-    }
+    },
+    "ceFarmRankingButton": "Show CE Farmer Ranking",
+    "ceFarmRanking": "Node CE Farmer Ranking"
   },
   "landBattle": {
     "title": "Land Battle",

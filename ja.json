@@ -352,7 +352,9 @@
         "cancelDeclared": "FA宣言を取り消しますか？",
         "receive": "{gum} GUMを支払い、このユーザーをランドに迎えますか？"
       }
-    }
+    },
+    "ceFarmRankingButton": "Show CE Farmer Ranking",
+    "ceFarmRanking": "Node CE Farmer Ranking"
   },
   "landBattle": {
     "title": "ランドバトル",
