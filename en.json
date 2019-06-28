@@ -158,8 +158,8 @@
     }
   },
   "referral": {
-    "description": "share your promo code and get 10% of the paid ETH in GUM!\nEvery time player come through your invite code or url pay ETH to purchase gum, 10% equivalent amount of GUM will be distributed to you and 10% of it will be accumulated to the Land lab you belong to.",
-    "gift": "Promo code Gift\nYour friends who use your promo code can get NOVICE Hero 'Sun Shangxiang'.",
+    "description": "share your promo code and get 10% of the paid ETH in GUM!\nEvery time player join through your invite code pay ETH to purchase gum, 5% equivalent amount of ETH will be distributed to you. (During the campaign, it may be expanded to “equivalent to 10%” etc.)",
+    "gift": "Promo code Gift\nYour friends who use your promo code can get replica Hero \"Brothers Grimm\".",
     "warning": "* \"Sign in\" by \"Normal Play with Wallet\" is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" is not displayed.",
     "shareText": "#MyCryptoHeroes, Your time and passion will become assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
@@ -451,15 +451,17 @@
           "title": "About MCH Prime",
           "lead": "MCH Prime you will receive following benefits for 30 days.",
           "list": [
-            "Expanding the number of teams from 3 to 6",
-            "Can challenge Limited Node for Prime Users",
+            "Limited-time special offer: You can get Novice Hero 'Sun Shangxiang'",
+            "Double the exp(CE) from quest node",
             "Daily Bonus",
-            "50% OFF all replica heroes(by June 10th)",
-            "Super discount of replica hero lineup refresh. Normal 200GUM → 50GUM(by June 10th)"
+            "Expanding the number of teams from 3 to 6",
+            "Limited Node only for Prime Users",
+            "Continuity available on node failure"
           ],
           "dailybonus1": "- Reset in 24 hours",
-          "dailybonus2": "- 50GUM(100GUM for 1/3, 5,000GUM for 1/100, by June 10th)",
-          "dailybonus3": "※ Small amount of ETH is required as a gas fee."
+          "dailybonus2": "- 50GUM(100GUM for 1/3, 1,000GUM for 1/100)",
+          "dailybonus3": "※ Small amount of ETH is required as a gas fee.",
+          "continue": "Available up to 5 times in approximately 24 hours"
         },
         "leftDays": {
           "before": "",
@@ -594,10 +596,29 @@
         "restart": "Continue quest"
       }
     },
+    "departure": {
+      "recovery": "Recharge",
+      "modal": {
+        "text": "Pay {gum} GUM to recharge each hero's stamina to {stamina}.",
+        "submit": "Recharge"
+      },
+      "go": "Go"
+    },
     "acquired": "Acquired",
     "rules": {
       "hero": "Available Heroes",
       "extension": "Available Extensions"
+    },
+    "continue": {
+      "title": "Revive",
+      "text": "As part of your MCH Prime subscription, you can revive your party for up to {count} times per day for free.",
+      "textPrime": "Would you like to Revive?",
+      "remainCount": "{count} times left",
+      "help": {
+        "title": "About Revive",
+        "body": "As part of your MCH Prime subscription, you can revive your party for up to {count} times per day for free. Your Revive count gets reset back to {count} every day at 0:00(UTC). Unused Revives will not carry over to the next day."
+      },
+      "giveUp": "Give Up"
     }
   },
   "walletModal": {
@@ -609,7 +630,7 @@
     "8": "Import account from METAMASK"
   },
   "shop": {
-    "doubleUpCampaign": "33% chance to get 100GUM! 1% to 5,000GUM",
+    "doubleUpCampaign": "33% chance to get 100GUM! 1% to 1,000GUM",
     "heroes": {
       "confirm": "Buy {heroName} for {price} GUM"
     },
@@ -994,5 +1015,20 @@
   "errors": {
     "4011": "[This account is being banned]<br><br>we decided to lock your account due to violation of section 14 of terms and policies. Please read terms and services  to check which  rule  you are against.<br><a href=\"https://www.mycryptoheroes.net/documents/terms_en.pdf\">Terms of service (PDF)</a><br>We did it to make  everyone can play My Crypto Heroes comfortably,thank you for your understanding.<br><br>double jump.tokyo inc<br><br>If you have any objections, please send email to address down below,<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
   },
-  "detail": "Check more detail"
+  "detail": "Check more detail",
+  "welcomeCampaign": {
+    "continuousLogin": {
+      "1": "Welcome Campaign",
+      "2": "Replica Hero present",
+      "3": "Day",
+      "4": "Please select the replica hero you want from the following.",
+      "5": "Present",
+      "6": "One of Rep C (Uncommon Equivalent) Replica Hero from the list will be sent as a welcome campaign!",
+      "7": "One of Replica Hero present of Rep A (equivalent to Epic) by logging in for 7 days in a row!",
+      "8": "Acquired",
+      "9": "You will get Replica Hero RepA in {day} Days!",
+      "10": "Congratulations! You got  Replica Hero ({rarity})!",
+      "11": "{day} days left to get!!"
+    }
+  }
 }

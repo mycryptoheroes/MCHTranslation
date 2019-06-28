@@ -160,8 +160,8 @@
     }
   },
   "referral": {
-    "description": "コードをシェアしてGUMをもらおう！\nご友人がコードを使ってマイクリを始めると、そのご友人がMCHでETHでGUMを購入するたびに、ご友人が使用したETHの10%相当のGUMを報酬として獲得し、10%相当のGUMが所属ランドのラボ（無所属の場合はZentral）に寄贈されます。",
-    "gift": "招待コード特典\n招待コードを入力して登録したお友達にNOVICEヒーロー「孫尚香」をプレゼント！",
+    "description": "コードをシェアしてGUMをもらおう！\nご友人をMCHに招待し、そのご友人がMCHでETHでGUMを購入するたびに、ご友人が使用したETHの5%相当のETHを報酬として獲得。(キャンペーン時は「10%相当」等に拡大される場合があります)",
+    "gift": "招待コード特典\n招待コードを入力して登録したお友達にレプリカヒーロー「グリム兄弟」をプレゼント！",
     "warning": "※ リファラルを行うには「Walletによるサインイン（Normal Play）」が必要です。「Googleアカウントによるサインイン（Trial Play）」でプレイされている場合「招待コード (Invitation Code)」は表示されません。",
     "shareText": "ゲームにかけた時間もお金も情熱も、あなたの資産となる世界 #MyCryptoHeores 日本発の本格的ブロックチェーンRPG！仮想通貨なしウォレットなしでプレイできます。",
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーロー「孫尚香」もらえる！"
@@ -453,15 +453,17 @@
           "title": "MCHプライムとは",
           "lead": "以下の特典を30日間ご利用いただけるサービスです。",
           "list": [
+            "ノービスヒーロー孫尚香プレゼント(7/31までの加入者限定)",
+            "ノードでの獲得経験値(CE)倍増",
+            "デイリーボーナスの獲得",
             "チーム編成数を3→6に拡張",
             "プライムユーザー限定ノードのプレイ",
-            "デイリーボーナスの獲得",
-            "レプリカヒーロー価格、全て50%オフ(6月10日まで)",
-            "レプリカヒーローリフレッシュ費用、通常200GUMのところ50GUM(6月10日まで)"
+            "ノード失敗時にコンティニューが利用可能"
           ],
           "dailybonus1": "- 約24時間に1回利用可能",
-          "dailybonus2": "- 50GUM(3人に1人100GUM! 6月10日までは100人に1人5,000GUM!!)",
-          "dailybonus3": "※ デイリーボーナスの獲得には別途少額のETH(ガス代)が必要です。"
+          "dailybonus2": "- 50GUM(3人に1人100GUM! 100人に1人1,000GUM!!)",
+          "dailybonus3": "※ デイリーボーナスの獲得には別途少額のETH(ガス代)が必要です。",
+          "continue": "約24時間に最大5回まで利用可能"
         },
         "leftDays": {
           "before": "あと",
@@ -580,8 +582,8 @@
         "absorb": "移行する",
         "select": "レベルを上げたいエクステンションを選択してください",
         "confirmHeadline": "CEの移行",
-        "disclaimer": "Your selected extensions will be absorbed. Are you sure to continue?",
-        "burnedHeadline": "以下のエクステンションはなくなります(バーンされます):",
+        "disclaimer": "CEは移行されます。本当に続けますか？",
+        "burnedHeadline": "※以下のエクステンションは消失されます:",
         "extension": "Extension",
         "cryptid": "クリプタイド",
         "noExt": "オリジナルエクステンションがありません"
@@ -597,10 +599,29 @@
         "restart": "再開"
       }
     },
+    "departure": {
+      "recovery": "回復",
+      "modal": {
+        "text": "{gum} GUMを使って、全員のスタミナを {stamina} まで回復させますか？",
+        "submit": "回復する"
+      },
+      "go": "Go"
+    },
     "acquired": "獲得済み",
     "rules": {
       "hero": "使用可能なHero",
       "extension": "使用可能なExtension"
+    },
+    "continue": {
+      "title": "コンティニュー",
+      "text": "MCHプライムに加入している間は、ノードで全滅しても毎日 {count} 回までコンティニューができます。",
+      "textPrime": "コンティニューしますか？",
+      "remainCount": "残り {count} 回",
+      "help": {
+        "title": "コンティニューについて",
+        "body": "MCHプライムに加入している間は、ノードで全滅しても毎日 {count} 回までコンティニューができます。コンティニューの回数は毎日9時（日本時間）になると、前日のコンティニューの使用回数に関わらず {count} 回に戻ります。"
+      },
+      "giveUp": "ギブアップ"
     }
   },
   "walletModal": {
@@ -613,7 +634,7 @@
     "9": "スマホでDapps！メタマスクからその他ウォレットへのインポート方法(by dApps market)"
   },
   "shop": {
-    "doubleUpCampaign": "3人に1人100GUM! 100人に1人5,000GUM!!",
+    "doubleUpCampaign": "3人に1人100GUM! 100人に1人1,000GUM!!",
     "heroes": {
       "confirm": "{heroName} を {price} GUMで購入します"
     },
@@ -998,5 +1019,20 @@
   "errors": {
     "4011": "■アカウント停止中■<br><br>お客様におかれましては、利用規約第14条に基づく違反が認められた為にアカウント強制停止の措置を取らせていただきました。<br>違反の詳細につきましては利用規約のご確認をお願い致します。<br><a href=\"https://www.mycryptoheroes.net/documents/terms_ja.pdf\">利用規約 (PDF)</a><br>皆様に快適にMy Crypto heroesをご利用頂くための措置となります。<br>何卒、ご理解のほど宜しくお願い致します。<br><br>double jump.tokyo株式会社<br><br>なお、本件に関する異議申し立てにつきましては下記のメールアドレスまでご連絡ください。<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
   },
-  "detail": "詳細を確認する"
+  "detail": "詳細を確認する",
+  "welcomeCampaign": {
+    "continuousLogin": {
+      "1": "ウェルカムキャンペーン",
+      "2": "レプリカヒーロープレゼント",
+      "3": "日目",
+      "4": "下記の中から欲しいレプリカヒーローを選択してください",
+      "5": "プレゼント",
+      "6": "アカウント新規作成でRepC（Uncommon相当）のレプリカヒーロー1体プレゼント！",
+      "7": "7日連続ログインでRepA（Epic相当）のレプリカヒーロー1体プレゼント！",
+      "8": "取得済み",
+      "9": "あと {day} 日でRepAのレプリカヒーローゲット！",
+      "10": "おめでとう！ {rarity} のレプリカヒーローゲット！",
+      "11": "あと {day} 日!!"
+    }
+  }
 }
