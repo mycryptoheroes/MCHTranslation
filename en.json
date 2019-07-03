@@ -373,9 +373,8 @@
       "g5": "This battle decides the 5 Knights (G5) who will represent each Land in Flag Battle. Only the Knight Class participates in this battle. G5 Knights will be decided by the Achievement Points ranking at the end of this Battle."
     },
     "pledge": {
-      "title": "Cup Entry",
-      "nineBattle": "Select {maxHeroes} heroes for your 9on9 Battle Team. {selectedHeroes} / {maxHeroes} Heroes selected.",
-      "body": "I will play fair, comferming to the terms of use and Land-battle rules.",
+      "title": "Pledge for fair play",
+      "body": "I will play fair, conforming to the terms of use and Land-battle rules.",
       "warnings": "In the Land Battle you need to organize a dedicated team."
     },
     "achievementPoints": "Achievement Points Ranking",
@@ -649,7 +648,8 @@
     "twitter": "Come on! Let's fight with my Heroes team!",
     "rules": "Check Rules (Official Medium)",
     "join": {
-      "pledge": "Pledge for fair play",
+      "pledge": "Cup Entry",
+      "nineBattle": "Select 9 heroes for your 9on9 Battle Team:",
       "pledgeContent": "I will play fair, comforming to the terms of use and Official Duel Cup rules.",
       "warning": "* Your account will be banned and your trophies and Winners Point will be deprivationd if you violate terms of use or Official Duel Cup rules."
     },
