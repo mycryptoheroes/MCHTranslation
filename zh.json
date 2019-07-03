@@ -367,7 +367,8 @@
       "results": "Results"
     },
     "pledge": {
-      "title": "Pledge for fair play",
+      "title": "Cup Entry",
+      "nineBattle": "Select {maxHeroes} heroes for your 9on9 Battle Team. {selectedHeroes} / {maxHeroes} Heroes selected.",
       "body": "I will play fair, comferming to the terms of use and Land-battle rules.",
       "warnings": "In the Land Battle you need to organize a dedicated team."
     },

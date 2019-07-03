@@ -375,7 +375,8 @@
       "g5": "ナイト戦G5は、フラッグ戦で各ランドを代表して戦う5人のナイト（G5）を決定します。この戦いにはナイトだけが参加できます。 G5のナイトは、功績ポイントの順位によって決まります。"
     },
     "pledge": {
-      "title": "宣誓",
+      "title": "エントリー",
+      "nineBattle": "Select {maxHeroes} heroes for your 9on9 Battle Team. {selectedHeroes} / {maxHeroes} Heroes selected.",
       "body": "ランドバトル参加にあたり「利用規約」「大会ルール」を理解、遵守し、正々堂々とプレイすることを誓います。",
       "warnings": "ランドバトルでは専用のチームを編成する必要があります。"
     },
