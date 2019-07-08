@@ -439,6 +439,7 @@
   "market": {
     "shop": {
       "current": "所持GUM数:",
+      "suggestedGasPrice": "推奨Gas価格",
       "dailybonus": "デイリー ボーナス",
       "comment": "着金まで2分ほど時間がかかります。",
       "wallet": "GUMの購入にはETH対応のウォレットが必要です",
