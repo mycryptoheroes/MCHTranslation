@@ -423,6 +423,12 @@
         "Note: You will lose ownership of the original extensions you dedicate. You will not be able to use them anymore. Is this okay?"
       ]
     },
+    "replica": {
+      "warnings" {
+        "hero": "All your dedicated replica heroes will be burned.",
+        "extension": "All your dedicated replica extensions will be burned."
+      }
+    },
     "emaEffects": {
       "title": "EMA Effects",
       "points": "EMA Points",
@@ -433,6 +439,24 @@
     },
     "nieRanking": "NIE Ranking",
     "dedicate": "dedicate"
+  },
+  "toku": {
+    "notice": {
+      "title": "We upgraded LAB to TOKU!",
+      "text1": "Our latest ecosystem update removed LAB and introduced TOKU. It is a ",
+      "text2": "Proof of Play (PoP) ",
+      "text3": "system that rewards active quest farmers with Heroes, Extensions, and GUM.",
+      "details": "See Details",
+      "confirm": "Take me to TOKU"
+    },
+    "modal": {
+      "explainer": "Dedicate your CE to your Land Cryptid and collect Toku Points.",
+      "personal": "Personal Reward",
+      "land": "Land Reward",
+      "heroExtCe": "Original Hero / Extension CE",
+      "repHeroExt": "Replica Hero / Extension",
+      "origExt": "Original Extension (EMA)"
+    }
   },
   "market": {
     "shop": {
