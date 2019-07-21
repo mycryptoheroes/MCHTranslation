@@ -426,7 +426,7 @@
       ]
     },
     "replica": {
-      "warnings" {
+      "warnings": {
         "hero": "All your dedicated replica heroes will be burned.",
         "extension": "All your dedicated replica extensions will be burned."
       }
