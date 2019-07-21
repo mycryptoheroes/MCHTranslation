@@ -449,7 +449,12 @@
       "heroExtCe": "Original Hero / Extension CE",
       "repHeroExt": "Replica Hero / Extension",
       "origExt": "Original Extension (EMA)"
-    }
+    },
+    "collect": "Collect TOKU:",
+    "dedicate": "Dedicate to Cryptid",
+    "absorb": "Abbsorb Extensions",
+    "treasure": "TOKU Treasure",
+    "inPrep": "In Preparation - TOKU Treasure will be released soon"
   },
   "market": {
     "shop": {
