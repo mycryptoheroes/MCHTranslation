@@ -433,7 +433,9 @@
       "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each night battle / flag battle / quest / raid battle (in principle,Official Duel Cup has no effect)"
     },
     "nieRanking": "NIE Ranking",
-    "dedicate": "dedicate"
+    "dedicate": "dedicate",
+    "buyCe": "Buy CE to Heroes",
+    "absorb": "Absorb Extensions"
   },
   "toku": {
     "notice": {
