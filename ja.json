@@ -427,8 +427,8 @@
     },
     "replica": {
       "warnings": {
-        "hero": "All your dedicated replica heroes will be burned.",
-        "extension": "All your dedicated replica extensions will be burned."
+        "hero": "奉納されたレプリカヒーローは消滅します",
+        "extension": "奉納されたレプリカエクステンションは消滅します"
       }
     },
     "emaEffects": {
@@ -444,26 +444,26 @@
   },
   "toku": {
     "notice": {
-      "title": "We upgraded LAB to TOKU!",
-      "text1": "Our latest ecosystem update removed LAB and introduced TOKU. It is a ",
+      "title": "Lab機能がTOKUシステムに！",
+      "text1": "新エコシステムではLab機能が取り除かれ、TOKUシステムとなります。これは ",
       "text2": "Proof of Play (PoP) ",
-      "text3": "system that rewards active quest farmers with Heroes, Extensions, and GUM.",
-      "details": "See Details",
-      "confirm": "Take me to TOKU"
+      "text3": "という、クエストに出かけるユーザーに報酬が与えられるシステムです。",
+      "details": "詳細を見る",
+      "confirm": "TOKUに戻る"
     },
     "modal": {
-      "explainer": "Dedicate your CE to your Land Cryptid and collect Toku Points.",
-      "personal": "Personal Reward",
-      "land": "Land Reward",
+      "explainer": "CEをクリプタイドに奉納しTOKUを集めよう",
+      "personal": "TOKUポイント",
+      "land": "ランド還元",
       "heroExtCe": "Original Hero / Extension CE",
       "repHeroExt": "Replica Hero / Extension",
       "origExt": "Original Extension (EMA)"
     },
-    "collect": "Collect TOKU:",
-    "dedicate": "Dedicate to Cryptid",
-    "absorb": "Absorb Extensions",
+    "collect": "TOKUを集めよう:",
+    "dedicate": "Cryptidに奉納",
+    "absorb": "オリジナルエクステンションの強化",
     "treasure": "TOKU Treasure",
-    "inPrep": "In Preparation - TOKU Treasure will be released soon"
+    "inPrep": "準備中 - 公開までしばらくお待ち下さい"
   },
   "market": {
     "shop": {
