@@ -432,6 +432,7 @@
         "extension": "奉納されたレプリカエクステンションは消滅します"
       }
     },
+    "effect": "クリプタイド効果",
     "emaEffects": {
       "title": "EMA効果",
       "points": "EMAポイント",
@@ -460,7 +461,7 @@
     "collect": "TOKUを集めよう:",
     "dedicate": "クリプタイドに奉納",
     "absorb": "オリジナルエクステンションの強化",
-    "treasure": "TOKU Treasure",
+    "treasure": "TOKUトレジャー",
     "inPrep": "準備中 - 公開までしばらくお待ち下さい"
   },
   "market": {

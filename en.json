@@ -430,6 +430,7 @@
         "extension": "All your dedicated replica extensions will be burned."
       }
     },
+    "effect": "Cryptid Effect",
     "emaEffects": {
       "title": "EMA Effects",
       "points": "EMA Points",
