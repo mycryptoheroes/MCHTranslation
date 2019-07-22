@@ -331,6 +331,7 @@
     },
     "dedicate": "Dedicate",
     "freeAgentPool": {
+      "donate": "Donate",
       "headline": "Dedicate to Free Agent GUM Pool",
       "1": "Support your Land with GUM to hire Knights.",
       "2": "The dedicated GUM can be used by the King to purchase Knights from other Lands for Land Battle."
@@ -435,10 +436,7 @@
   },
   "toku": {
     "notice": {
-      "title": "We upgraded LAB to TOKU!",
-      "text1": "Our latest ecosystem update removed LAB and introduced TOKU. It is a ",
-      "text2": "Proof of Play (PoP) ",
-      "text3": "system that rewards active quest farmers with Heroes, Extensions, and GUM.",
+      "text": "Integrated Lab functions into Land’s guardian god “Cryptid”! You can 'dedicate CE/ Replica Extensions to Cryptid' and 'absorb CE' in 'TOKU' page.",
       "details": "See Details",
       "confirm": "Take me to TOKU"
     },
