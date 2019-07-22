@@ -454,17 +454,10 @@
     "modal": {
       "explainer": "CEをクリプタイドに奉納しTOKUを集めよう",
       "personal": "TOKUポイント",
-<<<<<<< HEAD
       "land": "ランド還元",
       "heroExtCe": "ヒーロー / エクステンション CE",
       "repHeroExt": "レプリカヒーロー / レプリカエクステンション",
       "origExt": "EMA"
-=======
-      "land": "クリプタイド",
-      "heroExtCe": "Original Hero / Extension CE",
-      "repHeroExt": "Replica Hero / Extension",
-      "origExt": "Original Extension (EMA)"
->>>>>>> 78f977f467ff93fc52a9786a4f1acf7a5e77b9fe
     },
     "collect": "TOKUを集めよう:",
     "dedicate": "Cryptidに奉納",
