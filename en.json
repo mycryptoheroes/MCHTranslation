@@ -288,7 +288,8 @@
     "citizensCount": "Citizens Count",
     "seeAllKnights": "See All Knights",
     "profit": "Land Profit",
-    "distribution": "Profit Distribution",
+    "landProfitDistribution": "Land Profit Distribution",
+    "cryptidCeDistribution": "Cryptid CE Distribution",
     "forward": "Carry Forward",
     "community": "Community",
     "flagBattleHistory": "Flag Battle History",
@@ -446,14 +447,14 @@
   },
   "toku": {
     "notice": {
-      "text": "Integrated Lab functions into Land’s guardian god “Cryptid”! You can 'dedicate CE/ Replica Extensions to Cryptid' and 'absorb CE' in 'TOKU' page.",
+      "text": "Our latest ecosystem update removed LAB and introduced TOKU. It is a Proof of Play (PoP) system that rewards active quest farmers with Heroes, Extensions, and GUM.",
       "details": "See Details",
       "confirm": "Take me to TOKU"
     },
     "modal": {
       "explainer": "Dedicate your CE to your Land Cryptid and collect Toku Points.",
       "personal": "Personal Reward",
-      "land": "Land Reward",
+      "land": "Dedicated to Cryptid",
       "heroExtCe": "Original Hero / Extension CE",
       "repHeroExt": "Replica Hero / Extension",
       "origExt": "Original Extension (EMA)"
