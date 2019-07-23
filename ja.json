@@ -447,6 +447,23 @@
     "buyCe": "ヒーローの強化",
     "absorb": "エクステンションの強化"
   },
+  "dedicate": {
+    "dedicateCe": "CEの奉納",
+    "showAllLevel": "すべてのレベルのアセットを表示",
+    "showMaxLevelOnly": "レベルMaxのみを表示",
+    "dedicateReplica": "レプリカの奉納",
+    "selectBroken": "期限切れのみを選択",
+    "selectRarity": "レアリティを選択",
+    "dedicateOriginalExtension": "オリジナルエクステンションの奉納",
+    "emaDescription": "ニックネームがセットされていてチームにセットされていないエクステンションを奉納できます",
+    "currentEmaEffects": "現在のEMA効果",
+    "phyDamage": "PHYダメージ",
+    "intDamage": "INTダメージ",
+    "recovery": "回復量",
+    "emaPoints": "EMAポイント",
+    "emaEffect": "EMA効果",
+    "setNickname": "ニックネームセット済み"
+  },
   "toku": {
     "notice": {
       "text": "Labの機能はクリプタイドに内包されました。「クリプタイドへの奉納」「オリジナルエクステンションの強化」は「TOKU」画面で実行できます。",

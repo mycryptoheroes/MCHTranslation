@@ -445,6 +445,23 @@
     "buyCe": "Buy CE to Heroes",
     "absorb": "Absorb Extensions"
   },
+  "dedicate": {
+    "dedicateCe": "Dedicate Crypto Energy",
+    "showAllLevel": "Show All Level",
+    "showMaxLevelOnly": "Show Max Level Only",
+    "dedicateReplica": "Dedicate Replica",
+    "selectBroken": "Select Broken",
+    "selectRarity": "Select Rarity",
+    "dedicateOriginalExtension": "Dedicate Original Extension",
+    "emaDescription": "Extensions must have a Nickname set and can't be used in your team",
+    "currentEmaEffects": "Current EMA Effects",
+    "phyDamage": "PHY Damage",
+    "intDamage": "INT Damage",
+    "recovery": "Recovery",
+    "emaPoints": "EMA Points",
+    "emaEffect": "EMA Effect",
+    "setNickname": "Set Nickname"
+  },
   "toku": {
     "notice": {
       "text": "Our latest ecosystem update removed LAB and introduced TOKU. It is a Proof of Play (PoP) system that rewards active quest farmers with Heroes, Extensions, and GUM.",
