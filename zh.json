@@ -698,6 +698,7 @@
     "join": {
       "pledge": "Cup Entry",
       "nineBattle": "Select 9 heroes for your 9on9 Battle Team:",
+      "battle": "Select {needHeroesCount} heroes for your team:",
       "pledgeContent": "I will play fair, comforming to the terms of use and Official Duel Cup rules.",
       "warning": "* Your account will be banned and your trophies and Winners Point will be deprivationd if you violate terms of use or Official Duel Cup rules."
     },
