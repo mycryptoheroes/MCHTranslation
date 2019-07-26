@@ -928,7 +928,10 @@
     "28": "Your art is purchased by {3} at {1} GUM. You received {0} GUM.",
     "29": "Your art sold in Art Gallery was expired.",
     "30": "Raid: Singularity prize. You received {0}.",
-    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@doublejump.tokyo)."
+    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@doublejump.tokyo).",
+    "32": "デイリーボーナス {0} GUMを受け取りました。",
+    "33": "ラッキー！☆ デイリーボーナス {0} GUMを受け取りました♪",
+    "34": "MCHプライムが更新され、 {0} を受け取りました。"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
