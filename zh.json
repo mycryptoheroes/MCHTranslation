@@ -858,7 +858,15 @@
       "warning": {
         "overStockSkills": "The stock of skills is up to three. Choose a skill to destroy.",
         "confirm": "This art is set for {heroName} .",
-        "fee": "It is necessary to put {fee} GUM on this art to this hero."
+        "fee": "It is necessary to put {fee} GUM on this art to this hero.",
+        "1st": {
+          "fee": "There is no GUM fee.",
+          "param": "Randomly changes the Parameter Growth Trend."
+        },
+        "subsequent": {
+          "fee": "{fee} GUM Required.",
+          "param": "The Parameter Growth Trend is not changed."
+        }
       },
       "heroDetail": "Hero Detail"
     },
