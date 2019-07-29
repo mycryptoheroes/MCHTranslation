@@ -221,10 +221,10 @@
       "title": "Change parameter growth trend",
       "param": "Parameter",
       "trend": "Parameter growth trend",
-      "confirm1": "Are you sure to consume 5000CE and change parameter growth trend?",
+      "confirm1": "Are you sure to consume {ce} CE and change parameter growth trend?",
       "confirm2": "Once you execute this, you can never get back previous parameter growth trend",
       "again": "Try Again",
-      "button": "Consume 5000CE and change trend"
+      "button": "Consume {ce} CE and change trend"
     }
   },
   "battle": {
@@ -434,7 +434,26 @@
       "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each night battle / flag battle / quest / raid battle (in principle,Official Duel Cup has no effect)"
     },
     "nieRanking": "NIE Ranking",
-    "dedicate": "dedicate"
+    "dedicate": "dedicate",
+    "buyCe": "Buy CE to Heroes",
+    "absorb": "Absorb Extensions"
+  },
+  "dedicate": {
+    "dedicateCe": "Dedicate Crypto Energy",
+    "showAllLevel": "Show All Level",
+    "showMaxLevelOnly": "Show Max Level Only",
+    "dedicateReplica": "Dedicate Replica",
+    "selectBroken": "Select Broken",
+    "selectRarity": "Select Rarity",
+    "dedicateOriginalExtension": "Dedicate Original Extension",
+    "emaDescription": "Extensions must have a Nickname set and can't be used in your team",
+    "currentEmaEffects": "Current EMA Effects",
+    "phyDamage": "PHY Damage",
+    "intDamage": "INT Damage",
+    "recovery": "Recovery",
+    "emaPoints": "EMA Points",
+    "emaEffect": "EMA Effect",
+    "setNickname": "Set Nickname"
   },
   "toku": {
     "notice": {
@@ -474,6 +493,7 @@
       "current": "当前：",
       "suggestedGasPrice": "Suggested Gas Price",
       "dailybonus": "每日奖励",
+      "dailybonus2": "35 GUM (1% to 300 GUM!)",
       "comment": "成功购买GUM后，所购入的GUM会在两分钟后到账",
       "wallet": "你需要安装ETH钱包（Ethereum Wallet）来购买GUM",
       "airdrop": {
@@ -533,7 +553,7 @@
         "refresh": "Would you consume {gum} GUM and refresh the replica hero pickup?",
         "regendaryTrial": [
           "The trial campaign runs from July 22th to July 26th, and the campaign’s Legendary Replica Hero (Alexander/Qin Shi Huang /Minamoto Yoshitsune) has an Lv of 100. Note that the Lv will decrease to 70 by July 26th (Planned around UTC 6:00 July 26th) regardless of whether it is used or not.",
-          "The passive skill effectiveness of the new Legendary Hero is currently being adjusted and subject to change without notice. The actual selling of Legendary Heroes reflects the adjusted skills.",
+          "The passive skill effectiveness and params of the new Legendary Hero is currently being adjusted and subject to change without notice. The actual selling of Legendary Heroes reflects the adjusted skills and params.(Updated at UTC 1:43pm July 22nd)",
           "During the campaign period, the Replica Hero lineup cannot be refreshed arbitrarily.",
           "During the campaign, your purchase status is refreshed at UTC 0:00 o’clock every morning."
         ]
@@ -692,6 +712,7 @@
     "join": {
       "pledge": "Cup Entry",
       "nineBattle": "Select 9 heroes for your 9on9 Battle Team:",
+      "battle": "Select {needHeroesCount} heroes for your team:",
       "pledgeContent": "I will play fair, comforming to the terms of use and Official Duel Cup rules.",
       "warning": "* Your account will be banned and your trophies and Winners Point will be deprivationd if you violate terms of use or Official Duel Cup rules."
     },
@@ -851,7 +872,15 @@
       "warning": {
         "overStockSkills": "The stock of skills is up to three. Choose a skill to destroy.",
         "confirm": "This art is set for {heroName} .",
-        "fee": "It is necessary to put {fee} GUM on this art to this hero."
+        "fee": "It is necessary to put {fee} GUM on this art to this hero.",
+        "1st": {
+          "fee": "There is no GUM fee.",
+          "param": "Randomly changes the Parameter Growth Trend."
+        },
+        "subsequent": {
+          "fee": "{fee} GUM Required.",
+          "param": "The Parameter Growth Trend is not changed."
+        }
       },
       "heroDetail": "Hero Detail"
     },
@@ -921,7 +950,10 @@
     "28": "Your art is purchased by {3} at {1} GUM. You received {0} GUM.",
     "29": "Your art sold in Art Gallery was expired.",
     "30": "Raid: Singularity prize. You received {0}.",
-    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@doublejump.tokyo)."
+    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@doublejump.tokyo).",
+    "32": "デイリーボーナス {0} GUMを受け取りました。",
+    "33": "ラッキー！☆ デイリーボーナス {0} GUMを受け取りました♪",
+    "34": "MCHプライムが更新され、 {0} を受け取りました。"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
@@ -1056,7 +1088,12 @@
     "63": "Dragon Egg: 3rd",
     "64": "Dragon Egg: 4-10th",
     "65": "Dragon Egg: 111th",
-    "66": "Dragon Egg: 777th"
+    "66": "Dragon Egg: 777th",
+    "71": "9 On 9 Battle: 1st",
+    "72": "9 On 9 Battle: 2nd",
+    "73": "9 On 9 Battle: 3rd",
+    "74": "9 On 9 Battle: 4-10th",
+    "75": "9 On 9 Battle: 99th"
   },
   "twitter": {
     "hero": "My Crypto Heroes",
