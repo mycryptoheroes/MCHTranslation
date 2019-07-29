@@ -463,7 +463,20 @@
     "dedicate": "クリプタイドに奉納",
     "absorb": "オリジナルエクステンションの強化",
     "treasure": "TOKUトレジャー",
-    "inPrep": "準備中 - 公開までしばらくお待ち下さい"
+    "inPrep": "準備中 - 公開までしばらくお待ち下さい",
+    "treasures": {
+      "treasures": "Treasures",
+      "history": "History",
+      "rank": "Rank",
+      "heroReward": "Novice Hero:",
+      "basicReward": "Basic Reward",
+      "primeReward": "Prime Reward",
+      "getPrime": "Get Prime",
+      "primeOnly": "Prime Only",
+      "claim": "Claim",
+      "claimed": "Claimed",
+      "needMore": "Need More"
+    }
   },
   "market": {
     "shop": {

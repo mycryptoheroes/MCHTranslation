@@ -461,8 +461,20 @@
     "dedicate": "Dedicate to Cryptid",
     "absorb": "Absorb Extensions",
     "treasure": "TOKU Treasure",
-    "inPrep": "In Preparation - TOKU Treasure will be released soon"
-
+    "inPrep": "In Preparation - TOKU Treasure will be released soon",
+    "treasures": {
+      "treasures": "Treasures",
+      "history": "History",
+      "rank": "Rank",
+      "heroReward": "Novice Hero:",
+      "basicReward": "Basic Reward",
+      "primeReward": "Prime Reward",
+      "getPrime": "Get Prime",
+      "primeOnly": "Prime Only",
+      "claim": "Claim",
+      "claimed": "Claimed",
+      "needMore": "Need More"
+    }
   },
   "market": {
     "shop": {
