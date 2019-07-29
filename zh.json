@@ -490,7 +490,8 @@
       "exchangeTicket": "Exchange Ticket",
       "premiumExchangeTicket": "Premium Exchange Ticket",
       "aTreasure": "a treasure",
-      "congratsMessage": "Congratulations! You have just received "
+      "congratsMessage": "Congratulations! You have just received ",
+      "accept": "Yeah!"
     }
   },
   "market": {
