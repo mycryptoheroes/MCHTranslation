@@ -553,7 +553,14 @@
           "turnedOn": "自動更新をONにする"
         },
         "purchase": "{primePrice}でMCHプライムを購入します。よろしいですか？",
-        "submit": "{primePrice}で購入する"
+        "submit": "{primePrice}で購入する",
+        "refund": {
+          "title": "MCH Primeの解約",
+          "modal": {
+            "text": "{date} にプライムを解約し {gum} GUMを受け取ります。",
+            "disabled": "MCHプライムの自動更新をOFFにしてください"
+          }
+        }
       },
       "novice": {
         "1": "Noviceヒーローはゲーム内専用のヒーローです。",

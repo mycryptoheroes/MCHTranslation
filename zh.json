@@ -544,7 +544,14 @@
           "turnedOn": "Turn on automatic update"
         },
         "purchase": "Purchase MCH Prime from {primePrice}. Are you sure?",
-        "submit": "Buy with {primePrice}"
+        "submit": "Buy with {primePrice}",
+        "refund": {
+          "title": "Refund",
+          "modal": {
+            "text": "Cancel MCH Prime at {date} and receive {gum} GUM refund",
+            "disabled": "Turn off MCH prime subscription"
+          }
+        }
       },
         "novice": {
         "1": "Novice Hero is in game hero.",
