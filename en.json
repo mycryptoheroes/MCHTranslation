@@ -525,10 +525,13 @@
             "Daily Bonus",
             "Expanding the number of teams from 3 to 6",
             "Limited Node only for Prime Users",
-            "Continuity available on node failure"
+            "Continuity available on node failure",
+            "Early access to hosted features of the Public Arena",
+            "1 replica hero (A or more) is granted for every prime update (* enrollment after withdrawal is not eligible)",
+            "Additional Bonus for TOKU Treasure"
           ],
           "dailybonus1": "- Reset in 24 hours",
-          "dailybonus2": "- 50GUM(100GUM for 1/3, 1,000GUM for 1/100)",
+          "dailybonus2": "- 35GUM(300GUM for 1/100)",
           "dailybonus3": "※ Small amount of ETH is required as a gas fee.",
           "continue": "Available up to 5 times in approximately 24 hours"
         },
