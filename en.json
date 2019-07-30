@@ -975,7 +975,8 @@
     "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@doublejump.tokyo).",
     "32": "You received Daily Bonus {0} GUM.",
     "33": "Lucky you! XD You received Daily Bonus {0} GUM!",
-    "34": "MCH Prime has been updated and received {0}."
+    "34": "MCH Prime has been updated and received {0}.",
+    "35": "{1} has started MCH! Received {0} ETH as a referral."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
