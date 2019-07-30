@@ -500,7 +500,9 @@
       "premiumExchangeTicket": "プレミアム交換券",
       "aTreasure": "トレジャー報酬",
       "congratsMessage": "おめでとう! TOKUトレジャー報酬を受け取りました！",
-      "accept": "Yeah"
+      "accept": "Yeah",
+      "nextReset": "次のTOKUリセット：",
+      "redeemableUntil": "まで引き換え可能："
     }
   },
   "market": {

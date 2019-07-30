@@ -491,7 +491,9 @@
       "premiumExchangeTicket": "Premium Exchange Ticket",
       "aTreasure": "a treasure",
       "congratsMessage": "Congratulations! You have just received ",
-      "accept": "Yeah!"
+      "accept": "Yeah!",
+      "nextReset": "Next TOKU Reset:",
+      "redeemableUntil": "Redeemable until:"
     }
   },
   "market": {
