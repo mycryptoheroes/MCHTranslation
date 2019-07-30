@@ -976,7 +976,7 @@
     "32": "You received Daily Bonus {0} GUM.",
     "33": "Lucky you! XD You received Daily Bonus {0} GUM!",
     "34": "MCH Prime has been updated and received {0}.",
-    "35": "{1} has started MCH! Received {0} ETH as a referral."
+    "35": "Referral campaign! You received {0} ETH."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
