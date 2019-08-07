@@ -501,6 +501,17 @@
       "accept": "Yeah!",
       "nextReset": "Next TOKU Reset:",
       "redeemableUntil": "Redeemable until:"
+    },
+    "exchange": {
+      "title": "Ticket Exchange",
+      "headline": "Available Original Rewards:",
+      "notEnough": "Not enough tickets",
+      "redeem": "Redeem Exchange Ticket",
+      "confirm1": "Are you sure to trade ",
+      "confirm2": "for ",
+      "confirm3": "",
+      "cancel": "Cancel",
+      "trade": "Trade"
     }
   },
   "market": {

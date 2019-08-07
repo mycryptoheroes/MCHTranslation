@@ -503,6 +503,17 @@
       "accept": "Yeah",
       "nextReset": "次のTOKUリセット：",
       "redeemableUntil": "受取可能期間："
+    },
+    "exchange": {
+      "title": "チケット交換",
+      "headline": "交換可能なオリジナルアセット:",
+      "notEnough": "交換券が足りません",
+      "redeem": "交換券を使う",
+      "confirm1": "",
+      "confirm2": "を使って ",
+      "confirm3": "を獲得します。よろしいでしょうか？",
+      "cancel": "キャンセル",
+      "trade": "トレード"
     }
   },
   "market": {
