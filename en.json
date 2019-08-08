@@ -1164,6 +1164,9 @@
     "userName": {
       "description": "Choose a username for your MCH account.",
       "continue": "Continue"
+    },
+    "addHero": {
+      "title": "Add your heroes"
     }
   }
 }
