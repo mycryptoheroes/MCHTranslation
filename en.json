@@ -1162,7 +1162,8 @@
   },
   "beginnerModal": {
     "userName": {
-      "description": "Choose a username for your MCH account."
+      "description": "Choose a username for your MCH account.",
+      "continue": "Continue"
     }
   }
 }

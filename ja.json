@@ -1166,7 +1166,8 @@
   },
   "beginnerModal": {
     "userName": {
-      "description": "マイクリでのユーザ名を入力してください。"
+      "description": "ユーザ名を入力してください。",
+      "continue": "続ける"
     }
   }
 }
