@@ -1170,7 +1170,8 @@
     },
     "addHero": {
       "title": "Add your heroes",
-      "subTitle": "Click any position slot below to add your new heroes."
+      "subTitle": "Click any position slot below to add your new heroes.",
+      "subBody": "Click hero. You can set to 'Front', 'Middle' and 'Back' position.\nYou can change the order later."
     },
     "afterHeroAdded": {
       "title": "Heroes added!",
