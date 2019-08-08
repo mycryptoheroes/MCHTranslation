@@ -1166,7 +1166,16 @@
       "continue": "Continue"
     },
     "addHero": {
-      "title": "Add your heroes"
+      "title": "Add your heroes",
+      "subTitle": "Click any position slot below to add your new heroes."
+    },
+    "afterHeroAdded": {
+      "title": "Heroes added!",
+      "subTitle": "These heroes are not NFTs but they will help you learn how to play and acquire new items."
+    },
+    "afterTeamSet": {
+      "title": "All set!",
+      "subTitle": "Click to learn about your hero’s stats. When you’re ready click Let’s play to begin."
     }
   }
 }
