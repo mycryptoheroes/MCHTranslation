@@ -1161,6 +1161,8 @@
     }
   },
   "beginnerModal": {
+    "prev": "Prev",
+    "next": "Next",
     "userName": {
       "description": "Choose a username for your MCH account.",
       "continue": "Continue"
@@ -1176,6 +1178,20 @@
     "afterTeamSet": {
       "title": "All set!",
       "subTitle": "Click to learn about your hero’s stats. When you’re ready click Let’s play to begin."
+    },
+    "initFirstTeam": {
+      "myTeam": "My Quest Team",
+      "stamina": "Stamina",
+      "staminaDescription": "Stamina is like energy for your heroes. When you quest, your heroes consume stamina. Stamina recovers by 1 point every 5 minutes."
+    },
+    "paramDetail": {
+      "front": "Front",
+      "middle": "Middle",
+      "back": "Back",
+      "hp": "HP: The amount of life your hero has before they die.",
+      "phy": "PHY: The amount of physical damge your hero gives when attacking.",
+      "int": "INT: The amount of Intelligence damge your hero gives when attacking.",
+      "agi": "AGI: How often your hero can attack with an Active Skill."
     }
   }
 }
