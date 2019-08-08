@@ -1159,5 +1159,10 @@
       "10": "Congratulations! You got  Replica Hero ({rarity})!",
       "11": "{day} days left to get!!"
     }
+  },
+  "beginnerModal": {
+    "userName": {
+      "description": "Choose a username for your MCH account."
+    }
   }
 }
