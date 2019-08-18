@@ -500,7 +500,9 @@
       "congratsMessage": "Congratulations! You have just received ",
       "accept": "Yeah!",
       "nextReset": "Next TOKU Reset:",
-      "redeemableUntil": "Redeemable until:"
+      "redeemableUntil": "Redeemable until:",
+      "acquiredToku": "Acquired Season TOKU",
+      "totalToku": "Total Acquired TOKU"
     },
     "exchange": {
       "title": "Ticket Exchange",

@@ -502,7 +502,9 @@
       "congratsMessage": "おめでとう! TOKUトレジャー報酬を受け取りました！",
       "accept": "Yeah",
       "nextReset": "次のTOKUリセット：",
-      "redeemableUntil": "受取可能期間："
+      "redeemableUntil": "受取可能期間：",
+      "acquiredToku": "このシーズンで獲得したTOKU",
+      "totalToku": "総 獲得TOKU"
     },
     "exchange": {
       "title": "チケット交換",
