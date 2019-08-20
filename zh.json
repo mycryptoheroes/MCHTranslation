@@ -126,12 +126,12 @@
       "title": "Getting Started",
       "vendor": {
         "dapper": {
-          "title": "For Most Players: Dapper Extension",
+          "title": "Dapper Extension",
           "body": "Easy to use wallet, great design, and simple onboarding. Recommended for users who don't want to deal with private keys and Gas fees."
         },
         "metamask": {
-          "title": "For Advanced Players: MetaMask Extension",
-          "body": "Most used wallet for Ethereum dapps. Lots of features and flexibility. Recommended for users that are familiar with dapps."
+          "title": "MetaMask Extension",
+          "body": "Most used wallet for Ethereum dapps. Recommended for users who will use ETH sent from crypto exchange."
         }
       }
     }
