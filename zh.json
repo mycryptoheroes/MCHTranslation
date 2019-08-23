@@ -1149,7 +1149,7 @@
     "continuousLogin": {
       "1": "Welcome!",
       "2": "Replica Hero present",
-      "3": "Day",
+      "3": "Days left",
       "4": "Please select the replica hero you want from the following.",
       "5": "Present",
       "6": "One of Rep C (Uncommon Equivalent) Replica Hero from the list will be sent as a welcome campaign!",
@@ -1157,7 +1157,10 @@
       "8": "Acquired",
       "9": "You will get Replica Hero RepA in {day} Days!",
       "10": "Congratulations! You got  Replica Hero ({rarity})!",
-      "11": "{day} days left to get!!"
+      "110": "",
+      "11": "Days left to get!",
+      "12": "Welcome Back!",
+      "13": "Keep logging in to get another welcome present. The next one will be a much stronger Replica Hero to help you fight more difficult quests."
     }
   },
   "beginnerModal": {
