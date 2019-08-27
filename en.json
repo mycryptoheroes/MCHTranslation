@@ -1005,6 +1005,7 @@
   "tutorials": {
     "title": "Tutorials",
     "extensions": {
+      "title": "Extension",
       "originalTitle": "Original Extensions",
       "originalBody": "Original Extensions are one of two extension types found in MCH. They are NFT digital assets which can be traded for GUM or for ETH on third party exchanges like OpenSea. Like Heroes, they can increase in level and range in rarity from common to legendary. Each NFT is limited in their capacity, dependent on their rarity.",
       "replicaTitle": "Replica Extensions",
@@ -1037,6 +1038,7 @@
       "ticketExchangeBody": "Once you have attained enough TOKU points you can redeem tickets as rewards. Spend these tickets on unique original extensions only available through TOKU redemption. "
     },
     "rarity": {
+      "title": "Rarity & Level",
       "replica": "Are copies of original assets. They cannot be traded, sold, or leveled up. Find their ranges here.",
       "novice": "They can neither be traded nor sold. They are the lowest of all rarities but can still be quite powerful.",
       "common": "Can be traded and sold. Their level is capped at 60. Hero stamina is capped at 168.",
@@ -1046,7 +1048,7 @@
       "legendary": "Can be traded and sold. Their level is capped at 100. Hero stamina is capped at 288."
     },
     "replica": {
-      "title": "Replica Heroes & Extensions",
+      "title": "Replicas",
       "body": "Replica are copies of original heroes and extensions. They are not NFTs so they can neither be traded nor sold. They are a great cheap way to strengthen your team or try new strategies. They expire after 6 days once you’ve place them in your team.",
       "rarityTitle": "Replica Rarity",
       "rarityBody": "Replicas, like originals, have various rarities, although their leveling system is a bit different. Replicas range from levels “F” to “S”. “S” = legendary, “A” = Epic, etc.",
