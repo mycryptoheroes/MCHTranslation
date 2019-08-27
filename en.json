@@ -1031,7 +1031,9 @@
       "title1": "TOKU Treasure",
       "body1": "TOKU can be thought of as a loyalty program. As your accrue more TOKU Points you can redeem TOKU treasure. (Prime users can an addtional reward). The more TOKU you’ve acquired the greater the reward.",
       "title2": "How to Get TOKU?",
-      "body2": "You can receive TOKU points by “dedicate” heroes and extensions to the Cryptide. You can either dedicate original heroes’ and extensions’ CE or you can dedicate your replicas. TOKU is a great way to get more out of used replicas or heroes and extentions who have already used their capped level."
+      "body2": "You can receive TOKU points by “dedicate” heroes and extensions to the Cryptide. You can either dedicate original heroes’ and extensions’ CE or you can dedicate your replicas. TOKU is a great way to get more out of used replicas or heroes and extentions who have already used their capped level.",
+      "ticketExchangeTitle": "Ticket Exchange",
+      "ticketExchangeBody": "Once you have attained enough TOKU points you can redeem tickets as rewards. Spend these tickets on unique original extensions only available through TOKU redemption. "
     },
     "rarity": {
       "replica": "Are copies of original assets. They cannot be traded, sold, or leveled up. Find their ranges here.",
