@@ -1002,6 +1002,65 @@
     "6": "congratulations! You beat Raid Boss!",
     "7": "HP of Raid Boss has become less than {hp} ！Let's attack!"
   },
+  "tutorials": {
+    "extensions": {
+      "originalTitle": "Original Extensions",
+      "originalBody": "Original Extensions are one of two extension types found in MCH. They are NFT digital assets which can be traded for GUM or for ETH on third party exchanges like OpenSea. Like Heroes, they can increase in level and range in rarity from common to legendary. Each NFT is limited in their capacity, dependent on their rarity.",
+      "replicaTitle": "Replica Extensions",
+      "replicaBody": "Replica extensions are copies of original items. They much cheaper however they cannot be traded nor can they be leveled up. They also expire after 7 days.",
+      "influenceTitle": "Influence",
+      "influencebody": "Extensions greatly influence battle. How can affect both your Heroes and your opponents.",
+      "influenceexample": "*This item below pairs great with a hero whose strength is INT.",
+      "skillTitle": "Skills",
+      "skillBody": "Extensions, like heroes, have active skills. Certain skills pair well with certains heroes. Master these combinations to unlock your fighting potential.",
+      "attackTitle": "Attack",
+      "attackBody": "This skill deals damage to your opponent. This can be PHY damage or INT damage.",
+      "healTitle": "Heal",
+      "healBody": "Healing and recovery effects give HP back to your heroes.",
+      "buffTitle": "Buff",
+      "buffBody": "Buff boost your heroes attributes. This can be for PHY, INT, and/or AGI.",
+      "debuffTitle": "Debuff",
+      "debuffBody": "Debuffs lower your opponent’s attributes. This can be for PHY, INT, and/or AGI."
+    },
+    "ce": {
+      "title": "Crypto Energy(CE)",
+      "body": "Crypto Energy can be though of as experience points. You receieve CE from battling. The greater your opponent, the more CE your receieve. CE is used to level up both original heroes and extensions. If you’ve already reached a heroes’ or extensions’ max level, you can convert CE into TOKU."
+    },
+    "gum": "GUM is the in-game currency for MCH. Heroes and extensions can be bought and sold for GUM. GUM can be purchased with ETH or redeemed with TOKU points. Additionally, if you are a Prime User, you will receive GUM as a daily bonus.",
+    "toku": {
+      "title1": "TOKU Treasure",
+      "body1": "TOKU can be thought of as a loyalty program. As your accrue more TOKU Points you can redeem TOKU treasure. (Prime users can an addtional reward). The more TOKU you’ve acquired the greater the reward.",
+      "title2": "How to Get TOKU?",
+      "body2": "You can receive TOKU points by “dedicate” heroes and extensions to the Cryptide. You can either dedicate original heroes’ and extensions’ CE or you can dedicate your replicas. TOKU is a great way to get more out of used replicas or heroes and extentions who have already used their capped level."
+    },
+    "rarity": {
+      "replica": "Are copies of original assets. They cannot be traded, sold, or leveled up. Find their ranges here.",
+      "novice": "They can neither be traded nor sold. They are the lowest of all rarities but can still be quite powerful.",
+      "common": "Can be traded and sold. Their level is capped at 60. Hero stamina is capped at 168.",
+      "uncommon": "Can be traded and sold. Their level is capped at 70. Hero stamina is capped at 178.",
+      "rare": "Can be traded and sold. Their level is capped at 80. Hero stamina is capped at 208.",
+      "epic": "Can be traded and sold. Their level is capped at 90. Hero stamina is capped at 248.",
+      "legendary": "Can be traded and sold. Their level is capped at 100. Hero stamina is capped at 288."
+    },
+    "replica": {
+      "title": "Replica Heroes & Extensions",
+      "body": "Replica are copies of original heroes and extensions. They are not NFTs so they can neither be traded nor sold. They are a great cheap way to strengthen your team or try new strategies. They expire after 6 days once you’ve place them in your team.",
+      "rarityTitle": "Replica Rarity",
+      "rarityBody": "Replicas, like originals, have various rarities, although their leveling system is a bit different. Replicas range from levels “F” to “S”. “S” = legendary, “A” = Epic, etc.",
+      "expireTitle": "When your Replica Expires",
+      "expireBody": "After 6 days of use, your replica will expire. This means you can no longer use this replica. At this point, it is reccommended that you exchange this “broken” replica for TOKU. Both replica extensions and heroes can be dedicated for TOKU points. "
+    },
+    "eth": {
+      "howToTitle": "How to get ETH?",
+      "howToBody": "Original heroes and extensions are ERC-721 tokens which can be traded for GUM or for ETH on thrird party exchanges like OpenSea. Because original extensions and heroes are actual ERC-721 tokens players have ownership of them. Find or win them for free or purchase them with GUM and then icrease their value by increasing their level and strength.",
+      "questTitle": "Questing",
+      "questBody": "Quests aren’t only a good way to gather CE and level up your extensions and heroes, they also provide oppurtunities to find original extensions, known as “drops”. The higher the questing difficulty the greater the drop. However, the higher the rarity, the few of those drops there are. Make sure you’re questing daily to increase your chances!",
+      "pvpTitle": "PvP",
+      "pvpBody": "PvP campaigns like Duel Cups are another great way to win original extensions. At the end of each cup, the top  players receive original extensions. ",
+      "marketTitle": "Market",
+      "marketBody": "Of course, you can always just buy original extensions and heroes with with GUM on MCH or with ETH through markets like OpenSea. Again, since each original is an ERC-721 token, each purchase is an investment and can increase in value over time."
+    }
+  },
   "tutorial": {
     "welcome": {
       "title": "マイクリにようこそ!!",
