@@ -1272,5 +1272,10 @@
       "explainer3": "These heroes aren’t original, NFT heroes but for a limited time they can be of great help to your MCH journey.",
       "select": "Select"
     }
+  },
+  "convert": {
+    "pageTitle": "Asset Convert",
+    "convert": "Convert",
+    "approve": "Approve for all"
   }
 }
