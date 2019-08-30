@@ -1058,6 +1058,9 @@
       "pvpBody": "PvP campaigns like Duel Cups are another great way to win original extensions. At the end of each cup, the top  players receive original extensions. ",
       "marketTitle": "Market",
       "marketBody": "Of course, you can always just buy original extensions and heroes with with GUM on MCH or with ETH through markets like OpenSea. Again, since each original is an ERC-721 token, each purchase is an investment and can increase in value over time."
+    },
+    "community": {
+      "discordBody": "hoge"
     }
   },
   "tutorial": {
