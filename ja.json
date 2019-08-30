@@ -1070,7 +1070,9 @@
       "marketBody": "マーケットではGUMを用いてオリジナルヒーロー・オリジナルエクステンションを購入することが出来ます。(また、OpenSeaなどでETHを用いて購入することも出来ます。)繰り返しになりますが、NFTの所有権はユーザ自身にあるため、マーケットやアセット交換所での売却も自由です。"
     },
     "community": {
-      "discordBody": "マイクリ内のコミュニティはDiscordでメインに形成されています。\n運営への連絡やユーザー間でのやりとりも活発に行われているのでぜひ参加してくださいね！\n\nマイクリ公式Discord：https://discord.gg/bT6cFZK\n\n下記、まずはメインでご覧いただきたいchannelをご紹介します。\n(jpが日本語版、enが英語版です。）\n\n・USER-SUPPORT\n#bugs_and_help：運営へのバグ報告や質問部屋\n#suggestions：運営への提案部屋\n\n・USER'S COMMUNITY\n#マイクリ始めました：マイクリビギナー支援部屋\n#Japanese：日本語コミュニティ部屋\n\n・LAND COMMUNITY\nマイクリでランドに所属したときにはぜひ参加してみてください。それぞれ初心者支援企画やランド内大会などを実施したりしています。\nまた、ランドによっては別のDiscord channnelでランド運営を行っている場合もありますので、所属を決めたら「〇〇に所属しました！よろしくお願いします！」と一言発言してみてくださいね。"
+      "discordBody": "マイクリ内のコミュニティはDiscordというゲーム向けチャットツールをメインに形成されています。\n運営への連絡やユーザー間でのやりとりも活発に行われているのでぜひ参加してくださいね！\n\nマイクリ公式Discord：https://discord.gg/bT6cFZK\n\nまずはメインでご覧いただきたいchannelをご紹介します。(jpが日本語版、enが英語版です。）\n\n・USER-SUPPORT\n#bugs_and_help：運営へのバグ報告や質問部屋\n#suggestions：運営への提案部屋\n\n・USER'S COMMUNITY\n#マイクリ始めました：マイクリビギナー支援部屋\n#Japanese：日本語コミュニティ部屋\n\n・LAND COMMUNITY\nマイクリでランドに所属したときにはぜひ参加してみてください。それぞれ初心者支援企画やランド内大会などを実施したりしています。\nまた、ランドによっては別のDiscord channnelでランド運営を行っている場合もありますので、所属を決めたら「〇〇に所属しました！よろしくお願いします！」と一言発言してみてくださいね。",
+      "mediumBody": "マイクリにおけるデュエル等イベントの告知、新機能のリリースはMediumで行っております。\n\nMediumでの告知が完了次第、Twitter/Discordにて告知を行っております。\n\nイベントの日程確認やルール確認の際には、まずはマイクリ公式Mediumをチェックしてみてください。\n\nマイクリ公式Medium：https://medium.com/mycryptoheroes",
+      "twitterBody": "マイクリユーザーを始め、マイクリの運営もTwitterを活発に行なっております。\nマーケット情報、プロデューサーからのポロリ、マイクリ公式アカウントからの告知、ユーザー主催の大会の宣伝などなど、Twitterではリアルタイムに情報を確認できます。\n\nマイクリ公式Twitter：https://twitter.com/mycryptoheroes\n\nまずは下記タグをチェック！↓\n#マイクリ始めました\n#マイクリ"
     }
   },
   "tutorial": {
