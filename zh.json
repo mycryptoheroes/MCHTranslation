@@ -1060,12 +1060,12 @@
       "marketBody": "Of course, you can always just buy original extensions and heroes with with GUM on MCH or with ETH through markets like OpenSea. Again, since each original is an ERC-721 token, each purchase is an investment and can increase in value over time."
     },
     "community": {
-      "discordBody": "マイクリ内のコミュニティはDiscordというゲーム向けチャットツールをメインに形成されています。\n運営への連絡やユーザー間でのやりとりも活発に行われているのでぜひ参加してくださいね！",
-      "mediumBody": "マイクリにおけるデュエル等イベントの告知、新機能のリリースはMediumで行っております。\n\nMediumでの告知が完了次第、Twitter/Discordにて告知を行っております。\n\nイベントの日程確認やルール確認の際には、まずはマイクリ公式Mediumをチェックしてみてください。",
-      "twitterBody": "マイクリユーザーを始め、マイクリの運営もTwitterを活発に行なっております。\nマーケット情報、プロデューサーからのポロリ、マイクリ公式アカウントからの告知、ユーザー主催の大会の宣伝などなど、Twitterではリアルタイムに情報を確認できます。",
-      "discordFollow": "マイクリDiscordコミュニティに参加する",
-      "mediumFollow": "マイクリ公式Mediumを確認する",
-      "twitterFollow": "マイクリ公式をフォローする"
+      "discordBody2": "The users always talk about MCH with other users in Discord.\nShall we enjoy MCH with us!\n\n#mch_starter_en is for support the biginner. Ask me anything!",
+      "mediumBody": "We announce the news in Medium such as Duel cup, new release, and so on.\n\nAnd After that, announce on Twitter, and Discord.\n\nIf you want to know the schedule of events, or rule of Duel, Please check our official Medium.",
+      "twitterBody": "The users, and we are operating Twitter!\nYou can watch the real-time information of Market, Event, Tournament powered by user, and so on.",
+      "discordFollow": "Join in Discord",
+      "mediumFollow": "Check the official Medium",
+      "twitterFollow": "Follow official Twitter"
     }
   },
   "tutorial": {
