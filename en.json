@@ -18,7 +18,7 @@
   "pages": {
     "home": "Home",
     "account": "Account Setting",
-    "profile": "Profile",
+    "profile": "View Profile",
     "inventory": "Inventory",
     "cryptid": "Cryptid",
     "transfers": "Asset Transfer Status",
