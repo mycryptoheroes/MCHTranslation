@@ -1007,9 +1007,9 @@
     "extensions": {
       "title": "Extension",
       "originalTitle": "Original Extensions",
-      "originalBody": "Original Extensions are one of two extension types found in MCH. They are NFT digital assets which can be traded for GUM or for ETH on third party exchanges like OpenSea. Like Heroes, they can increase in level and range in rarity from common to legendary. Each NFT is limited in their capacity, dependent on their rarity.",
+      "originalBody": "Original Extensions are one of two extension types found in MCH. They are Blockchain NFT digital assets which can be traded for GUM or for ETH on third party exchanges like OpenSea. Like Heroes, they can increase in level and range in rarity from common to legendary. Each NFT is limited in their capacity, dependent on their rarity.",
       "replicaTitle": "Replica Extensions",
-      "replicaBody": "Replica extensions are copies of original items. They much cheaper however they cannot be traded nor can they be leveled up. They also expire after 7 days.",
+      "replicaBody": "Replica extensions are copies of original items and just data in Game(not Blockchain). They much cheaper however they cannot be traded nor can they be leveled up. They also expire after 7 days.",
       "influenceTitle": "Influence",
       "influenceBody": "Extensions greatly influence battle. How can affect both your Heroes and your opponents.",
       "influenceExample": "*This item below pairs great with a hero whose strength is INT.",
@@ -1039,17 +1039,17 @@
     },
     "rarity": {
       "title": "Rarity & Level",
-      "replica": "Are copies of original assets. They cannot be traded, sold, or leveled up. Find their ranges here.",
-      "novice": "They can neither be traded nor sold. They are the lowest of all rarities but can still be quite powerful.",
-      "common": "Can be traded and sold. Their level is capped at 60. Hero stamina is capped at 168.",
-      "uncommon": "Can be traded and sold. Their level is capped at 70. Hero stamina is capped at 178.",
-      "rare": "Can be traded and sold. Their level is capped at 80. Hero stamina is capped at 208.",
-      "epic": "Can be traded and sold. Their level is capped at 90. Hero stamina is capped at 248.",
-      "legendary": "Can be traded and sold. Their level is capped at 100. Hero stamina is capped at 288."
+      "replica": "Data in Game(not blockchain). Are copies of original assets. They cannot be traded, sold, or leveled up. Find their ranges here.",
+      "novice": "Data in Game(not blockchain). They can neither be traded nor sold. They are the lowest of all rarities but can still be quite powerful.",
+      "common": "NFT in Blockchain. Can be traded and sold. Their level is capped at 60. Hero stamina is capped at 168.",
+      "uncommon": "NFT in Blockchain. Can be traded and sold. Their level is capped at 70. Hero stamina is capped at 178.",
+      "rare": "NFT in Blockchain. Can be traded and sold. Their level is capped at 80. Hero stamina is capped at 208.",
+      "epic": "NFT in Blockchain. Can be traded and sold. Their level is capped at 90. Hero stamina is capped at 248.",
+      "legendary": "NFT in Blockchain. Can be traded and sold. Their level is capped at 100. Hero stamina is capped at 288."
     },
     "replica": {
       "title": "Replicas",
-      "body": "Replica are copies of original heroes and extensions. They are not NFTs so they can neither be traded nor sold. They are a great cheap way to strengthen your team or try new strategies. They expire after 6 days once you’ve place them in your team.",
+      "body": "Replica are copies of original heroes and extensions. They are not NFTs in Blockchain so they can neither be traded nor sold. They are a great cheap way to strengthen your team or try new strategies. They expire after 6 days once you’ve place them in your team.",
       "rarityTitle": "Replica Rarity",
       "rarityBody": "Replicas, like originals, have various rarities, although their leveling system is a bit different. Replicas range from levels “F” to “S”. “S” = legendary, “A” = Epic, etc.",
       "expireTitle": "When your Replica Expires",
