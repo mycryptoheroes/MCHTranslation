@@ -908,6 +908,7 @@
     "onTrading": "出品中",
     "addArt": "アートの追加",
     "sell": "出品",
+    "publishAddress": "ETHアドレスを公開してください",
     "setToHero": {
       "title": "ヒーローへセット",
       "warning": {

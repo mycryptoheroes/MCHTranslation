@@ -898,6 +898,7 @@
     "onTrading": "On Trading",
     "addArt": "Add Art",
     "sell": "Sell",
+    "publishAddress": "Please publish your eth address from setting",
     "setToHero": {
       "title": "Set to Hero",
       "warning": {
