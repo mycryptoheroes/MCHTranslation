@@ -1214,7 +1214,7 @@
     "extension": "My Crypto Heroes"
   },
   "errors": {
-    "4011": "[This account is being banned]<br><br>we decided to lock your account due to violation of section 14 of terms and policies. Please read terms and services  to check which  rule  you are against.<br><a href=\"https://www.mycryptoheroes.net/documents/terms_en.pdf\">Terms of service (PDF)</a><br>We did it to make  everyone can play My Crypto Heroes comfortably,thank you for your understanding.<br><br>double jump.tokyo inc<br><br>If you have any objections, please send email to address down below,<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
+    "4011": "[This account is being banned]<br><br>we decided to lock your account due to violation of section 14 of terms and policies. Please read terms and services  to check which  rule  you are against.<br><a href=\"/terms\">Terms of service (PDF)</a><br>We did it to make  everyone can play My Crypto Heroes comfortably,thank you for your understanding.<br><br>double jump.tokyo inc<br><br>If you have any objections, please send email to address down below,<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
   },
   "detail": "Check more detail",
   "welcomeCampaign": {
