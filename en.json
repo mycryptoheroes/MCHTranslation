@@ -1030,10 +1030,13 @@
       "body": "Crypto Energy can be though of as experience points. You receieve CE from battling. The greater your opponent, the more CE your receieve. CE is used to level up both original heroes and extensions. If you’ve already reached a heroes’ or extensions’ max level, you can convert CE into TOKU."
     },
     "land": {
-      "title": "ランド",
-      "about": "ランドはマイクリにおける国のことで、プレイヤーは9つのうち1つのランドに所属することができます。\nランドに所属する（シティズンになる）ことで、ランドノードに挑戦したり、ランドバトルに参加したり、ランド守り神であるクリプタイドの恩恵に預かったりすることができます。クリプタイドの効果によってヒーローは大幅に強化されるため、高難易度のノードもクリアできるようになるでしょう。\n\nランドページはランドフラッグ（ランドに所属していない無所属の場合は、ゲーム内の以下の場所）から確認、参加することができます。",
-      "community": "ほとんどのランドで専用Discordサーバーがあります。ランド毎にキャンペーンや初心者サポートが行われているため、是非参加してみましょう。\nランドページやマイクリ公式Discordコミュニティで確認することができます。",
-      "landbattle": "ランドバトルは4週間かけて行われるバトルイベントです。\nランドバトルではルテナント / コマンダー / ナイトコマンダー / ナイト という4つの階級があります。\n\nランドバトルにはナイト戦、ナイト戦G5、フラッグ戦の3種類があります。\nナイト戦は階級をかけたランド内の戦いです。1シーズン(4週間)終了時にナイト階級だった場合、ナイト報酬としてGUMを獲得できます。※ランド収益の配分方法による\nナイト戦G5はナイトの中からフラッグ戦に出場できる名誉ある”G5”を決めるナイト同士の戦いです。\nフラッグ戦は各ランドの代表者(G5)による、ランドフラッグとランドの威信をかけたランド間の対抗戦です。\n\nランドに所属したら、ランドバトルにエントリーして、あなたの最強チームでナイトやG5を目指しましょう。"
+      "title": "Land",
+      "title1": "Overview",
+      "title2": "Land Community",
+      "title3": "Land Battle",
+      "about": "Land is like country or guild in MCH, and you can join only one land out of nine.\nYou can try quest in land node, land battle and get profit by Cryptid, which is the Guardian of each lands when you become a citizen(join lands). Your heroes will become stronger with cryptide effect, which makes you easy to try higher level nodes\n\nYou can access land page from here:",
+      "community": "Most lands have their own discord server. The Kings or Maestros of the land are sometimes carrying out their campaigns or support beginners.\nYou can check their discord from land page or official discord community.",
+      "landbattle": "Land Battle is an PvP event over four weeks.\nThere are four ranks in land battle, which are Lieutenant/ Commander/ Knight Commander/ Knight.\n\nThere are three types of land battles: Knight Battle, Knight Battle G5, and Flag Battle.\nThe Knight battle is a battle in the land to become higher ranks. Knight can get GUM when the season ends. ※up to the policy of land Kings\nKnight Battle G5 is a battle to decide 'G5' who can join flag battle on behalf of their land.\nFlag battle is a battle between lands by G5. They fight for their land flag and pride.\n\nLet's entry land battle and aim for the knight and G5 with your strongest team."
     },
     "gum": "GUM is the in-game currency for MCH. Heroes and extensions can be bought and sold for GUM. GUM can be purchased with ETH or redeemed with TOKU points. Additionally, if you are a Prime User, you will receive GUM as a daily bonus.",
     "toku": {
