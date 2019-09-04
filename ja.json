@@ -674,8 +674,8 @@
         "sort": "並び替え",
         "star": "お気に入り検索",
         "attributes": "ステータス",
-        "heroStar": "お気に入りのヒーローのみ",
-        "extensionStar": "お気に入りのエクステンションのみ",
+        "heroStar": "お気に入り",
+        "extensionStar": "お気に入り",
         "rarity": "レアリティ",
         "clear": "Clear",
         "search": "検索"

@@ -671,8 +671,8 @@
         "sort": "Sort",
         "star": "Star",
         "attributes": "Attributes",
-        "heroStar": "Only hero with star",
-        "extensionStar": "Only extension with star",
+        "heroStar": "Show Favorites",
+        "extensionStar": "Show Favorites",
         "rarity": "Rarity",
         "clear": "Clear",
         "search": "Search"
