@@ -647,10 +647,37 @@
       "buy2": "with",
       "buy3": "GUM",
       "sort": {
-        "last": "Recently Listed",
+        "last": "Recent Activity",
         "lowest": "Lowest Price",
-        "highest": "Highest Price"
+        "highest": "Highest Price",
+        "highestLv": "Highest Lvl",
+        "lowestLv": "Lowest Lvl"
       },
+      "header": {
+        "items": "Items",
+        "resetStars": "Reset All Stars",
+        "editSearch": "Edit Search"
+      },  
+      "status": {
+        "sold": "Sold",
+        "trading": "Trading",
+        "justListed": "Just Listed"
+      },
+      "filter": {
+        "filter": "Filter",
+        "assetType": "Asset Type",
+        "type": "Type:",
+        "status": "Status",
+        "sort": "Sort",
+        "star": "Star",
+        "attributes": "Attributes",
+        "heroStar": "Only hero with star",
+        "extensionStar": "Only extension with star",
+        "rarity": "Rarity",
+        "clear": "Clear",
+        "search": "Search"
+      },
+      "confirmRemoveStar": "Are you sure to reset all starred heroes? You cannot revert this action.",
       "countdown": "You can sell after"
     },
     "lab": {
