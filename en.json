@@ -633,23 +633,50 @@
     "trade": {
       "startPrice": "Start Price",
       "endPrice": "End Price",
-      "rule0": "Seller's fee: 0%, Buyer's fee: 10%",
-      "rule1": "10% of the price will be added to the price automatically as a commission fee.",
-      "rule2": "The rate of the price dropping is calculated automatically. It is set to decrease by 20% of the gap between the 'Starting Price' and 'Ending Price' a day. So in 5 days, the price will drop to the 'Ending Price'.",
-      "rule3": "Note: The item (heroes and/or extensions) must be unequipped to sell. Likewise, heroes and/or extensions can't be withdrawn while it has been listed for sale (within 5 days) or you decide to cancel the listing.",
-      "rule4": "It is possible to exhibit up to 100 times a day.",
-      "rule5": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
-      "rule6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get※1 or use※2 them in battle last time.\n※1 get: Purchase, Quest, Reward, Trade, Transfer to Crypto World\n※2 use in battle: Official Duel Cup, Arena, Land Battle, Raid",
-      "rule7": "You can see your asset in trading list after 1 mins since you sell your asset.",
+      "rule0": "Seller's fee: 10%, Buyer's fee: 0%",
+      "rule1": "Once you successfully sold the item, 10% of the price will be deducted as a commission fee.",
+      "rule2": "The rate of the price decrease over time is calculated automatically. The price will decrease by 20% of the difference between Start Price and Ending Price per day. This means, in 5 days, the price will drop to the set 'Ending Price'.",
+      "rule3": "Note: The item (heroes and/or extensions) must be unequipped in all your teams. Additionally, heroes and/or extensions can't be sent to the Ethereum Network while it's on trade",
+      "rule4": "You can list up to 100 assets a day. You can cancel your sale listings at any time",
+      "rule5": "There is a minimum limit for \"Start Price\" and \"End Price\". You need to set at least 100 GUM for \"Start Price\" and at least 10 GUM for \"End Price\".",
+      "rule6": "You need to wait 24h before listing if your asset (Hero / Extension) has been purchased, used in Quest, Reward, Trade, or was transfered to/from the Ethereum World",
+      "rule7": "Once you listed your asset for sale, there is a 30min 'Waiting Period' before anyone can buy it. It has the status 'Just Listed' and cannot be bought during that time. This prevents price scrapers and creates a fair market.",
       "rule8": "If a copied art is reported by its original creator, we will stop listing the copied art. In the case of repetitive infringement, we will carry out strict measures (such as suspending accounts, reverting art sale transactions, and so on).",
       "buy1": "Confirm buying",
       "buy2": "with",
       "buy3": "GUM",
       "sort": {
-        "last": "Recently Listed",
+        "last": "Recent Activity",
         "lowest": "Lowest Price",
-        "highest": "Highest Price"
+        "highest": "Highest Price",
+        "highestLv": "Highest Lvl",
+        "lowestLv": "Lowest Lvl"
       },
+      "header": {
+        "items": "Items",
+        "resetStars": "Reset All Stars",
+        "editSearch": "Edit Search"
+      },  
+      "status": {
+        "sold": "Sold",
+        "trading": "Trading",
+        "justListed": "Just Listed"
+      },
+      "filter": {
+        "filter": "Filter",
+        "assetType": "Asset Type",
+        "type": "Type:",
+        "status": "Status",
+        "sort": "Sort",
+        "star": "Star",
+        "attributes": "Attributes",
+        "heroStar": "Only hero with star",
+        "extensionStar": "Only extension with star",
+        "rarity": "Rarity",
+        "clear": "Clear",
+        "search": "Search"
+      },
+      "confirmRemoveStar": "Are you sure to reset all starred heroes? You cannot revert this action.",
       "countdown": "You can sell after"
     },
     "lab": {
