@@ -650,37 +650,37 @@
       "buy2": "を",
       "buy3": "GUMで購入します",
       "sort": {
-        "last": "Recent Activity",
-        "lowest": "Lowest Price",
-        "highest": "Highest Price",
-        "highestLv": "Highest Lvl",
-        "lowestLv": "Lowest Lvl"
+        "last": "更新順",
+        "lowest": "価格が安い",
+        "highest": "価格が高い",
+        "highestLv": "レベル降順",
+        "lowestLv": "レベル昇順"
       },
       "header": {
-        "items": "Items",
-        "resetStars": "Reset All Stars",
-        "editSearch": "Edit Search"
+        "items": "件",
+        "resetStars": "お気に入り全解除",
+        "editSearch": "詳細検索"
       },  
       "status": {
         "sold": "Sold",
-        "trading": "Trading",
-        "justListed": "Just Listed"
+        "trading": "出品中",
+        "justListed": "準備中"
       },
       "filter": {
-        "filter": "Filter",
-        "assetType": "Asset Type",
-        "type": "Type:",
-        "status": "Status",
-        "sort": "Sort",
-        "star": "Star",
-        "attributes": "Attributes",
-        "heroStar": "Only hero with star",
-        "extensionStar": "Only extension with star",
-        "rarity": "Rarity",
+        "filter": "絞り込み",
+        "assetType": "アセットタイプ",
+        "type": "",
+        "status": "絞り込み条件",
+        "sort": "並び替え",
+        "star": "お気に入り検索",
+        "attributes": "ステータス",
+        "heroStar": "お気に入りのヒーローのみ",
+        "extensionStar": "お気に入りのエクステンションのみ",
+        "rarity": "レアリティ",
         "clear": "Clear",
-        "search": "Search"
+        "search": "検索"
       },
-      "confirmRemoveStar": "Are you sure to reset all starred heroes? You cannot revert this action.",
+      "confirmRemoveStar": "本当に全てのお気に入り登録を消去しますか？",
       "countdown": "出品可能時間まで"
     },
     "lab": {
