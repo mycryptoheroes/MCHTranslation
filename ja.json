@@ -680,6 +680,22 @@
         "clear": "Clear",
         "search": "検索"
       },
+      "details": {
+        "share": "Share",
+        "offers": "View Offers",
+        "details": "View Details",
+        "startPrice": "Start Price",
+        "endPrice": "End Price",
+        "currentPrice": "Current Price",
+        "salesPeriod": "Sales Period",
+        "seller": "Seller",
+        "buyer": "Buyer",
+        "cancel": "Cancel",
+        "stop": "Stop Sale",
+        "buy": "Buy",
+        "confirmBuy": "Are you sure you want to purchase this asset for {gum} GUM?",
+        "confirmStop": "Are you sure you want to cancel this trade?"
+      },
       "confirmRemoveStar": "本当に全てのお気に入り登録を消去しますか？",
       "countdown": "出品可能時間まで"
     },

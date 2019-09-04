@@ -670,6 +670,22 @@
         "clear": "Clear",
         "search": "Search"
       },
+      "details": {
+        "share": "Share",
+        "offers": "View Offers",
+        "details": "View Details",
+        "startPrice": "Start Price",
+        "endPrice": "End Price",
+        "currentPrice": "Current Price",
+        "salesPeriod": "Sales Period",
+        "seller": "Seller",
+        "buyer": "Buyer",
+        "cancel": "Cancel",
+        "stop": "Stop Sale",
+        "buy": "Buy",
+        "confirmBuy": "Are you sure you want to purchase this asset for {gum} GUM?",
+        "confirmStop": "Are you sure you want to cancel this trade?"
+      },
       "confirmRemoveStar": "Are you sure to reset all starred heroes? You cannot revert this action.",
       "countdown": "You can sell after"
     },
