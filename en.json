@@ -685,6 +685,7 @@
         "endPrice": "End Price",
         "currentPrice": "Current Price",
         "salesPeriod": "Sales Period",
+        "assetDetails": "Asset Details",
         "seller": "Seller",
         "buyer": "Buyer",
         "cancel": "Cancel",
