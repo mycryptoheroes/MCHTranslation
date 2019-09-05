@@ -650,7 +650,7 @@
         "items": "Items",
         "resetStars": "Reset All Stars",
         "editSearch": "Edit Search"
-      },  
+      },
       "status": {
         "sold": "Sold",
         "trading": "Trading",
@@ -870,6 +870,7 @@
       "createNewArena": "Create New Arena",
       "arenaType": "Arena Type",
       "title": "Arena Title",
+      "titleWarning": "Please enter at least 4 characters",
       "titlePlaceholder": "Shinjuku Smash",
       "description": "Arena Description",
       "battleType": "Battle Type",
@@ -878,6 +879,7 @@
       "descriptionPlaceholder": "No Einstein, no heal",
       "noDescription": "No description",
       "setStartTime": "Set Start Time",
+      "setStartTimeWarning": "Set a value of 3 minutes or more",
       "league": {
         "league": "League",
         "leagueArena": "League Arena",

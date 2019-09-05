@@ -881,6 +881,7 @@
       "createNewArena": "新しいアリーナを作成する",
       "arenaType": "アリーナタイプ",
       "title": "アリーナ名",
+      "titleWarning": "4文字以上入力してください",
       "titlePlaceholder": "第1回マイクリカップ",
       "description": "アリーナ説明",
       "battleType": "バトルタイプ",
@@ -888,6 +889,7 @@
       "createNineError": "アリーナ用99戦チームを編成してください",
       "descriptionPlaceholder": "ブルードラゴンルール",
       "setStartTime": "開始時刻を設定する",
+      "setStartTimeWarning": "3分以上の値を設定してください",
       "league": {
         "league": "リーグ",
         "leagueArena": "リーグアリーナ",
