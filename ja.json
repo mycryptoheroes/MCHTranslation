@@ -148,30 +148,30 @@
   },
   "home": {
     "calendar": {
-      "title": "Event Calendar",
+      "title": "イベントカレンダー",
       "landBattle": {
-        "preperation": "Land Battle: Preperation",
-        "knightBattle": "Land Battle: Knight Battle",
-        "g5": "Land Battle: G5 Battle",
-        "flag": "Land Battle: Flag Battle"
+        "preperation": "ランドバトル: 準備期間",
+        "knightBattle": "ランドバトル: ナイト戦",
+        "g5": "ランドバトル: ランドバトルG5",
+        "flag": "ランドバトル: フラッグ戦"
       },
-      "duelCup": "Duel Cup",
-      "heroSaleStart": "Hero Sale Start",
-      "heroSaleEnd": "Hero Sale End",
-      "raid": "Raid",
-      "eventNode": "Event Node",
-      "newVersionRelease": "New Version Release",
-      "newSeasonStart": "New Season Start"
+      "duelCup": "デュエルカップ",
+      "heroSaleStart": "ヒーロー販売開始",
+      "heroSaleEnd": "ヒーロー販売終了",
+      "raid": "レイド",
+      "eventNode": "イベントノード",
+      "newVersionRelease": "新バージョン公開",
+      "newSeasonStart": "新シーズン開始"
     },
-    "readMore": "Read More",
-    "assets": "My Assets",
-    "heroes": "Heroes",
-    "extensions": "Extensions",
-    "land": "Land",
-    "showMore": "Show More",
-    "news": "Recent News",
-    "twitter": "Twitter Updates",
-    "external": "Bring me there!"
+    "readMore": "もっと読む",
+    "assets": "マイアセット",
+    "heroes": "ヒーロー",
+    "extensions": "エクステンション",
+    "land": "ランド",
+    "showMore": "もっと見る",
+    "news": "最近のニュース",
+    "twitter": "Twitter",
+    "external": "もっと見る"
   },
   "team": {
     "button": "対戦相手を募集！",
