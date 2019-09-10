@@ -147,7 +147,7 @@
   "home": {
     "calendar": {
       "title": "Event Calendar",
-      "landBatte": {
+      "landBattle": {
         "preperation": "Land Battle: Preperation",
         "knightBattle": "Land Battle: Knight Battle",
         "g5": "Land Battle: G5 Battle",
@@ -158,7 +158,8 @@
       "heroSaleEnd": "Hero Sale End",
       "raid": "Raid",
       "eventNode": "Event Node",
-      "newVersionRelease": "New Season Start"
+      "newVersionRelease": "New Version Release",
+      "newSeasonStart": "New Season Start"
     },
     "readMore": "Read More",
     "assets": "My Assets",
