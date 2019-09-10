@@ -144,6 +144,31 @@
     "ecosystem": "Ecosystem Partner",
     "media": "Media Partner"
   },
+  "home": {
+    "calendar": {
+      "title": "Event Calendar",
+      "landBatte": {
+        "preperation": "Land Battle: Preperation",
+        "knightBattle": "Land Battle: Knight Battle",
+        "g5": "Land Battle: G5 Battle",
+        "flag": "Land Battle: Flag Battle"
+      },
+      "duelCup": "Duel Cup",
+      "heroSaleStart": "Hero Sale Start",
+      "heroSaleEnd": "Hero Sale End",
+      "raid": "Raid",
+      "eventNode": "Event Node",
+      "newVersionRelease": "New Season Start"
+    },
+    "readMore": "Read More",
+    "assets": "My Assets",
+    "heroes": "Heroes",
+    "extensions": "Extensions",
+    "land": "Land",
+    "showMore": "Show More",
+    "news": "Recent News",
+    "twitter": "Twitter Updates"
+  },
   "team": {
     "button": "This is my team !!",
     "prime": {
