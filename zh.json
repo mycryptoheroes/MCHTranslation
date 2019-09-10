@@ -653,7 +653,7 @@
       "endPrice": "结束价格",
       "artRule1": "Listing is free! At purchase time, 10% fee will be deducted.",
       "artRule2": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 40 GUM or more for \"End Price\".",
-      "rule1": "Listing is free! At purchase time, 10% fee will be deducted.(Untill 10th Sep, the fee is 5% as a campaign)",
+      "rule1": "Listing is free! At purchase time, 10% fee will be deducted.",
       "rule2": "降价幅度将会被自动计算，每次降价的量为所标记开始价格和结束价格差的1/5，即在五次降价后物品的价格会等于结束价格",
       "rule3": "注意：英雄以及Extension需要解除装备状态后才能出售，同样你也无法装备正在出售的英雄或者extension，除非你取消出售",
       "rule4": "It is possible to exhibit up to 100 times a day.",

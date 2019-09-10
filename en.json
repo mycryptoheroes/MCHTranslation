@@ -660,7 +660,7 @@
       "endPrice": "End Price",
       "artRule1": "Listing is free! At purchase time, 10% fee will be deducted.",
       "artRule2": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 40 GUM or more for \"End Price\".",
-      "rule1": "Listing is free! At purchase time, 10% fee will be deducted.(Untill 10th Sep, the fee is 5% as a campaign)",
+      "rule1": "Listing is free! At purchase time, 10% fee will be deducted.",
       "rule2": "The rate of the price decrease over time is calculated automatically. The price will decrease by 20% of the difference between Start Price and Ending Price per day. This means, in 5 days, the price will drop to the set 'Ending Price'.",
       "rule3": "Note: The item (heroes and/or extensions) must be unequipped in all your teams. Additionally, heroes and/or extensions can't be sent to the Ethereum Network while it's on trade",
       "rule4": "You can list up to 100 assets a day. You can cancel your sale listings at any time",
