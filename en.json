@@ -930,6 +930,16 @@
         "text4": "A maximum of 10 players can join the arena.",
         "text5": "Each player can change the order of players."
       }
+    },
+    "labels": {
+      "title": "Title",
+      "description": "Description",
+      "type": "Type",
+      "start": "Start",
+      "visibility": "Visibility",
+      "cryptidEffect": "Cryptid Effect",
+      "allowedLands": "Allowed Lands",
+      "players": "Players"
     }
   },
   "raid": {
