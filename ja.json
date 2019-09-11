@@ -942,8 +942,8 @@
       "start": "開始時刻",
       "visibility": "公開/非公開",
       "cryptidEffect": "クリプタイドエフェクト",
-      "allowedLands": "ランドの制限",
-      "players": "プレイヤー"
+      "allowedLands": "参加可能ランド",
+      "players": "参加者"
     }
   },
   "raid": {
