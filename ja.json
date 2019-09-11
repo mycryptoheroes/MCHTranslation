@@ -943,7 +943,9 @@
       "visibility": "公開/非公開",
       "cryptidEffect": "クリプタイドエフェクト",
       "allowedLands": "参加可能ランド",
-      "players": "参加者"
+      "players": "参加者",
+      "on": "あり",
+      "off": "なし"
     }
   },
   "raid": {

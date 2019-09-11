@@ -933,7 +933,9 @@
       "visibility": "Visibility",
       "cryptidEffect": "Cryptid Effect",
       "allowedLands": "Allowed Lands",
-      "players": "Players"
+      "players": "Players",
+      "on": "On",
+      "off": "Off"
     }
   },
   "raid": {
