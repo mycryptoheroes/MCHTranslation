@@ -893,7 +893,7 @@
     "copiedTextFailed": "copied to Clipboard!",
     "arenaView": {
       "noDescription": "No description",
-      "dragAndDrop": "Drag and drop the move icon to change the order or switch teams. If a team exceeds 5 players, player 6 will be moved to the other team.",
+      "dragAndDrop": "Drag and drop the move icon to change the order.",
       "movedToIce": "Moved Team Fire's player 6 to Team Ice",
       "movedToFire": "Moved Team Ice's player 6 to Team Fire",
       "cannotBeEmpty": "Teams cannot be empty",
