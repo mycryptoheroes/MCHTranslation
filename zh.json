@@ -568,7 +568,7 @@
           ],
           "dailybonus1": "- Reset in 24 hours",
           "dailybonus2": "- 35GUM(300GUM for 1/100)",
-          "dailybonus3": "※ Small amount of ETH is required as a gas fee.",
+          "dailybonus3": "* ETH is required as a gas fee.",
           "continue": "Available up to 5 times in approximately 24 hours"
         },
         "leftDays": {
