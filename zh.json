@@ -834,7 +834,21 @@
     "arenaTitle": "Arena Title",
     "create": "Create",
     "created": "Arena created!",
-    "description": "Fight other players in exclusive tournaments. Got a code? Enter it below to join.",
+    "description": "Battle other players, test new strategies, and improve your skills.",
+    "navigation": {
+      "public": "Public",
+      "private": "Private",
+      "finished": "Finished",
+      "history": "History"
+    },
+    "table": {
+      "name": "Name",
+      "type": "Type",
+      "creator": "Creator",
+      "count": "Count",
+      "start": "Start"
+    },
+    "loadMore": "Load {count} More",
     "hostedBy": "Hosted By",
     "cancelled": "Cancelled",
     "inBattle": "In Battle",
@@ -865,6 +879,7 @@
     "results": "Results",
     "countDown": "Count Down",
     "startIn": "Start in:",
+    "adminOptions": "Admin Options",
     "confirmCancelArena": "Are you sure to officially cancel this Arena? You cannot undo this action.",
     "confirmCancelBtn": "Yes!",
     "confirmLeaveArena": "Are you sure to leave this Arena?",
@@ -894,6 +909,11 @@
       "cannotBeEmpty": "Teams cannot be empty",
       "savedOrder": "Saved Order",
       "errorOrder": "Could not change order."
+    },
+    "joinArenaModal": {
+      "title": "Join Arena",
+      "selectSide": "Select your side:",
+      "joinTeam": "Join Team {side}"
     },
     "createArenaModal": {
       "createNewArena": "Create New Arena",

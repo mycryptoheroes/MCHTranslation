@@ -845,7 +845,21 @@
     "arenaTitle": "アリーナ名",
     "create": "作成する",
     "created": "アリーナを作成しました！",
-    "description": "ユーザ主催のアリーナで他のユーザとバトル！パスワードをお持ちでしたら、入力してください",
+    "description": "ユーザ主催のアリーナで他のユーザとバトル！",
+    "navigation": {
+      "public": "Public",
+      "private": "Private",
+      "finished": "Finished",
+      "history": "History"
+    },
+    "table": {
+      "name": "Name",
+      "type": "Type",
+      "creator": "Creator",
+      "count": "Count",
+      "start": "Start"
+    },
+    "loadMore": "Load {count} More",
     "hostedBy": "主催者:",
     "cancelled": "中止",
     "inBattle": "バトル中",
@@ -876,6 +890,7 @@
     "results": "結果",
     "countDown": "カウントダウン",
     "startIn": "バトル開始まで:",
+    "adminOptions": "Admin Options",
     "confirmCancelArena": "本当にこのアリーナを中止しますか？この操作はやり直しができません。",
     "confirmCancelBtn": "はい",
     "confirmLeaveArena": "本当にこのアリーナから退出しますか？",
@@ -905,6 +920,11 @@
       "cannotBeEmpty": "チームを空にする事は出来ません",
       "savedOrder": "順番を保存します",
       "errorOrder": "順番を変更できません"
+    },
+    "joinArenaModal": {
+      "title": "Join Arena",
+      "selectSide": "Select your side:",
+      "joinTeam": "Join Team {side}"
     },
     "createArenaModal": {
       "createNewArena": "新しいアリーナを作成する",
