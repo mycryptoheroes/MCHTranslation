@@ -934,7 +934,7 @@
       "createNineError": "Create your 9on9 Team before hosting 9on9 Arena",
       "descriptionPlaceholder": "No Einstein, no heal",
       "setStartTime": "Set Start Time",
-      "setStartTimeWarning": "Set a value of 3 minutes or more",
+      "setStartTimeWarning": "The start time needs to be at least 3 minutes from now.",
       "league": {
         "league": "League",
         "leagueArena": "League Arena",

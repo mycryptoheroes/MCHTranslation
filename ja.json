@@ -938,7 +938,7 @@
       "createNineError": "アリーナ用99戦チームを編成してください",
       "descriptionPlaceholder": "ブルードラゴンルール",
       "setStartTime": "開始時刻を設定する",
-      "setStartTimeWarning": "3分以上の値を設定してください",
+      "setStartTimeWarning": "現在時刻から3分後以降を設定してください",
       "league": {
         "league": "リーグ",
         "leagueArena": "リーグアリーナ",

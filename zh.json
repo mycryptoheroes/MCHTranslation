@@ -928,7 +928,7 @@
       "descriptionPlaceholder": "No Einstein, no heal",
       "noDescription": "No description",
       "setStartTime": "Set Start Time",
-      "setStartTimeWarning": "Set a value of 3 minutes or more",
+      "setStartTimeWarning": "The start time needs to be at least 3 minutes from now.",
       "league": {
         "league": "League",
         "leagueArena": "League Arena",
