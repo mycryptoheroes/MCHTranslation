@@ -303,7 +303,7 @@
   "land": {
     "title": "Land",
     "noland": "Not Belonged",
-    "setting": "Land Setting (King Only)",
+    "setting": "Land Settings",
     "settingG5": "Battle Order Of Knights In Flag Battle (King/G5 Only)",
     "kings": "Kings",
     "noKings": "No Kings",
