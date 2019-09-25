@@ -173,7 +173,12 @@
     "showMore": "もっと見る",
     "news": "重要なお知らせ",
     "twitter": "Twitter",
-    "external": "Go!"
+    "external": "Go!",
+    "tutorial": {
+      "gettingStarted": "はじめに",
+      "beginnderGuide": "ビギナーガイド",
+      "handbook": "マイクリハンドブック"
+    }
   },
   "team": {
     "button": "対戦相手を募集！",

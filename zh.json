@@ -171,7 +171,12 @@
     "showMore": "Show More",
     "news": "Important News",
     "twitter": "Twitter Updates",
-    "external": "Take me there!"
+    "external": "Take me there!",
+    "tutorial": {
+      "gettingStarted": "Getting Started",
+      "beginnderGuide": "Beginner Guide by Ikke (player)",
+      "handbook": "MCH Handbook"
+    }
   },
   "team": {
     "button": "准备完成！",
