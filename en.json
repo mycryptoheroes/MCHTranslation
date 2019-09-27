@@ -956,6 +956,16 @@
         "text3": "The winner will continue to battle the next player from the opponent team. (similar to Land Flag Battle)",
         "text4": "A maximum of 10 players can join the arena.",
         "text5": "Each player can change the order of players."
+      },
+      "tournament": {
+        "tournament": "Tournament",
+        "tournamentArena": "Tournament Arena",
+        "text1": "It's a tournament style arena.",
+        "text2": "Participants will be randomly assigned at the opening time.",
+        "text3": "It then digests one round each time the set interval time elapses.",
+        "text4": "Up to 64 people can participate.",
+        "interval": "Interval",
+        "intervalDescription": "Enter the interval for each round (minutes)"
       }
     },
     "labels": {
