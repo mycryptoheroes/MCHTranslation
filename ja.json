@@ -139,6 +139,12 @@
       }
     }
   },
+  "signInModal": {
+    "signIn": "サインイン",
+    "signInWithWallet": "イーサリアムでサインイン",
+    "install": "ウォレットブラウザをインストールしてください",
+    "trialPlay": "トライアルプレイ"
+  },
   "others": {
     "other": "その他"
   },

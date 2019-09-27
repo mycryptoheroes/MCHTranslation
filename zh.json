@@ -137,6 +137,12 @@
       }
     }
   },
+  "signInModal": {
+    "signIn": "Sign In",
+    "signInWithWallet": "Sign in with wallet",
+    "install": "Please install a wallet to continue:",
+    "trialPlay": "Trial Play"
+  },
   "others": {
     "other": "其他"
   },
