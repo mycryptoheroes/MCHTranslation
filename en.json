@@ -502,6 +502,22 @@
     "emaEffect": "EMA Effect",
     "setNickname": "Set Nickname"
   },
+  "templates": {
+    "title": "Team Templates",
+    "description": "Create team templates that you can choose from when you join an arena. You can create up to 3 templates.",
+    "new": "New Template",
+    "deleteTemplate": "Delete Template",
+    "createHeadline": "Create New Team Template",
+    "chooseType": "Choose Team Type",
+    "create": "Create",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirmDelete": "Confirm Delete Template",
+    "choseDelete": "Choose template to delete",
+    "template": "Template",
+    "type": "Type",
+    "selectFrom": "Select from Template"
+  },
   "toku": {
     "notice": {
       "text": "Our latest ecosystem update removed LAB and introduced TOKU. It is a Proof of Play (PoP) system that rewards active quest farmers with Heroes, Extensions, and GUM.",
@@ -850,6 +866,7 @@
   "arena": {
     "title": "Arena",
     "arenaTitle": "Arena Title",
+    "options": "Options",
     "create": "Create",
     "created": "Arena created!",
     "description": "Battle other players, test new strategies, and improve your skills.",

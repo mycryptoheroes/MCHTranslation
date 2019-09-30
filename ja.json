@@ -504,6 +504,22 @@
     "emaEffect": "EMA効果",
     "setNickname": "二つ名をつける"
   },
+  "templates": {
+    "title": "Team Templates",
+    "description": "Create team templates that you can choose from when you join an arena. You can create up to 3 templates.",
+    "new": "New Template",
+    "deleteTemplate": "Delete Template",
+    "createHeadline": "Create New Team Template",
+    "chooseType": "Choose Team Type",
+    "create": "Create",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirmDelete": "Confirm Delete Template",
+    "choseDelete": "Choose template to delete",
+    "template": "Template",
+    "type": "Type",
+    "selectFrom": "Select from Template"
+  },
   "toku": {
     "notice": {
       "text": "Labの機能はクリプタイドに内包されました。「クリプタイドへの奉納」「オリジナルエクステンションの強化」は「TOKU」画面で実行できます。",
@@ -855,6 +871,7 @@
     "title": "アリーナ",
     "arenaTitle": "アリーナ名",
     "create": "作成する",
+    "options": "Options",
     "created": "アリーナを作成しました！",
     "description": "ユーザ主催のアリーナで他のユーザとバトル！",
     "navigation": {

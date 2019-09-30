@@ -495,6 +495,22 @@
     "emaEffect": "EMA Effect",
     "setNickname": "Set Nickname"
   },
+  "templates": {
+    "title": "Team Templates",
+    "description": "Create team templates that you can choose from when you join an arena. You can create up to 3 templates.",
+    "new": "New Template",
+    "deleteTemplate": "Delete Template",
+    "createHeadline": "Create New Team Template",
+    "chooseType": "Choose Team Type",
+    "create": "Create",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirmDelete": "Confirm Delete Template",
+    "choseDelete": "Choose template to delete",
+    "template": "Template",
+    "type": "Type",
+    "selectFrom": "Select from Template"
+  },
   "toku": {
     "notice": {
       "text": "Integrated Lab functions into Land’s guardian god “Cryptid”! You can 'dedicate CE/ Replica Extensions to Cryptid' and 'absorb CE' in 'TOKU' page.",
@@ -843,6 +859,7 @@
   "arena": {
     "title": "Arena",
     "arenaTitle": "Arena Title",
+    "options": "Options",
     "create": "Create",
     "created": "Arena created!",
     "description": "Battle other players, test new strategies, and improve your skills.",
