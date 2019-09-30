@@ -871,7 +871,7 @@
     "title": "アリーナ",
     "arenaTitle": "アリーナ名",
     "create": "作成する",
-    "options": "Options",
+    "options": "オプション",
     "created": "アリーナを作成しました！",
     "description": "ユーザ主催のアリーナで他のユーザとバトル！",
     "navigation": {
@@ -887,7 +887,7 @@
       "count": "参加人数",
       "start": "開始時刻"
     },
-    "loadMore": "Load {count} More",
+    "loadMore": "さらに{count}をロード",
     "hostedBy": "主催者:",
     "cancelled": "中止",
     "inBattle": "バトル中",
@@ -918,7 +918,7 @@
     "results": "結果",
     "countDown": "カウントダウン",
     "startIn": "バトル開始まで:",
-    "adminOptions": "Admin Options",
+    "adminOptions": "管理オプション",
     "confirmCancelArena": "本当にこのアリーナを中止しますか？この操作はやり直しができません。",
     "confirmCancelBtn": "はい",
     "confirmLeaveArena": "本当にこのアリーナから退出しますか？",
