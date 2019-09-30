@@ -579,7 +579,7 @@
       "current": "所持GUM数:",
       "suggestedGasPrice": "推奨Gas価格",
       "dailybonus": "デイリー ボーナス",
-      "dailybonus2": "35 GUM (100人に1人 300 GUM!)",
+      "dailybonus2": "100人に1人 300 GUM!",
       "comment": "着金まで2分ほど時間がかかります。",
       "wallet": "GUMの購入にはETH対応のウォレットが必要です",
       "airdrop": {
@@ -587,7 +587,7 @@
         "wallet": "Airdropを行うにはETH対応のウォレットが必要です"
       },
       "gumgumup": "GUMGUMUPキャンペーン中! 20%増量&34人に1人即全額バック!",
-      "dailyActionTerm": "24時間でリセット",
+      "dailyActionTerm": "毎日 {hour} にリセット",
       "prime": {
         "about": {
           "title": "MCHプライムとは",

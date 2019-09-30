@@ -570,7 +570,7 @@
       "current": "当前：",
       "suggestedGasPrice": "Suggested Gas Price",
       "dailybonus": "每日奖励",
-      "dailybonus2": "35 GUM (1% to 300 GUM!)",
+      "dailybonus2": "1% to 300 GUM!",
       "comment": "成功购买GUM后，所购入的GUM会在两分钟后到账",
       "wallet": "你需要安装ETH钱包（Ethereum Wallet）来购买GUM",
       "airdrop": {
@@ -578,7 +578,7 @@
         "wallet": "你需要安装Ethereum Wallet来使用空投"
       },
       "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
-      "dailyActionTerm": "Reset in 24 hours",
+      "dailyActionTerm": "Reset at {hour} every day",
       "prime": {
         "about": {
           "title": "About MCH Prime",
