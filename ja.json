@@ -505,20 +505,20 @@
     "setNickname": "二つ名をつける"
   },
   "templates": {
-    "title": "Team Templates",
-    "description": "Create team templates that you can choose from when you join an arena. You can create up to 3 templates.",
-    "new": "New Template",
-    "deleteTemplate": "Delete Template",
-    "createHeadline": "Create New Team Template",
-    "chooseType": "Choose Team Type",
-    "create": "Create",
-    "cancel": "Cancel",
-    "delete": "Delete",
-    "confirmDelete": "Confirm Delete Template",
-    "choseDelete": "Choose template to delete",
-    "template": "Template",
-    "type": "Type",
-    "selectFrom": "Select from Template"
+    "title": "チームテンプレート",
+    "description": "アリーナ参加前に選択可能なチームテンプレートを3チームまで作成できます。",
+    "new": "新しいチームを作る",
+    "deleteTemplate": "チームを削除する",
+    "createHeadline": "新しいチームを作る",
+    "chooseType": "バトルタイプ",
+    "create": "作成する",
+    "cancel": "キャンセル",
+    "delete": "削除する",
+    "confirmDelete": "チームを削除する",
+    "choseDelete": "削除するチームを選択",
+    "template": "チーム",
+    "type": "バトルタイプ",
+    "selectFrom": "保存したチームから選択"
   },
   "toku": {
     "notice": {
