@@ -600,8 +600,8 @@
             "1 replica hero (A or more) is granted for every prime update (* enrollment after withdrawal is not eligible)",
             "Additional Bonus for TOKU Treasure"
           ],
-          "dailybonus1": "- Reset in 24 hours",
-          "dailybonus2": "- 35GUM(300GUM for 1/100)",
+          "dailybonus1": "- Available once a day (reset to {hour} every day)",
+          "dailybonus2": "- 35GUM (50GUM during the campaign period!) (300GUM for 1/100)",
           "dailybonus3": "* ETH is required as a gas fee.",
           "continue": "Available up to 5 times in approximately 24 hours"
         },
