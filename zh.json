@@ -406,7 +406,15 @@
       "groupingStatus": "Available after Grouping",
       "viewGroup": "Scout Opponents",
       "battle": "Battle",
-      "results": "Results"
+      "results": "Results",
+      "qualificationBattle": "Qualification Battle",
+      "qualificationResults": "Qualification Results",
+      "tournamentBattle": "Tournament Battle",
+      "tournamentResults": "Tournament Results"
+    },
+    "descriptions": {
+      "g5": "This battle decides the 5 Knights (G5) who will represent each Land in Flag Battle. Only the Knight Class participates in this battle. G5 Knights will be decided by the Achievement Points ranking at the end of this Battle.",
+      "knightCommander": "This is the epic battle between all Knight Commanders of all lands. There are two main battles: 1st Battle is a qualification round between Knight Commanders of the same land. 2nd Battle is a tournament between all lands to determine the best Knight Commander!"
     },
     "pledge": {
       "title": "Pledge for fair play",
@@ -421,11 +429,16 @@
     "heroRarityCost": {
       "title": "Hero Rarity Cost",
       "description": "\"Hero Realty Cost\" has been set for the rarealities \"Novice\", \"common\", \"Uncomon\", \"Rare\", \"Epic\" and \"Legendary\" of heroes. For this land battle, the team needs to be organized so that the sum of the team's hero costs falls within the specified value."
-    }
+    },
+    "seasonFinals": "Season Finals"
   },
   "knightBattle": {
     "title": "Knight Battle",
     "preparation": "Preparation"
+  },
+  "knightCommanderBattle": {
+    "title": "Knight Commander Battle",
+    "tournament": "Knight Commander Tournament"
   },
   "flagBattle": {
     "title": "Flag Battle",
