@@ -13,7 +13,10 @@
     "errorMessage": "Please try reload",
     "condition": "Condition",
     "cancel": "Cancel",
-    "close": "Close"
+    "close": "Close",
+    "back": "Back",
+    "change": "Change",
+    "confirm": "Confirm"
   },
   "pages": {
     "home": "Home",
@@ -207,6 +210,17 @@
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
   },
   "assetId": {
+    "arts": {
+      "artOfHero": "Art of this hero",
+      "addArt": "Add Art",
+      "changeToDefault": "Restore Default Art",
+      "emptyHeroArt": "There is no art attached to this hero.",
+      "confirm": "Change the {heroName} art to the image above. Are you sure?",
+      "selectArt": "Select Art",
+      "registerArt": "New My Art",
+      "selectFromMyArt": "Select from My Art",
+      "myArtEmpty": "My Art is not registered."
+    },
     "artEdit": "Art Edit",
     "changeArt": "Change Art",
     "changeSkill": "Change Active Skill",

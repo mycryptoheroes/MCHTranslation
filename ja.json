@@ -13,7 +13,11 @@
     "errorMessage": "ブラウザの再読込をお試しください",
     "condition": "発動条件",
     "cancel": "キャンセル",
-    "close": "閉じる"
+    "close": "閉じる",
+    "back": "戻る",
+    "change": "変更する",
+    "confirm": "確認する",
+    "result": "結果"
   },
   "pages": {
     "home": "ホーム",
@@ -209,6 +213,17 @@
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーローもらえる！"
   },
   "assetId": {
+    "arts": {
+      "artOfHero": "このヒーローのアート",
+      "addArt": "アートを追加",
+      "changeToDefault": "デフォルトアートに戻す",
+      "emptyHeroArt": "このヒーローに装着されたアートはありません",
+      "confirm": "{heroName} のアートを上記の画像に変更します。よろしいですか？",
+      "selectArt": "アートの選択",
+      "registerArt": "マイアートの新規登録",
+      "selectFromMyArt": "マイアートから選択",
+      "myArtEmpty": "マイアートは登録されていません"
+    },
     "artEdit": "アートエディット",
     "changeArt": "アートの変更",
     "changeSkill": "Active Skillの変更",
