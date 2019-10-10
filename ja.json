@@ -1099,7 +1099,8 @@
       "heroDetail": "ヒーロー詳細へ"
     },
     "ranking": "ウィークリーランキング",
-    "recent": "最近のアート"
+    "recent": "最近のアート",
+    "registerAsMyArt": "マイアートへの登録"
   },
   "lordRewards": {
     "balance": "引出可能数：",

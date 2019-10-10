@@ -1094,7 +1094,8 @@
       "heroDetail": "Hero Detail"
     },
     "ranking": "Weekly Ranking",
-    "recent": "Recent Arts"
+    "recent": "Recent Arts",
+    "registerAsMyArt": "Register as My Art"
   },
   "lordRewards": {
     "balance": "Withdrawable:",
