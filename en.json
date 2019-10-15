@@ -1033,7 +1033,8 @@
     "title": "Raid",
     "warning": [
       "Note that Hero's level might be decreased according to the amount of CE you choose.",
-      "You will get 1 treasure box every time the amount of damage reaches to multiples of 1500."
+      "You will get 1 treasure box every time the amount of damage reaches to multiples of 1500.",
+      "You cannot participate if you are equipped with sweets series."
     ],
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory",
     "detail": "Let's join and fight with Raid Boss!\nYou can join Raid battle by consuming CE(not stamina!), but be careful to use CE because your heroes may be leveled down!"
