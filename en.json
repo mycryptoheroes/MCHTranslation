@@ -617,19 +617,19 @@
           "title": "About MCH Prime",
           "lead": "MCH Prime you will receive following benefits for 30 days.",
           "list": [
-            "Double the exp(CE) from quest node",
-            "Daily Bonus",
-            "Expanding the number of teams from 3 to 6",
-            "Limited Node only for Prime Users",
-            "Continuity available on node failure",
-            "Early access to hosted features of the Public Arena",
-            "1 replica hero (A or more) is granted for every prime update (* enrollment after withdrawal is not eligible)",
-            "Additional Bonus for TOKU Treasure"
+            "Free Daily Bonus",
+            "Get double CE in quests",
+            "Extra Bonus for TOKU Treasures",
+            "Free Replica Hero every month.",
+            "Increase quest teams from 3 to 6",
+            "Limited quests for Prime users",
+            "Revive teams in quests",
+            "Extra features in arena"
           ],
-          "dailybonus1": "- Available once a day (reset to {hour} every day)",
-          "dailybonus2": "- 35GUM (50GUM during the campaign period!) (300GUM for 1/100)",
-          "dailybonus3": "* ETH is required as a gas fee.",
-          "continue": "Available up to 5 times in approximately 24 hours"
+          "dailybonus1": "- Available once per day (resets at {hour} every day)",
+          "dailybonus2": "- 35GUM (currently 50GUM!), 1% to get 300GUM",
+          "dailybonus3": "* A gas fee is required.",
+          "continue": "Available up to 5 times every 24 hours"
         },
         "leftDays": {
           "before": "",
@@ -641,7 +641,7 @@
         "limited": "For a limited time (Until {limitedTime})",
         "notes": "If you buy with ETH, your status is reflected in 5-10 mins after successing the transaction.",
         "subscription": {
-          "about": "Subscription of MCH Prime",
+          "about": "Your MCH Prime Subscription",
           "discription": [
             "You can check the box below to turn on the automatic renewal. You can toggle the subscription ON/OFF at any time in your profile settings.",
             "If you enable the automatic renewal: Once the remaining prime period is 72 hours or less, your prime will be automatically renewed.",
@@ -650,7 +650,7 @@
           "turnedOn": "Turn on automatic renewal (suggested)"
         },
         "purchase": "You are purchasing MCH Prime for {primePrice}. Would you like to continue?",
-        "submit": "Buy ({primePrice})",
+        "submit": "Buy for {primePrice}",
         "refund": {
           "title": "Refund",
           "modal": {
