@@ -66,7 +66,7 @@
     "mycryapp": "MCH App has been released!",
     "mycryappsignin": "/ MyCryApp",
     "welcome": {
-      "name": "What's your name in Crypto World?",
+      "name": "What's your name in the MCH World?",
       "notice": "You can change it later.",
       "inviteCode": "Input your Invite Code (if you have)"
     },
@@ -225,8 +225,8 @@
     "changeArt": "Change Art",
     "changeSkill": "Change Active Skill",
     "approve": {
-      "description": "To use your heroes, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
-      "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to Crypto World.",
+      "description": "To use your heroes, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to MCH World.",
+      "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to MCH World.",
       "button": "Transfer Preparation"
     },
     "lab": "Level up with GUM",
@@ -235,7 +235,7 @@
     "stop": "Stop trading",
     "params": "Parameters",
     "trade": "Trade",
-    "deposit": "Transfer to Crypto World",
+    "deposit": "Transfer to MCH World",
     "withdraw": "Transfer to Ethereum Network",
     "heroLock": "Using this hero now. Remove this from your team and duel team.",
     "extensionLock": "Using this extension now. Remove this from your team and duel team.",
@@ -246,7 +246,7 @@
       "3": "Extension has to be more than Lv.2 and set Nickname to transfer",
       "4": "Hero has to be more than Lv.2 and art-edited to transfer",
       "5": "It takes about 20 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic.",
-      "6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get※1 or use※2 them in battle last time.\n※1 get: Purchase, Quest, Reward, Trade, Transfer to Crypto World\n※2 use in battle: Official Duel Cup, Arena, Land Battle, Raid"
+      "6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get※1 or use※2 them in battle last time.\n※1 get: Purchase, Quest, Reward, Trade, Transfer to MCH World\n※2 use in battle: Official Duel Cup, Arena, Land Battle, Raid"
     },
     "countdown": "You can transfer after",
     "edit": {
