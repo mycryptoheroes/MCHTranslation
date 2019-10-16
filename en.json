@@ -614,8 +614,8 @@
       "dailyActionTerm": "Reset at {hour} every day",
       "prime": {
         "about": {
-          "title": "About MCH Prime",
-          "lead": "MCH Prime you will receive following benefits for 30 days.",
+          "title": "Monthly MCH Prime Subscription",
+          "lead": "MCH Prime users can enjoy the following benefits:",
           "list": [
             "Free Daily Bonus",
             "Get double CE in quests",
@@ -649,7 +649,7 @@
           ],
           "turnedOn": "Turn on automatic renewal (suggested)"
         },
-        "purchase": "You are purchasing MCH Prime for {primePrice}. Would you like to continue?",
+        "purchase": "You are purchasing 30 days of MCH Prime for {primePrice}. Would you like to continue?",
         "submit": "Buy for {primePrice}",
         "refund": {
           "title": "Refund",
