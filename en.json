@@ -634,7 +634,7 @@
         "leftDays": {
           "before": "",
           "after": "days left",
-          "warning": "You can renew your subscription {updatableRemainingDays} days before the end",
+          "warning": "You can renew your subscription {updatableRemainingDays} days before the end.",
           "subscriptionState": "Subscription is currently {isSubscribing}",
           "toAccount": "Manage Subscription"
         },
