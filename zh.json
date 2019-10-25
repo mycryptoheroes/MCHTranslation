@@ -611,22 +611,23 @@
       "dailyActionTerm": "Reset at {hour} every day",
       "prime": {
         "about": {
-          "title": "About MCH Prime",
-          "lead": "MCH Prime you will receive following benefits for 30 days.",
+          "title": "Monthly MCH Prime Subscription",
+          "lead": "MCH Prime users can enjoy the following benefits:",
           "list": [
-            "Double the exp(CE) from quest node",
-            "Daily Bonus",
-            "Expanding the number of teams from 3 to 6",
-            "Limited Node only for Prime Users",
-            "Continuity available on node failure",
-            "Early access to hosted features of the Public Arena",
-            "1 replica hero (A or more) is granted for every prime update (* enrollment after withdrawal is not eligible)",
-            "Additional Bonus for TOKU Treasure"
+            "Get double CE in quests",
+            "Free Daily Bonus",
+            "Increase quest teams from 3 to 6",
+            "Increase team templates from 3 to 6",
+            "Limited quests for Prime users",
+            "Revive teams in quests",
+            "Extra features in arena",
+            "Free Replica Hero every month.",
+            "Extra Bonus for TOKU Treasures"
           ],
-          "dailybonus1": "- Available once a day (reset to {hour} every day)",
-          "dailybonus2": "- 35GUM (50GUM during the campaign period!) (300GUM for 1/100)",
-          "dailybonus3": "* ETH is required as a gas fee.",
-          "continue": "Available up to 5 times in approximately 24 hours"
+          "dailybonus1": "- Available once per day (resets at {hour} every day)",
+          "dailybonus2": "- 35GUM (currently 50GUM!), 1% to get 300GUM",
+          "dailybonus3": "* A gas fee is required.",
+          "continue": "Available up to 5 times every 24 hours"
         },
         "leftDays": {
           "before": "",

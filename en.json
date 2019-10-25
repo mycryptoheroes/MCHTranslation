@@ -618,14 +618,15 @@
           "title": "Monthly MCH Prime Subscription",
           "lead": "MCH Prime users can enjoy the following benefits:",
           "list": [
-            "Free Daily Bonus",
             "Get double CE in quests",
-            "Extra Bonus for TOKU Treasures",
-            "Free Replica Hero every month.",
+            "Free Daily Bonus",
             "Increase quest teams from 3 to 6",
+            "Increase team templates from 3 to 6",
             "Limited quests for Prime users",
             "Revive teams in quests",
-            "Extra features in arena"
+            "Extra features in arena",
+            "Free Replica Hero every month.",
+            "Extra Bonus for TOKU Treasures"
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
           "dailybonus2": "- 35GUM (currently 50GUM!), 1% to get 300GUM",
