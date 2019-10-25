@@ -887,6 +887,15 @@
       "warning": "※違反行為が発覚した場合、アカウント停止、トロフィーおよびWinners Pointを剥奪いたします。"
     },
     "title": "デュエルカップ",
+    "cupInformation": "カップ情報",
+    "myInfo": {
+      "attackCount": "アタック回数",
+      "rank": "予選順位",
+      "duelPoint": "デュエルポイント",
+      "addedDamage": "与ダメージ",
+      "takenDamage": "被ダメージ",
+      "myInfo": "マイインフォ"
+    },
     "overheat": {
       "title": "オーバーヒートヒーロー",
       "subtitle": "(基礎パラメータが 50% ダウン)",

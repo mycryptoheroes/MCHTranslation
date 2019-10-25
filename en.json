@@ -882,6 +882,15 @@
       "warning": "* Your account will be banned and your trophies and Winners Point will be deprivationd if you violate terms of use or Official Duel Cup rules."
     },
     "title": "Duel Cup",
+    "cupInformation": "Cup Information",
+    "myInfo": {
+      "attackCount": "Attack Count",
+      "rank": "Qualifying Rank",
+      "duelPoint": "Duel Point",
+      "addedDamage": "Added DMG",
+      "takenDamage": "Taken DMG",
+      "myInfo": "My Info"
+    },
     "overheat": {
       "title": "Overheated Heroes",
       "subtitle": "(-50% base stats)",
