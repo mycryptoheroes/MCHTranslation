@@ -545,7 +545,8 @@
     "choseDelete": "削除するチームを選択",
     "template": "チーム",
     "type": "バトルタイプ",
-    "selectFrom": "保存したチームから選択"
+    "selectFrom": "保存したチームから選択",
+    "getPrime": "MCHプライム加入で合計6つのテンプレートを作成可能"
   },
   "toku": {
     "notice": {

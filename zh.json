@@ -538,7 +538,8 @@
     "choseDelete": "Choose template to delete",
     "template": "Template",
     "type": "Type",
-    "selectFrom": "Select from Template"
+    "selectFrom": "Select from Template",
+    "getPrime": "Get 6 total slots with MCH Prime"
   },
   "toku": {
     "notice": {
