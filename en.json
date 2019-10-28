@@ -218,16 +218,16 @@
       "emptyHeroArt": "There is no art attached to this hero.",
       "confirm": "Change the {heroName} art to the image above. Are you sure?",
       "selectArt": "Select Art",
-      "registerArt": "New My Art",
+      "registerArt": "Upload Art",
       "selectFromMyArt": "Select from My Art",
-      "myArtEmpty": "My Art is not registered."
+      "myArtEmpty": "No Art is not registered."
     },
     "artEdit": "Art Edit",
     "changeArt": "Change Art",
     "changeSkill": "Change Active Skill",
     "approve": {
-      "description": "To use your heroes, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to MCH World.",
-      "extensiondescription": "To use your extensions, you need to finish two steps. 1st, Transfer Preparation. 2nd, Transfer to MCH World.",
+      "description": "To use your heroes, you need to finish two steps: 1st, Transfer Preparation. 2nd, Transfer to MCH World.",
+      "extensiondescription": "To use your extensions, you need to finish two steps: 1st, Transfer Preparation. 2nd, Transfer to MCH World.",
       "button": "Transfer Preparation"
     },
     "lab": "Level up with GUM",
@@ -238,16 +238,16 @@
     "trade": "Trade",
     "deposit": "Transfer to MCH World",
     "withdraw": "Transfer to Ethereum Network",
-    "heroLock": "Using this hero now. Remove this from your team and duel team.",
-    "extensionLock": "Using this extension now. Remove this from your team and duel team.",
+    "heroLock": "You are currently using this hero. Remove hero from your team and duel team.",
+    "extensionLock": "You are currently using this extension. Remove it from your team and duel team.",
     "withdrawWarning": {
-      "description": "You can use your assets in Ethereum when you transfer your assets to Ethereum Network.",
-      "1": "It will cost {gum} GUM for transferring it to Ethereum network.",
+      "description": "You can use your assets on Ethereum after you transferred your assets to the Ethereum Network.",
+      "1": "It will cost {gum} GUM for transferring it to the Ethereum network.",
       "2": "Limited to 10 times per day ({count} / 10)",
-      "3": "Extension has to be more than Lv.2 and set Nickname to transfer",
-      "4": "Hero has to be more than Lv.2 and art-edited to transfer",
-      "5": "It takes about 20 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic.",
-      "6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get※1 or use※2 them in battle last time.\n※1 get: Purchase, Quest, Reward, Trade, Transfer to MCH World\n※2 use in battle: Official Duel Cup, Arena, Land Battle, Raid"
+      "3": "To transfer, Extension needs to be at least Lv.2 and have a Nickname",
+      "4": "To transfer, Hero has to be at least Lv.2 and art-edited",
+      "5": "It takes about 20 mins to trasfer, depending on the current Ethereum Network status.",
+      "6": "You can't transfer an assets (Hero / Extension) that has been used in battle within 24 hours or has been traded / bought within 24 hours."
     },
     "countdown": "You can transfer after",
     "edit": {
