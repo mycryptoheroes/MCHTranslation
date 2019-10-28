@@ -16,7 +16,8 @@
     "close": "Close",
     "back": "Back",
     "change": "Change",
-    "confirm": "Confirm"
+    "confirm": "Confirm",
+    "result": "Result"
   },
   "pages": {
     "home": "Home",
