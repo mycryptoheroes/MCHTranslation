@@ -857,7 +857,7 @@
       "giveUp": "ギブアップ"
     },
     "result": {
-      "heroDied": "CE獲得なし（ヒーロー死亡のため）",
+      "heroDied": "CE獲得なし",
       "dedicatedCE": "CEを奉納",
       "gainedTOKU": "TOKUを獲得",
       "primeRecommend": "MCHプライム加入で最大レベルのアセットが獲得したCEを自動的にクリプタイドへ奉納できます"
