@@ -532,6 +532,7 @@
   "templates": {
     "title": "Team Templates",
     "description": "Create team templates that you can choose from when you compose your team. You can create up to 3 templates, prime users can create up to 6 templates.",
+    "descriptionQuest": "Create templates to import to your quest teams. This is a prime only feature.",
     "new": "New Template",
     "deleteTemplate": "Delete Template",
     "createHeadline": "Create New Team Template",
