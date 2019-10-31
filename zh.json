@@ -586,7 +586,8 @@
       "nextReset": "Next TOKU Reset:",
       "redeemableUntil": "Redeemable until:",
       "acquiredToku": "Acquired Season TOKU",
-      "totalToku": "Total Acquired TOKU"
+      "totalToku": "Total Acquired TOKU",
+      "claimAll": "Claim All"
     },
     "exchange": {
       "title": "Ticket Exchange",

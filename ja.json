@@ -592,7 +592,8 @@
       "nextReset": "次のTOKUリセット：",
       "redeemableUntil": "受取可能期間：",
       "acquiredToku": "このシーズンで獲得したTOKU",
-      "totalToku": "総 獲得TOKU"
+      "totalToku": "総 獲得TOKU",
+      "claimAll": "すべて受け取る"
     },
     "exchange": {
       "title": "チケット交換",
