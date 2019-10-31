@@ -848,6 +848,12 @@
         "body": "As part of your MCH Prime subscription, you can revive your party for up to {count} times per day for free. Your Revive count gets reset back to {count} every day at 0:00(UTC). Unused Revives will not carry over to the next day."
       },
       "giveUp": "Give Up"
+    },
+    "result": {
+      "heroDied": "Hero died - no CE",
+      "dedicatedCE": "dedicated CE",
+      "gainedTOKU": "gained TOKU",
+      "primeRecommend": "Get Prime to automatically dedicate overflowing CE"
     }
   },
   "walletModal": {
