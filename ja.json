@@ -17,7 +17,11 @@
     "back": "戻る",
     "change": "変更する",
     "confirm": "確認する",
-    "result": "結果"
+    "result": "結果",
+    "public": "公開",
+    "private": "非公開",
+    "all": "すべて",
+    "none": "なし"
   },
   "pages": {
     "home": "ホーム",
@@ -1035,6 +1039,14 @@
         "text4": "最大64名まで参加できます。",
         "interval": "インターバル時間",
         "intervalDescription": "各ラウンドの間隔を入力してください (分)"
+      },
+      "regulation": {
+        "title": "レギュレーション",
+        "none": "無制限",
+        "allowedHeroes": "使用可能ヒーロー",
+        "allowedRepHeroes": "使用可能レプリカヒーロー",
+        "allowedExtensions": "使用可能エクステンション",
+        "allowedRepExtensions": "使用可能レプリカエクステンション"
       }
     },
     "labels": {

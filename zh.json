@@ -17,7 +17,11 @@
     "back": "Back",
     "change": "Change",
     "confirm": "Confirm",
-    "result": "Result"
+    "result": "Result",
+    "public": "Public",
+    "private": "Private",
+    "all": "ALL",
+    "none": "NONE"
   },
   "pages": {
     "home": "主页",
@@ -1028,6 +1032,14 @@
         "text4": "Up to 64 people can participate.",
         "interval": "Interval",
         "intervalDescription": "Enter the interval for each round (minutes)"
+      },
+      "regulation": {
+        "title": "Arena Regulation",
+        "none": "No Regulation",
+        "allowedHeroes": "Allowed Heroes",
+        "allowedRepHeroes": "Allowed Replica Heroes",
+        "allowedExtensions": "Allowed Extensions",
+        "allowedRepExtensions": "Allowed Replica Extensions"
       }
     },
     "labels": {
