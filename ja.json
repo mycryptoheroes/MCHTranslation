@@ -537,8 +537,10 @@
   },
   "templates": {
     "title": "チームテンプレート",
-    "description": "チームテンプレートを作成できます。 最大3つのテンプレートを作成でき、MCHプライムに加入しているユーザーは最大6つのテンプレートを作成できます。",
-    "descriptionQuest": "Create templates to import to your quest teams. This is a prime only feature.",
+    "duelTemplates": "デュエルテンプレート",
+    "questTemplates": "クエストテンプレート",
+    "description": "チームテンプレートを作成できます。最大3つのテンプレートを作成でき、MCHプライムに加入しているユーザーは最大6つのテンプレートを作成できます。",
+    "descriptionQuest": "クエスト用のチームテンプレートを作成できます。この機能はMCHプライム加入ユーザーのみ利用できます。",
     "new": "新しいチームを作る",
     "deleteTemplate": "チームを削除する",
     "createHeadline": "新しいチームを作る",
