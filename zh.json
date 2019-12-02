@@ -601,7 +601,9 @@
       "confirm2": "for ",
       "confirm3": "",
       "cancel": "Cancel",
-      "trade": "Trade"
+      "trade": "Trade",
+      "expandBattleTemplate": "Expand Battle Template +1",
+      "expandQuestTemplate": "Expand Quest Template +1"
     }
   },
   "market": {
