@@ -434,10 +434,10 @@
       "viewGroup": "対戦相手を確認する",
       "battle": "バトル",
       "results": "結果表示",
-      "qualificationBattle": "予選",
-      "qualificationResults": "予選結果表示",
-      "tournamentBattle": "本戦",
-      "tournamentResults": "本戦結果表示"
+      "qualificationBattle": "ナイト戦G5 / ナイトコマンダー戦予選",
+      "qualificationResults": "ナイト戦G5 / ナイトコマンダー戦予選 結果表示",
+      "tournamentBattle": "ナイト戦ファイナル / ナイトコマンダー戦本戦",
+      "tournamentResults": "ナイト戦ファイナル / ナイトコマンダー戦本戦 結果表示"
     },
     "descriptions": {
       "g5": "ナイト戦G5は、フラッグ戦で各ランドを代表して戦う5人のナイト（G5）を決定します。この戦いにはナイトだけが参加できます。 G5のナイトは、功績ポイントの順位によって決まります。",
