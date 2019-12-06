@@ -1443,7 +1443,17 @@
     "91": "TOKU Ranking: 1st",
     "92": "TOKU Ranking: 2nd",
     "93": "TOKU Ranking: 3rd",
-    "94": "TOKU Ranking: 4-10th"
+    "94": "TOKU Ranking: 4-10th",
+    "111": "Ocean G5: Season {ref}",
+    "112": "Strawberry G5: Season {ref}",
+    "113": "Tangerine G5: Season {ref}",
+    "114": "Lime G5: Season {ref}",
+    "115": "Graphite G5: Season {ref}",
+    "116": "Grape G5: Season {ref}",
+    "117": "Sage G5: Season {ref}",
+    "118": "Blueberry G5: Season {ref}",
+    "119": "Ruby G5: Season {ref}",
+    "121": "Knight Battle 1st: Season {ref}"
   },
   "twitter": {
     "hero": "My Crypto Heroes",
