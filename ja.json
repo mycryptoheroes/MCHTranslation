@@ -751,8 +751,8 @@
         "last": "更新順",
         "lowest": "価格が安い",
         "highest": "価格が高い",
-        "highestLv": "レベル降順",
-        "lowestLv": "レベル昇順"
+        "highestLv": "レベルが低い",
+        "lowestLv": "レベルが高い"
       },
       "header": {
         "items": "件",
