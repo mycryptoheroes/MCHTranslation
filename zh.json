@@ -209,8 +209,8 @@
     }
   },
   "referral": {
-    "description": "share your promo code and get 10% of the paid ETH in GUM!\nEvery time player join through your invite code pay ETH to purchase gum, 5% equivalent amount of ETH will be distributed to you. (During the campaign, it may be expanded to “equivalent to 10%” etc.)",
-    "gift": "Promo code Gift\nYour friends who use your promo code can get replica Hero \"Brothers Grimm\".",
+    "description": "Share your invite code and get ETH!\nEvery time player join through your invite code pay ETH to purchase gum, 5% equivalent amount of ETH will be distributed to you. (During the campaign, it may be expanded to “equivalent to 10%” etc.)",
+    "gift": "Invite code Gift\nYour friends who use your invite code can get replica Hero \"Brothers Grimm\".",
     "warning": "* \"Sign in\" by \"Normal Play with Wallet\" is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" is not displayed.",
     "shareText": "#MyCryptoHeroes 在这里，你付出的所有的时间、热情，都会成为你真正的财富，你无需虚拟通货或者钱包即可加入日本“blockchain RPG”，并在此享受乐趣！‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
