@@ -209,9 +209,9 @@
     }
   },
   "referral": {
-    "description": "Share your invite code and get ETH!\nEvery time player join through your invite code pay ETH to purchase gum, 5% equivalent amount of ETH will be distributed to you. (During the campaign, it may be expanded to “equivalent to 10%” etc.)",
-    "gift": "Invite code Gift\nYour friends who use your invite code can get replica Hero \"Brothers Grimm\".",
-    "warning": "* \"Sign in\" by \"Normal Play with Wallet\" is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" is not displayed.",
+    "description": "Share your invite code and get ETH!\nWhen you refer a new player, you'll receive a 5% revenue share every time the new player spends ETH in the game. (During specific campaigns, it may be increased to “equivalent to 10%”, etc.)",
+    "gift": "Invite Code Gift\nEvery new player who used your invite code will get the Replica Hero \"Brothers Grimm\".",
+    "warning": "* \"Sign in\" with Wallet is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" is not displayed.",
     "shareText": "#MyCryptoHeroes, Your time and passion will become assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
   },
