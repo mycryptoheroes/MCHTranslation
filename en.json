@@ -1073,6 +1073,11 @@
       "players": "Players",
       "on": "On",
       "off": "Off"
+    },
+    "campaign": {
+      "title": "Trial Legendary Replica campaign in progress",
+      "mediumUrl": "https://medium.com/mycryptoheroes/announcement-new-year-legendary-campaign-4780b8d60e52",
+      "description": "Trial period: December 20 (Friday) around 9:30 ~ December 26 (Thursday) around 15:00"
     }
   },
   "raid": {
