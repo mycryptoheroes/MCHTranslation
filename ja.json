@@ -180,7 +180,12 @@
       "eventNode": "イベントノード",
       "newVersionRelease": "新バージョン公開",
       "newSeasonStart": "ランド新シーズン開始",
-      "repHeroSale": "レプリカヒーロー新シーズンスタート"
+      "repHeroSale": "レプリカヒーロー新シーズンスタート",
+      "gumgumCampaign": "GUMGUMキャンペーン",
+      "kingDragon": {
+        "qualifying": "キングドラゴン: 予選{time}",
+        "final": "キングドラゴン: 決勝"
+      }
     },
     "readMore": "もっと読む",
     "assets": "マイアセット",
