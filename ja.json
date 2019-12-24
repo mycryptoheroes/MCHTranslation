@@ -181,7 +181,7 @@
       "newVersionRelease": "新バージョン公開",
       "newSeasonStart": "ランド新シーズン開始",
       "repHeroSale": "レプリカヒーロー新シーズンスタート",
-      "gumgumCampaign": "GUMGUMキャンペーン",
+      "gumCampaign": "{name}キャンペーン",
       "kingDragon": {
         "qualifying": "キングドラゴン: 予選{time}",
         "final": "キングドラゴン: 決勝"

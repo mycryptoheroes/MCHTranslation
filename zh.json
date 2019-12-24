@@ -179,7 +179,7 @@
       "newVersionRelease": "New Version Release",
       "newSeasonStart": "Land New Season Start",
       "repHeroSale": "Replica Hero New Season Start",
-      "gumgumCampaign": "GUMGUM Campaign",
+      "gumCampaign": "{name} Campaign",
       "kingDragon": {
         "qualifying": "King Dragon: Qualifying{time}",
         "final": "King Dragon: Final"
