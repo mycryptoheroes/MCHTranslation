@@ -630,7 +630,9 @@
         "comment": "受け取りまでイーサリアムネットワークの混雑状況により数分から数十分かかる場合がございます。",
         "wallet": "Airdropを行うにはETH対応のウォレットが必要です"
       },
-      "gumgumup": "GUMGUMUPキャンペーン中! 20%増量&34人に1人即全額バック!",
+      "gumgumup": "GUM GUM UP キャンペーン中! 20%増量&34人に1人即全額バック!",
+      "gumgum": "GUM GUM キャンペーン中! 34人に1人即全額バック!",
+      "gumup": "GUM UP キャンペーン中! 20%増量!",
       "dailyActionTerm": "毎日 {hour} にリセット",
       "prime": {
         "about": {

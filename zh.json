@@ -624,7 +624,9 @@
         "comment": "根据以太网的连接情况，可能需要数分钟才能收到物品",
         "wallet": "你需要安装Ethereum Wallet来使用空投"
       },
-      "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
+      "gumgumup": "GUM GUM UP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
+      "gumgum": "GUM GUM campaign now! 1 in 34 ETH back!!",
+      "gumup": "GUM UP campaign now! 20% Extra GUM!!",
       "dailyActionTerm": "Reset at {hour} every day",
       "prime": {
         "about": {
