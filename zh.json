@@ -1182,7 +1182,8 @@
     "more": "More",
     "entry": "Entry",
     "selectHeroes": "Select Heroes",
-    "colosseumSchedule": "Colosseum Schedule"
+    "colosseumSchedule": "Colosseum Schedule",
+    "ratingChart": "Rating Chart"
   },
   "lordRewards": {
     "balance": "Withdrawable：",
