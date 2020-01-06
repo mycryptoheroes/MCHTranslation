@@ -1190,7 +1190,12 @@
     "entry": "エントリー",
     "selectHeroes": "ヒーロー選択",
     "colosseumSchedule": "コロシアムスケジュール",
-    "ratingChart": "レーティングの推移"
+    "ratingChart": "レーティングの推移",
+    "unclosedMatch": {
+      "text": "マッチ画面から離脱されたため前回のバトルは自動で行われました。観戦しますか？",
+      "watch": "観戦する",
+      "dontWatch": "キャンセル"
+    }
   },
   "lordRewards": {
     "balance": "引出可能数：",

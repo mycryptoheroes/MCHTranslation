@@ -1183,7 +1183,12 @@
     "entry": "Entry",
     "selectHeroes": "Select Heroes",
     "colosseumSchedule": "Colosseum Schedule",
-    "ratingChart": "Rating Chart"
+    "ratingChart": "Rating Chart",
+    "unclosedMatch": {
+      "text": "The last battle was performed automatically because you left the match screen. Do you watch the battle?",
+      "watch": "Watch",
+      "dontWatch": "Don't watch"
+    }
   },
   "lordRewards": {
     "balance": "Withdrawable：",
