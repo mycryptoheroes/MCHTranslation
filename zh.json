@@ -1158,6 +1158,7 @@
     "class": "Layer",
     "term": "Term",
     "qualifier": "Qualifier",
+    "main": "Main",
     "grouping": "Grouping",
     "battle": "Battle",
     "result": "Result",
@@ -1188,7 +1189,8 @@
       "text": "The last battle was performed automatically because you left the match screen. Do you watch the battle?",
       "watch": "Watch",
       "dontWatch": "Don't watch"
-    }
+    },
+    "preEntry": "Pre-registration accepted"
   },
   "lordRewards": {
     "balance": "Withdrawable：",
