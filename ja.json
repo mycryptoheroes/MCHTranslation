@@ -1162,7 +1162,7 @@
     "registerAsMyArt": "マイアートへの登録"
   },
   "colosseum": {
-    "class": "クラス",
+    "class": "レイヤー",
     "term": "ターム",
     "qualifier": "予選",
     "grouping": "グルーピング",
@@ -1172,7 +1172,7 @@
     "schedule": "日程表",
     "ranking": "ランキング",
     "highestWins": "最高勝利数",
-    "currentChallenge": "現在の挑戦",
+    "currentChallenge": "現在の戦績",
     "life": "ライフ",
     "challengeTickets": "挑戦券",
     "wins": "勝利数",

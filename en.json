@@ -1158,7 +1158,7 @@
     "registerAsMyArt": "Register as My Art"
   },
   "colosseum": {
-    "class": "Class",
+    "class": "Layer",
     "term": "Term",
     "qualifier": "Qualifier",
     "grouping": "Grouping",
