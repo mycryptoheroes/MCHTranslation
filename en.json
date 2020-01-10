@@ -1193,7 +1193,10 @@
       "watch": "Watch",
       "dontWatch": "Don't watch"
     },
-    "preEntry": "Pre-registration accepted"
+    "preEntry": "Pre-registration accepted",
+    "godBlessed": "God Blessed",
+    "exhaustion": "Exhaustion",
+    "morale": "Morale"
   },
   "lordRewards": {
     "balance": "Withdrawable:",
