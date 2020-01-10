@@ -1200,7 +1200,8 @@
     "preEntry": "事前エントリー受付中",
     "godBlessed": "天啓",
     "exhaustion": "疲弊",
-    "morale": "士気"
+    "morale": "士気",
+    "layerReserved": "次のグルーピングまでお待ち下さい"
   },
   "lordRewards": {
     "balance": "引出可能数：",

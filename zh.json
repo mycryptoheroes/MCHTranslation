@@ -1193,7 +1193,8 @@
     "preEntry": "Pre-registration accepted",
     "godBlessed": "God Blessed",
     "exhaustion": "Exhaustion",
-    "morale": "Morale"
+    "morale": "Morale",
+    "layerReserved": "Please wait until the next grouping"
   },
   "lordRewards": {
     "balance": "Withdrawable：",
