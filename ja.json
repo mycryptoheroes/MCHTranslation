@@ -1457,7 +1457,11 @@
     "117": "Sage G5: Season {ref}",
     "118": "Blueberry G5: Season {ref}",
     "119": "Ruby G5: Season {ref}",
-    "121": "Knight Battle 1st: Season {ref}"
+    "121": "Knight Battle 1st: Season {ref}",
+    "131": "King Dragon: 1位",
+    "132": "King Dragon: 2位",
+    "133": "King Dragon: 3位",
+    "134": "King Dragon: 4位"
   },
   "twitter": {
     "hero": "My Crypto Heroes(マイクリ)",
