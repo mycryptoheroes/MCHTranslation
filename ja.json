@@ -39,6 +39,7 @@
     "market": "マーケット",
     "prime": "MCHプライム",
     "land": "ランド",
+    "colosseum": "コロシアムβ",
     "help": "ヘルプ",
     "terms": "利用規約",
     "scta": "特定商取引法に基づく表記",
@@ -85,7 +86,7 @@
       "title": [
         "マイクリプトヒーローズ（マイクリ）とは？"
       ],
-      "body": "マイクリは歴史上のヒーローと共にマイクリワールドの制覇を目指すブロックチェーンRPGゲームです。\nブロックチェーンゲームとして世界No.1のユーザー数、トランザクション数(※)を記録しています。\n※2019/8/21時点　出典:DappRadar(https://dappradar.com)"
+      "body": "マイクリは歴史上のヒーローと共にマイクリワールドの制覇を目指すブロックチェーンRPGゲームです。\nブロックチェーンゲームとして世界No.1のユーザー数、トランザクション数 (※) を記録しています。\n※2019/8/21時点 出典: DappRadar (https://dappradar.com)"
     },
     "features": {
       "gameplay": "ゲームプレイ",
@@ -180,7 +181,12 @@
       "eventNode": "イベントノード",
       "newVersionRelease": "新バージョン公開",
       "newSeasonStart": "ランド新シーズン開始",
-      "repHeroSale": "レプリカヒーロー新シーズンスタート"
+      "repHeroSale": "レプリカヒーロー新シーズンスタート",
+      "gumCampaign": "{name}キャンペーン",
+      "kingDragon": {
+        "qualifying": "キングドラゴン: 予選{time}",
+        "final": "キングドラゴン: 決勝"
+      }
     },
     "readMore": "もっと読む",
     "assets": "マイアセット",
@@ -625,7 +631,9 @@
         "comment": "受け取りまでイーサリアムネットワークの混雑状況により数分から数十分かかる場合がございます。",
         "wallet": "Airdropを行うにはETH対応のウォレットが必要です"
       },
-      "gumgumup": "GUMGUMUPキャンペーン中! 20%増量&34人に1人即全額バック!",
+      "gumgumup": "GUM GUM UP キャンペーン中! 20%増量&34人に1人即全額バック!",
+      "gumgum": "GUM GUM キャンペーン中! 34人に1人即全額バック!",
+      "gumup": "GUM UP キャンペーン中! 20%増量!",
       "dailyActionTerm": "毎日 {hour} にリセット",
       "prime": {
         "about": {
@@ -643,7 +651,8 @@
             "TOKUトレジャーの追加ボーナス",
             "TOKUトレジャー一括取得",
             "CE自動奉納",
-            "クエスト用チームテンプレートの利用"
+            "クエスト用チームテンプレートの利用",
+            "ノービスヒーロー「孫尚香」プレゼント（まだお持ちでない方のみ対象／2020年1月31日まで）"
           ],
           "dailybonus1": "- 1日1回利用可能 (毎日 {hour} にリセット)",
           "dailybonus2": "- 35GUM (100人に1人300GUM!!)",
@@ -1076,6 +1085,11 @@
       "players": "参加者",
       "on": "あり",
       "off": "なし"
+    },
+    "campaign": {
+      "title": "Trial Legendary Replica キャンペーン中",
+      "mediumUrl": "https://medium.com/mycryptoheroes/20191227-legendaryc-ja-b2124a50c886",
+      "description": "試用期間: 12月20日(金)9:30頃 ~ 12月26日(木)15:00頃"
     }
   },
   "raid": {
@@ -1146,6 +1160,48 @@
     "ranking": "ウィークリーランキング",
     "recent": "最近のアート",
     "registerAsMyArt": "マイアートへの登録"
+  },
+  "colosseum": {
+    "class": "レイヤー",
+    "term": "ターム",
+    "qualifier": "予選",
+    "main": "本戦",
+    "grouping": "グルーピング",
+    "battle": "バトル",
+    "result": "結果",
+    "currentPeriod": "現在の状態",
+    "schedule": "日程表",
+    "ranking": "ランキング",
+    "highestWins": "最高勝利数",
+    "currentChallenge": "現在の戦績",
+    "life": "ライフ",
+    "challengeTickets": "挑戦券",
+    "wins": "勝利数",
+    "loses": "敗北数",
+    "rating": "レーティング",
+    "teams": "チーム",
+    "offenseTeam": "攻撃チーム",
+    "defenseTeam": "防御チーム",
+    "history": "対戦履歴",
+    "offense": "攻撃",
+    "defense": "防御",
+    "teamEdit": "チーム編集",
+    "challengeAgainWithATicket": "挑戦券を使って再挑戦",
+    "more": "もっと見る",
+    "entry": "エントリー",
+    "selectHeroes": "ヒーロー選択",
+    "colosseumSchedule": "コロシアムスケジュール",
+    "ratingChart": "レーティングの推移",
+    "unclosedMatch": {
+      "text": "マッチ画面から離脱されたため前回のバトルは自動で行われました。観戦しますか？",
+      "watch": "観戦する",
+      "dontWatch": "キャンセル"
+    },
+    "preEntry": "事前エントリー受付中",
+    "godBlessed": "天啓",
+    "exhaustion": "疲弊",
+    "morale": "士気",
+    "layerReserved": "次のグルーピングまでお待ち下さい"
   },
   "lordRewards": {
     "balance": "引出可能数：",

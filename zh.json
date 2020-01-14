@@ -39,6 +39,7 @@
     "market": "市场",
     "prime": "MCH Prime",
     "land": "Land",
+    "colosseum": "Colosseum Beta",
     "help": "帮助",
     "terms": "服务条款",
     "scta": "Notation based on Specified Commercial Transaction Act",
@@ -83,7 +84,7 @@
         "What is",
         "My Crypto Heroes?"
       ],
-      "body": "My Crypto Heroes is an RPG battle game that is built on the Ethereum blockchain. Play with historical inspired heroes, go on quests to find rare items, and battle against other players for rewards and fame.\nWe are the world’s No.1 blockchain game, based on Daily Active Users, and Transactions. ※ as of August 21st 2019 from DappRadar(https://dappradar.com)"
+      "body": "My Crypto Heroes is an RPG battle game that is built on the Ethereum blockchain. Play with historical inspired heroes, go on quests to find rare items, and battle against other players for rewards and fame.\nWe are the world’s No.1 blockchain game, based on Daily Active Users, and Transactions. ※ as of August 21st 2019 from DappRadar (https://dappradar.com)"
     },
     "features": {
       "gameplay": "Gameplay",
@@ -178,7 +179,12 @@
       "eventNode": "Event Node",
       "newVersionRelease": "New Version Release",
       "newSeasonStart": "Land New Season Start",
-      "repHeroSale": "Replica Hero New Season Start"
+      "repHeroSale": "Replica Hero New Season Start",
+      "gumCampaign": "{name} Campaign",
+      "kingDragon": {
+        "qualifying": "King Dragon: Qualifying{time}",
+        "final": "King Dragon: Final"
+      }
     },
     "readMore": "Read More",
     "assets": "My Assets",
@@ -619,7 +625,9 @@
         "comment": "根据以太网的连接情况，可能需要数分钟才能收到物品",
         "wallet": "你需要安装Ethereum Wallet来使用空投"
       },
-      "gumgumup": "GUMGUMUP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
+      "gumgumup": "GUM GUM UP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
+      "gumgum": "GUM GUM campaign now! 1 in 34 ETH back!!",
+      "gumup": "GUM UP campaign now! 20% Extra GUM!!",
       "dailyActionTerm": "Reset at {hour} every day",
       "prime": {
         "about": {
@@ -633,11 +641,12 @@
             "Revive teams in quests",
             "Limited quests for Prime users",
             "Extra features in arena",
-            "Free Replica Hero every month.",
+            "Free replica hero every month you continue prime (before it's expired)",
             "Extra Bonus for TOKU Treasures",
             "Receiving acquirable Toku Treasures in a lump",
             "CE auto dedication",
-            "Increase quest team templates from 0 to 6"
+            "Increase quest team templates from 0 to 6",
+            "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet / until January 31, 2020)"
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
           "dailybonus2": "- 35GUM, 1% to get 300GUM",
@@ -1069,6 +1078,11 @@
       "players": "Players",
       "on": "On",
       "off": "Off"
+    },
+    "campaign": {
+      "title": "Trial Legendary Replica campaign in progress",
+      "mediumUrl": "https://medium.com/mycryptoheroes/announcement-new-year-legendary-campaign-4780b8d60e52",
+      "description": "Trial period: December 20 (Friday) around 9:30 ~ December 26 (Thursday) around 15:00"
     }
   },
   "raid": {
@@ -1139,6 +1153,48 @@
     "ranking": "Weekly Ranking",
     "recent": "Recent Arts",
     "registerAsMyArt": "Register as My Art"
+  },
+  "colosseum": {
+    "class": "Layer",
+    "term": "Term",
+    "qualifier": "Qualifier",
+    "main": "Main",
+    "grouping": "Grouping",
+    "battle": "Battle",
+    "result": "Result",
+    "currentPeriod": "Current Period",
+    "schedule": "Schedule",
+    "ranking": "Ranking",
+    "highestWins": "Highest Wins",
+    "currentChallenge": "Current Challenge",
+    "life": "Life",
+    "challengeTickets": "Challenge Tickets",
+    "wins": "Wins",
+    "loses": "Loses",
+    "rating": "Rating",
+    "teams": "Teams",
+    "offenseTeam": "Offense Team",
+    "defenseTeam": "Defense Team",
+    "history": "History",
+    "offense": "Offense",
+    "defense": "Defense",
+    "teamEdit": "Team Edit",
+    "challengeAgainWithATicket": "Challenge Again with a Ticket",
+    "more": "More",
+    "entry": "Entry",
+    "selectHeroes": "Select Heroes",
+    "colosseumSchedule": "Colosseum Schedule",
+    "ratingChart": "Rating Chart",
+    "unclosedMatch": {
+      "text": "The last battle was performed automatically because you left the match screen. Do you watch the battle?",
+      "watch": "Watch",
+      "dontWatch": "Don't watch"
+    },
+    "preEntry": "Pre-registration accepted",
+    "godBlessed": "God Blessed",
+    "exhaustion": "Exhaustion",
+    "morale": "Morale",
+    "layerReserved": "Please wait until the next grouping"
   },
   "lordRewards": {
     "balance": "Withdrawable：",
