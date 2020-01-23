@@ -1268,7 +1268,11 @@
     "34": "MCH Prime has been updated and received {0}.",
     "35": "Referral campaign! You received {0} ETH.",
     "36": "The Arena '{0}' has finished!",
-    "37": "The Arena '{0}' has been cancelled."
+    "37": "The Arena '{0}' has been cancelled.",
+    "38": "Congrats for winning!! Closseum 1st place prize. You received {0}.",
+    "39": "Awesome!! Colosseum 2nd place prize. You received {0}.",
+    "40": "You did it! Colosseum 3rd place prize. You received {0}.",
+    "41": "Colosseum prize. You received {0}."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
@@ -1513,7 +1517,11 @@
     "131": "King Dragon: 1st",
     "132": "King Dragon: 2nd",
     "133": "King Dragon: 3rd",
-    "134": "King Dragon: 4th"
+    "134": "King Dragon: 4th",
+    "141": "raid:Singularity: Pluto 1st",
+    "142": "raid:Singularity: Pluto 2nd",
+    "143": "raid:Singularity: Pluto 3rd",
+    "144": "raid:Singularity: Pluto Last Attack"
   },
   "twitter": {
     "hero": "My Crypto Heroes",
