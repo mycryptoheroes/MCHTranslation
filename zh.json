@@ -18,10 +18,16 @@
     "change": "Change",
     "confirm": "Confirm",
     "result": "Result",
+    "interrupte": "Interrupte",
+    "next": "Next",
     "public": "Public",
     "private": "Private",
     "all": "ALL",
-    "none": "NONE"
+    "none": "NONE",
+    "hero": "Hero",
+    "heroes": "Heroes",
+    "extension": "Extension",
+    "extensions": "Extensions"
   },
   "pages": {
     "home": "主页",
@@ -1195,6 +1201,38 @@
     "exhaustion": "Exhaustion",
     "morale": "Morale",
     "layerReserved": "Please wait until the next grouping"
+  },
+  "deepNode": {
+    "myPoint": "Points of Possession",
+    "highestBlock": "Maximum Tread Block",
+    "ranking": "Ranking",
+    "team": "Team",
+    "history": "History",
+    "latestHistory": "Latest History",
+    "viewBattle": "View Battle",
+    "more": "See More",
+    "checkAsset": "Asset Usage Confirmation",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "editTeam": "Edit Team",
+    "entry": "Entry",
+    "noPoint": "You cannot enter because you do not have points.",
+    "departure": "Spend Points and start",
+    "continue": "Start over from the beginning",
+    "retry": "Spend Points and start again",
+    "noEvent": "This event is not held now.",
+    "selectHeroes": "Select Heroes",
+    "startModal": {
+      "warnings": {
+        "cost": "Consumes {necessaryPoints} point",
+        "cantEditTeam": "Once you start, you cannot edit your team until it is completely destroyed."
+      }
+    },
+    "battle": {
+      "confirm": "Do you want to continue to the next block?",
+      "backToTop": "Return to Node: Blockchain top screen",
+      "goNext": "Go to next block"
+    }
   },
   "lordRewards": {
     "balance": "Withdrawable：",

@@ -17,11 +17,17 @@
     "back": "戻る",
     "change": "変更する",
     "confirm": "確認する",
+    "interrupte": "中断する",
+    "next": "次へ",
     "result": "結果",
     "public": "公開",
     "private": "非公開",
     "all": "すべて",
-    "none": "なし"
+    "none": "なし",
+    "hero": "ヒーロー",
+    "heroes": "ヒーロー",
+    "extension": "エクステンション",
+    "extensions": "エクステンション"
   },
   "pages": {
     "home": "ホーム",
@@ -1202,6 +1208,38 @@
     "exhaustion": "疲弊",
     "morale": "士気",
     "layerReserved": "次のグルーピングまでお待ち下さい"
+  },
+  "deepNode": {
+    "myPoint": "所持ポイント",
+    "highestBlock": "最大踏破ブロック",
+    "ranking": "ランキング",
+    "team": "チーム",
+    "history": "戦歴",
+    "latestHistory": "直近の戦歴",
+    "viewBattle": "バトルへ",
+    "more": "もっと見る",
+    "checkAsset": "アセット使用確認",
+    "available": "使用可能",
+    "unavailable": "使用不可",
+    "editTeam": "チーム編集",
+    "entry": "エントリー",
+    "noPoint": "所持ポイントが無いためエントリーできません",
+    "departure": "WPを消費して出発",
+    "continue": "続きから再出発",
+    "retry": "WPを消費して再出発",
+    "noEvent": "このイベントは現在開催していません",
+    "selectHeroes": "ヒーロー選択",
+    "startModal": {
+      "warnings": {
+        "cost": "WPポイントを {necessaryPoints} ポイント消費します",
+        "cantEditTeam": "一度出発すると全滅するまでチーム編集はできません"
+      }
+    },
+    "battle": {
+      "confirm": "このまま次のブロックに進みますか？",
+      "backToTop": "Node: Blockchain トップ画面へ戻ります",
+      "goNext": "次のブロックへ進む"
+    }
   },
   "lordRewards": {
     "balance": "引出可能数：",
