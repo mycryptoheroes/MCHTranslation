@@ -886,7 +886,8 @@
       "dedicatedCE": "CEを奉納",
       "gainedTOKU": "TOKUを獲得",
       "primeRecommend": "MCHプライム加入で最大レベルのアセットが獲得したCEを自動的にクリプタイドへ奉納できます"
-    }
+    },
+    "comingSoon": "Notice: New Land Nodes will launch soon."
   },
   "walletModal": {
     "1": "ブロックチェーンゲーム用ブラウザエクステンションをインストールしてください。",
