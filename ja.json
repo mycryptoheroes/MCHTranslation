@@ -1126,6 +1126,7 @@
     "cancelSellingTitle": "出品取消",
     "cancelSelling": "このアートの出品を取り消す",
     "confirmCancelSelling": "このアートの出品を取り消してよいですか？",
+    "confirmBuying": "このアートを購入しますか？購入したアートは、マイアート一覧にストックされます。",
     "reportButton": "著作権を主張する",
     "reportModal": {
       "text": "主張の根拠となるあなたのアートを選択してください。",

@@ -1122,6 +1122,7 @@
     "cancelSellingTitle": "Cancel Selling",
     "cancelSelling": "Cancel Selling This Art",
     "confirmCancelSelling": "Are you sure to cancel selling this art?",
+    "confirmBuying": "Buy this art? Purchased art will be stocked in my art list",
     "reportButton": "Report stolen art",
     "reportModal": {
       "text": "To prove that you are the owner of the stolen art, please choose your original art below.",
