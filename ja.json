@@ -159,7 +159,9 @@
     "signIn": "サインイン",
     "signInWithWallet": "イーサリアムでサインイン",
     "install": "ウォレットブラウザをインストールしてください",
-    "trialPlay": "トライアルプレイ"
+    "trialPlay": "トライアルプレイ",
+    "signInWithGoogle": "Googleでアカウントを作成済みの方はこちら",
+    "signInWithGoogleWarning": "※新規登録は停止しました"
   },
   "others": {
     "other": "その他"
