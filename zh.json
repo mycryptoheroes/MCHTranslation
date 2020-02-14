@@ -157,7 +157,9 @@
     "signIn": "Sign In",
     "signInWithWallet": "Sign in with wallet",
     "install": "Please install a wallet to continue:",
-    "trialPlay": "Trial Play"
+    "trialPlay": "Trial Play",
+    "signInWithGoogle": "If you've created an account on Google, click here.",
+    "signInWithGoogleWarning": "* New registration has been stopped"
   },
   "others": {
     "other": "其他"
