@@ -1361,10 +1361,9 @@
       "title1": "What is Land?",
       "title2": "Let's join the Land!",
       "title3": "How to join Land?",
-      "about": "Land is like country or guild in MCH, and you can join only one land out of nine.You can try quest in land node, land battle and get profit by Cryptid, which is the Guardian of each lands when you become a member of Land. Your heroes will become stronger with cryptid effect, which makes you easy to try higher level nodes.",
-      "community": "Most lands have their own community. The Kings or Maestros of the land are sometimes carrying out their campaigns or support beginners.You can check their discord URL from  Land message  on the land page or official discord community.",
-      "joinLand": "Anyway, let's join a Land from here",
-      "joinDiscord": "Ask me anything from here"
+      "about": "Land is like country or guild in MCH, and you can join only one land out of nine.\nYou can try quest in land node, land battle and get profit by Cryptid, which is the Guardian of each lands when you become a member of Land. Your heroes will become stronger with cryptid effect, which makes you easy to try higher level nodes.",
+      "community": "Most lands have their own community. \nThe Kings or Maestros of the land are sometimes carrying out their campaigns or support beginners.You can check their discord URL from  Land message  on the land page or official discord community.",
+      "joinLand": "Anyway, let's join a Land from here"
     },
     "gum": "GUM is the in-game currency for MCH. Heroes and extensions can be bought and sold for GUM. GUM can be purchased with ETH or redeemed with TOKU points. Additionally, if you are a Prime User, you will receive GUM as a daily bonus.",
     "toku": {
