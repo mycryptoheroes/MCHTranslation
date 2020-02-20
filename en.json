@@ -1410,6 +1410,18 @@
       "discordFollow": "Join in Discord",
       "mediumFollow": "Check the official Medium",
       "twitterFollow": "Follow official Twitter"
+    },
+    "firstQuest": {
+      "teamEditTitle": "Let’s edit your team!",
+      "teamEditBody": "“Extension” is an equipment in My Crypto Heroes.Tap “Edit”, and move to team edit page.Equip the Extension with the FRONT hero this time.Tap“FRONT“",
+      "extentionTitle": "Let’s equip the extension!",
+      "extentionBody": "Your heroes haven’t  equipped any extensions yet.Tap bare Hand icon, and equip your extension!",
+      "skillTitle": "Check skills",
+      "skillBody": "You finished equipping the extension.Please scroll down, check the new skill “Protection” instead of “Hit”.*The skill is changed depending on the  extension you equip.",
+      "questTitle": "Go to quest again!",
+      "questBody": "You can see the special skill like “Protection”.Try out quests to get 6 extensions to let your heroes fully equipped!",
+      "lastTitle": "Let’s aim for getting “Original Extension”. When  your heroes become stronger, more chance get that.",
+      "lastBody": "If you have any questions, you can check the information at the Tutrial on Home.There are a lot of contents you can enjoy in My Crypto Heroes.Hope you’ll have a good time here!Also, we recommend you to join the community in Discord to chat with other players and devs!"
     }
   },
   "tutorial": {
