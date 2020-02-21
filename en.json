@@ -1335,6 +1335,8 @@
     "title": "Tutorials",
     "extensions": {
       "title": "Extension",
+      "extensionTitle": "Extensions",
+      "extensionBody": "Extensions are weapons in My Crypto heroes. Up to two heroes can be equipped per hero, hero status is enhanced, and special skills can be activated.",
       "originalTitle": "Original Extensions",
       "originalBody": "Original Extensions are one of two extension types found in MCH. They are Blockchain NFT digital assets which can be traded for GUM or for ETH on third party exchanges like OpenSea. Like Heroes, they can increase in level and range in rarity from common to legendary. Each NFT is limited in their capacity, dependent on their rarity.",
       "replicaTitle": "Replica Extensions",
