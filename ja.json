@@ -1415,6 +1415,10 @@
       "mediumFollow": "マイクリ公式Mediumを確認する",
       "twitterFollow": "マイクリ公式をフォローする"
     },
+    "firstEntry": {
+      "title": "My Crypto Heroesへようこそ！",
+      "body": "まずは初心者クエスト「Abacus」にトライしてみよう！"
+    },
     "firstQuest": {
       "teamEditTitle": "チーム編集をしてみよう！",
       "teamEditBody": "獲得した「エクステンション」と呼ばれるものは、マイクリワールドにおける武器です。[Edit]をタップしてチーム編集画面へ。今回は前衛のヒーローに装備させてみよう！[Front]をタップ！",

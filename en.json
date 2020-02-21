@@ -1411,6 +1411,10 @@
       "mediumFollow": "Check the official Medium",
       "twitterFollow": "Follow official Twitter"
     },
+    "firstEntry": {
+      "title": "Welome to My Crypto Heroes",
+      "body": "First, try the beginner quest “Abucus“"
+    },
     "firstQuest": {
       "teamEditTitle": "Let’s edit your team!",
       "teamEditBody": "“Extension” is an equipment in My Crypto Heroes.Tap “Edit”, and move to team edit page.Equip the Extension with the FRONT hero this time.Tap“FRONT“",
