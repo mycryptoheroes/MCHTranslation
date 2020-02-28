@@ -1041,6 +1041,7 @@
       "title": "アリーナ名",
       "titleWarning": "4文字以上入力してください",
       "titlePlaceholder": "第1回マイクリカップ",
+      "hostedBy": "主催者",
       "description": "アリーナ説明",
       "battleType": "バトルタイプ",
       "visibility": "公開/非公開",

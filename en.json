@@ -1037,6 +1037,7 @@
       "title": "Arena Title",
       "titleWarning": "Please enter at least 4 characters",
       "titlePlaceholder": "Shinjuku Smash",
+      "hostedBy": "Hosted By",
       "description": "Arena Description",
       "battleType": "Battle Type",
       "visibility": "Arena Visibility",
