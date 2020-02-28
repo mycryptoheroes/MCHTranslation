@@ -1019,7 +1019,7 @@
     "copiedTextFailed": "copied to Clipboard!",
     "arenaView": {
       "noDescription": "No description",
-      "dragAndDrop": "Drag and drop the move icon to change the order.",
+      "dragAndDrop": "Drag and drop the move icon to change the order.Competing teams are displayed in order of ID and the order is unknown.",
       "movedToIce": "Moved Team Fire's player 6 to Team Ice",
       "movedToFire": "Moved Team Ice's player 6 to Team Fire",
       "cannotBeEmpty": "Teams cannot be empty",

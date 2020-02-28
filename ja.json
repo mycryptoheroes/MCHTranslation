@@ -1023,7 +1023,7 @@
     "copiedTextFailed": "コピーしました",
     "arenaView": {
       "noDescription": "説明はありません。",
-      "dragAndDrop": "ドラッグ＆ドロップして順番を変更することができます。",
+      "dragAndDrop": "ドラッグ＆ドロップして順番を変更することができます。(相手チームはID順で表示され順番が分かりません)",
       "movedToIce": "炎チームのプレイヤー６を氷チームに移動させます。",
       "movedToFire": "氷チームのプレイヤー６を炎チームへ移動させます。",
       "cannotBeEmpty": "チームを空にする事は出来ません",
