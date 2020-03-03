@@ -670,7 +670,7 @@
             "Receiving acquirable Toku Treasures in a lump",
             "CE auto dedication",
             "Increase quest team templates from 0 to 6",
-            "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet / until UTC 0:00 March 2, 2020)"
+            "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet / until UTC 0:00 March 30, 2020)"
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
           "dailybonus2": "- 35GUM, 1% to get 300GUM",
@@ -790,6 +790,9 @@
         "trading": "Trading",
         "justListed": "Just Listed"
       },
+      "lv": {
+        "lvMax": "Only Lv Max"
+      },
       "filter": {
         "filter": "Filter",
         "assetType": "Asset Type",
@@ -801,6 +804,7 @@
         "heroStar": "Show Favorites",
         "extensionStar": "Show Favorites",
         "rarity": "Rarity",
+        "lv": "Level",
         "clear": "Clear",
         "search": "Search"
       },
@@ -1031,7 +1035,7 @@
     "copiedTextFailed": "copied to Clipboard!",
     "arenaView": {
       "noDescription": "No description",
-      "dragAndDrop": "Drag and drop the move icon to change the order.",
+      "dragAndDrop": "Drag and drop the move icon to change the order.Competing teams are displayed in order of ID and the order is unknown.",
       "movedToIce": "Moved Team Fire's player 6 to Team Ice",
       "movedToFire": "Moved Team Ice's player 6 to Team Fire",
       "cannotBeEmpty": "Teams cannot be empty",
@@ -1049,6 +1053,7 @@
       "title": "Arena Title",
       "titleWarning": "Please enter at least 4 characters",
       "titlePlaceholder": "Shinjuku Smash",
+      "hostedBy": "Hosted By",
       "description": "Arena Description",
       "battleType": "Battle Type",
       "visibility": "Arena Visibility",
@@ -1347,6 +1352,8 @@
     "title": "Tutorials",
     "extensions": {
       "title": "Extension",
+      "extensionTitle": "Extensions",
+      "extensionBody": "Extensions are weapons in My Crypto heroes. Up to two heroes can be equipped per hero, hero status is enhanced, and special skills can be activated.",
       "originalTitle": "Original Extensions",
       "originalBody": "Original Extensions are one of two extension types found in MCH. They are Blockchain NFT digital assets which can be traded for GUM or for ETH on third party exchanges like OpenSea. Like Heroes, they can increase in level and range in rarity from common to legendary. Each NFT is limited in their capacity, dependent on their rarity.",
       "replicaTitle": "Replica Extensions",
@@ -1422,6 +1429,22 @@
       "discordFollow": "Join in Discord",
       "mediumFollow": "Check the official Medium",
       "twitterFollow": "Follow official Twitter"
+    },
+    "firstEntry": {
+      "title": "Welome to My Crypto Heroes",
+      "body": "First, try the beginner quest “Abucus“"
+    },
+    "firstQuest": {
+      "teamEditTitle": "Let’s edit your team!",
+      "teamEditBody": "“Extension” is an equipment in My Crypto Heroes.Tap “Edit”, and move to team edit page.Equip the Extension with the FRONT hero this time.Tap“FRONT“",
+      "extentionTitle": "Let’s equip the extension!",
+      "extentionBody": "Your heroes haven’t  equipped any extensions yet.Tap bare Hand icon, and equip your extension!",
+      "skillTitle": "Check skills",
+      "skillBody": "You finished equipping the extension.Please scroll down, check the new skill “Protection” instead of “Hit”.*The skill is changed depending on the  extension you equip.",
+      "questTitle": "Go to quest again!",
+      "questBody": "You can see the special skill like “Protection”.Try out quests to get 6 extensions to let your heroes fully equipped!",
+      "lastTitle": "Let’s aim for getting “Original Extension”. When  your heroes become stronger, more chance get that.",
+      "lastBody": "If you have any questions, you can check the information at the Tutrial on Home.There are a lot of contents you can enjoy in My Crypto Heroes.Hope you’ll have a good time here!Also, we recommend you to join the community in Discord to chat with other players and devs!"
     }
   },
   "tutorial": {
