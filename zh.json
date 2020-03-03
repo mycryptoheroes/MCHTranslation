@@ -1365,7 +1365,7 @@
       "title": "Rarity & Level",
       "replica": "Data in Game(not blockchain). Are copies of original assets. They cannot be traded, sold, or leveled up. Find their ranges here.",
       "novice": "Data in Game(not blockchain). They can neither be traded nor sold. They are the lowest of all rarities but can still be quite powerful.",
-      "common": "NFT in Blockchain. Can be traded and sold. Their level is capped at 60. Hero stamina is capped at 168.",
+      "common": "NFT in Blockchain. Can be traded and sold. Their level is capped at 60. Hero stamina is capped at 158.",
       "uncommon": "NFT in Blockchain. Can be traded and sold. Their level is capped at 70. Hero stamina is capped at 178.",
       "rare": "NFT in Blockchain. Can be traded and sold. Their level is capped at 80. Hero stamina is capped at 208.",
       "epic": "NFT in Blockchain. Can be traded and sold. Their level is capped at 90. Hero stamina is capped at 248.",
