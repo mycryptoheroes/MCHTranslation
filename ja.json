@@ -12,6 +12,7 @@
     },
     "errorMessage": "ブラウザの再読込をお試しください",
     "condition": "発動条件",
+    "ok": "OK",
     "cancel": "キャンセル",
     "close": "閉じる",
     "back": "戻る",
@@ -27,7 +28,10 @@
     "hero": "ヒーロー",
     "heroes": "ヒーロー",
     "extension": "エクステンション",
-    "extensions": "エクステンション"
+    "extensions": "エクステンション",
+    "art": "アート",
+    "arts": "アート",
+    "confirmMessage": "よろしいですか？"
   },
   "pages": {
     "home": "ホーム",
@@ -303,6 +307,14 @@
       "confirm2": "一度実行するとパラメータ傾向を元に戻せません。",
       "again": "もう一回",
       "button": "{ce} CE消費して実行"
+    },
+    "CEDeposit": {
+      "title": "CEバレルに注入",
+      "warnings": {
+        "ce": "{ce} CEをCEバレルに注入します。",
+        "original": "このエクステンションはレベルが1になります。",
+        "replica": "このエクステンションは消滅します。"
+      }
     }
   },
   "battle": {

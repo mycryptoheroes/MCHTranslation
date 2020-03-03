@@ -12,6 +12,7 @@
     },
     "errorMessage": "请尝试刷新",
     "condition": "Condition",
+    "ok": "OK",
     "cancel": "Cancel",
     "close": "Close",
     "back": "Back",
@@ -27,7 +28,10 @@
     "hero": "Hero",
     "heroes": "Heroes",
     "extension": "Extension",
-    "extensions": "Extensions"
+    "extensions": "Extensions",
+    "art": "Art",
+    "arts": "Arts",
+    "confirmMessage": "Are you sure?"
   },
   "pages": {
     "home": "主页",
@@ -301,6 +305,14 @@
       "confirm2": "Once you execute this, you can never get back previous parameter growth trend",
       "again": "Try Again",
       "button": "Consume {ce} CE and change trend"
+    },
+    "CEDeposit": {
+      "title": "Inject into the CE barrel",
+      "warnings": {
+        "ce": "Inject {ce} CE into the CE barrel.",
+        "original": "This extension will be at level 1.",
+        "replica": "This extension will disappear."
+      }
     }
   },
   "battle": {
