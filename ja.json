@@ -781,6 +781,9 @@
         "trading": "出品中",
         "justListed": "準備中"
       },
+      "lv": {
+        "lvMax": "Lv Maxのみ"
+      },
       "filter": {
         "filter": "絞り込み",
         "assetType": "アセットタイプ",

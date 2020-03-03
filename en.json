@@ -778,6 +778,9 @@
         "trading": "Trading",
         "justListed": "Just Listed"
       },
+      "lv": {
+        "lvMax": "Only Lv Max"
+      },
       "filter": {
         "filter": "Filter",
         "assetType": "Asset Type",
