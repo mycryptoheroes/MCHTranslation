@@ -792,6 +792,7 @@
         "heroStar": "Show Favorites",
         "extensionStar": "Show Favorites",
         "rarity": "Rarity",
+        "lv": "Level",
         "clear": "Clear",
         "search": "Search"
       },
