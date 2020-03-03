@@ -306,7 +306,7 @@
       "again": "Try Again",
       "button": "Consume {ce} CE and change trend"
     },
-    "CEDeposit": {
+    "ceDeposit": {
       "title": "Inject into the CE barrel",
       "warnings": {
         "ce": "Inject {ce} CE into the CE barrel.",

@@ -308,7 +308,7 @@
       "again": "もう一回",
       "button": "{ce} CE消費して実行"
     },
-    "CEDeposit": {
+    "ceDeposit": {
       "title": "CEバレルに注入",
       "warnings": {
         "ce": "{ce} CEをCEバレルに注入します。",
