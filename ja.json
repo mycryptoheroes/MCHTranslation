@@ -241,6 +241,15 @@
     "shareText": "ゲームにかけた時間もお金も情熱も、あなたの資産となる世界 #MyCryptoHeores 日本発の本格的ブロックチェーンRPG！仮想通貨なしウォレットなしでプレイできます。",
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーローもらえる！"
   },
+  "assets": {
+    "ceDeposit": {
+      "title": "CEバレルに注入",
+      "warnings": {
+        "ce": "{ce} CEをCEバレルに注入します。",
+        "replica": "これらのエクステンションは消滅します。"
+      }
+    }
+  },
   "assetId": {
     "arts": {
       "artOfHero": "このヒーローのアート",

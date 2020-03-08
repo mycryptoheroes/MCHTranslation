@@ -239,6 +239,15 @@
     "shareText": "#MyCryptoHeroes 在这里，你付出的所有的时间、热情，都会成为你真正的财富，你无需虚拟通货或者钱包即可加入日本“blockchain RPG”，并在此享受乐趣！‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
   },
+  "assets": {
+    "ceDeposit": {
+      "title": "Inject into the CE barrel",
+      "warnings": {
+        "ce": "Inject {ce} CE into the CE barrel.",
+        "replica": "These extensions will disappear."
+      }
+    }
+  },
   "assetId": {
     "arts": {
       "artOfHero": "Art of this hero",

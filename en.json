@@ -239,6 +239,15 @@
     "shareText": "#MyCryptoHeroes, Your time and passion will become assets. ‪Join Japanese authentic “blockchain RPG” which can be played without cryptocurrency, and even wallets!!‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
   },
+  "assets": {
+    "ceDeposit": {
+      "title": "Inject into the CE barrel",
+      "warnings": {
+        "ce": "Inject {ce} CE into the CE barrel.",
+        "replica": "These extensions will disappear."
+      }
+    }
+  },
   "assetId": {
     "arts": {
       "artOfHero": "Art of this hero",
