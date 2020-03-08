@@ -556,9 +556,9 @@
     "buyCe": "Buy CE to Heroes",
     "absorb": "Absorb Extensions",
     "barrel": {
-      "CE Barrle": "CE Barrle",
-      "Dedicate from CE Barrel": "Dedicate from CE Barrel",
-      "Enter the CE you wish to dedicate from the CE barrel": "Enter the CE you wish to dedicate from the CE barrel."
+      "title": "CE Barrle",
+      "modalTitle": "Dedicate from CE Barrel",
+      "text": "Enter the CE you wish to dedicate from the CE barrel."
     }
   },
   "dedicate": {
