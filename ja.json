@@ -29,9 +29,15 @@
     "heroes": "ヒーロー",
     "extension": "エクステンション",
     "extensions": "エクステンション",
+    "landSector": "ランドセクター",
+    "landSectors": "ランドセクター",
     "art": "アート",
     "arts": "アート",
-    "confirmMessage": "よろしいですか？"
+    "confirmMessage": "よろしいですか？",
+    "original": "オリジナル",
+    "replica": "レプリカ",
+    "mchWorld": "MCHワールド",
+    "ethereumNetwork": "イーサリアムネットワーク"
   },
   "pages": {
     "home": "ホーム",

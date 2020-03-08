@@ -29,9 +29,15 @@
     "heroes": "Heroes",
     "extension": "Extension",
     "extensions": "Extensions",
+    "landSector": "Land Sector",
+    "landSectors": "Land Sectors",
     "art": "Art",
     "arts": "Arts",
-    "confirmMessage": "Are you sure?"
+    "confirmMessage": "Are you sure?",
+    "original": "Original",
+    "replica": "Replica",
+    "mchWorld": "MCH World",
+    "ethereumNetwork": "Ethereum Network"
   },
   "pages": {
     "home": "主页",
