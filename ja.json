@@ -246,6 +246,7 @@
   "assets": {
     "ceDeposit": {
       "title": "CEバレルに注入",
+      "button": "{ce} CEをCEバレルに注入",
       "warnings": {
         "ce": "{ce} CEをCEバレルに注入します。",
         "replica": "これらのエクステンションは消滅します。"

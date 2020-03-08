@@ -244,6 +244,7 @@
   "assets": {
     "ceDeposit": {
       "title": "Inject into the CE barrel",
+      "button": "Inject {ce} CE into the CE barrel",
       "warnings": {
         "ce": "Inject {ce} CE into the CE barrel.",
         "replica": "These extensions will disappear."
