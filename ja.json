@@ -564,7 +564,8 @@
     "barrel": {
       "title": "CEバレル",
       "modalTitle": "CEバレルからの奉納",
-      "text": "CEバレルから奉納するCEを入力してください。"
+      "text": "CEバレルから奉納するCEを入力してください。",
+      "confirm": "CEバレルから {ce} CEをクリプタイドへ奉納します。よろしいですか？"
     }
   },
   "dedicate": {
