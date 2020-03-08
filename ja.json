@@ -560,7 +560,12 @@
     "nieRanking": "NIEランキング",
     "dedicate": "奉納",
     "buyCe": "ヒーローの強化",
-    "absorb": "エクステンションの強化"
+    "absorb": "エクステンションの強化",
+    "barrel": {
+      "CE Barrle": "CEバレル",
+      "Dedicate from CE Barrel": "CEバレルからの奉納",
+      "Enter the CE you wish to dedicate from the CE barrel": "CEバレルから奉納するCEを入力してください。"
+    }
   },
   "dedicate": {
     "dedicateCe": "CEの奉納",

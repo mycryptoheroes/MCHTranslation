@@ -554,7 +554,12 @@
     "nieRanking": "NIE Ranking",
     "dedicate": "dedicate",
     "buyCe": "Buy CE to Heroes",
-    "absorb": "Absorb Extensions"
+    "absorb": "Absorb Extensions",
+    "barrel": {
+      "CE Barrle": "CE Barrle",
+      "Dedicate from CE Barrel": "Dedicate from CE Barrel",
+      "Enter the CE you wish to dedicate from the CE barrel": "Enter the CE you wish to dedicate from the CE barrel."
+    }
   },
   "dedicate": {
     "dedicateCe": "Dedicate Crypto Energy",
