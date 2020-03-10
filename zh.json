@@ -1245,8 +1245,8 @@
       "button": "Use {ce) CE to battle",
       "modal": {
         "warning": {
-          "ce": "{ce} CEをCEバレルから消費します。",
-          "soon": "すぐに対戦相手のマッチングが行われます。"
+          "ce": "Consumes {ce} CE from your CE barrel.",
+          "soon": "The opponent is matched immediately."
         }
       }
     }
