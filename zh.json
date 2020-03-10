@@ -19,6 +19,7 @@
     "change": "Change",
     "confirm": "Confirm",
     "result": "Result",
+    "confirmation": "Confirmation",
     "interrupte": "Interrupte",
     "select": "Select",
     "selectAll": "Select All",
@@ -1239,7 +1240,16 @@
     "godBlessed": "God Blessed",
     "exhaustion": "Exhaustion",
     "morale": "Morale",
-    "layerReserved": "Please wait until the next grouping"
+    "layerReserved": "Please wait until the next grouping",
+    "attempt": {
+      "button": "Use {ce) CE to battle",
+      "modal": {
+        "warning": {
+          "ce": "{ce} CEをCEバレルから消費します。",
+          "soon": "すぐに対戦相手のマッチングが行われます。"
+        }
+      }
+    }
   },
   "deepNode": {
     "myPoint": "Points of Possession",

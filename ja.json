@@ -23,6 +23,7 @@
     "selectAll": "全て選択",
     "next": "次へ",
     "result": "結果",
+    "confirmation": "確認",
     "public": "公開",
     "private": "非公開",
     "all": "すべて",
@@ -1254,7 +1255,16 @@
     "godBlessed": "天啓",
     "exhaustion": "疲弊",
     "morale": "士気",
-    "layerReserved": "次のグルーピングまでお待ち下さい"
+    "layerReserved": "次のグルーピングまでお待ち下さい",
+    "attempt": {
+      "button": "Use {ce) CE to battle",
+      "modal": {
+        "warning": {
+          "ce": "{ce} CEをCEバレルから消費します。",
+          "soon": "すぐに対戦相手のマッチングが行われます。"
+        }
+      }
+    }
   },
   "deepNode": {
     "myPoint": "所持ポイント",
