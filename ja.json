@@ -1257,7 +1257,7 @@
     "morale": "士気",
     "layerReserved": "次のグルーピングまでお待ち下さい",
     "attempt": {
-      "button": "Use {ce) CE to battle",
+      "button": "{ce) CEを消費してバトル",
       "modal": {
         "warning": {
           "ce": "{ce} CEをCEバレルから消費します。",
