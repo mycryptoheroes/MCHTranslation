@@ -1294,6 +1294,12 @@
       "goNext": "Go to next block"
     }
   },
+  "barrel": {
+    "title": "CE Barrel",
+    "replenish": "Replenish",
+    "consume": "Consume",
+    "history": "History"
+  },
   "lordRewards": {
     "balance": "Withdrawable:",
     "withdrawAll": "Withdraw All Rewards",

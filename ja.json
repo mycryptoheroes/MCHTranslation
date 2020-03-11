@@ -1298,6 +1298,12 @@
       "goNext": "次のブロックへ進む"
     }
   },
+  "barrel": {
+    "title": "CEバレル",
+    "replenish": "補充する",
+    "consume": "消費する",
+    "history": "履歴"
+  },
   "lordRewards": {
     "balance": "引出可能数：",
     "withdrawAll": "全てのロード報酬を引き出す",
