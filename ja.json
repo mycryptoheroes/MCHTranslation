@@ -1257,11 +1257,10 @@
     "morale": "士気",
     "layerReserved": "次のグルーピングまでお待ち下さい",
     "attempt": {
-      "button": "{ce} CEを消費してバトル",
+      "button": "{ce} CEを消費して挑戦",
       "modal": {
         "warning": {
-          "ce": "{ce} CEをCEバレルから消費します。",
-          "soon": "すぐに対戦相手のマッチングが行われます。"
+          "ce": "{ce} CEをCEバレルから消費します。"
         }
       }
     }

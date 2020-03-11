@@ -1242,11 +1242,10 @@
     "morale": "Morale",
     "layerReserved": "Please wait until the next grouping",
     "attempt": {
-      "button": "Use {ce} CE to battle",
+      "button": "Use {ce} CE to challenge",
       "modal": {
         "warning": {
-          "ce": "Consumes {ce} CE from your CE barrel.",
-          "soon": "The opponent is matched immediately."
+          "ce": "Consumes {ce} CE from your CE barrel."
         }
       }
     }
