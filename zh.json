@@ -19,7 +19,10 @@
     "change": "Change",
     "confirm": "Confirm",
     "result": "Result",
+    "confirmation": "Confirmation",
     "interrupte": "Interrupte",
+    "select": "Select",
+    "selectAll": "Select All",
     "next": "Next",
     "public": "Public",
     "private": "Private",
@@ -29,9 +32,15 @@
     "heroes": "Heroes",
     "extension": "Extension",
     "extensions": "Extensions",
+    "landSector": "Land Sector",
+    "landSectors": "Land Sectors",
     "art": "Art",
     "arts": "Arts",
-    "confirmMessage": "Are you sure?"
+    "confirmMessage": "Are you sure?",
+    "original": "Original",
+    "replica": "Replica",
+    "mchWorld": "MCH World",
+    "ethereumNetwork": "Ethereum Network"
   },
   "pages": {
     "home": "主页",
@@ -49,7 +58,7 @@
     "market": "市场",
     "prime": "MCH Prime",
     "land": "Land",
-    "colosseum": "Colosseum Beta",
+    "colosseum": "Colosseum",
     "help": "帮助",
     "terms": "服务条款",
     "scta": "Notation based on Specified Commercial Transaction Act",
@@ -232,6 +241,16 @@
     "warning": "* \"Sign in\" by \"Normal Play with Wallet\" is necessary. In the case of \"Trial Play with Google\", \"Invitation Code\" is not displayed.",
     "shareText": "#MyCryptoHeroes 在这里，你付出的所有的时间、热情，都会成为你真正的财富，你无需虚拟通货或者钱包即可加入日本“blockchain RPG”，并在此享受乐趣！‬",
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
+  },
+  "assets": {
+    "ceDeposit": {
+      "title": "Inject into the CE barrel",
+      "button": "Inject {ce} CE into the CE barrel",
+      "warnings": {
+        "ce": "Inject {ce} CE into the CE barrel.",
+        "replica": "These extensions will disappear."
+      }
+    }
   },
   "assetId": {
     "arts": {
@@ -537,7 +556,13 @@
     "nieRanking": "NIE Ranking",
     "dedicate": "dedicate",
     "buyCe": "Buy CE to Heroes",
-    "absorb": "Absorb Extensions"
+    "absorb": "Absorb Extensions",
+    "barrel": {
+      "title": "CE Barrle",
+      "modalTitle": "Dedicate from CE Barrel",
+      "text": "Enter the CE you wish to dedicate from the CE barrel.",
+      "confirm": "Dedicate {ce} CE from the CE barrel to the cryptid. Are you sure?"
+    }
   },
   "dedicate": {
     "dedicateCe": "Dedicate Crypto Energy",
@@ -1215,7 +1240,16 @@
     "godBlessed": "God Blessed",
     "exhaustion": "Exhaustion",
     "morale": "Morale",
-    "layerReserved": "Please wait until the next grouping"
+    "layerReserved": "Please wait until the next grouping",
+    "attempt": {
+      "button": "Use {ce} CE to battle",
+      "modal": {
+        "warning": {
+          "ce": "Consumes {ce} CE from your CE barrel.",
+          "soon": "The opponent is matched immediately."
+        }
+      }
+    }
   },
   "deepNode": {
     "myPoint": "Points of Possession",

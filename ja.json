@@ -19,8 +19,11 @@
     "change": "変更する",
     "confirm": "確認する",
     "interrupte": "中断する",
+    "select": "選択",
+    "selectAll": "全て選択",
     "next": "次へ",
     "result": "結果",
+    "confirmation": "確認",
     "public": "公開",
     "private": "非公開",
     "all": "すべて",
@@ -29,9 +32,15 @@
     "heroes": "ヒーロー",
     "extension": "エクステンション",
     "extensions": "エクステンション",
+    "landSector": "ランドセクター",
+    "landSectors": "ランドセクター",
     "art": "アート",
     "arts": "アート",
-    "confirmMessage": "よろしいですか？"
+    "confirmMessage": "よろしいですか？",
+    "original": "オリジナル",
+    "replica": "レプリカ",
+    "mchWorld": "MCHワールド",
+    "ethereumNetwork": "イーサリアムネットワーク"
   },
   "pages": {
     "home": "ホーム",
@@ -49,7 +58,7 @@
     "market": "マーケット",
     "prime": "MCHプライム",
     "land": "ランド",
-    "colosseum": "コロシアムβ",
+    "colosseum": "コロシアム",
     "help": "ヘルプ",
     "terms": "利用規約",
     "scta": "特定商取引法に基づく表記",
@@ -234,6 +243,16 @@
     "warning": "※ リファラルを行うには「Walletによるサインイン（Normal Play）」が必要です。「Googleアカウントによるサインイン（Trial Play）」でプレイされている場合「招待コード (Invitation Code)」は表示されません。",
     "shareText": "ゲームにかけた時間もお金も情熱も、あなたの資産となる世界 #MyCryptoHeores 日本発の本格的ブロックチェーンRPG！仮想通貨なしウォレットなしでプレイできます。",
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーローもらえる！"
+  },
+  "assets": {
+    "ceDeposit": {
+      "title": "CEバレルに注入",
+      "button": "{ce} CEをCEバレルに注入",
+      "warnings": {
+        "ce": "{ce} CEをCEバレルに注入します。",
+        "replica": "これらのエクステンションは消滅します。"
+      }
+    }
   },
   "assetId": {
     "arts": {
@@ -543,7 +562,13 @@
     "nieRanking": "NIEランキング",
     "dedicate": "奉納",
     "buyCe": "ヒーローの強化",
-    "absorb": "エクステンションの強化"
+    "absorb": "エクステンションの強化",
+    "barrel": {
+      "title": "CEバレル",
+      "modalTitle": "CEバレルからの奉納",
+      "text": "CEバレルから奉納するCEを入力してください。",
+      "confirm": "CEバレルから {ce} CEをクリプタイドへ奉納します。よろしいですか？"
+    }
   },
   "dedicate": {
     "dedicateCe": "CEの奉納",
@@ -1231,7 +1256,16 @@
     "godBlessed": "天啓",
     "exhaustion": "疲弊",
     "morale": "士気",
-    "layerReserved": "次のグルーピングまでお待ち下さい"
+    "layerReserved": "次のグルーピングまでお待ち下さい",
+    "attempt": {
+      "button": "{ce} CEを消費してバトル",
+      "modal": {
+        "warning": {
+          "ce": "{ce} CEをCEバレルから消費します。",
+          "soon": "すぐに対戦相手のマッチングが行われます。"
+        }
+      }
+    }
   },
   "deepNode": {
     "myPoint": "所持ポイント",
