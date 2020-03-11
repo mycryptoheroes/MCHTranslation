@@ -1125,7 +1125,7 @@
     "reflectInInventory": "If there are a large number of acquisitions, it may take time to reflect in the inventory",
     "detail": "Let's join and fight with Raid Boss!\nYou can join Raid battle by consuming CE(not stamina!), but be careful to use CE because your heroes may be leveled down!"
   },
-  "artGallery": {
+  "artTrade": {
     "title": "Art Market (Beta)",
     "make": "Art",
     "register": "Sell Art",
