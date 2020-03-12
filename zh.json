@@ -334,7 +334,8 @@
       "warnings": {
         "ce": "Inject {ce} CE into the CE barrel.",
         "original": "This extension will be at level 1.",
-        "replica": "This extension will disappear."
+        "replica": "This extension will disappear.",
+        "overflow": "Anything over {threshold} CE will be automatically dedicated to the cryptide at {datetime}."
       }
     }
   },
