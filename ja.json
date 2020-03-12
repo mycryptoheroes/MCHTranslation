@@ -1267,7 +1267,8 @@
       "modal": {
         "warning": {
           "ce": "{ce} CEをCEバレルから消費します。"
-        }
+        },
+        "ceShortage": "CEバレルのCEが不足しています"
       }
     }
   },

@@ -1251,7 +1251,8 @@
       "modal": {
         "warning": {
           "ce": "Consumes {ce} CE from your CE barrel."
-        }
+        },
+        "ceShortage": "CE barrel is missing CE"
       }
     }
   },
