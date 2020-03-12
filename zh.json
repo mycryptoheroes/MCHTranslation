@@ -30,8 +30,12 @@
     "none": "NONE",
     "hero": "Hero",
     "heroes": "Heroes",
+    "originalHeroes": "Original Heroes",
+    "replicaHeroes": "Replica Heroes",
     "extension": "Extension",
     "extensions": "Extensions",
+    "originalExtensions": "Original Extensions",
+    "replicaExtensions": "Replica Extensions",
     "landSector": "Land Sector",
     "landSectors": "Land Sectors",
     "art": "Art",
@@ -330,7 +334,8 @@
       "warnings": {
         "ce": "Inject {ce} CE into the CE barrel.",
         "original": "This extension will be at level 1.",
-        "replica": "This extension will disappear."
+        "replica": "This extension will disappear.",
+        "overflow": "Anything over {threshold} CE will be automatically dedicated to the cryptide at {datetime}."
       }
     }
   },
@@ -1242,12 +1247,12 @@
     "morale": "Morale",
     "layerReserved": "Please wait until the next grouping",
     "attempt": {
-      "button": "Use {ce} CE to battle",
+      "button": "Use {ce} CE to challenge",
       "modal": {
         "warning": {
-          "ce": "Consumes {ce} CE from your CE barrel.",
-          "soon": "The opponent is matched immediately."
-        }
+          "ce": "Consumes {ce} CE from your CE barrel."
+        },
+        "ceShortage": "CE barrel is missing CE"
       }
     }
   },
@@ -1282,6 +1287,12 @@
       "backToTop": "Return to Node: Blockchain top screen",
       "goNext": "Go to next block"
     }
+  },
+  "barrel": {
+    "title": "CE Barrel",
+    "replenish": "Replenish",
+    "consume": "Consume",
+    "history": "History"
   },
   "lordRewards": {
     "balance": "Withdrawable：",

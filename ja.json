@@ -30,8 +30,12 @@
     "none": "なし",
     "hero": "ヒーロー",
     "heroes": "ヒーロー",
+    "originalHeroes": "オリジナルヒーロー",
+    "replicaHeroes": "レプリカヒーロー",
     "extension": "エクステンション",
     "extensions": "エクステンション",
+    "originalExtensions": "オリジナルエクステンション",
+    "replicaExtensions": "レプリカエクステンション",
     "landSector": "ランドセクター",
     "landSectors": "ランドセクター",
     "art": "アート",
@@ -332,7 +336,8 @@
       "warnings": {
         "ce": "{ce} CEをCEバレルに注入します。",
         "original": "このエクステンションはレベルが1になります。",
-        "replica": "このエクステンションは消滅します。"
+        "replica": "このエクステンションは消滅します。",
+        "overflow": "{threshold} CEを超えた分は {datetime} 時点でクリプタイドに自動奉納されます。"
       }
     }
   },
@@ -1258,12 +1263,12 @@
     "morale": "士気",
     "layerReserved": "次のグルーピングまでお待ち下さい",
     "attempt": {
-      "button": "{ce} CEを消費してバトル",
+      "button": "{ce} CEを消費して挑戦",
       "modal": {
         "warning": {
-          "ce": "{ce} CEをCEバレルから消費します。",
-          "soon": "すぐに対戦相手のマッチングが行われます。"
-        }
+          "ce": "{ce} CEをCEバレルから消費します。"
+        },
+        "ceShortage": "CEバレルのCEが不足しています"
       }
     }
   },
@@ -1298,6 +1303,12 @@
       "backToTop": "Node: Blockchain トップ画面へ戻ります",
       "goNext": "次のブロックへ進む"
     }
+  },
+  "barrel": {
+    "title": "CEバレル",
+    "replenish": "補充する",
+    "consume": "消費する",
+    "history": "履歴"
   },
   "lordRewards": {
     "balance": "引出可能数：",
