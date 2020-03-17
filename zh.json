@@ -816,6 +816,9 @@
         "trading": "Trading",
         "justListed": "Just Listed"
       },
+      "lv": {
+        "lvMax": "Only Lv Max"
+      },
       "filter": {
         "filter": "Filter",
         "assetType": "Asset Type",
@@ -827,6 +830,7 @@
         "heroStar": "Show Favorites",
         "extensionStar": "Show Favorites",
         "rarity": "Rarity",
+        "lv": "Level",
         "clear": "Clear",
         "search": "Search"
       },
