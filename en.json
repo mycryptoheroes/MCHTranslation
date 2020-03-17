@@ -954,7 +954,7 @@
   },
   "duel": {
     "trial": "Ranked Match #2",
-    "cost": "Duel consumes {needStamina} stamina each time",
+    "cost": "Duel consumes {needCe} CE from CE barrel each time",
     "acquired": "Acquired",
     "win": "win and",
     "lose": "losses",

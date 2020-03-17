@@ -958,7 +958,7 @@
   },
   "duel": {
     "trial": "ランキング戦 #2",
-    "cost": "一回あたり {needStamina} スタミナを消費します",
+    "cost": "一回あたり {needCe} CEをCEバレルから消費します",
     "acquired": "獲得済み",
     "win": "勝",
     "lose": "敗",

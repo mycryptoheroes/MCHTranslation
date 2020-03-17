@@ -950,7 +950,7 @@
   },
   "duel": {
     "trial": "排位比赛 #2",
-    "cost": "决斗每次会消耗 {needStamina} 点体力",
+    "cost": "Duel consumes {needCe} CE from CE barrel each time",
     "acquired": "已获得",
     "win": "获胜并",
     "lose": "失败",
