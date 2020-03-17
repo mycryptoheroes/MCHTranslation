@@ -1378,6 +1378,8 @@
     "title": "Tutorials",
     "extensions": {
       "title": "Extension",
+      "extensionTitle": "Extensions",
+      "extensionBody": "Extensions are weapons in My Crypto heroes. Up to two heroes can be equipped per hero, hero status is enhanced, and special skills can be activated.",
       "originalTitle": "Original Extensions",
       "originalBody": "Original Extensions are one of two extension types found in MCH. They are Blockchain NFT digital assets which can be traded for GUM or for ETH on third party exchanges like OpenSea. Like Heroes, they can increase in level and range in rarity from common to legendary. Each NFT is limited in their capacity, dependent on their rarity.",
       "replicaTitle": "Replica Extensions",
@@ -1402,12 +1404,12 @@
     },
     "land": {
       "title": "Land",
-      "title1": "Overview of Land",
-      "title2": "Land Community",
-      "title3": "Land Battle",
-      "about": "Land is like country or guild in MCH, and you can join only one land out of nine.\nYou can try quest in land node, land battle and get profit by Cryptid, which is the Guardian of each lands when you become a citizen(join lands). Your heroes will become stronger with cryptide effect, which makes you easy to try higher level nodes\n\nYou can access land page from here:",
-      "community": "Most lands have their own discord server. The Kings or Maestros of the land are sometimes carrying out their campaigns or support beginners.\nYou can check their discord from land page or official discord community.",
-      "landbattle": "Land Battle is an PvP event over four weeks.\nThere are four ranks in land battle, which are Lieutenant/ Commander/ Knight Commander/ Knight.\n\nThere are three types of land battles: Knight Battle, Knight Battle G5, and Flag Battle.\nThe Knight battle is a battle in the land to become higher ranks. Knight can get GUM when the season ends. ※up to the policy of land Kings\nKnight Battle G5 is a battle to decide 'G5' who can join flag battle on behalf of their land.\nFlag battle is a battle between lands by G5. They fight for their land flag and pride.\n\nLet's entry land battle and aim for the knight and G5 with your strongest team."
+      "title1": "What is Land?",
+      "title2": "Let's join the Land!",
+      "title3": "How to join Land?",
+      "about": "Land is like country or guild in MCH, and you can join only one land out of nine.\nYou can try quest in land node, land battle and get profit by Cryptid, which is the Guardian of each lands when you become a member of Land. Your heroes will become stronger with cryptid effect, which makes you easy to try higher level nodes.",
+      "community": "Most lands have their own community. The Kings or Maestros of the land are sometimes carrying out their campaigns or support beginners.",
+      "joinLand": "Anyway, let's join a Land from here"
     },
     "gum": "GUM is the in-game currency for MCH. Heroes and extensions can be bought and sold for GUM. GUM can be purchased with ETH or redeemed with TOKU points. Additionally, if you are a Prime User, you will receive GUM as a daily bonus.",
     "toku": {
@@ -1453,6 +1455,22 @@
       "discordFollow": "Join in Discord",
       "mediumFollow": "Check the official Medium",
       "twitterFollow": "Follow official Twitter"
+    },
+    "firstEntry": {
+      "title": "Welome to My Crypto Heroes",
+      "body": "First, try the beginner quest “Abucus“"
+    },
+    "firstQuest": {
+      "teamEditTitle": "Let’s edit your team!",
+      "teamEditBody": "“Extension” is an equipment in My Crypto Heroes.Tap “Edit”, and move to team edit page.Equip the Extension with the FRONT hero this time.Tap“FRONT“",
+      "extentionTitle": "Let’s equip the extension!",
+      "extentionBody": "Your heroes haven’t  equipped any extensions yet.Tap bare Hand icon, and equip your extension!",
+      "skillTitle": "Check skills",
+      "skillBody": "You finished equipping the extension.Please scroll down, check the new skill “Protection” instead of “Hit”.*The skill is changed depending on the  extension you equip.",
+      "questTitle": "Go to quest again!",
+      "questBody": "You can see the special skill like “Protection”.Try out quests to get 6 extensions to let your heroes fully equipped!",
+      "lastTitle": "Let’s aim for getting “Original Extension”. When  your heroes become stronger, more chance get that.",
+      "lastBody": "If you have any questions, you can check the information at the Tutrial on Home.There are a lot of contents you can enjoy in My Crypto Heroes.Hope you’ll have a good time here!Also, we recommend you to join the community in Discord to chat with other players and devs!"
     }
   },
   "tutorial": {
