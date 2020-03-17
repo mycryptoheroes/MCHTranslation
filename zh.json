@@ -1150,12 +1150,13 @@
     "detail": "Let's join and fight with Raid Boss!\nYou can join Raid battle by consuming CE(not stamina!), but be careful to use CE because your heroes may be leveled down!"
   },
   "artTrade": {
-    "title": "Art Market (Beta)",
+    "title": "Art Market (β)",
     "make": "Art",
     "register": "Sell Art",
     "detail": "Detail",
     "selectHero": "Select Hero to set this Art",
     "confirm": "Confim",
+    "gallery": "Gallery",
     "buy1": "Buy this art for",
     "buy2": "and set it to",
     "buy3": "Buy with",
@@ -1166,6 +1167,7 @@
     "cancelSellingTitle": "Cancel Selling",
     "cancelSelling": "Cancel Selling This Art",
     "confirmCancelSelling": "Are you sure to cancel selling this art?",
+    "confirmBuying": "Buy this art? Purchased art will be stocked in my art list",
     "reportButton": "Report stolen art",
     "reportModal": {
       "text": "To prove that you are the owner of the stolen art, please choose your original art below.",
