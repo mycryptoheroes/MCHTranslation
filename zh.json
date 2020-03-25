@@ -1372,7 +1372,16 @@
     "34": "MCH Prime has been updated and received {0}.",
     "35": "Referral campaign! You received {0} ETH.",
     "36": "The Arena '{0}' has finished!",
-    "37": "The Arena '{0}' has been cancelled."
+    "37": "The Arena '{0}' has been cancelled.",
+    "38": "Congrats for winning!! Closseum 1st place prize. You received {0}.",
+    "39": "Awesome!! Colosseum 2nd place prize. You received {0}.",
+    "40": "You did it! Colosseum 3rd place prize. You received {0}.",
+    "41": "Colosseum prize. You received {0}.",
+    "42": "Congrats for winning!! WP node 1st place prize. You received {0}.",
+    "43": "Awesome!! WP node 2nd place prize. You received {0}.",
+    "44": "You did it! WP node 3rd place prize. You received {0}.",
+    "45": "WP node prize. You received {0}.",
+    "46": "Lucky you! XD You received Daily Bonus {0} GUM!"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
