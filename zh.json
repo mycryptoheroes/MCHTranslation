@@ -367,6 +367,12 @@
     "mail": "Inquiry by e-mail / report of misbehavior"
   },
   "account": {
+    "basic": "Basic",
+    "userName": "User Name",
+    "userId": "User ID",
+    "ethAddress": "Ethereum Address",
+    "publishEthAddress": "Publish Ethereum Address",
+    "country": "Country of Residence",
     "prime": {
       "extend": "Extend",
       "leftDays": {
@@ -376,12 +382,14 @@
       "join": "Buy",
       "subscription": "Subscription"
     },
+    "gumHistory": "GUM History",
     "connect": {
       "wallet": "连接到钱包",
       "google": "连接到谷歌",
       "connect": "Connect",
       "connected": "Connected"
-    }
+    },
+    "others": "Others"
   },
   "land": {
     "title": "Land",

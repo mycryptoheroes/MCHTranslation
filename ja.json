@@ -369,6 +369,12 @@
     "mail": "メールでのお問い合わせ/不正行為の通報"
   },
   "account": {
+    "basic": "基本情報",
+    "userName": "ユーザー名",
+    "userId": "ユーザーID",
+    "ethAddress": "イーサリアムアドレス",
+    "publishEthAddress": "イーサリアムアドレスの公開",
+    "country": "居住国",
     "prime": {
       "extend": "延長する",
       "leftDays": {
@@ -378,12 +384,14 @@
       "join": "購入する",
       "subscription": "自動更新"
     },
+    "gumHistory": "GUM履歴",
     "connect": {
       "wallet": "Wallet連携",
       "google": "Google連携",
       "connect": "連携する",
       "connected": "連携済み"
-    }
+    },
+    "others": "その他"
   },
   "land": {
     "title": "ランド",
