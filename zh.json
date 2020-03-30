@@ -968,6 +968,7 @@
     "rules": "Check Rules (Official Medium)",
     "join": {
       "pledge": "Cup Entry",
+      "joinButton": "Consume {ce} CE to enter",
       "nineBattle": "Select 9 heroes for your 9on9 Battle Team:",
       "battle": "Select {needHeroesCount} heroes for your team:",
       "pledgeContent": "I will play fair, comforming to the terms of use and Official Duel Cup rules.",
