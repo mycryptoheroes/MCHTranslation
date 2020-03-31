@@ -1003,6 +1003,10 @@
       "qualifying": "予選",
       "mainBattle": "本戦",
       "result": "最終結果"
+    },
+    "attackCeRate": "アタックCEレート",
+    "errors": {
+      "askingPriceExceeded": "必要CEに変動がありました。"
     }
   },
   "arena": {

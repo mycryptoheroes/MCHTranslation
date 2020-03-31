@@ -995,6 +995,10 @@
       "qualifying": "Qualifying",
       "mainBattle": "Main Battle",
       "result": "Result"
+    },
+    "attackCeRate": "Attack CE Rate",
+    "errors": {
+      "askingPriceExceeded": "Required CE changed."
     }
   },
   "arena": {
