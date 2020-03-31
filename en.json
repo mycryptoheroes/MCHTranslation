@@ -1282,6 +1282,9 @@
         },
         "ceShortage": "CE barrel is missing CE"
       }
+    },
+    "tenkei" : {
+      "tenkeiSkillDetaile": "Tenkei Skill Detaile"
     }
   },
   "deepNode": {
@@ -1498,6 +1501,7 @@
       "body": "First, try the beginner quest “Abucus“"
     },
     "firstQuest": {
+      "teamEditTutorialButton": "How to Team edit",
       "teamEditTitle": "Let’s edit your team!",
       "teamEditBody": "“Extension” is an equipment in My Crypto Heroes.Tap “Edit”, and move to team edit page.Equip the Extension with the FRONT hero this time.Tap“FRONT“",
       "extentionTitle": "Let’s equip the extension!",
