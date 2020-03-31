@@ -1504,6 +1504,7 @@
       "body": "まず最初にビギナー向けのクエスト「Abacus」にトライ！マイクリワールドに触れてみましょう。ようこそMy Crypto Heroesへ。"
     },
     "firstQuest": {
+      "teamEditTutorialButton": "チームエディットのやりかたはこちら",
       "teamEditTitle": "チーム編集をしてみよう！",
       "teamEditBody": "獲得した「エクステンション」と呼ばれるものは、マイクリワールドにおける武器です。[Edit]をタップしてチーム編集画面へ。今回は前衛のヒーローに装備させてみよう！[Front]をタップ！",
       "extentionTitle": "獲得した武器を装備してみよう！",
