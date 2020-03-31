@@ -1273,6 +1273,9 @@
         },
         "ceShortage": "CE barrel is missing CE"
       }
+    },
+    "tenkei" : {
+      "tenkeiSkillDetaile": "Tenkei Skill Detaile"
     }
   },
   "deepNode": {

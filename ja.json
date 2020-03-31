@@ -1280,6 +1280,9 @@
         },
         "ceShortage": "CEバレルのCEが不足しています"
       }
+    },
+    "tenkei" : {
+      "tenkeiSkillDetaile": "Tenkeiスキル詳細"
     }
   },
   "deepNode": {
