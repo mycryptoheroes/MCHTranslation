@@ -278,6 +278,8 @@
     },
     "lab": "Level up with GUM",
     "dedicate": "Dedicate to Cryptid",
+    "dedicateCe": "Dedicate CE to Cryptid",
+    "dedicateEma": "Dedicate to Cryptid as EMA",
     "sell": "Trade with GUM",
     "buy": "Buy",
     "stop": "Stop trading",
