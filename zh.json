@@ -980,6 +980,7 @@
     "myInfo": {
       "attackCount": "Attack Count",
       "rank": "Qualifying Rank",
+      "rankNoTournament": "Rank",
       "duelPoint": "Duel Point",
       "addedDamage": "Added DMG",
       "takenDamage": "Taken DMG",

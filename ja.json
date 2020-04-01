@@ -988,6 +988,7 @@
     "myInfo": {
       "attackCount": "アタック回数",
       "rank": "予選順位",
+      "rankNoTournament": "順位",
       "duelPoint": "デュエルポイント",
       "addedDamage": "与ダメージ",
       "takenDamage": "被ダメージ",
