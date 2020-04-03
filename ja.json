@@ -249,11 +249,21 @@
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーローもらえる！"
   },
   "assets": {
+    "selection": "{count} 件 ({ce} CE) を選択中",
     "ceDeposit": {
       "title": "CEバレルに注入",
       "button": "{ce} CEをCEバレルに注入",
       "warnings": {
         "ce": "{ce} CEをCEバレルに注入します。",
+        "replica": "これらのエクステンションは消滅します。",
+        "overflow": "{threshold} CEを超えた分は {datetime} 時点でクリプタイドに自動奉納されます。"
+      }
+    },
+    "dedicate": {
+      "title": "クリプタイドに奉納",
+      "button": "{ce} CEをクリプタイドに奉納",
+      "warnings": {
+        "ce": "{ce} CEをクリプタイドに奉納します。",
         "replica": "これらのエクステンションは消滅します。"
       }
     }
