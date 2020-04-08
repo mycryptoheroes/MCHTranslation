@@ -249,11 +249,21 @@
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーローもらえる！"
   },
   "assets": {
+    "selection": "{count} 件 ({ce} CE) を選択中",
     "ceDeposit": {
       "title": "CEバレルに注入",
       "button": "{ce} CEをCEバレルに注入",
       "warnings": {
         "ce": "{ce} CEをCEバレルに注入します。",
+        "replica": "これらのエクステンションは消滅します。",
+        "overflow": "{threshold} CEを超えた分は {datetime} 時点でクリプタイドに自動奉納されます。"
+      }
+    },
+    "dedicate": {
+      "title": "クリプタイドに奉納",
+      "button": "{ce} CEをクリプタイドに奉納",
+      "warnings": {
+        "ce": "{ce} CEをクリプタイドに奉納します。",
         "replica": "これらのエクステンションは消滅します。"
       }
     }
@@ -279,6 +289,10 @@
       "button": "転送準備"
     },
     "lab": "GUMで強化する",
+    "absorb": "強化する",
+    "dedicate": "クリプタイドに奉納する",
+    "dedicateCe": "CEをクリプタイドに奉納する",
+    "dedicateEma": "EMAとしてクリプタイドに奉納する",
     "sell": "出品する",
     "buy": "購入する",
     "stop": "出品を中止する",
@@ -988,6 +1002,7 @@
     "myInfo": {
       "attackCount": "アタック回数",
       "rank": "予選順位",
+      "rankNoTournament": "順位",
       "duelPoint": "デュエルポイント",
       "addedDamage": "与ダメージ",
       "takenDamage": "被ダメージ",
@@ -1260,6 +1275,7 @@
     "currentPeriod": "現在の状態",
     "schedule": "日程表",
     "ranking": "ランキング",
+    "totalRanking": "総合ランキング",
     "highestWins": "最高勝利数",
     "currentChallenge": "現在の戦績",
     "life": "ライフ",

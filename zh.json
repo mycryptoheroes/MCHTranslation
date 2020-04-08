@@ -247,11 +247,21 @@
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
   },
   "assets": {
+    "selection": "{count} selection of {ce} CE",
     "ceDeposit": {
       "title": "Inject into the CE barrel",
       "button": "Inject {ce} CE into the CE barrel",
       "warnings": {
         "ce": "Inject {ce} CE into the CE barrel.",
+        "replica": "These extensions will disappear.",
+        "overflow": "Anything over {threshold} CE will be automatically dedicated to the cryptide at {datetime}."
+      }
+    },
+    "dedicate": {
+      "title": "Dedicate to the Cryptid",
+      "button": "Dedicate {ce} CE to the Cryptid",
+      "warnings": {
+        "ce": "Dedicate {ce} CE to the Cryptid.",
         "replica": "These extensions will disappear."
       }
     }
@@ -277,6 +287,10 @@
       "button": "准备转移"
     },
     "lab": "Level up with GUM",
+    "absorb": "Level up",
+    "dedicate": "Dedicate to Cryptid",
+    "dedicateCe": "Dedicate CE to Cryptid",
+    "dedicateEma": "Dedicate to Cryptid as EMA",
     "sell": "Trade with GUM",
     "buy": "Buy",
     "stop": "Stop trading",
@@ -980,6 +994,7 @@
     "myInfo": {
       "attackCount": "Attack Count",
       "rank": "Qualifying Rank",
+      "rankNoTournament": "Rank",
       "duelPoint": "Duel Point",
       "addedDamage": "Added DMG",
       "takenDamage": "Taken DMG",
@@ -1253,6 +1268,7 @@
     "currentPeriod": "Current Period",
     "schedule": "Schedule",
     "ranking": "Ranking",
+    "totalRanking": "Total Ranking",
     "highestWins": "Highest Wins",
     "currentChallenge": "Current Challenge",
     "life": "Life",
