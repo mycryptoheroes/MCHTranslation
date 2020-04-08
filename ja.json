@@ -1137,6 +1137,19 @@
         "interval": "インターバル時間",
         "intervalDescription": "各ラウンドの間隔を入力してください (分)"
       },
+      "regulationInfo": {
+        "title": "レギュレーションとは",
+        "regulationText": "使用可能なヒーロー及びエクステンションの簡易設定になります。",
+        "none": "・無制限",
+        "noneText": "すべてのヒーローが使用可能です。",
+        "oficialRegulation": "・Red Dragon / Blue Dragon / Baby Dragon /  Dragon Egg",
+        "oficialRegulationText": "公式デュエルカップに準拠したレギュレーションが設定されます。",
+        "hrc": "・HRC",
+        "hrcText1": "参加可能なチームのHRC(HeroRarityCost)合計を決めることができます",
+        "hrcText2": "※バトルタイプが[3on3]のときにのみ選択することが可能です。",
+        "hrcText3": "※HRCは15~3の間で設定可能です。",
+        "hrcText4": "※エクステンションの仕様制限はありません。"
+      },
       "regulation": {
         "title": "レギュレーション",
         "none": "無制限",

@@ -1130,6 +1130,19 @@
         "interval": "Interval",
         "intervalDescription": "Enter the interval for each round (minutes)"
       },
+      "regulationInfo": {
+        "title": "What is Regulation",
+        "regulationText": "You can choose the available hero and extension.",
+        "none": "No Regulation:",
+        "noneText": "You can use all heroes.",
+        "oficialRegulation": "Red Dragon / Blue Dragon / Baby Dragon /  Dragon Egg:",
+        "oficialRegulationText": "The regulation of the Official Duel Cup is applied.",
+        "hrc": "HRC:",
+        "hrcText1": "You can choose HRC(Hero Rarity Cost)",
+        "hrcText2": "*It's applied only when battle type is [3on3]",
+        "hrcText3": "*You can choose HRC between 3 and 15.",
+        "hrcText4": "*There are nothing to do with extensions."
+      },
       "regulation": {
         "title": "Arena Regulation",
         "none": "No Regulation",
