@@ -1171,7 +1171,8 @@
         "allowedHeroes": "使用可能ヒーロー",
         "allowedRepHeroes": "使用可能レプリカヒーロー",
         "allowedExtensions": "使用可能エクステンション",
-        "allowedRepExtensions": "使用可能レプリカエクステンション"
+        "allowedRepExtensions": "使用可能レプリカエクステンション",
+        "setHRC": "Cost設定"
       }
     },
     "labels": {

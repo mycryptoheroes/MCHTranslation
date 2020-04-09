@@ -1167,7 +1167,8 @@
         "allowedHeroes": "Allowed Heroes",
         "allowedRepHeroes": "Allowed Replica Heroes",
         "allowedExtensions": "Allowed Extensions",
-        "allowedRepExtensions": "Allowed Replica Extensions"
+        "allowedRepExtensions": "Allowed Replica Extensions",
+        "setHRC": "Set Cost"
       }
     },
     "labels": {
