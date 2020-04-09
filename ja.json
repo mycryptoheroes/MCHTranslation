@@ -1040,6 +1040,7 @@
     "table": {
       "name": "アリーナ名",
       "type": "タイプ",
+      "regulation": "レギュレーション",
       "creator": "主催者",
       "count": "参加人数",
       "start": "開始時刻"

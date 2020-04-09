@@ -1036,6 +1036,7 @@
     "table": {
       "name": "Name",
       "type": "Type",
+      "regulation": "Regulation",
       "creator": "Creator",
       "count": "Count",
       "start": "Start"
