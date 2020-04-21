@@ -386,6 +386,7 @@
     "userId": "User ID",
     "ethAddress": "Ethereum Address",
     "publishEthAddress": "Publish Ethereum Address",
+    "phoneNumber": "Phone Number",
     "country": "Country of Residence",
     "prime": {
       "extend": "Extend",
@@ -403,7 +404,8 @@
       "connect": "Connect",
       "connected": "Connected"
     },
-    "others": "Others"
+    "others": "Others",
+    "signOut": "Sign Out"
   },
   "land": {
     "title": "Land",

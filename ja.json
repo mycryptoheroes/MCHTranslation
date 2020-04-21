@@ -388,6 +388,7 @@
     "userId": "ユーザーID",
     "ethAddress": "イーサリアムアドレス",
     "publishEthAddress": "イーサリアムアドレスの公開",
+    "phoneNumber": "電話番号",
     "country": "居住国",
     "prime": {
       "extend": "延長する",
@@ -405,7 +406,8 @@
       "connect": "連携する",
       "connected": "連携済み"
     },
-    "others": "その他"
+    "others": "その他",
+    "signOut": "サインアウト"
   },
   "land": {
     "title": "ランド",
