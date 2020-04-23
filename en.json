@@ -764,16 +764,16 @@
           "entry": "MCH Prime 12Days Free Trial (Click!!)",
           "entryInfo": "You can also get a gas fee to get a daily bonus for up to 12 days",
           "conditions": "Free Prime Entry Conditions",
-          "condition-1": "Challenge the quest 6 times",
-          "condition-2": "Land battle entry",
-          "condition-3": "Phone number verification",
+          "condition1": "Challenge the quest 6 times",
+          "condition2": "Land battle entry",
+          "condition3": "Phone number verification",
           "basicPrimeInfo": "Join MCH Prime (30 days)",
           "consent": "Join Free Prime. Is it OK?",
           "tutorialTitle": "How to Join MCH Prime for Free",
-          "tutorialBody-1": "Challenge the quest 6 times",
-          "tutorialBody-2": "Land battle entry",
-          "tutorialBody-3": "Phone number verification",
-          "tutorialBody-4": "You must meet all of these requirements to join the free trial.\nPlease do your best!"
+          "tutorialBody1": "Challenge the quest 6 times",
+          "tutorialBody2": "Land battle entry",
+          "tutorialBody3": "Phone number verification",
+          "tutorialBody4": "You must meet all of these requirements to join the free trial.\nPlease do your best!"
         }
       },
       "novice": {
@@ -1564,9 +1564,9 @@
       "title": "Joining MCH Prime makes adventure more fun and comfortable.",
       "info": "MCH Prime is a paid membership service (30 days).\nBy becoming an MCH Prime member, you can enjoy various benefits.",
       "example": "An example of MCH prime benefits：",
-      "example-1": "Double experience earned (CE) at nodes",
-      "example-2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -35 GUM (one in 500 100-300 GUM !!)",
-      "example-3": "etc··",
+      "example1": "Double experience earned (CE) at nodes",
+      "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -35 GUM (one in 500 100-300 GUM !!)",
+      "example3": "etc··",
       "text": "You can now use the MCH Prime Free Trial for 12 days! \nIn addition, a free hero set comes with a replica hero set.\n First, let's check the contents of MCH prime."
     }
   },
