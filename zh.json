@@ -248,7 +248,7 @@
   },
   "assets": {
     "count": "{count} items",
-    "countWithLimit": "{count} / {limit} items",
+    "countWithLimit": "Storage capacity: {count} / {limit}",
     "selection": "{count} selection of {ce} CE",
     "ceDeposit": {
       "title": "Inject into the CE barrel",
