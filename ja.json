@@ -249,6 +249,8 @@
     "afterShareText": "招待コード: {inviteCode} 入力で特典ヒーローもらえる！"
   },
   "assets": {
+    "count": "{count} 件",
+    "countWithLimit": "{count} / {limit} 件",
     "selection": "{count} 件 ({ce} CE) を選択中",
     "ceDeposit": {
       "title": "CEバレルに注入",
