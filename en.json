@@ -1042,6 +1042,7 @@
   "arena": {
     "title": "Arena",
     "arenaTitle": "Arena Title",
+    "supportProgram": "For those who want to hold a user sponsored tournament",
     "options": "Options",
     "create": "Create",
     "created": "Arena created!",
