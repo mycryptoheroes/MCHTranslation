@@ -408,6 +408,11 @@
       "connect": "連携する",
       "connected": "連携済み"
     },
+    "reportSetting": {
+      "title": "通知設定",
+      "dropped": "レジェンダリーのドロップ",
+      "putTrade": "トレードへのレジェンダリーの出品"
+    },
     "others": "その他",
     "signOut": "サインアウト"
   },

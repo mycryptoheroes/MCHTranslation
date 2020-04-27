@@ -406,6 +406,11 @@
       "connect": "Connect",
       "connected": "Connected"
     },
+    "reportSetting": {
+      "title": "Notification Settings",
+      "dropped": "Drop Legendary",
+      "putTrade": "Legendary's submission to the trade"
+    },
     "others": "Others",
     "signOut": "Sign Out"
   },
