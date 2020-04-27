@@ -593,7 +593,7 @@
     "buyCe": "Buy CE to Heroes",
     "absorb": "Absorb Extensions",
     "barrel": {
-      "title": "CE Barrle",
+      "title": "CE Barrel",
       "modalTitle": "Dedicate from CE Barrel",
       "text": "Enter the CE you wish to dedicate from the CE barrel.",
       "confirm": "Dedicate {ce} CE from the CE barrel to the cryptid. Are you sure?"
