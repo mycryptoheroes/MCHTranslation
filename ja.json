@@ -1199,6 +1199,9 @@
         "allowedExtensions": "使用可能エクステンション",
         "allowedRepExtensions": "使用可能レプリカエクステンション",
         "setHRC": "Cost設定"
+      },
+      "rule": {
+        "title": "ルール"
       }
     },
     "labels": {
