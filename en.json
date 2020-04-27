@@ -247,6 +247,8 @@
     "afterShareText": "Invitation code: {inviteCode} Get special Hero with code!"
   },
   "assets": {
+    "count": "{count} items",
+    "countWithLimit": "Storage capacity: {count} / {limit}",
     "selection": "{count} selection of {ce} CE",
     "ceDeposit": {
       "title": "Inject into the CE barrel",
