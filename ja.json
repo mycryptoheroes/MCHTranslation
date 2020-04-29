@@ -1050,6 +1050,7 @@
   },
   "arena": {
     "title": "アリーナ",
+    "supportProgram": "公式コミュニティ支援プログラムはこちら！",
     "arenaTitle": "アリーナ名",
     "create": "作成する",
     "options": "オプション",
@@ -1198,6 +1199,9 @@
         "allowedExtensions": "使用可能エクステンション",
         "allowedRepExtensions": "使用可能レプリカエクステンション",
         "setHRC": "Cost設定"
+      },
+      "rule": {
+        "title": "ルール"
       }
     },
     "labels": {
