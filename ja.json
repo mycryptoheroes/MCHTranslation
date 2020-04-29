@@ -1352,6 +1352,7 @@
   "deepNode": {
     "title": "ディープノード",
     "myPoint": "所持ポイント",
+    "myPointCe": "所持CE",
     "highestBlock": "最大踏破ブロック",
     "ranking": "ランキング",
     "team": "チーム",

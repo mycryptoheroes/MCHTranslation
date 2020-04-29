@@ -1345,6 +1345,7 @@
   "deepNode": {
     "title": "Deep Node",
     "myPoint": "Points of Possession",
+    "myPointCe": "CE of Possession",
     "highestBlock": "Maximum Tread Block",
     "ranking": "Ranking",
     "team": "Team",
