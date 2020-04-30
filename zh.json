@@ -1345,7 +1345,9 @@
     }
   },
   "deepNode": {
+    "title": "Deep Node",
     "myPoint": "Points of Possession",
+    "myPointCe": "CE of Possession",
     "highestBlock": "Maximum Tread Block",
     "ranking": "Ranking",
     "team": "Team",
@@ -1360,13 +1362,16 @@
     "entry": "Entry",
     "noPoint": "You cannot enter because you do not have points.",
     "departure": "Spend Points and start",
+    "departureCe": "Spend CE and start",
     "continue": "Start over from the beginning",
     "retry": "Spend Points and start again",
+    "retryCe": "Spend CE and start again",
     "noEvent": "This event is not held now.",
     "selectHeroes": "Select Heroes",
     "startModal": {
       "warnings": {
-        "cost": "Consumes {necessaryPoints} point",
+        "cost": "Consumes {cost} point",
+        "costCe": "Consumes {cost} CE",
         "cantEditTeam": "Once you start, you cannot edit your team until it is completely destroyed."
       }
     },

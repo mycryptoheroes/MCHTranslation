@@ -1352,7 +1352,9 @@
     }
   },
   "deepNode": {
+    "title": "ディープノード",
     "myPoint": "所持ポイント",
+    "myPointCe": "所持CE",
     "highestBlock": "最大踏破ブロック",
     "ranking": "ランキング",
     "team": "チーム",
@@ -1367,13 +1369,16 @@
     "entry": "エントリー",
     "noPoint": "所持ポイントが無いためエントリーできません",
     "departure": "所持ポイントを消費して出発",
+    "departureCe": "CEを消費して出発",
     "continue": "続きから再出発",
     "retry": "所持ポイントを消費して再出発",
+    "retryCe": "CEを消費して再出発",
     "noEvent": "このイベントは現在開催していません",
     "selectHeroes": "ヒーロー選択",
     "startModal": {
       "warnings": {
-        "cost": "{necessaryPoints} ポイントを消費します",
+        "cost": "{cost} ポイントを消費します",
+        "costCe": "{cost} CEを消費します",
         "cantEditTeam": "一度出発すると全滅するまでチーム編集はできません"
       }
     },
