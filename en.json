@@ -1197,7 +1197,9 @@
         "setHRC": "Set Cost"
       },
       "rule": {
-        "title": "Rule"
+        "title": "Rule",
+        "nsh": "Only one hero of the same type can be formed in the team. Replica heroes are also treated as the same kind.",
+        "nse": "Only one extension of the same type can be organized within a team. If the rarities are different, or the replica extensions are not treated as homogeneous."
       }
     },
     "labels": {
