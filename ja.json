@@ -1382,7 +1382,7 @@
     },
     "battle": {
       "confirm": "このまま次のブロックに進みますか？",
-      "backToTop": "Node: Blockchain トップ画面へ戻ります",
+      "backToTop": "ディープノードトップ画面へ戻ります",
       "goNext": "次のブロックへ進む"
     }
   },

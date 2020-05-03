@@ -1375,7 +1375,7 @@
     },
     "battle": {
       "confirm": "Do you want to continue to the next block?",
-      "backToTop": "Return to Node: Blockchain top screen",
+      "backToTop": "Return to Deep Node top screen",
       "goNext": "Go to next block"
     }
   },
