@@ -641,7 +641,8 @@
     "template": "チーム",
     "type": "バトルタイプ",
     "selectFrom": "保存したチームから選択",
-    "getPrime": "MCHプライム加入で合計6つのテンプレートを作成可能"
+    "getPrime": "MCHプライム加入で合計6つのテンプレートを作成可能",
+    "changeOrderTemplate": "チームを並び替える"
   },
   "toku": {
     "notice": {

@@ -637,7 +637,8 @@
     "template": "Template",
     "type": "Type",
     "selectFrom": "Select from Template",
-    "getPrime": "Get 6 total slots with MCH Prime"
+    "getPrime": "Get 6 total slots with MCH Prime",
+    "changeOrderTemplate": "Sort Teams"
   },
   "toku": {
     "notice": {
