@@ -637,7 +637,8 @@
     "template": "Template",
     "type": "Type",
     "selectFrom": "Select from Template",
-    "getPrime": "Get 6 total slots with MCH Prime"
+    "getPrime": "Get 6 total slots with MCH Prime",
+    "changeOrderTemplate": "Sort Teams"
   },
   "toku": {
     "notice": {
@@ -1377,7 +1378,7 @@
     },
     "battle": {
       "confirm": "Do you want to continue to the next block?",
-      "backToTop": "Return to Node: Blockchain top screen",
+      "backToTop": "Return to Deep Node top screen",
       "goNext": "Go to next block"
     }
   },
