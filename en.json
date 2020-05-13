@@ -44,7 +44,10 @@
     "original": "Original",
     "replica": "Replica",
     "mchWorld": "MCH World",
-    "ethereumNetwork": "Ethereum Network"
+    "ethereumNetwork": "Ethereum Network",
+    "rarity": "Rarity",
+    "clear": "Clear",
+    "filter": "Filter"
   },
   "pages": {
     "home": "Home",

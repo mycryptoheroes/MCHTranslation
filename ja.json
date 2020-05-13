@@ -44,7 +44,10 @@
     "original": "オリジナル",
     "replica": "レプリカ",
     "mchWorld": "MCHワールド",
-    "ethereumNetwork": "イーサリアムネットワーク"
+    "ethereumNetwork": "イーサリアムネットワーク",
+    "rarity": "レアリティ",
+    "clear": "クリア",
+    "filter": "フィルタ"
   },
   "pages": {
     "home": "ホーム",
