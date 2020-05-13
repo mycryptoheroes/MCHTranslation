@@ -1841,6 +1841,17 @@
       "select": "Select"
     }
   },
+  "primeRepeicaModal": {
+    "replicaPresent": {
+      "headline": "We're giving away a replica hero set!",
+      "explainer1": "Thank you for using the MCH Prime free trial",
+      "explainer2": "You can win one of three teams: a PHY team that goes well with PHY extensions, an INT team that goes well with INT extensions, and an endurance team that goes well with recovery-type extensions.\nChoose your favorite team and press the OK button.",
+      "explainer3": "If you win, be sure to enter the Colosseum and try to get a top finish!",
+      "phyType": "PHY type team",
+      "intType": "INT type team",
+      "durableType": "Endurance team"
+    }
+  },
   "convert": {
     "pageTitle": "Asset Convert",
     "convert": "Convert",

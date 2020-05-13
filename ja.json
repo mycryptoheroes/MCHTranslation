@@ -1845,6 +1845,17 @@
       "select": "OK"
     }
   },
+  "primeRepeicaModal": {
+    "replicaPresent": {
+      "headline": "レプリカヒーローセットをプレゼント！",
+      "explainer1": "MCHプライム 無料トライアルのご利用ありがとうございます!!",
+      "explainer2": "PHYエクステンションと相性の良いPHY型チーム、INTエクステンションと相性の良いINT型チーム、回復系エクステンションと相性が良い耐久型チームの3つのチームの中から1つをプレゼント!!\n好きなチームを選んでOKボタンを押してください",
+      "explainer3": "獲得したらぜひコロシアムにもエントリーし、上位入賞を目指そう！",
+      "phyType": "PHY型チーム",
+      "intType": "INT型チーム",
+      "durableType": "耐久型チーム"
+    }
+  },
   "convert": {
     "pageTitle": "アセットコンバート",
     "convert": "コンバート",
