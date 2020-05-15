@@ -1217,6 +1217,7 @@
       "start": "開始時刻",
       "visibility": "公開/非公開",
       "cryptidEffect": "クリプタイドエフェクト",
+      "trialHero": "トライアルヒーロー",
       "allowedLands": "参加可能ランド",
       "players": "参加者",
       "on": "あり",
