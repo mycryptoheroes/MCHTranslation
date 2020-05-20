@@ -1350,7 +1350,8 @@
     },
     "tenkei" : {
       "tenkeiSkillDetaile": "Tenkei Skill Detaile"
-    }
+    },
+    "battleLab": "Battle Lab"
   },
   "deepNode": {
     "title": "Deep Node",
