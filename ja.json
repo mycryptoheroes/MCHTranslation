@@ -358,7 +358,8 @@
         "replica": "このエクステンションは消滅します。",
         "overflow": "{threshold} CEを超えた分は {datetime} 時点でクリプタイドに自動奉納されます。"
       }
-    }
+    },
+    "changeHeroActiveSkill": "アクティブスキルの並び順変更"
   },
   "battle": {
     "loading": {

@@ -356,7 +356,8 @@
         "replica": "This extension will disappear.",
         "overflow": "Anything over {threshold} CE will be automatically dedicated to the cryptide at {datetime}."
       }
-    }
+    },
+    "changeHeroActiveSkill": "Change Active Skills Order"
   },
   "battle": {
     "loading": {
