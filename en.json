@@ -986,7 +986,11 @@
       "primeRecommend": "Get Prime to automatically dedicate overflowing CE"
     },
     "comingSoon": "Notice: New Nodes will be available from Feb 17th.",
-    "joinToLand": "You can go to Land node after Join Land."
+    "joinToLand": "You can go to Land node after Join Land.",
+    "info": {
+      "abacus": "Let's start MCH with Abacus!\nAfter level up, let's try to the other quest and get the gold chest!",
+      "bagle": "Let's try Bagle!\nIt's only for beginners and It may be easy to drop Gold chest!"
+    }
   },
   "walletModal": {
     "1": "Install browser extension to access blockchain game.",
