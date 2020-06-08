@@ -501,7 +501,21 @@
       }
     },
     "ceFarmRankingButton": "Show CE Farmer Ranking",
-    "ceFarmRanking": "Node CE Farmer Ranking"
+    "ceFarmRanking": "Node CE Farmer Ranking",
+    "authorityType": {
+      "1": "Land Message",
+      "2": "Community Link",
+      "3": "Land Name",
+      "4": "Flag Image",
+      "5": "Flag Battle Opponent",
+      "6": "Flag Battle Order",
+      "7": "Transfer Agreement",
+      "8": "Cryptid Param Share",
+      "9": "Land Share",
+      "10": "Maestro Selection",
+      "11": "Maestro Authorities",
+      "12": "Maestro Share Rate"
+    }
   },
   "landBattle": {
     "title": "Land Battle",

@@ -503,7 +503,21 @@
       }
     },
     "ceFarmRankingButton": "Show CE Farmer Ranking",
-    "ceFarmRanking": "Node CE Farmer Ranking"
+    "ceFarmRanking": "Node CE Farmer Ranking",
+    "authorityType": {
+      "1": "ランドメッセージ",
+      "2": "コミュニティリンク",
+      "3": "ランド名",
+      "4": "フラッグ画像",
+      "5": "フラッグ戦の対戦国",
+      "6": "フラッグ戦のバトル順",
+      "7": "FA宣言中ナイトの獲得",
+      "8": "クリプタイドのパラメータ比率",
+      "9": "ランド収益の分配率",
+      "10": "マエストロ選考",
+      "11": "マエストロ権限設定",
+      "12": "マエストロ報酬比率設定"
+    }
   },
   "landBattle": {
     "title": "ランドバトル",
