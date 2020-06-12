@@ -1196,6 +1196,9 @@
         "interval": "Interval",
         "intervalDescription": "Enter the interval for each round (minutes)"
       },
+      "teamNoStay": {
+        "teamNoStay": "Team (Best of X)"
+      },
       "regulationInfo": {
         "title": "What is Regulation",
         "regulationText": "You can choose the available hero and extension.",

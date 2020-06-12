@@ -1201,6 +1201,9 @@
         "interval": "インターバル時間",
         "intervalDescription": "各ラウンドの間隔を入力してください (分)"
       },
+      "teamNoStay": {
+        "teamNoStay": "チーム（星取り）"
+      },
       "regulationInfo": {
         "title": "レギュレーションとは",
         "regulationText": "使用可能なヒーロー及びエクステンションの簡易設定になります。",
