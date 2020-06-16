@@ -609,6 +609,9 @@
       "phy": "PHY Damage",
       "int": "INT Damage",
       "recovery": "Recovery",
+      "stamina": "Stamina Recovery",
+      "cut": "Increased Damage-Cut Rate",
+      "charge": "Basic Charge",
       "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each Knight Battle / Flag Battle / Quest / Raid Battle / Colosseum (in principle, Official Duel Cup has no effect)"
     },
     "nieRanking": "NIE Ranking",
