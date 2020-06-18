@@ -1249,6 +1249,10 @@
       "title": "Trial Legendary Replica campaign in progress",
       "mediumUrl": "https://medium.com/mycryptoheroes/announcement-new-year-legendary-campaign-4780b8d60e52",
       "description": "Trial period: December 20 (Friday) around 9:30 ~ December 26 (Thursday) around 15:00"
+    },
+    "tutorialModal": {
+      "title": "Let's go win with our own team!",
+      "body": "Set your team up with extensions and try your hand at the \"beginner arena\"! If you join the beginner arena for the first time, you'll get a {reward}!"
     }
   },
   "raid": {
@@ -1500,7 +1504,8 @@
     "43": "Awesome!! WP node 2nd place prize. You received {0}.",
     "44": "You did it! WP node 3rd place prize. You received {0}.",
     "45": "WP node prize. You received {0}.",
-    "46": "Lucky you! XD You received Daily Bonus {0} GUM!"
+    "46": "Lucky you! XD You received Daily Bonus {0} GUM!",
+    "47": "The first arena I attended is now finished. You received {0}."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
