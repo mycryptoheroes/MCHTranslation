@@ -1377,6 +1377,7 @@
       "button": "{ce} CEを消費して挑戦",
       "modal": {
         "warning": {
+          "restartWin": "勝利数 {restartWin} の状態から再挑戦します",
           "ce": "{ce} CEをCEバレルから消費します。"
         },
         "ceShortage": "CEバレルのCEが不足しています"

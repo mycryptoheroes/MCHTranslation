@@ -1373,6 +1373,7 @@
       "button": "Use {ce} CE to challenge",
       "modal": {
         "warning": {
+          "restartWin": "Try again from a win count {restartWin} .",
           "ce": "Consumes {ce} CE from your CE barrel."
         },
         "ceShortage": "CE barrel is missing CE"
