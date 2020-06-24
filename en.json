@@ -767,7 +767,8 @@
           "after": "days left",
           "warning": "You can renew your subscription {updatableRemainingDays} days before the end.",
           "subscriptionState": "Subscription is currently {isSubscribing}",
-          "toAccount": "Manage Subscription"
+          "toAccount": "Manage Subscription",
+          "updateTiming": "* It will be automatically updated {updateTiming} days before the end of the MCH Prime."
         },
         "limited": "For a limited time (Until {limitedTime})",
         "notes": "If you buy with ETH, your status is reflected in 5-10 mins after successing the transaction.",
