@@ -1442,9 +1442,9 @@
   "dictionary": {
     "heroDictionary": "ヒーロー図鑑",
     "extensionDictionary": "エクステンション図鑑",
+    "current": "流通数",
     "issued": "発行数",
-    "supply": "最大発行数",
-    "dedicated": "奉納 (EMA) 数"
+    "supply": "最大発行数"
   },
   "announcement": {
     "link": "詳細を見る",

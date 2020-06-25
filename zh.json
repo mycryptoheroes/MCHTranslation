@@ -1437,9 +1437,9 @@
   "dictionary": {
     "heroDictionary": "Hero Dictionary",
     "extensionDictionary": "Extension Dictionary",
+    "current": "Current",
     "issued": "印刷",
-    "supply": "Supply Limit",
-    "dedicated": "Dedicated (EMA)"
+    "supply": "Supply Limit"
   },
   "announcement": {
     "link": "View Detail",
