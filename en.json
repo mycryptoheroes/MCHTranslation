@@ -1390,6 +1390,7 @@
     "myPoint": "Points of Possession",
     "myPointCe": "CE of Possession",
     "highestBlock": "Maximum Tread Block",
+    "highestBlockAddedDamage": "Damage dealt in the final block",
     "ranking": "Ranking",
     "team": "Team",
     "history": "History",
