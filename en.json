@@ -759,7 +759,7 @@
             "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet / excluding Free Prime)"
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
-          "dailybonus2": "- 35GUM, 1 in 500 can get between 100GUM and 3000GUM!",
+          "dailybonus2": "- {gum} GUM, 1 in 500 can get between 100GUM and 3000GUM!",
           "dailybonus3": "* A gas fee is required.",
           "continue": "Available up to 5 times every 24 hours"
         },
@@ -1625,7 +1625,7 @@
       "info": "MCH Prime is a paid membership service (30 days).\nBy becoming an MCH Prime member, you can enjoy various benefits.",
       "example": "An example of MCH prime benefits：",
       "example1": "Double experience earned (CE) at nodes",
-      "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -35 GUM (one in 500 100-300 GUM !!)",
+      "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -{gum} GUM (one in 500 100-300 GUM !!)",
       "example3": "etc··",
       "text": "You can now use the MCH Prime Free Trial for 12 days! \nIn addition, a free hero set comes with a replica hero set.\n First, let's check the contents of MCH prime."
     }
