@@ -738,7 +738,8 @@
       "gumup": "GUM UP campaign now! 20% Extra GUM!!",
       "minigumup": "MINI GUM UP campaign now! 10% Extra GUM!!",
       "dailyActionTerm": "Reset at {hour} every day",
-      "commonAttention": "Only for Common, the next Common will be released immediately after the sales period ends. In addition, it will be resold in place of other Commons until the maximum issuance is reached.",
+      "heroSaleWarning": "If we detect any violation against terms of service (such as using bot, cracking and so on), we will carry out strict measures (such as suspending account, refunding GUM and burning the hero and so on)",
+      "commonAttention": "If the final price of the last uncommon hero is less than 2000 GUM, we start to sell the new common hero after the end of the hero sale. All common heroes will be resold until the common hero reaches to the maximum number of the issue.",
       "prime": {
         "about": {
           "title": "Monthly MCH Prime Subscription",
@@ -756,10 +757,10 @@
             "Receiving acquirable Toku Treasures in a lump",
             "CE auto dedication",
             "Increase quest team templates from 0 to 6",
-            "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet)"
+            "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet / excluding Free Prime)"
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
-          "dailybonus2": "- 35GUM, 1 in 500 can get between 100GUM and 3000GUM!",
+          "dailybonus2": "- {gum} GUM, 1 in 500 can get between 100GUM and 3000GUM!",
           "dailybonus3": "* A gas fee is required.",
           "continue": "Available up to 5 times every 24 hours"
         },
@@ -1625,7 +1626,7 @@
       "info": "MCH Prime is a paid membership service (30 days).\nBy becoming an MCH Prime member, you can enjoy various benefits.",
       "example": "An example of MCH prime benefits：",
       "example1": "Double experience earned (CE) at nodes",
-      "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -35 GUM (one in 500 100-300 GUM !!)",
+      "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -{gum} GUM (one in 500 100-300 GUM !!)",
       "example3": "etc··",
       "text": "You can now use the MCH Prime Free Trial for 12 days! \nIn addition, a free hero set comes with a replica hero set.\n First, let's check the contents of MCH prime."
     }
