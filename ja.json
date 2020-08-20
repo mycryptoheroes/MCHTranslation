@@ -310,7 +310,7 @@
     "withdrawWarning": {
       "description": "アセットをEthereum Networkに転送することで、Ethereum上でアセットを自由に扱うことができるようになります。",
       "1": "Ethereum Networkへの転送には1回 {gum} GUM必要です。",
-      "1-2": "Ethereum Networkへの転送には、現在のGas料金に応じたGUMが必要です。",
+      "1_2": "Ethereum Networkへの転送には、現在のGas料金に応じたGUMが必要です。",
       "2": "1日最大10回まで実行可能です。({count} / 10)",
       "3": "転送するにはLv.2以上かつ二つ名がついている必要があります。",
       "4": "転送するにはLv.2以上かつアートエディットされている必要があります。",

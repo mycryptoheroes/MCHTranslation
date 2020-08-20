@@ -308,7 +308,7 @@
     "withdrawWarning": {
       "description": "You can use your assets in Ethereum when you transfer your assets to Ethereum Network.",
       "1": "将ETH转移到ETH网络需要消耗 {gum} GUM",
-      "1-2": "Transfers to the Ethereum Network will require GUM based on current Gas rates.",
+      "1_2": "Transfers to the Ethereum Network will require GUM based on current Gas rates.",
       "2": "Limited to 10 times per day ({count} / 10)",
       "3": "Extension has to be more than Lv.2 and set Nickname to transfer",
       "4": "Hero has to be more than Lv.2 and art-edited to transfer",
