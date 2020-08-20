@@ -308,6 +308,7 @@
     "withdrawWarning": {
       "description": "You can use your assets on Ethereum after you transferred your assets to the Ethereum Network.",
       "1": "It will cost {gum} GUM for transferring it to the Ethereum network.",
+      "1-2": "Transfers to the Ethereum Network will require GUM based on current Gas rates.",
       "2": "Limited to 10 times per day ({count} / 10)",
       "3": "To transfer, Extension needs to be at least Lv.2 and have a Nickname",
       "4": "To transfer, Hero has to be at least Lv.2 and art-edited",
