@@ -314,6 +314,7 @@
       "5": "It takes about 20 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic.",
       "6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get※1 or use※2 them in battle last time.\n※1 get: Purchase, Quest, Reward, Trade, Transfer to Crypto World\n※2 use in battle: Official Duel Cup, Arena, Land Battle, Raid"
     },
+    "withdrawButton": "Transfer at {gum} GUM.",
     "countdown": "You can trasfer after",
     "edit": {
       "warning": {

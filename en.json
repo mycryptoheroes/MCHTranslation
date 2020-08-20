@@ -314,6 +314,7 @@
       "5": "It takes about 20 mins to trasfer, depending on the current Ethereum Network status.",
       "6": "You can't transfer an assets (Hero / Extension) that has been used in battle within 24 hours or has been traded / bought within 24 hours."
     },
+    "withdrawButton": "Transfer at {gum} GUM.",
     "countdown": "You can transfer after",
     "edit": {
       "warning": {
