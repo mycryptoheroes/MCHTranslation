@@ -308,12 +308,12 @@
     "withdrawWarning": {
       "description": "You can use your assets on Ethereum after you transferred your assets to the Ethereum Network.",
       "1": "It will cost {gum} GUM for transferring it to the Ethereum network.",
-      "1_2": "Transfers to the Ethereum Network will require GUM based on current Gas rates.",
       "2": "Limited to 10 times per day ({count} / 10)",
       "3": "To transfer, Extension needs to be at least Lv.2 and have a Nickname",
       "4": "To transfer, Hero has to be at least Lv.2 and art-edited",
       "5": "It takes about 20 mins to trasfer, depending on the current Ethereum Network status.",
-      "6": "You can't transfer an assets (Hero / Extension) that has been used in battle within 24 hours or has been traded / bought within 24 hours."
+      "6": "You can't transfer an assets (Hero / Extension) that has been used in battle within 24 hours or has been traded / bought within 24 hours.",
+      "7": "Transfers to the Ethereum Network will require GUM based on current Gas rates."
     },
     "withdrawButton": "Transfer at {gum} GUM.",
     "countdown": "You can transfer after",
