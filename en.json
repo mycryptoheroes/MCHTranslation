@@ -763,6 +763,7 @@
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
           "dailybonus2": "- {gum} GUM, 1 in 500 can get between 100GUM and 3000GUM!",
+          "dailybonus21": "- {gum} GUM",
           "dailybonus3": "* A gas fee is required.",
           "continue": "Available up to 5 times every 24 hours"
         },

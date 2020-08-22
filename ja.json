@@ -765,6 +765,7 @@
           ],
           "dailybonus1": "- 1日1回利用可能 (毎日 {hour} にリセット)",
           "dailybonus2": "- {gum} GUM (500人に1人 100 ~ 3,000 GUM!)",
+          "dailybonus21": "- {gum} GUM",
           "dailybonus3": "※ デイリーボーナスの獲得には別途ETH(ガス代)が必要です。",
           "continue": "約24時間に最大5回まで利用可能"
         },
