@@ -1446,7 +1446,17 @@
     "extensionDictionary": "Extension Dictionary",
     "current": "Current",
     "issued": "Issued",
-    "supply": "Supply Limit"
+    "supply": "Supply Limit",
+    "filter": {
+      "filter": "Filter",
+      "attribute": "Attribute",
+      "rarity": "Rarity",
+      "clear": "Clear",
+      "search": "Search",
+      "header": {
+        "editSearch": "Edit Search"
+      }  
+    }
   },
   "announcement": {
     "link": "View Detail",
