@@ -1450,7 +1450,17 @@
     "extensionDictionary": "エクステンション図鑑",
     "current": "流通数",
     "issued": "発行数",
-    "supply": "最大発行数"
+    "supply": "最大発行数",
+    "filter": {
+      "filter": "絞り込み",
+      "attribute": "Attribute",
+      "rarity": "レアリティ",
+      "clear": "Clear",
+      "search": "検索",
+      "header": {
+        "editSearch": "詳細検索"
+      }  
+    }
   },
   "announcement": {
     "link": "詳細を見る",
