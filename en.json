@@ -253,6 +253,7 @@
     "count": "{count} items",
     "countWithLimit": "Storage capacity: {count} / {limit}",
     "selection": "{count} selection of {ce} CE",
+    "selectionWithoutCe": "{count} selection",
     "ceDeposit": {
       "title": "Inject into the CE barrel",
       "button": "Inject {ce} CE into the CE barrel",
@@ -1455,7 +1456,7 @@
       "search": "Search",
       "header": {
         "editSearch": "Edit Search"
-      }  
+      }
     }
   },
   "announcement": {

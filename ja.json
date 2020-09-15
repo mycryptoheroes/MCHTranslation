@@ -255,6 +255,7 @@
     "count": "{count} 件",
     "countWithLimit": "{count} / {limit} 件",
     "selection": "{count} 件 ({ce} CE) を選択中",
+    "selectionWithoutCe": "{count} 件を選択中",
     "ceDeposit": {
       "title": "CEバレルに注入",
       "button": "{ce} CEをCEバレルに注入",
@@ -1459,7 +1460,7 @@
       "search": "検索",
       "header": {
         "editSearch": "詳細検索"
-      }  
+      }
     }
   },
   "announcement": {
