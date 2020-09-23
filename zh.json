@@ -89,6 +89,16 @@
     "art": "Art",
     "handbook": "MCH Handbook"
   },
+  "teamNames": {
+    "decksList": "Quest",
+    "cupDeck": "Duel Cup",
+    "knightDeck": "Knight Battle",
+    "arenaDecksMap": "Arena",
+    "colosseumOffenseDeck": "Colosseum (Offense)",
+    "questSixDeck": "Deep Node",
+    "colosseumDefenseDecksList": "Colosseum (Defense)",
+    "warDeck": "Cryptid Wars"
+  },
   "top": {
     "gameStart": "游戏开始",
     "leadMessage": "你为此游戏付出的所有的时间、热情，都会成为你真正的财富",

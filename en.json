@@ -89,6 +89,16 @@
     "art": "Art",
     "handbook": "MCH Handbook"
   },
+  "teamNames": {
+    "decksList": "Quest",
+    "cupDeck": "Duel Cup",
+    "knightDeck": "Knight Battle",
+    "arenaDecksMap": "Arena",
+    "colosseumOffenseDeck": "Colosseum (Offense)",
+    "questSixDeck": "Deep Node",
+    "colosseumDefenseDecksList": "Colosseum (Defense)",
+    "warDeck": "Cryptid Wars"
+  },
   "top": {
     "gameStart": "Play Game",
     "leadMessage": "Your time and passion will become assets.",

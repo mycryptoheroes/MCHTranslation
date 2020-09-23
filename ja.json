@@ -89,6 +89,16 @@
     "art": "アート",
     "handbook": "マイクリハンドブック"
   },
+  "teamNames": {
+    "decksList": "クエスト",
+    "cupDeck": "デュエルカップ",
+    "knightDeck": "ナイト戦",
+    "arenaDecksMap": "アリーナ",
+    "colosseumOffenseDeck": "コロシアム（攻撃）",
+    "questSixDeck": "ディープノード",
+    "colosseumDefenseDecksList": "コロシアム（防御）",
+    "warDeck": "幻獣大戦"
+  },
   "top": {
     "gameStart": "ゲームを始める",
     "leadMessage": "ゲームにかけた 時間も お金も 情熱も、\nあなたの資産となる世界",
