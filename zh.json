@@ -89,6 +89,16 @@
     "art": "Art",
     "handbook": "MCH Handbook"
   },
+  "teamNames": {
+    "decksList": "Quest",
+    "cupDeck": "Duel Cup",
+    "knightDeck": "Knight Battle",
+    "arenaDecksMap": "Arena",
+    "colosseumOffenseDeck": "Colosseum (Offense)",
+    "questSixDeck": "Deep Node",
+    "colosseumDefenseDecksList": "Colosseum (Defense)",
+    "warDeck": "Cryptid Wars"
+  },
   "top": {
     "gameStart": "游戏开始",
     "leadMessage": "你为此游戏付出的所有的时间、热情，都会成为你真正的财富",
@@ -253,6 +263,7 @@
     "count": "{count} items",
     "countWithLimit": "Storage capacity: {count} / {limit}",
     "selection": "{count} selection of {ce} CE",
+    "selectionWithoutCe": "{count} selection",
     "ceDeposit": {
       "title": "Inject into the CE barrel",
       "button": "Inject {ce} CE into the CE barrel",
@@ -312,8 +323,10 @@
       "3": "Extension has to be more than Lv.2 and set Nickname to transfer",
       "4": "Hero has to be more than Lv.2 and art-edited to transfer",
       "5": "It takes about 20 mins for trasfer, but it takes more than several hours owing to Ethereum transaction traffic.",
-      "6": "You can't transfer your assets(Hero / Extension) which have not passed 24 hours since you get※1 or use※2 them in battle last time.\n※1 get: Purchase, Quest, Reward, Trade, Transfer to Crypto World\n※2 use in battle: Official Duel Cup, Arena, Land Battle, Raid"
+      "6": "You can't transfer an assets (Hero / Extension) that has been used in battle within 24 hours or has been traded / bought within 24 hours.",
+      "7": "Transfers to the Ethereum Network will require GUM based on current Gas rates."
     },
+    "withdrawButton": "Transfer at {gum} GUM.",
     "countdown": "You can trasfer after",
     "edit": {
       "warning": {
@@ -608,6 +621,9 @@
       "phy": "PHY Damage",
       "int": "INT Damage",
       "recovery": "Recovery",
+      "stamina": "Stamina Recovery",
+      "cut": "Increased Damage-Cut Rate",
+      "charge": "Basic Charge",
       "detail": "You can get EMA effects from your dedication of Original Extensions(EMA).\nThe effect of EMA is applied at the time of battle of each Knight Battle / Flag Battle / Quest / Raid Battle / Colosseum (in principle, Official Duel Cup has no effect)"
     },
     "nieRanking": "NIE Ranking",
@@ -732,8 +748,10 @@
       "gumgumup": "GUM GUM UP campaign now! 20% Extra GUM & 1 in 34 ETH back!!",
       "gumgum": "GUM GUM campaign now! 1 in 34 ETH back!!",
       "gumup": "GUM UP campaign now! 20% Extra GUM!!",
+      "minigumup": "MINI GUM UP campaign now! 10% Extra GUM!!",
       "dailyActionTerm": "Reset at {hour} every day",
-      "commonAttention": "Only for Common, the next Common will be released immediately after the sales period ends. In addition, it will be resold in place of other Commons until the maximum issuance is reached.",
+      "heroSaleWarning": "If we detect any violation against terms of service (such as using bot, cracking and so on), we will carry out strict measures (such as suspending account, refunding GUM and burning the hero and so on)",
+      "commonAttention": "If the final price of the last uncommon hero is less than 2000 GUM, we start to sell the new common hero after the end of the hero sale. All common heroes will be resold until the common hero reaches to the maximum number of the issue.",
       "prime": {
         "about": {
           "title": "Monthly MCH Prime Subscription",
@@ -751,10 +769,11 @@
             "Receiving acquirable Toku Treasures in a lump",
             "CE auto dedication",
             "Increase quest team templates from 0 to 6",
-            "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet)"
+            "Novice hero \"Sun Shangxiang\" present (only for those who do not have yet / excluding Free Prime)"
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
-          "dailybonus2": "- 35GUM, 1 in 500 can get between 100GUM and 3000GUM!",
+          "dailybonus2": "- {gum} GUM, 1 in 500 can get between 100GUM and 3000GUM!",
+          "dailybonus21": "- {gum} GUM",
           "dailybonus3": "* A gas fee is required.",
           "continue": "Available up to 5 times every 24 hours"
         },
@@ -763,7 +782,8 @@
           "after": "days left",
           "warning": "You can purchase that right again from {updatableRemainingDays} days before the end",
           "subscriptionState": "Subscription is currently {isSubscribing}",
-          "toAccount": "Subscription Setting"
+          "toAccount": "Subscription Setting",
+          "updateTiming": "* It will be automatically updated {updateTiming} days before the end of the MCH Prime."
         },
         "limited": "For a limited time (Until {limitedTime})",
         "notes": "If you buy with ETH, your status is reflected in 5-10 mins after successing the transaction.",
@@ -998,6 +1018,7 @@
       "gainedTOKU": "gained TOKU",
       "primeRecommend": "Get Prime to automatically dedicate overflowing CE"
     },
+    "stockedStamina": "Stocked Stamina",
     "comingSoon": "Notice: New Nodes will be available from Feb 17th.",
     "joinToLand": "You can go to Land node after Join Land.",
     "info": {
@@ -1245,6 +1266,10 @@
       "title": "Trial Legendary Replica campaign in progress",
       "mediumUrl": "https://medium.com/mycryptoheroes/announcement-new-year-legendary-campaign-4780b8d60e52",
       "description": "Trial period: December 20 (Friday) around 9:30 ~ December 26 (Thursday) around 15:00"
+    },
+    "tutorialModal": {
+      "title": "Let's go win with our own team!",
+      "body": "Set your team up with extensions and try your hand at the \"beginner arena\"! If you join the beginner arena for the first time, you'll get a {reward}!"
     }
   },
   "raid": {
@@ -1365,6 +1390,7 @@
       "button": "Use {ce} CE to challenge",
       "modal": {
         "warning": {
+          "restartWin": "Try again from a win count {restartWin} .",
           "ce": "Consumes {ce} CE from your CE barrel."
         },
         "ceShortage": "CE barrel is missing CE"
@@ -1380,6 +1406,7 @@
     "myPoint": "Points of Possession",
     "myPointCe": "CE of Possession",
     "highestBlock": "Maximum Tread Block",
+    "highestBlockAddedDamage": "Damage dealt in the final block",
     "ranking": "Ranking",
     "team": "Team",
     "history": "History",
@@ -1428,8 +1455,19 @@
   "dictionary": {
     "heroDictionary": "Hero Dictionary",
     "extensionDictionary": "Extension Dictionary",
+    "current": "Current",
     "issued": "印刷",
-    "supply": "Supply Limit"
+    "supply": "Supply Limit",
+    "filter": {
+      "filter": "Filter",
+      "attribute": "Attribute",
+      "rarity": "Rarity",
+      "clear": "Clear",
+      "search": "Search",
+      "header": {
+        "editSearch": "Edit Search"
+      }
+    }
   },
   "announcement": {
     "link": "View Detail",
@@ -1496,7 +1534,9 @@
     "43": "Awesome!! WP node 2nd place prize. You received {0}.",
     "44": "You did it! WP node 3rd place prize. You received {0}.",
     "45": "WP node prize. You received {0}.",
-    "46": "Lucky you! XD You received Daily Bonus {0} GUM!"
+    "46": "Lucky you! XD You received Daily Bonus {0} GUM!",
+    "47": "The first arena you attended is now finished. You received {0}.",
+    "48": "You received {1} from {0} as a gift."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
@@ -1611,7 +1651,7 @@
       "info": "MCH Prime is a paid membership service (30 days).\nBy becoming an MCH Prime member, you can enjoy various benefits.",
       "example": "An example of MCH prime benefits：",
       "example1": "Double experience earned (CE) at nodes",
-      "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -35 GUM (one in 500 100-300 GUM !!)",
+      "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)\n -{gum} GUM (one in 500 100-300 GUM !!)",
       "example3": "etc··",
       "text": "You can now use the MCH Prime Free Trial for 12 days! \nIn addition, a free hero set comes with a replica hero set.\n First, let's check the contents of MCH prime."
     }
@@ -1804,7 +1844,7 @@
     "extension": "My Crypto Heroes"
   },
   "errors": {
-    "4011": "[This account is being banned]<br><br>we decided to lock your account due to violation of section 14 of terms and policies. Please read terms and services  to check which  rule  you are against.<br><a href=\"/terms\">Terms of service (PDF)</a><br>We did it to make  everyone can play My Crypto Heroes comfortably,thank you for your understanding.<br><br>double jump.tokyo inc<br><br>If you have any objections, please send email to address down below,<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
+    "4011": "We have an important announcement for you<br><br>The My Crypto heroes team has an important announcement for you.<br>Please contact us at the following email address with your User ID.<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
   },
   "detail": "Check more detail",
   "welcomeCampaign": {
