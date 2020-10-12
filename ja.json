@@ -47,7 +47,12 @@
     "ethereumNetwork": "イーサリアムネットワーク",
     "rarity": "レアリティ",
     "clear": "クリア",
-    "filter": "フィルタ"
+    "filter": "フィルタ",
+    "position": {
+      "front": "前衛",
+      "middle": "中衛",
+      "back": "後衛"
+    }
   },
   "pages": {
     "home": "ホーム",

@@ -47,7 +47,12 @@
     "ethereumNetwork": "Ethereum Network",
     "rarity": "Rarity",
     "clear": "Clear",
-    "filter": "Filter"
+    "filter": "Filter",
+    "position": {
+      "front": "Front",
+      "middle": "Middle",
+      "back": "Back"
+    }
   },
   "pages": {
     "home": "Home",
