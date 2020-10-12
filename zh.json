@@ -444,7 +444,8 @@
     "kings": "Kings",
     "noKings": "No Kings",
     "maestros": "Maestros",
-    "noMaestros": "Not assinged",
+    "noMaestros": "Not assigned",
+    "noKnights": "No current Knights",
     "knight": "Knight",
     "knights": "Knights",
     "faPool": "Free Agent GUM Pool",
@@ -464,7 +465,7 @@
       "buttonen": "Join",
       "buttonja": "",
       "1": "Land you belong to",
-      "2": "Once you choose it  you can not leave until the next preparatory period",
+      "2": "Once you choose it you can not leave until the next preparatory period",
       "3": "You will no longer be able to turn Free Agent this season.",
       "current": "Joined Land",
       "noland": "Not Joined",
@@ -1634,7 +1635,7 @@
       "twitterFollow": "Follow official Twitter"
     },
     "firstEntry": {
-      "title": "Welome to My Crypto Heroes",
+      "title": "Welcome to My Crypto Heroes",
       "body": "First, try the beginner quest “Abucus“"
     },
     "firstQuest": {
