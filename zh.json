@@ -52,7 +52,9 @@
       "front": "Front",
       "middle": "Middle",
       "back": "Back"
-    }
+    },
+    "join": "Join",
+    "leave": "Leave"
   },
   "pages": {
     "home": "主页",
