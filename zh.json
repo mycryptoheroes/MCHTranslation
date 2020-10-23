@@ -1548,8 +1548,8 @@
     "46": "Lucky you! XD You received Daily Bonus {0} GUM!",
     "47": "The first arena you attended is now finished. You received {0}.",
     "48": "You received {1} from {0} as a gift.",
-    "49": "You received {0} GUM as a Knight Reward！",
-    "50": "You received {0} GUM as a Nie Reward！"
+    "51": "You received {0} GUM as a Knight Reward！",
+    "52": "You received {0} GUM as a Nie Reward！"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
