@@ -949,7 +949,7 @@
         "cancel": "Cancel",
         "stop": "Stop Sale",
         "buy": "Buy",
-        "confirmBuy": "Are you sure you want to purchase this asset for {gum} GUM?",
+        "confirmBuy": "Buy this asset with {gum} GUM.",
         "confirmStop": "Are you sure you want to cancel this trade?"
       },
       "confirmRemoveStar": "Are you sure to reset all starred heroes? You cannot revert this action.",

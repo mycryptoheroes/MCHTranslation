@@ -953,7 +953,7 @@
         "cancel": "Cancel",
         "stop": "出品取消",
         "buy": "購入",
-        "confirmBuy": "このアセットを {gum} GUM で購入しますか？",
+        "confirmBuy": "このアセットを {gum} GUM で購入します。",
         "confirmStop": "この出品を本当に取り消しますか？"
       },
       "confirmRemoveStar": "本当に全てのお気に入り登録を消去しますか？",
