@@ -47,7 +47,14 @@
     "ethereumNetwork": "Ethereum Network",
     "rarity": "Rarity",
     "clear": "Clear",
-    "filter": "Filter"
+    "filter": "Filter",
+    "position": {
+      "front": "Front",
+      "middle": "Middle",
+      "back": "Back"
+    },
+    "join": "Join",
+    "leave": "Leave"
   },
   "pages": {
     "home": "Home",
@@ -454,6 +461,7 @@
     "community": "Community",
     "flagBattleHistory": "Flag Battle History",
     "freeAgentKnights": "Free Agent Knights",
+    "nie": "Nie",
     "detail1": "If you have a landsector, you can become a lord of the land. And you can dedicate to Cryptid of the land and quest its land node. Also you can withdraw landlord reward.",
     "detail2": "When you send your landsector for its first time, you need to set name and art edit.",
     "join": {
@@ -527,8 +535,11 @@
       "9": "Land Share",
       "10": "Maestro Selection",
       "11": "Maestro Authorities",
-      "12": "Maestro Share Rate"
-    }
+      "12": "Maestro Share Rate",
+      "13": "Reward Borders"
+    },
+    "knightReward": "Knight Reward",
+    "nieReward": "Nie Reward"
   },
   "landBattle": {
     "title": "Land Battle",
@@ -940,7 +951,7 @@
         "cancel": "Cancel",
         "stop": "Stop Sale",
         "buy": "Buy",
-        "confirmBuy": "Are you sure you want to purchase this asset for {gum} GUM?",
+        "confirmBuy": "Buy this asset with {gum} GUM.",
         "confirmStop": "Are you sure you want to cancel this trade?"
       },
       "confirmRemoveStar": "Are you sure to reset all starred heroes? You cannot revert this action.",
@@ -1537,7 +1548,11 @@
     "45": "WP node prize. You received {0}.",
     "46": "Lucky you! XD You received Daily Bonus {0} GUM!",
     "47": "The first arena you attended is now finished. You received {0}.",
-    "48": "You received {1} from {0} as a gift."
+    "48": "You received {1} from {0} as a gift.",
+    "49": "{0} sent you a request for a private sale. Would you like to buy {1} at {2} GUM?",
+    "50": "{0} sent you a request for a private sale. Would you like to buy {1} at {2} GUM?",
+    "51": "You received {0} GUM as a Knight Reward！",
+    "52": "You received {0} GUM as a Nie Reward！"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
