@@ -123,10 +123,7 @@
   },
   "lp": {
     "intro": {
-      "title": [
-        "What is",
-        "My Crypto Heroes?"
-      ],
+      "title": ["What is", "My Crypto Heroes?"],
       "body": "My Crypto Heroes is an RPG battle game that is built on the Ethereum blockchain. Play with historical inspired heroes, go on quests to find rare items, and battle against other players for rewards and fame.\nWe are the world’s No.1 blockchain game, based on Daily Active Users, and Transactions. ※ as of August 21st 2019 from DappRadar (https://dappradar.com)"
     },
     "features": {
@@ -816,7 +813,7 @@
             "disabled": "Turn off MCH prime subscription"
           }
         },
-        "trialPrime":{
+        "trialPrime": {
           "entry": "MCH Prime 12Days Free Trial (Click!!)",
           "entryInfo": "You can also get a gas fee to get a daily bonus for up to 12 days",
           "conditions": "Free Prime Entry Conditions",
@@ -1406,10 +1403,31 @@
         "ceShortage": "CE barrel is missing CE"
       }
     },
-    "tenkei" : {
+    "tenkei": {
       "tenkeiSkillDetaile": "Tenkei Skill Detaile"
     },
     "battleLab": "Battle Lab"
+  },
+  "gym": {
+    "season": "Season",
+    "explainer": "You can battle in the Gym to test Heroes you don't own.",
+    "noAvailable": "No Gyms Available Now",
+    "points": "Points",
+    "rating": "Rating",
+    "rank": "Rank",
+    "preparation": "In Preparation",
+    "round": "Round",
+    "randomlyChosen": "Randomly Chosen",
+    "opponentTeams": "Opponent Teams",
+    "secLeft": "seconds left",
+    "battles": "Battles",
+    "winRate": "Win Rate",
+    "myTeams": "My Teams",
+    "edit": "Edit",
+    "chooseTeam": "Choose Attack Team",
+    "win": "Win",
+    "lose": "Lose",
+    "findBattle": "findBattle"
   },
   "deepNode": {
     "title": "Deep Node",
@@ -1728,7 +1746,7 @@
     }
   },
   "howtoplay": {
-    "wallet" : {
+    "wallet": {
       "connect": {
         "title": "Connet to Wallet",
         "how": "How to 'Connect to Wallet'",
