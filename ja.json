@@ -126,9 +126,7 @@
   },
   "lp": {
     "intro": {
-      "title": [
-        "マイクリプトヒーローズ（マイクリ）とは？"
-      ],
+      "title": ["マイクリプトヒーローズ（マイクリ）とは？"],
       "body": "マイクリは歴史上のヒーローと共にマイクリワールドの制覇を目指すブロックチェーンRPGゲームです。\nブロックチェーンゲームとして世界No.1のユーザー数、トランザクション数 (※) を記録しています。\n※2019/8/21時点 出典: DappRadar (https://dappradar.com)"
     },
     "features": {
@@ -818,7 +816,7 @@
             "disabled": "MCHプライムの自動更新をOFFにしてください"
           }
         },
-        "trialPrime":{
+        "trialPrime": {
           "entry": "MCHプライム 12Days 無料トライアル(Click!!)",
           "entryInfo": "最大12日間のデイリーボーナス取得にかかるGAS代もGET",
           "conditions": "無料プライムエントリー条件",
@@ -1410,7 +1408,7 @@
         "ceShortage": "CEバレルのCEが不足しています"
       }
     },
-    "tenkei" : {
+    "tenkei": {
       "tenkeiSkillDetaile": "Tenkeiスキル"
     },
     "battleLab": "バトルラボ"
@@ -1732,7 +1730,7 @@
     }
   },
   "howtoplay": {
-    "wallet" : {
+    "wallet": {
       "connect": {
         "title": "Wallet連携",
         "how": "Wallet連携のやり方",
