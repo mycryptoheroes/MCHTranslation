@@ -1417,9 +1417,9 @@
     "season": "シーズン",
     "explainer": "ジムではユーザーの所有に関わらず全てのヒーローを利用できます。",
     "noAvailable": "現在、ジムは開催されていません。",
-    "points": "ポイント",
-    "rating": "ランキング",
-    "rank": "順位",
+    "points": "Points",
+    "rating": "レーティング",
+    "rank": "Rank",
     "preparation": "準備時間",
     "round": "ラウンド",
     "randomlyChosen": "いずれかのチームからランダムに選択されます。",
@@ -1433,7 +1433,7 @@
     "win": "Win",
     "lose": "Lose",
     "findBattle": "バトル開始",
-    "enterRound": "ラウンド開始 {roundNo}",
+    "enterRound": "次ラウンド {roundNo}",
     "startBattle": "バトル開始！"
   },
   "deepNode": {
