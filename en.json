@@ -1427,7 +1427,9 @@
     "chooseTeam": "Choose Attack Team",
     "win": "Win",
     "lose": "Lose",
-    "findBattle": "Find Battle"
+    "findBattle": "Find Battle",
+    "enterRound": "Enter Round {roundNo}",
+    "startBattle": "Start Battle!"
   },
   "deepNode": {
     "title": "Deep Node",
