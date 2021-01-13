@@ -1429,7 +1429,9 @@
     "lose": "Lose",
     "findBattle": "Find Battle",
     "enterRound": "Enter Round {roundNo}",
-    "startBattle": "Start Battle!"
+    "startBattle": "Start Battle!",
+    "toBattle": "Current Battle",
+    "cannotEdit": "Cannot edit team during match."
   },
   "deepNode": {
     "title": "Deep Node",
