@@ -1430,6 +1430,7 @@
     "findBattle": "Find Battle",
     "enterRound": "Enter Round {roundNo}",
     "startBattle": "Start Battle!",
+    "gym": "Gym",
     "toBattle": "Current Battle",
     "cannotEdit": "Cannot edit team during match."
   },

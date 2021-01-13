@@ -1435,6 +1435,7 @@
     "findBattle": "バトル開始",
     "enterRound": "次ラウンド {roundNo}",
     "startBattle": "バトル開始！",
+    "gym": "Gym",
     "toBattle": "Current Battle",
     "cannotEdit": "Cannot edit team during match."
   },
