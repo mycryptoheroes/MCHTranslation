@@ -1435,9 +1435,9 @@
     "findBattle": "バトル開始",
     "enterRound": "次ラウンド {roundNo}",
     "startBattle": "バトル開始！",
-    "gym": "Gym",
-    "toBattle": "Current Battle",
-    "cannotEdit": "Cannot edit team during match."
+    "gym": "ジム",
+    "toBattle": "現在のバトルに戻る",
+    "cannotEdit": "マッチ中はチームを編集できません。"
   },
   "deepNode": {
     "title": "ディープノード",
