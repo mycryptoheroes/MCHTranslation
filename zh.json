@@ -1550,7 +1550,10 @@
     "50": "{0} sent you a request for a private sale. Would you like to buy {1} at {2} GUM?",
     "51": "You received {0} GUM as a Knight Reward！",
     "52": "You received {0} GUM as a Nie Reward！",
-    "53": "You received {0} CI as a reward for contributing to Cryptide Wars！"
+    "53": "You received {0} CI as a reward for contributing to Cryptide Wars！",
+    "54": "You received {0} CP as a reward for voting!",
+    "55": "You received {0} Premium exchange tickets as a prime sign up reward!",
+    "56": "You received {0} Exchange tickets as a prime sign up reward!"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
