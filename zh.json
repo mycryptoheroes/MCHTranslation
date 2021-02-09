@@ -761,7 +761,7 @@
       "gumup": "GUM UP campaign now! 20% Extra GUM!!",
       "minigumup": "MINI GUM UP campaign now! 10% Extra GUM!!",
       "dailyActionTerm": "Reset at {hour} every day",
-      "beforeHeroSaleInfo": "New heroes can be used in MCH Gym.\nThe skills of the heroes to be sold are subject to adjustment up to the day before the sale date.",
+      "beforeHeroSaleInfo": "New heroes can be used in MCH Gym.Adjustments to the skills of the new heroes have been completed.",
       "heroSaleWarning": "If we detect any violation against terms of service (such as using bot, cracking and so on), we will carry out strict measures (such as suspending account, refunding GUM and burning the hero and so on)",
       "commonAttention": "If the final price of the last uncommon hero is less than 2000 GUM, we start to sell the new common hero after the end of the hero sale. All common heroes will be resold until the common hero reaches to the maximum number of the issue.",
       "prime": {
