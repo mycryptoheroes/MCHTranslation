@@ -1601,14 +1601,14 @@
       "community": "Most lands have their own community. The Kings or Maestros of the land are sometimes carrying out their campaigns or support beginners.",
       "joinLand": "Anyway, let's join a Land from here"
     },
-    "gum": "GUM is the in-game currency for MCH. Heroes and extensions can be bought and sold for GUM. GUM can be purchased with ETH or redeemed with TOKU points. Additionally, if you are a Prime User, you will receive GUM as a daily bonus.",
+    "gum": "GUM is the in-game currency for MCH. Heroes and extensions can be bought and sold for GUM. GUM can be purchased with ETH.",
     "toku": {
       "title1": "TOKU Treasure",
       "body1": "TOKU can be thought of as a loyalty program. As your accrue more TOKU Points you can redeem TOKU treasure. (Prime users can an addtional reward). The more TOKU you’ve acquired the greater the reward.",
       "title2": "How to Get TOKU?",
       "body2": "You can receive TOKU points by “dedicate” heroes and extensions to the Cryptide. You can either dedicate original heroes’ and extensions’ CE or you can dedicate your replicas. TOKU is a great way to get more out of used replicas or heroes and extentions who have already used their capped level.",
       "ticketExchangeTitle": "Ticket Exchange",
-      "ticketExchangeBody": "Once you have attained enough TOKU points you can redeem tickets as rewards. Spend these tickets on unique original extensions only available through TOKU redemption. "
+      "ticketExchangeBody": "If you subscribe to Prime service, you can get tickets for rewards. Spend these tickets on unique original extensions only available through Ticket redemption. "
     },
     "rarity": {
       "title": "Rarity & Level",
@@ -1626,7 +1626,7 @@
       "rarityTitle": "Replica Rarity",
       "rarityBody": "Replicas, like originals, have various rarities, although their leveling system is a bit different. Replicas range from levels “F” to “S”. “S” = legendary, “A” = Epic, etc.",
       "expireTitle": "When your Replica Expires",
-      "expireBody": "After 6 days of use, your replica will expire. This means you can no longer use this replica. At this point, it is reccommended that you exchange this “broken” replica for TOKU. Both replica extensions and heroes can be dedicated for TOKU points. "
+      "expireBody": "After 6 days of use, your replica will expire. This means you can no longer use this replica. At this point, it is reccommended that you exchange this “broken” replica for NIE. Depending on the Land's revenue allocation settings, GUM may be allocated by dedicating an NIE."
     },
     "eth": {
       "howToTitle": "How to get ETH?",
