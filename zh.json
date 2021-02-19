@@ -1553,7 +1553,9 @@
     "53": "You received {0} CI as a reward for contributing to Cryptide Wars！",
     "54": "You received {0} CP as a reward for voting!",
     "55": "You received {0} Premium exchange tickets as a prime sign up reward!",
-    "56": "You received {0} Exchange tickets as a prime sign up reward!"
+    "56": "You received {0} Exchange tickets as a prime sign up reward!",
+    "57": "You received Daily Bonus {0} Cryptonium.",
+    "58": "Lucky you! XD You received Daily Bonus {0} Cryptonium!"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
