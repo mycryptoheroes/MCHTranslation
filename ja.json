@@ -98,7 +98,8 @@
   },
   "teamNames": {
     "decksList": "クエスト",
-    "cupDeck": "デュエルカップ",
+    "cupThreeDecksMap": "デュエルカップ",
+    "cupNineDecksMap": "デュエルカップ 9 vs 9",
     "knightDeck": "ナイト戦",
     "arenaDecksMap": "アリーナ",
     "colosseumOffenseDeck": "コロシアム（攻撃）",

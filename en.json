@@ -98,7 +98,8 @@
   },
   "teamNames": {
     "decksList": "Quest",
-    "cupDeck": "Duel Cup",
+    "cupThreeDecksMap": "Duel Cup",
+    "cupNineDecksMap": "Duel Cup 9 on 9",
     "knightDeck": "Knight Battle",
     "arenaDecksMap": "Arena",
     "colosseumOffenseDeck": "Colosseum (Offense)",
