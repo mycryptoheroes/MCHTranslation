@@ -1625,7 +1625,7 @@
     },
     "replica": {
       "title": "Replicas",
-      "body": "Replica are copies of original heroes and extensions. They are not NFTs in Blockchain so they can neither be traded nor sold. They are a great cheap way to strengthen your team or try new strategies. They expire after 6 days once you’ve place them in your team.",
+      "body": "Replica are copies of original heroes and extensions. They are not NFTs in Blockchain so they can neither be traded nor sold. They are a great cheap way to strengthen your team or try new strategies. They expire after 6 days once you’ve place them in your team.Replica heroes do not recover stamina over time.",
       "rarityTitle": "Replica Rarity",
       "rarityBody": "Replicas, like originals, have various rarities, although their leveling system is a bit different. Replicas range from levels “F” to “S”. “S” = legendary, “A” = Epic, etc.",
       "expireTitle": "When your Replica Expires",
