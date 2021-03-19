@@ -1043,7 +1043,7 @@
     "8": "Import account from METAMASK"
   },
   "shop": {
-    "extensionConfirm": "Buy {extensionsName} for {price} Winners Tickets",
+    "extensionConfirm": "Buy {extensionName} for {price} Winners Tickets",
     "doubleUpCampaign": "33% chance to get 100GUM! 1% to 1,000GUM",
     "heroes": {
       "confirm": "Buy {heroName} for {price} GUM"
