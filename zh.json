@@ -1045,6 +1045,7 @@
     "8": "Import account from METAMASK"
   },
   "shop": {
+    "extensionConfirm": "Buy {extensionsName} for {price} Winners Tickets",
     "doubleUpCampaign": "有百分之33的概率获得100GUM，百分之1的概率获得1,000GUM！",
     "heroes": {
       "confirm": "购买 {heroName} 通过 {price} GUM"
