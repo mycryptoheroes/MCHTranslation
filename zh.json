@@ -1561,7 +1561,8 @@
     "59": "Your Arena Entrance Fee of {0} Cryptonium has been returned.",
     "60": "You received {1} Cryptonium for finishing in place {2} for Arena '{0}'.",
     "61": "You received {1} Cryptonium because your team won in the Arena '{0}'.",
-    "62": "Your entrance fee for Arena '{0}' has been returned since the group battle ended in a draw. ※A service fee has been deducted."
+    "62": "Your entrance fee for Arena '{0}' has been returned since the group battle ended in a draw. ※A service fee has been deducted.",
+    "63": "You received {0} Winners Tickets as a Colosseum Reward."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
