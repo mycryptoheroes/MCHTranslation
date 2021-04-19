@@ -822,7 +822,7 @@
           "condition1": "Challenge the quest 6 times",
           "condition2": "Land battle entry",
           "condition3": "Phone number verification",
-          "basicPrimeInfo": "Join MCH Prime (30 days)",
+          "basicPrimeInfo": "Join MCH Prime (31 days)",
           "consent": "Join Free Prime. Is it OK?",
           "tutorialTitle": "How to Join MCH Prime for Free",
           "tutorialBody1": "Challenge the quest 6 times",
@@ -1675,7 +1675,7 @@
     },
     "trialPrime": {
       "title": "Joining MCH Prime makes adventure more fun and comfortable.",
-      "info": "MCH Prime is a paid membership service (30 days).\nBy becoming an MCH Prime member, you can enjoy various benefits.",
+      "info": "MCH Prime is a paid membership service (31 days).\nBy becoming an MCH Prime member, you can enjoy various benefits.",
       "example": "An example of MCH prime benefits：",
       "example1": "Double experience earned (CE) at nodes",
       "example2": "Earn daily bonuses.\n -Available once a day (reset daily at 9:00 am)",
