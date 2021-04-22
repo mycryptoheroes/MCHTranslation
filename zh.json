@@ -1563,7 +1563,8 @@
     "61": "You received {1} Cryptonium because your team won in the Arena '{0}'.",
     "62": "Your entrance fee for Arena '{0}' has been returned since the group battle ended in a draw. ※A service fee has been deducted.",
     "63": "You received {0} Winners Tickets as a Colosseum Reward.",
-    "64": "You have been hired as a free agent for land {0}."
+    "64": "You have been hired as a free agent for land {0}.",
+    "65": "Due to the price revision of Novice Heroes we refunded 450 GUM for each purchased Novice Hero after February 1st."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
