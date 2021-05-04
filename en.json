@@ -760,7 +760,7 @@
       "gumup": "GUM UP campaign now! 20% Extra GUM!!",
       "minigumup": "MINI GUM UP campaign now! 10% Extra GUM!!",
       "dailyActionTerm": "Reset at {hour} every day",
-      "beforeHeroSaleInfo": "The skills of the new heroes are being trialed. They are subject to change until the day before the sale.",
+      "beforeHeroSaleInfo": "The skills of the new heroes have been finalized.",
       "heroSaleWarning": "If we detect any violation against terms of service (such as using bot, cracking and so on), we will carry out strict measures (such as suspending account, refunding GUM and burning the hero and so on)",
       "commonAttention": "If the final price of the last uncommon hero is less than 2000 GUM, we start to sell the new common hero after the end of the hero sale. All common heroes will be resold until the common hero reaches to the maximum number of the issue.",
       "prime": {
@@ -1553,7 +1553,7 @@
     "28": "Your art is purchased by {3} at {1} GUM. You received {0} GUM.",
     "29": "Your art sold in Art Gallery was expired.",
     "30": "Raid: Singularity prize. You received {0}.",
-    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@doublejump.tokyo).",
+    "31": "A claim has been submitted that your uploaded art was stolen. We had to delist your art. If you have any questions, please contact the administration (mch-support@mycryptoheroes.net).",
     "32": "You received Daily Bonus {0} GUM.",
     "33": "Lucky you! XD You received Daily Bonus {0} GUM!",
     "34": "MCH Prime has been updated and received {0}.",
@@ -1919,7 +1919,7 @@
     "extension": "My Crypto Heroes"
   },
   "errors": {
-    "4011": "We have an important announcement for you<br><br>The My Crypto heroes team has an important announcement for you.<br>Please contact us at the following email address with your User ID.<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
+    "4011": "We have an important announcement for you<br><br>The My Crypto heroes team has an important announcement for you.<br>Please contact us at the following email address with your User ID.<br><a href=\"mailto:mch-support@mycryptoheroes.net\">mch-support@mycryptoheroes.net</a>"
   },
   "detail": "Check more detail",
   "welcomeCampaign": {

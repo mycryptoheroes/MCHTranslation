@@ -763,7 +763,7 @@
       "gumup": "GUM UP キャンペーン中! 20%増量!",
       "minigumup": "MINI GUM UP キャンペーン中! 10%増量!",
       "dailyActionTerm": "毎日 {hour} にリセット",
-      "beforeHeroSaleInfo": "新ヒーローのスキルはトライアル中です。販売前日まで変更の可能性があります。",
+      "beforeHeroSaleInfo": "新ヒーローのスキルは確定済みです。",
       "heroSaleWarning": "ヒーロー購入にあたり利用規約に違反する行為（BOT利用、ハッキング 等）が確認された場合、厳正な対処（アカウント停止、GUM返還の上対象ヒーローをバーン 等）を行います。",
       "commonAttention": "Uncommonヒーローの最終価格が2000GUMを切っている場合、Commonヒーローのみ販売期間終了後まもなく次のCommonヒーローが発売されます。Commonヒーローは最大発行数に達するまで、他のCommonヒーローと入れ替わりながら再販されます。",
       "prime": {
@@ -1559,7 +1559,7 @@
     "28": "出品したアートが {3} さんに {1} GUMで購入されました。 {0} GUMを受け取りました。",
     "29": "出品したアートが購入されずに出品終了いたしました。",
     "30": "raid:シンギュラリティの褒賞。 {0} を受け取りました。",
-    "31": "出品したアートに対し著作権の主張が行われたため、出品を終了いたしました。不明点がある場合は、運営 (mch-support@doublejump.tokyo) までお問い合わせください。",
+    "31": "出品したアートに対し著作権の主張が行われたため、出品を終了いたしました。不明点がある場合は、運営 (mch-support@mycryptoheroes.net) までお問い合わせください。",
     "32": "デイリーボーナス {0} GUMを受け取りました。",
     "33": "ラッキー！☆ デイリーボーナス {0} GUMを受け取りました♪",
     "34": "MCHプライムが更新され、 {0} を受け取りました。",
@@ -1925,7 +1925,7 @@
     "extension": "My Crypto Heroes(マイクリ)"
   },
   "errors": {
-    "4011": "大切なお知らせがございます。<br><br>My Crypto heroesチームよりお客様へ大切なお知らせがございます。<br>User IDを添えて以下のメールアドレスまでご連絡ください。<br><a href=\"mailto:mch-support@doublejump.tokyo\">mch-support@doublejump.tokyo</a>"
+    "4011": "大切なお知らせがございます。<br><br>My Crypto heroesチームよりお客様へ大切なお知らせがございます。<br>User IDを添えて以下のメールアドレスまでご連絡ください。<br><a href=\"mailto:mch-support@mycryptoheroes.net\">mch-support@mycryptoheroes.net</a>"
   },
   "detail": "詳細を確認する",
   "welcomeCampaign": {
