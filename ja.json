@@ -1495,6 +1495,8 @@
   "dictionary": {
     "heroDictionary": "ヒーロー図鑑",
     "extensionDictionary": "エクステンション図鑑",
+    "assetHeroHeadline": "Original Hero - NFT: {count} / 196",
+    "noviceHeroHeadline": "Novice Heroes - non NFT",
     "current": "流通数",
     "issued": "発行数",
     "supply": "最大発行数",

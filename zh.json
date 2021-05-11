@@ -124,10 +124,7 @@
   },
   "lp": {
     "intro": {
-      "title": [
-        "What is",
-        "My Crypto Heroes?"
-      ],
+      "title": ["What is", "My Crypto Heroes?"],
       "body": "My Crypto Heroes is an RPG battle game that is built on the Ethereum blockchain. Play with historical inspired heroes, go on quests to find rare items, and battle against other players for rewards and fame.\nWe are the world’s No.1 blockchain game, based on Daily Active Users, and Transactions. ※ as of August 21st 2019 from DappRadar (https://dappradar.com)"
     },
     "features": {
@@ -815,7 +812,7 @@
             "disabled": "Turn off MCH prime subscription"
           }
         },
-        "trialPrime":{
+        "trialPrime": {
           "entry": "MCH Prime 12Days Free Trial (Click!!)",
           "entryInfo": "",
           "conditions": "Free Prime Entry Conditions",
@@ -831,7 +828,7 @@
           "tutorialBody4": "You must meet all of these requirements to join the free trial.\nPlease do your best!"
         }
       },
-        "novice": {
+      "novice": {
         "1": "Novice Hero is in game hero.",
         "2": "Unable to sell and transfer to Ethereum Network."
       },
@@ -1407,7 +1404,7 @@
         "ceShortage": "CE barrel is missing CE"
       }
     },
-    "tenkei" : {
+    "tenkei": {
       "tenkeiSkillDetaile": "Tenkei Skill Detaile"
     },
     "battleLab": "Battle Lab"
@@ -1466,6 +1463,8 @@
   "dictionary": {
     "heroDictionary": "Hero Dictionary",
     "extensionDictionary": "Extension Dictionary",
+    "assetHeroHeadline": "Original Hero - NFT: {count} / 196",
+    "noviceHeroHeadline": "Novice Heroes - non NFT",
     "current": "Current",
     "issued": "印刷",
     "supply": "Supply Limit",
@@ -1741,7 +1740,7 @@
     }
   },
   "howtoplay": {
-    "wallet" : {
+    "wallet": {
       "connect": {
         "title": "Wallet連携",
         "how": "How to 'Connect to Wallet'",
