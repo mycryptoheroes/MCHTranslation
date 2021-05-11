@@ -798,7 +798,8 @@
         "subscription": {
           "about": "Your MCH Prime Subscription",
           "discription": [
-            "Prime Renewal at GUM is a campaign-only installation until March 18. During that time only, automatic renewals will be in effect." ,            "You can check the box below to turn on the automatic renewal. You can toggle the subscription ON/OFF at any time in your profile settings.",
+            "Prime Renewal at GUM is a campaign-only installation until March 18. During that time only, automatic renewals will be in effect.",
+            "You can check the box below to turn on the automatic renewal. You can toggle the subscription ON/OFF at any time in your profile settings.",
             "If you enable the automatic renewal: Once the remaining prime period is 72 hours or less, your prime will be automatically renewed.",
             "Automatic renewal is only possible with GUM ({primePriceWithGum} GUM). If there is not enough GUM at the renewal day, the prime will not be renewed."
           ],
@@ -1489,6 +1490,8 @@
   "dictionary": {
     "heroDictionary": "Hero Dictionary",
     "extensionDictionary": "Extension Dictionary",
+    "assetHeroHeadline": "Original Hero - NFT: {count} / 196",
+    "noviceHeroHeadline": "Novice Heroes - non NFT",
     "current": "Current",
     "issued": "Issued",
     "supply": "Supply Limit",
