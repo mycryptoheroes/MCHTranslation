@@ -1567,7 +1567,8 @@
     "65": "Due to the price revision of Novice Heroes we refunded 450 GUM for each purchased Novice Hero after February 1st.",
     "66": "{0}",
     "67": "You received a total of {0} Cp as a Rand battle Opposition Duel classes.",
-    "68": "You received a total of {0} Cp as a flag unification bonus, a reward based on your past experience in the Fao Empire."
+    "68": "You received a total of {0} Cp as a flag unification bonus, a reward based on your past experience in the Fao Empire.",
+    "69": "You received {0} CI as a reward for staking MCHC！"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
