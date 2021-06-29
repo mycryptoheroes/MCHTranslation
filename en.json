@@ -318,18 +318,18 @@
     "params": "Parameters",
     "trade": "Trade",
     "deposit": "Transfer to MCH World",
-    "withdraw": "Transfer to Ethereum Network",
+    "withdraw": "Transfer to On-Chain Network",
     "heroLock": "You are currently using this hero. Remove hero from your team and duel team.",
     "extensionLock": "You are currently using this extension. Remove it from your team and duel team.",
     "withdrawWarning": {
-      "description": "You can use your assets on Ethereum after you transferred your assets to the Ethereum Network.",
-      "1": "It will cost {gum} GUM for transferring it to the Ethereum network.",
+      "description": "You can use your assets on Ethereum or Polygon Network after you transferred your assets to the respective Network.",
+      "1": "It will cost {gum} GUM for transferring it to the Ethereum network, 100 GUM to the Polygon Network",
       "2": "Limited to 10 times per day ({count} / 10)",
       "3": "To transfer, Extension needs to be at least Lv.2 and have a Nickname",
       "4": "To transfer, Hero has to be at least Lv.2 and art-edited",
-      "5": "It takes about 20 mins to trasfer, depending on the current Ethereum Network status.",
+      "5": "It takes about 20 mins to trasfer, depending on the current Network status.",
       "6": "You can't transfer an assets (Hero / Extension) that has been used in battle within 24 hours or has been traded / bought within 24 hours.",
-      "7": "Transfers to the Ethereum Network will require GUM based on current Gas rates."
+      "7": "Transfers to an On-Chain Network will require GUM based on current Gas rates of the Network."
     },
     "withdrawButton": "Transfer at {gum} GUM.",
     "countdown": "You can transfer after",
@@ -833,7 +833,7 @@
       },
       "novice": {
         "1": "Novice Hero is in game hero.",
-        "2": "Unable to sell and transfer to Ethereum Network."
+        "2": "Unable to sell and transfer to an On-Chain Network."
       },
       "replica": {
         "1": "Replica heroes will be expired in 7 days after setting it in your team for the first time. Replica heroes do not recover stamina over time. Please be careful.",
@@ -890,10 +890,10 @@
       "artRule2": "There is a lower limit for \"Start Price\" and \"End Price\". You can set 100 GUM or more for \"Start Price\" and 10 GUM or more for \"End Price\".",
       "rule1": "Listing is free! At purchase time, 10% fee will be deducted.",
       "rule2": "The rate of the price decrease over time is calculated automatically. The price will decrease by 20% of the difference between Start Price and Ending Price per day. This means, in 5 days, the price will drop to the set 'Ending Price'.",
-      "rule3": "Note: The item (heroes and/or extensions) must be unequipped in all your teams. Additionally, heroes and/or extensions can't be sent to the Ethereum Network while it's on trade",
+      "rule3": "Note: The item (heroes and/or extensions) must be unequipped in all your teams. Additionally, heroes and/or extensions can't be sent to an On-Chain Network while it's on trade",
       "rule4": "You can list up to 100 assets a day. You can cancel your sale listings at any time",
       "rule5": "There is a minimum limit for \"Start Price\" and \"End Price\". You need to set at least 100 GUM for \"Start Price\" and at least 10 GUM for \"End Price\".",
-      "rule6": "You need to wait 24h before listing if your asset (Hero / Extension) has been purchased, used in Quest, Reward, Trade, or was transfered to/from the Ethereum World",
+      "rule6": "You need to wait 24h before listing if your asset (Hero / Extension) has been purchased, used in Quest, Reward, Trade, or was transferred to/from an On-Chain Network",
       "rule7": "Once you listed your asset for sale, there is a 30min 'Waiting Period' before anyone can buy it. It has the status 'Just Listed' and cannot be bought during that time. This prevents price scrapers and creates a fair market.",
       "rule8": "If a copied art is reported by its original creator, we will stop listing the copied art. In the case of repetitive infringement, we will carry out strict measures (such as suspending accounts, reverting art sale transactions, and so on).",
       "buy1": "Confirm buying",
