@@ -408,8 +408,8 @@
     "basic": "Basic",
     "userName": "User Name",
     "userId": "User ID",
-    "ethAddress": "Ethereum Address",
-    "publishEthAddress": "Publish Ethereum Address",
+    "ethAddress": "Wallet Address",
+    "publishEthAddress": "Publish Wallet Address",
     "phoneNumber": "Phone Number",
     "country": "Country of Residence",
     "prime": {
