@@ -1448,6 +1448,9 @@
       "goNext": "Go to next block"
     }
   },
+  "mining": {
+    "title": "mining"
+  },
   "barrel": {
     "title": "CE Barrel",
     "replenish": "Replenish",
