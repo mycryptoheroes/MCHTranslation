@@ -73,6 +73,7 @@
     "prime": "MCHプライム",
     "land": "ランド",
     "colosseum": "コロシアム",
+    "mining": "マイニング",
     "help": "ヘルプ",
     "terms": "利用規約",
     "scta": "特定商取引法に基づく表記",
@@ -1481,7 +1482,20 @@
     }
   },
   "mining": {
-    "title": "マイニング"
+    "title": "マイニング",
+    "currentPeriod": "現在の状態",
+    "preEntry": "エントリー受付中",
+    "term": "ターム",
+    "during": "マイニング中",
+    "set": "未設定",
+    "block": "ブロック",
+    "ranking": "ランキング",
+    "highestBlocks": "最高到達階",
+    "teams": "マイニングチーム",
+    "more": "もっとみる",
+    "entry": "エントリー",
+    "selectHeroes": "ヒーロー選択",
+    "BlockDescription": "あとで説明を入れる"
   },
   "barrel": {
     "title": "CEバレル",

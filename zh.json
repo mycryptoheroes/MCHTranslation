@@ -73,6 +73,7 @@
     "prime": "MCH Prime",
     "land": "Land",
     "colosseum": "Colosseum",
+    "mining": "mining",
     "help": "帮助",
     "terms": "服务条款",
     "scta": "Notation based on Specified Commercial Transaction Act",
@@ -1449,7 +1450,20 @@
     }
   },
   "mining": {
-    "title": "mining"
+    "title": "Mining",
+    "currentPeriod": "Current Period",
+    "preEntry": "Registration Reception",
+    "term": "Term",
+    "during": "During Mining",
+    "set": "Not Set",
+    "block": "Block",
+    "ranking": "Ranking",
+    "highestBlocks": "Highest Reach Floor",
+    "teams": "Mining Teams",
+    "more": "More",
+    "entry": "Entry",
+    "selectHeroes":"Select Heroes",
+    "BlockDescription": "Test Description"
   },
   "barrel": {
     "title": "CE Barrel",
