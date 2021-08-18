@@ -1496,7 +1496,8 @@
     "entry": "エントリー",
     "cpBonus":"→ チームボーナス",
     "selectHeroes": "ヒーロー選択",
-    "BlockDescription": "あとで説明を入れる"
+    "BlockDescription": "あとで説明を入れる",
+    "loadMore": "さらに{count}をロード"
   },
   "barrel": {
     "title": "CEバレル",

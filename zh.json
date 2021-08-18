@@ -1464,7 +1464,8 @@
     "entry": "Entry",
     "cpBonus":"→ Teams Bonus",
     "selectHeroes":"Select Heroes",
-    "BlockDescription": "Test Description"
+    "BlockDescription": "Test Description",
+    "loadMore":"Load {count} More"
   },
   "barrel": {
     "title": "CE Barrel",
