@@ -1450,11 +1450,15 @@
     }
   },
   "mining": {
-    "title": "Mining",
-    "currentPeriod": "Current Period",
+    "title": "Hero Mining",
+    "currently": "Currently Mining",
+    "history": "Mining History",
+    "pageModal": {
+      "1":"Once you start mining, your heroes will be locked up for 7 days and you will not be able to add any more heroes until they return.",
+      "2":"You cannot take a hero on a quest while mining."
+    },
     "preEntry": "Registration Reception",
     "term": "Term",
-    "during": "During Mining",
     "set": "Not Set",
     "block": "Block",
     "ranking": "Ranking",
