@@ -1615,7 +1615,7 @@
     "69": "You received {0} CI as a reward for staking MCHC！",
     "70": "You received {1} Cp as a reward according to your knight achievement points for due to the flag battle results of the season {0}",
     "71": "Your party has returned from mining! You received {0} Cp as a reward!",
-    "72": "You received {1} Cp as a reward based on your LP points for battle results to the Land's colosseum of the season {0}"
+    "72": "You received {1} Cp as a reward based on your LP points for battle results to the Land's opposition colosseum of the season {0}"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
