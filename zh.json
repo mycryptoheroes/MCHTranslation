@@ -1590,7 +1590,8 @@
     "71": "Your party has returned from mining! You received {0} Cp as a reward!",
     "72": "You received {1} Cp as a reward based on your LP points for battle results to the Land's opposition colosseum of the season {0}",
     "73": "You received {0} Cp as an additional grant for the lack of Cp granted for the vote!",
-    "74": "You received {2} Cp as a reward for my participation in vote No.{0} and vote No.{1} as a single dose!"
+    "74": "You received {2} Cp as a reward for my participation in vote No.{0} and vote No.{1} as a single dose!",
+    "75": "You received {5} Cp as a reward for my participation in vote No.{4}, which ended on {6}, {7} {1}, {3}:00 JST."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
