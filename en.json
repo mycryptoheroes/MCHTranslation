@@ -620,7 +620,7 @@
       }
     },
     "originalExt": {
-      "warnings": "Note: You will lose ownership of the original extensions you dedicate. You will not be able to use them anymore. Is this okay?"
+      "warnings": "Note: You will lose ownership of the original extensions you dedicate. You will not be able to use them anymore."
     },
     "replica": {
       "warnings": {
