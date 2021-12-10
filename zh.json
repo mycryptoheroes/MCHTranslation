@@ -619,9 +619,7 @@
       ]
     },
     "originalExt": {
-      "warnings": [
-        "The dedicated extensions are lost ownership and can not be used again. Is it OK?"
-      ]
+      "warnings": "Note: You will lose ownership of the original extensions you dedicate. You will not be able to use them anymore. Is this okay?"
     },
     "replica": {
       "warnings": {
