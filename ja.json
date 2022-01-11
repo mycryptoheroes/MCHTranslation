@@ -767,7 +767,7 @@
       "gumup": "GUM UP キャンペーン中! 20%増量!",
       "minigumup": "MINI GUM UP キャンペーン中! 10%増量!",
       "dailyActionTerm": "毎日 {hour} にリセット",
-      "beforeHeroSaleInfo": "新ヒーローのスキルはトライアル中です。販売前日まで変更の可能性があります。",
+      "beforeHeroSaleInfo": "新ヒーローのスキルは確定済みです。",
       "heroSaleWarning": "ヒーロー購入にあたり利用規約に違反する行為（BOT利用、ハッキング 等）が確認された場合、厳正な対処（アカウント停止、GUM返還の上対象ヒーローをバーン 等）を行います。",
       "commonAttention": "Uncommonヒーローの最終価格が2000GUMを切っている場合、Commonヒーローのみ販売期間終了後まもなく次のCommonヒーローが発売されます。Commonヒーローは最大発行数に達するまで、他のCommonヒーローと入れ替わりながら再販されます。",
       "prime": {
