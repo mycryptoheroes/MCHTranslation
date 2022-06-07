@@ -106,7 +106,9 @@
     "colosseumOffenseDeck": "コロシアム（攻撃）",
     "questSixDeck": "ディープノード",
     "colosseumDefenseDecksList": "コロシアム（防御）",
-    "warDeck": "幻獣大戦"
+    "warDeck": "幻獣大戦",
+    "ratingDuelOffenseDecksMap": "デュエルカップ(攻撃)",
+    "ratingDuelDefenseDeckMap": "デュエルカップ(防御)"
   },
   "top": {
     "gameStart": "ゲームを始める",

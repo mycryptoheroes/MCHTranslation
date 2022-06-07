@@ -106,7 +106,9 @@
     "colosseumOffenseDeck": "Colosseum (Offense)",
     "questSixDeck": "Deep Node",
     "colosseumDefenseDecksList": "Colosseum (Defense)",
-    "warDeck": "Cryptid Wars"
+    "warDeck": "Cryptid Wars",
+    "ratingDuelOffenseDecksMap": "Duel Cup (Offense)",
+    "ratingDuelDefenseDeckMap": "Duel Cup (Defense)"
   },
   "top": {
     "gameStart": "游戏开始",
