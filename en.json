@@ -1625,7 +1625,8 @@
     "75": "You received {5} Cp as a reward for my participation in vote No.{4}, which ended on {6}, {7} {1}, {3}:00 JST.",
     "76": "You received {5} Cp as a reward for my participation in vote No.{4} to No.{8}, which ended on {6}, {7} {1}, {3}:00 JST.",
     "77": "{1}",
-    "78": "You received a total of {1} GUM as lots of land rewards of the season {0}"
+    "78": "You received a total of {1} GUM as lots of land rewards of the season {0}",
+    "79": "You received {0}!"
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
