@@ -1488,7 +1488,8 @@
     "pageModal": {
       "1":"Once you start mining, your heroes will be locked up for 7 days and you will not be able to add any more heroes until they return.",
       "2":"You cannot take a hero on a quest while mining.",
-      "3":"Detailed mining page"
+      "3":"Detailed mining page",
+      "4":"Heroes in mining cannot Set or Unset Auras."
     },
     "teams": "Mining Teams",
     "more": "More",
