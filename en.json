@@ -1630,6 +1630,8 @@
     "77": "{1}",
     "78": "You received a total of {1} GUM as lots of land rewards of the season {0}",
     "79": "You received {0}!",
+    "80": "Your offer has been met by {3} with {2} Lv for {1} GUM to close the deal.",
+    "81": "Your offer has been met by {3} with {2} Lv for {1} GUM to close the deal.",
     "83": "You received {0} Cp as a reward for this season based on Your Voting Power."
   },
   "reportTypes": {
