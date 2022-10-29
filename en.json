@@ -1483,7 +1483,7 @@
     }
   },
   "mining": {
-    "title": "Hero Mining",
+    "title": "Cp Mining",
     "currently": "Currently Mining",
     "history": "Mining History",
     "pageModal": {

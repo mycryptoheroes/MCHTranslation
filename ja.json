@@ -1489,7 +1489,7 @@
     }
   },
   "mining": {
-    "title": "ヒーローマイニング",
+    "title": "Cp マイニング",
     "currently": "現在マイニング中",
     "history": "マイニング履歴",
     "pageModal": {
