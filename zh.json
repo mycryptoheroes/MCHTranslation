@@ -1606,7 +1606,8 @@
     "80": "Your offer has been met by {3} with {2} for {1} GUM to close the deal.",
     "81": "Your offer has been met by {3} with {2} for {1} GUM to close the deal.",
     "82": "You received {0} OAS.",
-    "83": "You received {0} Cp as a reward for this season based on Your Voting Power."
+    "83": "You received {0} Cp as a reward for this season based on Your Voting Power.",
+    "84": "You received {0} Gold Dust."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
