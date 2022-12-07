@@ -110,7 +110,8 @@
     "warDeck": "Cryptid Wars",
     "ratingDuelOffenseDecksMap": "Duel Cup (Offense)",
     "threeOnThreeOnThreeDecksMap": "Duel Cup (3*3)",
-    "ratingDuelDefenseDeckMap": "Duel Cup (Defense)"
+    "ratingDuelDefenseDeckMap": "Duel Cup (Defense)",
+    "raidDeck": "Raid"
   },
   "top": {
     "gameStart": "Play Game",
@@ -1574,10 +1575,10 @@
     "20": "You did it! You received trophy \"GOOD! Art\" on {0}.",
     "21": "Congrats! You received trophy \"COOL!! Art\" on {0}.",
     "22": "Congrats! The amount of {1} ETH you had used to purchase {0} GUM was refunded.",
-    "23": "Congrats for winning!! Raid: Singularity 1st place prize. You received {0}.",
-    "24": "Awesome!! Raid: Singularity  2nd place prize. You received {0}.",
-    "25": "You did it! Raid: Singularity 3rd place prize. You received {0}.",
-    "26": "Raid: Singularity Last Attack prize. You received {0}.",
+    "23": "Congrats for winning!! Raid 1st place prize. You received {0} Shiny Raw Stone.",
+    "24": "Awesome!! Raid 2nd place prize. You received {0} Shiny Raw Stone.",
+    "25": "You did it! Raid 3rd place prize. You received {0} Shiny Raw Stone.",
+    "26": "Raid Last Attack prize. You received {0} Shiny Raw Stone.",
     "27": "Invitation code reward. You received {0}.",
     "28": "Your art is purchased by {3} at {1} GUM. You received {0} GUM.",
     "29": "Your art sold in Art Gallery was expired.",
@@ -1635,7 +1636,9 @@
     "81": "Your offer has been met by {3} with {2} for {1} GUM to close the deal.",
     "82": "You received {0}  OAS.",
     "83": "You received {0} Cp as a reward for this season based on Your Voting Power.",
-    "84": "You received {0} Gold Dust as a Colosseum Reward."
+    "84": "You received {0} Gold Dust as a Colosseum Reward.",
+    "85": "You received {0} Shiny Raw Stone as a Raid Ranking Reward.",
+    "86": "You received {0} Raw Stone as a Raid Ranking Reward."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
