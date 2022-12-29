@@ -1974,7 +1974,11 @@
     "241": "Soul Battle Season {ref}: 1位",
     "242": "Soul Battle Season {ref}: 2位",
     "243": "Soul Battle Season {ref}: 3位",
-    "244": "Soul Battle Season {ref}: 4-10位"
+    "244": "Soul Battle Season {ref}: 4-10位",
+    "251": "raid:シンギュラリティ: フラッグ 1位",
+    "252": "raid:シンギュラリティ: フラッグ 2位",
+    "253": "raid:シンギュラリティ: フラッグ 3位",
+    "254": "raid:シンギュラリティ: フラッグ Last Attack"
   },
   "twitter": {
     "hero": "My Crypto Heroes(マイクリ)",

@@ -1967,7 +1967,11 @@
     "241": "Soul Battle Season {ref}: 1st",
     "242": "Soul Battle Season {ref}: 2nd",
     "243": "Soul Battle Season {ref}: 3rd",
-    "244": "Soul Battle Season {ref}: 4-10th"
+    "244": "Soul Battle Season {ref}: 4-10th",
+    "251": "raid:Singularity: Flag 1st",
+    "252": "raid:Singularity: Flag 2nd",
+    "253": "raid:Singularity: Flag 3rd",
+    "254": "raid:Singularity: Flag Last Attack"
   },
   "twitter": {
     "hero": "My Crypto Heroes",
