@@ -1638,7 +1638,10 @@
     "83": "You received {0} Cp as a reward for this season based on Your Voting Power.",
     "84": "You received {0} Gold Dust as a Colosseum Reward.",
     "85": "You received {0} Shiny Raw Stone as a Raid Ranking Reward.",
-    "86": "You received {0} Raw Stone as a Raid Ranking Reward."
+    "86": "You received {0} Raw Stone as a Raid Ranking Reward.",
+    "87": "Purchased {0} GUM for {1} OAS. You received {0} GUM.",
+    "88": "Congrats! The amount of {1} OAS you had used to purchase {0} GUM was refunded.",
+    "89": "Referral campaign! You received {0} OAS."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
