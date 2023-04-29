@@ -752,7 +752,7 @@
       "confirm3": "を獲得します。よろしいでしょうか",
       "cancel": "キャンセル",
       "trade": "交換",
-      "expandDuelTemplate": "デュエルテンプレート拡張+1",
+      "expandBattleTemplate": "バトルテンプレート拡張+1",
       "expandQuestTemplate": "クエストテンプレート拡張+1"
     }
   },
