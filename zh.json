@@ -747,7 +747,7 @@
       "confirm3": "",
       "cancel": "Cancel",
       "trade": "Trade",
-      "expandBattleTemplate": "Expand Battle Template +1",
+      "expandDuelTemplate": "Expand Duel Template +1",
       "expandQuestTemplate": "Expand Quest Template +1"
     }
   },
