@@ -1364,7 +1364,7 @@
   },
   "colosseum": {
     "class": "Layer",
-    "classDescription": "We call leagues in Coliseum as Layer. Coliseum will start from the Qualifying term. Based on the ranking in the Qualifying term, players are allocated in the Layer in order from the top. As the result of ranking in each term, top player in each Layer promote and bottom players in each Layer demotes. Players aim for the higher rank in the final ranking.",
+    "classDescription": "Leagues in Colosseum are called Layers, and Colosseum's first term is the Qualifier. Based on the ranking in the Qualifier, players are allocated in Layers from top to bottom. As the result of ranking in each term, top players in each Layer are promoted and bottom players in each Layer are demoted. The ultimate goal of players is to reach the top positionin the final ranking.",
     "term": "Term",
     "qualifier": "Qualifier",
     "main": "Main",
