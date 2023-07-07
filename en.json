@@ -1639,7 +1639,9 @@
     "86": "You received {0} Raw Stone as a Raid Ranking Reward.",
     "87": "Purchased {0} GUM for {1} OAS. You received {0} GUM.",
     "88": "Congrats! The amount of {1} OAS you had used to purchase {0} GUM was refunded.",
-    "89": "Referral campaign! You received {0} OAS."
+    "89": "Referral campaign! You received {0} OAS.",
+    "90": "You received {0} Shiny Raw Stone as a Colosseum Reward.",
+    "91": "You received {0} Raw Stone as a Colosseum Reward."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
