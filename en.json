@@ -1641,7 +1641,8 @@
     "88": "Congrats! The amount of {1} OAS you had used to purchase {0} GUM was refunded.",
     "89": "Referral campaign! You received {0} OAS.",
     "90": "You received {0} Shiny Raw Stone as a Colosseum Reward.",
-    "91": "You received {0} Raw Stone as a Colosseum Reward."
+    "91": "You received {0} Raw Stone as a Colosseum Reward.",
+    "95": "The commissioned Craft has been completed."
   },
   "reportTypes": {
     "1": "congratulations! {userName} dropped {extensionName}! ({at})",
