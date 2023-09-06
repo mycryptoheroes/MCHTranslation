@@ -1617,6 +1617,9 @@
     "89": "Referral campaign! You received {0} OAS.",
     "90": "You received {0} Shiny Raw Stone as a Colosseum Reward.",
     "91": "You received {0} Raw Stone as a Colosseum Reward.",
+    "92": "Purchased {0} GUM for {1} MCHC. You received {0} GUM.",
+    "93": "Congrats! The amount of {1} MCHC you had used to purchase {0} GUM was refunded.",
+    "94": "Referral campaign! You received {0} MCHC.",
     "95": "The commissioned Craft has been completed."
   },
   "reportTypes": {
