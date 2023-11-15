@@ -778,14 +778,14 @@
           "title": "Monthly MCH Prime Subscription",
           "lead": "MCH Prime users can enjoy the following benefits:",
           "list": [
+            "Half of Lab sale fee",   
             "Get double CE in quests",
             "Free Daily Bonus",
             "Increase quest teams from 3 to 6",
             "Revive teams in quests",
             "Limited quests for Prime users",
             "Half GUM fees for gift functions",
-            "CE auto dedication",
-            "Half of Lab sale fee",            
+            "CE auto dedication",         
             "Novice hero \"Sun Shangxiang\", \"David\" and \"Fukuzawa Yukichi\" present (only for those who do not have yet / excluding Free Prime)"
           ],
           "dailybonus1": "- Available once per day (resets at {hour} every day)",
