@@ -111,7 +111,9 @@
     "ratingDuelOffenseDecksMap": "Duel Cup (Offense)",
     "threeOnThreeOnThreeDecksMap": "Duel Cup (3*3)",
     "ratingDuelDefenseDeckMap": "Duel Cup (Defense)",
-    "raidDeck": "Raid"
+    "battleRoyalDecksMap": "Battle Royal",
+    "raidDeck": "Raid",
+    "craftDeck": "Craft"
   },
   "top": {
     "gameStart": "Play Game",
