@@ -111,7 +111,9 @@
     "ratingDuelOffenseDecksMap": "デュエルカップ(攻撃)",
     "threeOnThreeOnThreeDecksMap": "デュエルカップ(3*3)",
     "ratingDuelDefenseDeckMap": "デュエルカップ(防御)",
-    "raidDeck": "レイド"
+    "battleRoyalDecksMap": "バトルロワイヤル",
+    "raidDeck": "レイド",
+    "craftDeck": "クラフト"
   },
   "top": {
     "gameStart": "ゲームを始める",
